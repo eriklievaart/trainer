@@ -1,3 +1,4 @@
+Wat is het getal van Avogadro? 6.022 x 10^23mol-1
 Wat is de naam van het element H? hydrogen
 Wat is de naam van het element He? helium
 Wat is de naam van het element Li? lithium
@@ -8,16 +9,6 @@ Wat is de naam van het element N? nitrogen
 Wat is de naam van het element O? oxygen
 Wat is de naam van het element F? fluorine
 Wat is de naam van het element Ne? neon
-Wat is de naam van het element Na? sodium
-Wat is de naam van het element Mg? magnesium
-Wat is de naam van het element Al? aluminium
-Wat is de naam van het element Si? silicum
-Wat is de naam van het element P? phosphorous
-Wat is de naam van het element S? sulfur
-Wat is de naam van het element Cl? chlorine
-Wat is de naam van het element Ar? argon
-Wat is de naam van het element K? potassium
-Wat is de naam van het element Ca? calcium
 Wat is de afkorting van hydrogen? H
 Wat is de afkorting van helium? He
 Wat is de afkorting van lithium? Li
@@ -28,16 +19,6 @@ Wat is de afkorting van nitrogen? N
 Wat is de afkorting van oxygen? O
 Wat is de afkorting van fluorine? F
 Wat is de afkorting van neon? Ne
-Wat is de afkorting van sodium? Na
-Wat is de afkorting van magnesium? Mg
-Wat is de afkorting van aluminium? Al
-Wat is de afkorting van silicum? Si
-Wat is de afkorting van phosphorous? P
-Wat is de afkorting van sulfur? S
-Wat is de afkorting van chlorine? Cl
-Wat is de afkorting van argon? Ar
-Wat is de afkorting van potassium? K
-Wat is de afkorting van calcium? Ca
 Welk element nummer heeft hydrogen? 1
 Welk element nummer heeft helium? 2
 Welk element nummer heeft lithium? 3
@@ -48,16 +29,6 @@ Welk element nummer heeft nitrogen? 7
 Welk element nummer heeft oxygen? 8
 Welk element nummer heeft fluorine? 9
 Welk element nummer heeft neon? 10
-Welk element nummer heeft sodium? 11
-Welk element nummer heeft magnesium? 12
-Welk element nummer heeft aluminium? 13
-Welk element nummer heeft silicum? 14
-Welk element nummer heeft phosphorous? 15
-Welk element nummer heeft sulfur? 16
-Welk element nummer heeft chlorine? 17
-Welk element nummer heeft argon? 18
-Welk element nummer heeft potassium? 19
-Welk element nummer heeft calcium? 20
 Wat is de afkorting van element #1? H
 Wat is de afkorting van element #2? He
 Wat is de afkorting van element #3? Li
@@ -68,6 +39,41 @@ Wat is de afkorting van element #7? N
 Wat is de afkorting van element #8? O
 Wat is de afkorting van element #9? F
 Wat is de afkorting van element #10? Ne
+
+
+
+
+@EOF@
+Wat is de naam van het element Na? sodium
+Wat is de naam van het element Mg? magnesium
+Wat is de naam van het element Al? aluminium
+Wat is de naam van het element Si? silicum
+Wat is de naam van het element P? phosphorous
+Wat is de naam van het element S? sulfur
+Wat is de naam van het element Cl? chlorine
+Wat is de naam van het element Ar? argon
+Wat is de naam van het element K? potassium
+Wat is de naam van het element Ca? calcium
+Wat is de afkorting van sodium? Na
+Wat is de afkorting van magnesium? Mg
+Wat is de afkorting van aluminium? Al
+Wat is de afkorting van silicum? Si
+Wat is de afkorting van phosphorous? P
+Wat is de afkorting van sulfur? S
+Wat is de afkorting van chlorine? Cl
+Wat is de afkorting van argon? Ar
+Wat is de afkorting van potassium? K
+Wat is de afkorting van calcium? Ca
+Welk element nummer heeft sodium? 11
+Welk element nummer heeft magnesium? 12
+Welk element nummer heeft aluminium? 13
+Welk element nummer heeft silicum? 14
+Welk element nummer heeft phosphorous? 15
+Welk element nummer heeft sulfur? 16
+Welk element nummer heeft chlorine? 17
+Welk element nummer heeft argon? 18
+Welk element nummer heeft potassium? 19
+Welk element nummer heeft calcium? 20
 Wat is de afkorting van element #11? Na
 Wat is de afkorting van element #12? Mg
 Wat is de afkorting van element #13? Al

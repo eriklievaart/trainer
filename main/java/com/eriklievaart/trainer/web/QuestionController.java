@@ -4,6 +4,7 @@ import com.eriklievaart.javalightning.bundle.api.Bean;
 import com.eriklievaart.javalightning.bundle.api.Parameters;
 import com.eriklievaart.javalightning.bundle.api.RequestContext;
 import com.eriklievaart.javalightning.bundle.api.page.AbstractTemplateController;
+import com.eriklievaart.toolkit.lang.api.str.Str;
 
 public class QuestionController extends AbstractTemplateController {
 
@@ -21,13 +22,25 @@ public class QuestionController extends AbstractTemplateController {
 		Parameters parameters = context.getParameterSupplier().get();
 		parameters.getOptional("answer").ifPresent(answer -> {
 			Question removed = state.questions.remove(0);
-			if (!removed.getAnswer().equals(answer)) {
+			if (!isValid(removed.getAnswer(), answer)) {
 				model.put("previous", removed);
 				model.put("answer", answer);
 				state.questions.add(removed);
 			}
 		});
-		render(state.questions.get(0));
+		if (state.questions.isEmpty()) {
+			setTemplate("/web/freemarker/complete.ftlh");
+		} else {
+			render(state.questions.get(0));
+		}
+	}
+
+	private boolean isValid(String expected, String answer) {
+		return Str.isEqualIgnoreCase(strip(expected), strip(answer));
+	}
+
+	private String strip(String answer) {
+		return answer.replaceAll("[ ]", "");
 	}
 
 	private void render(Question question) {

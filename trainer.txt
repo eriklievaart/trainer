@@ -1,0 +1,59 @@
+
+structuurchemie
+	Lading van een elektron = -1,6022·10⁻¹⁹C = 1 atomaire eenheidslading
+	Alkalimetalen, aardalkalimetalen, halogenen en edelgassen (op volgorde, afkorting en naam)
+	Eerste 20 elementen, Z, naam en nummer
+	Groep nummers volgens IUPACafspraken, ttz van 1 tot 18
+	Atomaire massa kunnen schatten
+		van H (1), He (4), C (12), N (14), O (16), F (19), Na (23), S (32), Ar (40)
+	Naamgeving, zoalsin de les gezien, inclusief tabellen die overlopen werden.
+	tabel 5.1
+	tabel 5.3
+	Eenheden van druk Pa, Atm, Torr, Bar, mmHgen hoe ze in elkaar worden omgezet
+	IUPAC standaard gas temperatuur en druk STP = 1 Bar en 273,15 K
+	R = 0,082 L atm K⁻¹mol⁻¹= 8,314 J K⁻¹mol⁻¹
+	Snelheid van het licht in vacuum c ~ 3·10⁸ m/s⁻¹
+	zichtbaar licht (VIS) heeft golflengtes tussen ong 400 en 700 nm
+		Rest van het elektromagnetisch spectrum relatief kunnen plaatsent.o.v.VIS
+	a0= 53 pm (RHzal je gegeven krijgen indien nodig
+	Constante van Planck h = 6,626 10⁻³⁴Js
+	Elektronegativiteit kunnen schatten (vooral relatief t.o.v.elkaar)
+		F (4,0) > O (3,5) >Cl en N (3,0) > C, I en S (2,5), rest volgens gekende trend van PS
+	Pt²⁺ complexen vormen vlakke vierkante structuren
+	CN = 2 komt voor bij Ag⁺ Cu⁺ en Au⁺ complexen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
