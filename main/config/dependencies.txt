@@ -1,7 +1,7 @@
 
 [bundle]
-javalightning-bundle @local @snapshot
-javalightning-freemarker @local @snapshot
+jl-core @local @snapshot
+jl-freemarker @local @snapshot
 osgi-logging @local @snapshot
 osgi-status @local @snapshot
 osgi-toolkit @local @snapshot

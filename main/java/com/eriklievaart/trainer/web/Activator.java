@@ -2,8 +2,8 @@ package com.eriklievaart.trainer.web;
 
 import org.osgi.framework.BundleContext;
 
-import com.eriklievaart.javalightning.bundle.api.osgi.LightningActivator;
-import com.eriklievaart.javalightning.bundle.api.page.PageSecurity;
+import com.eriklievaart.jl.core.api.osgi.LightningActivator;
+import com.eriklievaart.jl.core.api.page.PageSecurity;
 
 public class Activator extends LightningActivator {
 

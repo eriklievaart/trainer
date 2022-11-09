@@ -1,5 +1,6 @@
+<#include "header.ftlh"/>
 
-<h1>question</h1>
+<h1>question (${remaining})</h1>
 ${question.query}<br/>
 
 <form>
@@ -12,11 +13,13 @@ ${question.query}<br/>
 <#if answer??>
 	<h1>wrong answer</h1>
 	${previous.query}<br/>
-	${previous.answer}<br/>
-	your answer: ${answer}
+	${previous.answer} (expected)<br/>
+	${answer} (your answer)
 </#if>
 
 
 <script>
 document.getElementById('answer').focus();
 </script>
+
+<#include "footer.ftlh"/>

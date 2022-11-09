@@ -1,9 +1,9 @@
 package com.eriklievaart.trainer.web;
 
-import com.eriklievaart.javalightning.bundle.api.Bean;
-import com.eriklievaart.javalightning.bundle.api.Parameters;
-import com.eriklievaart.javalightning.bundle.api.RequestContext;
-import com.eriklievaart.javalightning.bundle.api.page.AbstractTemplateController;
+import com.eriklievaart.jl.core.api.Bean;
+import com.eriklievaart.jl.core.api.Parameters;
+import com.eriklievaart.jl.core.api.RequestContext;
+import com.eriklievaart.jl.core.api.page.AbstractTemplateController;
 import com.eriklievaart.toolkit.lang.api.str.Str;
 
 public class QuestionController extends AbstractTemplateController {
@@ -20,6 +20,9 @@ public class QuestionController extends AbstractTemplateController {
 	@Override
 	public void invoke() throws Exception {
 		Parameters parameters = context.getParameterSupplier().get();
+		if (parameters.contains("restart")) {
+			state.reload();
+		}
 		parameters.getOptional("answer").ifPresent(answer -> {
 			Question removed = state.questions.remove(0);
 			if (!isValid(removed.getAnswer(), answer)) {
@@ -31,6 +34,7 @@ public class QuestionController extends AbstractTemplateController {
 		if (state.questions.isEmpty()) {
 			setTemplate("/web/freemarker/complete.ftlh");
 		} else {
+			model.put("remaining", "" + state.questions.size());
 			render(state.questions.get(0));
 		}
 	}
