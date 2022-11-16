@@ -5,6 +5,8 @@ import java.util.List;
 
 import com.eriklievaart.toolkit.io.api.LineFilter;
 import com.eriklievaart.toolkit.io.api.ResourceTool;
+import com.eriklievaart.toolkit.lang.api.AssertionException;
+import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.lang.api.collection.NewCollection;
 
 public class Questions {
@@ -15,7 +17,8 @@ public class Questions {
 		InputStream is = ResourceTool.getInputStream(Questions.class, "/web/questions.txt");
 		for (String line : new LineFilter(is).dropBlank().eof().regexReplaceAll("\\s+", " ").trim().list()) {
 			String[] questionToAnswer = line.split("\\s*\\?\\s*");
-			result.add(new Question(questionToAnswer[0] + "?", questionToAnswer[1]));
+			AssertionException.on(questionToAnswer.length == 1, "*ERROR* Invalid question: $", line);
+			result.add(new Question(questionToAnswer[0] + "?", ListTool.of(questionToAnswer[1].split("\\|"))));
 		}
 		return result;
 	}

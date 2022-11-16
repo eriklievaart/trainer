@@ -13,8 +13,14 @@ ${question.query}<br/>
 <#if answer??>
 	<h1>wrong answer</h1>
 	${previous.query}<br/>
-	${previous.answer} (expected)<br/>
-	${answer} (your answer)
+	<ul>
+		<#list previous.answers as expect>
+			<li>${expect}</li>
+		</#list>
+	</ul>
+	<#if answer?has_content>
+		${answer} (your answer)
+	</#if>
 </#if>
 
 
