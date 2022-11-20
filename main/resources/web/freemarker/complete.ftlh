@@ -3,7 +3,7 @@
 <h1>Succes!</h1>
 Gefeliciflapstaart <br/>
 
-<a href="?restart=true">nog een keer!</a>
+<a href="/">refresh!</a>
 
 
 <#include "footer.ftlh"/>

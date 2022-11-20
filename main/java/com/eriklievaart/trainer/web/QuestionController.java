@@ -23,35 +23,29 @@ public class QuestionController extends AbstractTemplateController {
 
 	@Override
 	public void invoke() throws Exception {
-		if (parameters.contains("restart")) {
-			state.reload();
-
-		} else {
-			processAnswer();
-		}
+		processAnswer();
 		render();
 	}
 
 	private void processAnswer() {
 		parameters.getOptional("answer").ifPresent(answer -> {
-			Question removed = state.questions.remove(0);
-			if (isValid(removed.getAnswers(), answer)) {
-				state.correct(removed);
+			Question query = state.current.get();
+			if (isValid(query.getAnswers(), answer)) {
+				state.correct();
 			} else {
-				state.incorrect(removed);
-				model.put("previous", removed);
+				state.incorrect();
+				model.put("previous", query);
 				model.put("answer", answer);
-				state.questions.add(removed);
 			}
 		});
 	}
 
 	private void render() {
-		if (state.questions.isEmpty()) {
+		if (state.current.isEmpty()) {
 			setTemplate("/web/freemarker/complete.ftlh");
 		} else {
-			model.put("remaining", "" + state.questions.size());
-			model.put("question", state.questions.get(0));
+			model.put("remaining", "" + state.countRemaining());
+			model.put("question", state.current.get());
 			setTemplate("/web/freemarker/question.ftlh");
 		}
 	}

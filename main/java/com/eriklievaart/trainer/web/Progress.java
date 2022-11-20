@@ -7,37 +7,35 @@ public class Progress {
 
 	public long lastWrong;
 	public long lastRight;
-
-	public Progress(long stamp) {
-		lastWrong = stamp;
-	}
+	public long validUntil;
 
 	public void correct() {
 		lastRight = System.currentTimeMillis();
+		calculateValidUntil();
 	}
 
 	public void incorrect() {
 		lastWrong = System.currentTimeMillis();
+		validUntil = lastWrong + randomize(TimestampTool.ONE_MINUTE);
 	}
 
-	public boolean stillValid() {
-		if (lastRight == 0) {
-			return false;
-		}
-		if (lastRight < lastWrong) {
-			return false;
-		}
+	private long randomize(long fixed) {
+		double random = (Math.random() + 1) * fixed;
+		return (long) random;
+	}
+
+	private void calculateValidUntil() {
 		long now = System.currentTimeMillis();
-		if (now > lastRight + 2 * TimestampTool.ONE_DAY) {
-			return false;
+
+		if (lastWrong == 0) {
+			lastWrong = now - TimestampTool.ONE_HOUR;
 		}
 		long timePassed = lastRight - lastWrong;
-		long validUntil = lastRight + 2 * timePassed;
-		return now < validUntil;
+		validUntil = lastRight + randomize(timePassed);
 	}
 
 	public boolean skip() {
-		return !stillValid();
+		return validUntil > System.currentTimeMillis();
 	}
 
 	@Override

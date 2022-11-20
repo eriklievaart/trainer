@@ -1,429 +1,119 @@
 
-Wat is de formule voor de kinetische energie van een electron? E = 1/2 mv2
-Wat is de formule om de dichtheid te berekenen? d = m/V
-Wat is de formule om de molariteit te berekenen? M = n/V
-Wat is de formule om de druk van een gas te berekenen? p = F/A
-Wat is de formule om de druk van een vloeistof te berekenen? p = g*h*d
-Wat is de formule om de snelheid van een golf te berekenen? c = v*lambda
-Wat is de formule om de energie van een quantum te berekenen? E = hv
-Wat is de formule om het energie verschil tussen 2 energie banen te berekenen? E = R/m2 - R/n2
-Wat is de formule van de balmer reeks? lambda = Bm2/(m2 - n2)
-Wat is de formule voor deeltjes momentum? p = mu | h = p * lambda | h = mu * lambda
-Wat is de formule voor de bindingsorde? bo = (b-a)/2
-Wat is de lengte van een staande golf? lambda = 2L/n
-Wat is de ideale gaswet? pV = nRT
+Hoe noem je 1,2,3, ... ? natuurlijk getal | natural number
+Hoe noem je ... ,-3,-2,-1,0,1,2,3, ... ? integer
+Hoe noem je -√3, -√2, √2, √3 ? irrationeel getal | irrational number
+Hoe noem je een getal wat een rationeel of irrationeel getal kan zijn? echt getal | real number
+Hoe noem je √-½, √-1, √-2? complex getal | complex number
+Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kunnen worden? transcendente functie | transcendental function
+Hoe noem je een punt waarvoor de afgeleide 0 is, of geen waarde heeft? kritiek punt | critical point | stationary point
+Hoe noem je een punt waarop de tweede afgeleide 0 is? inflectie punt | inflection point
+Hoe noem je een punt waarop de eerste afgeleide 0 is en de tweede afgeleide van teken verandert? buigpunt | turning point
+Hoe noem je een functie waarvan de tweede afgeleide positief is (binnen een interval)? hol | convex
+Hoe noem je een functie waarvan de tweede afgeleide negatief is (binnen een interval)? bol | concaaf
+Hoe noem je een functie die symmetrisch is ten opzichte van de y-as? even
+Hoe noem je een functie waarvoor geldt dat f(-x) = f(x)? even
+Hoe noem je een functie waarvoor geldt dat f(-x) = -f(x)? oneven
+Hoe noem je een functie die ge-integreerd wordt? integrand
+Hoe noem je een integraal waarvoor begin en eindpunt zijn gedefinieerd? definite integral
 
-Hoe noem je een molecuul met dezelfde moleculaire formule, maar een andere ruimtelijke ordening? isomeer | isomer
-Hoe noem je atomen gebonden aan koolwaterstoffen, die zorgen voor specifieke eigenschappen? Functionele groepen | functionele groep
-Hoe noem je een verbinding waarbij elektronen gedeeld worden? covalent bond
-Hoe noem je een verbinding waarbij elektronen overdracht plaats vindt? ionic bond
-Hoe noem je het als een element meer dan 1 vorm heeft (bijv. O₂ & O₃)? allotropy
-Hoe noem je een verbinding die water moleculen bevat? hydrate | hydraat
-Hoe noem je een polyatomisch anion wat zuurstof bevat? oxoanion
-Hoe noem je een substantie bestaande uit cationen en anoinen? salt | zout
-Hoe noem je kwantitatieve relaties tussen de substanties van een reactie? Stoichiometry
-Hoe noem je een getal gebruikt om een reactie uit te balanceren? stoichiometric coefficient | stoichiometric coefficients
-Hoe noem je de vloeistof gebruikt in een reactie? solvent
-Hoe noem je een stof die opgelost wordt? solute
-Hoe noem je de berekende opbrengst van een reactie? theoretical yield
-Hoe noem je de hoeveelheid product die je in werkelijkheid bekomt? actual yield
-Hoe noem je het als de actuale opbrengst van een reactie gelijk is aan de theoretisch opbrengst? kwantitatief verloop
-Hoe noem je de input chemicalien voor een reactie? reactant | reagens
-Hoe noem je de lading van een atoom in een lewis structuur? formele lading | formal charge
-Hoe noem je de afstand tussen 2 atoomkernen in een binding? bindingsafstand
-Hoe noem je de hoek tussen 2 bindingen? bindingshoek
-Hoe noem je de vorm van een molecuul met 2 richtingen? lineair | linear
-Hoe noem je de vorm van een molecuul met 3 richtingen? vlakke driehoek | trigonal planar
-Hoe noem je de vorm van een molecuul met 4 richtingen? tetraeder | tetraëder | tetrahedral
-Hoe noem je de vorm van een molecuul met 5 richtingen? trigonale piramide | trigonal bipyramid
-Hoe noem je de vorm van een molecuul met 6 richtingen? octaeder | octaëder | octahedral
-Hoe noem je de molecuul structuur notatie gebruikt in AX₂E? VSEPR
-Hoe noem je electronen in een covalent bond? bindings paar | bond pair
-Hoe noem je een paar electronen wat niet gebruikt wordt in een binding? lone pair
-Hoe noem je een binding waarin electronen niet gelijkwaardig gedeeld worden? polaire covalente binding | polar covalent bond
-Hoe noem je het product van een gedeeltelijke lading met de afstand van het ladingsverschil? dipool moment | dipole moment
-Hoe noem je liganden die via één electronenpaar aan het metaalion binden? monodentaat | monodentate
-Hoe noem je liganden die via twee electronenparen aan het metaalion binden? bidentaat | bidentate
-Hoe noem je liganden die op meerdere plekken met een metaal verbinden en zo een ring vormen? chelerende liganden | chelate ligands | chelate | chelating agent
-Hoe noem je een metaal omringd met een ligand? chelaat | chelate
-Hoe noem je een isomeer, waarbij liganden naast elkaar liggen? cis
-Hoe noem je een isomeer, waarbij liganden tegenover elkaar liggen? trans
-Hoe noem je een isomeer, waarbij dezelfde liganden aan dezelfde kant van een octaëder liggen? faciaal isomeer | facial isomer
-Hoe noem je een isomeer, waarbij drie dezelfde liganden op een meridiaan van een octaëder liggen? meridionaal isomeer | meridian isomer
-Hoe noem je een isomeer, die een andere structuur of binding heeft? structurele isomeer | structural isomer
-Hoe noem je een isomeer, met dezelfde liganden in verschillende posities? geometrische isomeer | geometric isomer
-Hoe noem je een gespiegelde isomeer? enantiomeer | optische isomeer | enantiomer | optical isomer
-Hoe noem je de groep met geometrische en optische isomeren? stereo isomeer | stereo isomer
-Hoe noem je de separatie van d-orbitalen in weak field ligands? crystal field splitting
-Hoe noem je de reeks liganden, geordened naar hun vermogen om d-orbitalen te splitsen? spectrochemical series
-Hoe noem je de maximale piek / dal van een golf? amplitude
-Hoe noem je het versterkend effect van overlappende golven? constructieve interferentie | constructive interference
-Hoe noem je het verzwakkend effect van golven in tegenfase? destructieve interferentie | destructive interference
-Hoe noem je ontsnapte elektronen onder invloed van licht? elektron emissie licht | electron emission light
-Hoe noem je de energie die een elektron bindt aan een atoom? werk functie | work function
-Hoe noem je het laagste energie niveau van een electron? grond toestand | ground state
-Hoe noem je de aantrekking die een elektron voelt van de nucleus na aftrek andere elektronen? effectieve kernlading | effective nuclear charge
-Hoe noem je een atomair orbitaal blok diagram met pijltjes? orbitaal diagram | orbital diagram
-Hoe noem je een moleculair orbitaal blok diagram met pijltjes? MO bezettingsdiagram | molecular orbital occupancy diagram | MO occupancy diagram
-Hoe noem je dit notatieschema 1s²2s²3p⁶4s¹? spdf | spdf notatie | spdf notation
-Hoe noem je elektronen met het hoogste quantum getal? valentie elektronen | valence electrons
-Hoe noem je de afstand tussen de nuclei van twee verbonden atomen? bindings afstand | bond length
-Hoe noem je het systeem om het vormen van covalente bindingen te beschrijven als de overlap van atomaire orbitalen? valentie bindings methode | valentie bindings theorie | valence bond method | valence bond theory
-Hoe noem je het omvormen van atomaire orbitalen tot moleculaire orbitalen? hybridizatie | hybridization
-Hoe noem je een moleculaire orbitaal die geen invloed heeft op bindingen? niet bindende orbitaal | non bonding orbital
-Hoe noem je een moleculaire orbitaal met dezelfde energie? degenerate | degenerate orbital
-Hoe noem je een dipool veroorzaakt door nabij gelegen polaire moleculen? geinduceerd dipool | dispersie kracht | London krachten | induced dipole | London force | dispersion force
-Hoe noem je een dipool wat spontaan ontstaat door elektronen bewegingen? instantaan dipool | instantaneous dipole
-Hoe noem je alle aantrekkingskrachten tussen moleculen m.u.v. covalente bindingen of ionische bindingen? van der waals krachten | van der waals forces
-Hoe noem je elektrostatische aantrekkingskracht tussen een negatief dipool en een waterstof atoom? waterstof brug | hydrogen bond
-Hoe noem je de benodigde kracht om de oppervlakte van een vloeistof te vergroten? oppervlakte spanning | surface tension
-Hoe noem je de weerstand van een vloeistof tegen flow? viscositeit | viscosity
-Hoe noem je de conversie van een gas of stoom tot vloeistof? condensatie
-Hoe noem je een repeterend patroon wat een latice opbouwt? eenheidscell | unit cell
-Hoe noem je een kubus patroon met een atoom in het midden? lichaamsgecentreerde kubus | body centered cubic | bcc
-Hoe noem je een kubus patroon met atomen midden op alle vlakken? vlakgecentreerde kubus | face centered cubic | fcc
-Hoe noem je een hexagonaal patroon wat elke 2 lagen herhaalt? hexagonaal dichtste bolstapeling | hexagonal closest packed | hcp
-Hoe noem je een hexagonaal patroon wat elke 3 lagen herhaalt? kubische dichtste bolstapeling | cubic closest packed | ccp
+Hoe bereken je de discriminand? (-b +- sqrt(b2 - 4ac))/2a | (-b +- sqrt(b^2 - 4ac))/2a
+Hoe bereken je het even deel van een integraal?   1/2 [f(x) + f(-x)] | [f(x) + f(-x)]/2
+Hoe bereken je het oneven deel van een integraal? 1/2 [f(x) - f(-x)] | [f(x) - f(-x)]/2
+Hoe bereken je een volume bij omwentelen om de x-as? pi * integraal
+Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2)
 
-Hoe noemen we een hoger energie niveaus voor een elektron? excitatie | excited state
-Hoe bereken je de procentuele opbrengst? actual yield / theoretical yield * 100%
+De teller staat boven/onder de breukstreep? boven | above
+De noemer staat boven/onder de breukstreep? onder | below
+Waar stat csc voor? cosec | cosecant
 
-Hoeveel graden is de bindingshoek in een lineair molecuul? 180 | 180° | 180 graden
-Hoeveel graden is de bindingshoek in een vlakke driehoek? 120 | 120° | 120 graden
-Hoeveel graden is de bindingshoek in een tetraëder? 109.5 | 109.5° | 109.5 graden
-Hoeveel graden is de bindingshoek in een trigonale bipyramide? 90/120 | 90°/120° | 90/120 graden
-Hoeveel graden is de bindingshoek in een octaëder? 90 | 90° | 90 graden
-Meerdere Lewis structuren kunnen bijdragen aan de correcte structuur, hoe heet dit? resonantie | resonance
-Vanaf welke periode kunnen er meer dan 4 bindingen zijn in een lewis structuur? 3 | 3, want dan zijn er d-orbitalen
-Waar staat VSEPR voor? valence shell electron pair repulsion
-Waar staat LCAO voor? lineaire combinatie van atomaire orbitalen | linear combination of atomic orbitals
-Een meervoudige binding heeft een ____ afstand dan een enkelvoudige binding? kortere | shorter
-Een meervoudige binding heeft een ____ bindingsenergie dan een enkelvoudige binding? grotere | hogere | higher | larger
-Een enkel atoom levert beide elektronen voor een binding, hoe heet dit? coordinate covalent bond
-Welk atoom is altijd een centraal atoom in lewis structuren? C
-Welk complex wordt gevormd bij CN = 2? lineair | linear
-Welk complex wordt gevormd bij CN = 6? octaeder | octaëder | octahedral
-Welke 2 eigenschappen bepalen intermoleculaire krachten? dipool moment + polarizeerbaarheid | dipool moment polariseerbaarheid | dipole moment + polarizability | dipole moment polarizability |
-Welke eigenschap hebben substanties die geen ongepaarde electronen hebben? diamagnetisch | diamagnetic
-Welke eigenschap hebben substanties die ongepaarde electronen hebben? paramagnetisch | paramagnetic
-Welke eigenschap hebben substanties die geen niet door magnetisch velden beinvloed worden? diamagnetisch | diamagnetic
-Welke eigenschap hebben substanties die door magnetische velden beinvloed worden? paramagnetisch | paramagnetic
-Welke theorie is LCAO een onderdeel van? molecular orbital theory
-Welke twee complexen worden gevormd bij CN = 4? vlak vierkant tetraedrisch | vlak vierkant tetraeder
-Welke complexen vullen eerst alle d-orbitalen, voordat orbitalen gedeeld worden? zwak veld | weak field
-Welke complexen delen de eerste 3 d-orbitalen, voordat de overige orbitalen gevuld worden? sterk veld | strong field
-Welke liganden hebben een sterk veld? N | stikstof liganden | stikstof | nitrogen ligands
-Welke liganden hebben een zwak veld? halogenen | halogens
-Welke letters worden gebruikt om orbitalen te benoemen? spdf
-Welke 2 elementen hebben een afwijkend s-orbitaal? Cr Cu
-Hebben tetrahedrische complexen en zwak veld of een sterk veld? zwak veld | zwak | weak field | weak
-Wat doneren liganden aan een metaal? elektron | electron
-Wat is rood + blauw? magenta
-Wat is blauw + groen? cyaan | cyan
-Wat is groen + rood? geel | yellow
-Wat is de spdf van He? 1s2
-Wat is de spdf van Ne? [He] 2s2 2p6
-Wat is een HOMO? highest occupied molecular orbital
-Wat is een LUMO? lowest unoccupied molecular orbital
-In een complex blijven zoveel mogelijk electronen ongepaard in d-orbitalen, hoe heet dit? high spin
-In een complex blijven maximaal 3 electronen ongepaard in d-orbitalen, hoe heet dit? low spin
-Elektronen stoten elektronen verder bij de nucleus vandaan weg van het atoom, hoe heet dit? afschermen | shielding | screening
-Elektronen in een lager orbitaal kunnen dichter bij de nucleus komen, hoe heet dit? penetratie | penetration
-Elektronen moeten verdeeld worden over orbitalen, voordat orbitalen gedeeld worden, hoe heet deze regel? Hund | regel van Hund | Hund's rule
-Hogere atoomnummers hebben bij dezelfde MO meer/minder energy? minder | less
-Hogere moleculaire massa zorgt voor een hoger/lager kookpunt? hoger
-Een verhoging van de temperatuur vergroot/verkleind de oppervlaktespanning? verkleind
+tan(x) == ____? sin(x)/cos(x)
+sin(x)/cos(x) == ____? tan(x)
+sin²(x) == ____? 1 - cos2(x)
+cos²(x) == ____? 1 - sin2(x)
+sin(-x) == ____? -sin(x)
+-sin(x) == ____? sin(-x)
+cos(-x) == ____? cos(x)
+tan(-x) == ____? -tan(x)
+-tan(x) == ____? tan(-x)
+tan(x ± n·π) == ____? tan(x)
 
-Wat is het getal van Avogadro? 6.022e23 mol-1
-Wat is de lading van een electron? 1.6022e-19 C
-Wat is de snelheid van het licht in vacuum? 3.0e8 m/s
-Wat is het bereik van zichtbaar licht ___-___ nm? 390-760
-Wat is de constante van planck? 6.626e-34 Js
-Wat is de gasconstante [R] (atmosfeer)? 0.082057 atm L / K mol
-Wat is de gasconstante [R] (pascal)?    8.3145   KPa L / K mol
-Wat is de Bohr radius [a₀] ? 52.92 pm
-Wat is de Rydberg constante? 2.179e-18 J
-Wat is [OH⁻] (== [H₃O⁺]) bij 25°C? 1.0e-7
+stelling van pythagoras = ____? a2 + b2 = c2
+sinus regel == ____? sin(A)/a = sin(B)/b = sin(C)/c
+cosinus regel == ____? a2 = b2 + c2 -2bc cos(A) | a2 = b2 + c2 -2bc * cos(A)
 
-Hoeveel kelvin is 0°C? 273.15 | 273.15C
-Hoeveel °F is 0 °C? 32
-Hoeveel °F is 100 °C? 212
-Hoeveel Pascal is 1 atm? 101325
-Hoeveel Pascal is 1 bar? 100000
-Hoeveel Torr / mmHg is 1 atm? 760
-Hoeveel Torr is 1 mmHg? 1
-Hoeveel mmHg is 1 Torr? 1
+sin(x+y)? sin(x)cos(y) + cos(x)sin(y) | sin(x)cos(y) + sin(y)cos(x)
+sin(x-y)? sin(x)cos(y) - cos(x)sin(y) | sin(x)cos(y) - sin(y)cos(x)
+cos(x+y)? cos(x)cos(y) - sin(x)sin(y)
+cos(x-y)? cos(x)cos(y) + sin(x)sin(y) | sin(x)sin(y) + cos(x)cos(y)
+sin(2x) ? 2sin(x)cos(x) | 2cos(x)sin(x)
+cos(2x) ? cos2(x) - sin2(x) | 1 - 2sin2(x) | 2cos2(x) - 1
 
-Welke letter duidt de de molaire massa aan? M
-Welke eenheid heeft de molaire massa? g/mol
-Welke letter wordt gebruikt voor het atoomnummer? Z
-Wat telt het atoomnummer? protonen
-Welke letter wordt gebruikt voor het massa getal? A
-wat telt het massa getal? protonen + neutronen
-Wie zei dat bases OH⁻ ionen afstaan? Arhenius
-Wie zei dat bases protonen accepteren? Bronsted
-Hoe drukt men 1 pascal uit in andere SI eenheden? 1 Kg/m/s2
+sec(x)? 1/cos(x)
+cosec(x)? 1/sin(x)
+cot(x)? 1/tan(x) | cos(x)/sin(x)
 
-Welke 4 gassen ontstaan regelmatig uit zuur-base reacties? CO2 H2S NH3 SO2
+sin(0)?   1/2 sqrt(0) | 1/2 w0 | 0
+sin(π/6)? 1/2 sqrt(1) | 1/2 w1 | 1/2
+sin(π/4)? 1/2 sqrt(2) | 1/2 w2
+sin(π/3)? 1/2 sqrt(3) | 1/2 w3
+sin(π/2)? 1/2 sqrt(4) | 1/2 w4 | 1
+cos(0)?   1/2 sqrt(4) | 1/2 w4 | 1
+cos(π/6)? 1/2 sqrt(3) | 1/2 w3
+cos(π/4)? 1/2 sqrt(2) | 1/2 w2
+cos(π/3)? 1/2 sqrt(1) | 1/2 w1 | 1/2
+cos(π/2)? 1/2 sqrt(0) | 1/2 w0 | 0
 
-Welk element nummer heeft hydrogen? 1
-Welk element nummer heeft helium? 2
-Welk element nummer heeft lithium? 3
-Welk element nummer heeft beryllium? 4
-Welk element nummer heeft boron? 5
-Welk element nummer heeft carbon? 6
-Welk element nummer heeft nitrogen? 7
-Welk element nummer heeft oxygen? 8
-Welk element nummer heeft fluorine? 9
-Welk element nummer heeft neon? 10
-Welk element nummer heeft sodium? 11
-Welk element nummer heeft magnesium? 12
-Welk element nummer heeft aluminium? 13
-Welk element nummer heeft silicon? 14
-Welk element nummer heeft phosphorous? 15
-Welk element nummer heeft sulfur? 16
-Welk element nummer heeft chlorine? 17
-Welk element nummer heeft argon? 18
-Welk element nummer heeft potassium? 19
-Welk element nummer heeft calcium? 20
+ln(x) + ln(y)? ln(xy) | ln(x*y)
+ln(xy)? ln(x) + ln(y)
+ln(x) - ln(y)? ln(x/y)
+ln(x/y)? ln(x) - ln(y)
+ln(x^n)? n*ln(x) | n ln(x)
+n·ln(x)? ln(x^n)
+e^a·e^b? e^(a+b)
+e^(a+b)? e^a*e^b
 
-Wat is de afkorting van element #1? H
-Wat is de afkorting van element #2? He
-Wat is de afkorting van element #3? Li
-Wat is de afkorting van element #4? Be
-Wat is de afkorting van element #5? B
-Wat is de afkorting van element #6? C
-Wat is de afkorting van element #7? N
-Wat is de afkorting van element #8? O
-Wat is de afkorting van element #9? F
-Wat is de afkorting van element #10? Ne
-Wat is de afkorting van element #11? Na
-Wat is de afkorting van element #12? Mg
-Wat is de afkorting van element #13? Al
-Wat is de afkorting van element #14? Si
-Wat is de afkorting van element #15? P
-Wat is de afkorting van element #16? S
-Wat is de afkorting van element #17? Cl
-Wat is de afkorting van element #18? Ar
-Wat is de afkorting van element #19? K
-Wat is de afkorting van element #20? Ca
+log[a](b)? log[c](b)/log[c](a) | log(b)/log(a) | log[a](c) * log[c](b)
+log(b)/log(a)? log[a](b)
+log[a](c) * log[c](b)? log[a](b)
 
-Wat zijn de elementen van rij 1 op volgorde? H  He
-Wat zijn de elementen van rij 2 op volgorde? Li Be B  C  N O F  Ne
-Wat zijn de elementen van rij 3 op volgorde? Na Mg Al Si P S Cl Ar
+Definitie van de differentiaal? (f(x + dx) - f(x)) / dx
+Definitie van eˣ? sum(x^n/n!) | 1 + x/1! + x^2/2! + ...
 
-Hoe noemen we een element uit groep 1? alkalimetaal | alkali metals
-Hoe noemen we een element uit groep 2? aardalkalimetaal | alkaline earth
-Hoe noemen we een element uit groep 3-12? transitie metaal | transition metal
-Hoe noemen we een element uit groep 17? halogeen | halogen
-Hoe noemen we een element uit groep 18? edelgas | noble gas
+Wat is de afgeleide van: c? 0
+Wat is de afgeleide van: xᵃ? ax^(a-1) | a*x^(a-1)
+Wat is de afgeleide van: sin(x)? cos(x)
+Wat is de afgeleide van: cos(x)? -sin(x)
+Wat is de afgeleide van: tan(x)? sec2(x) | 1/cos2(x)
+Wat is de afgeleide van: arcsin(x)?  1/sqrt(1-x2) |  1/sqrt(1-x^2)
+Wat is de afgeleide van: arccos(x)? -1/sqrt(1-x2) | -1/sqrt(1-x^2)
+Wat is de afgeleide van: arctan(x)?  1/(x^2+1) | 1/(1+x^2)  |  1/(x2+1) | 1/(1+x2)
+Wat is de afgeleide van: arccot(x)? -1/(x^2+1) | -1/(1+x^2) | -1/(x2+1) | -1/(1+x2)
+Wat is de afgeleide van: sin⁻¹(x/a)? 1/sqrt(a2 - x2) | 1/sqrt(a^2 - x^2)
+Wat is de afgeleide van: cos⁻¹(x/a)? -1/sqrt(a2 - x2) | -1/sqrt(a^2 - x^2)
+Wat is de afgeleide van: tan⁻¹(x/a)? a/(a2 + x2) | a/(a^2 + x^2)
+Wat is de afgeleide van: eˣ? e^x
+Wat is de afgeleide van: aˣ? a^x * ln(a) | a^x ln(a)
+Wat is de afgeleide van: cosh(x)? sinh(x)
+Wat is de afgeleide van: sinh(x)? cosh(x)
+Wat is de afgeleide van: ln(x)? 1/x
+Wat is de afgeleide van: logₐ(x)? 1/(x*ln(a)) | 1/(x ln(a))
+Wat is de afgeleide van: a·f(x)? a * f'(x) | a f'(x)
+Wat is de afgeleide van: f(x) + g(x)? f'(x) + g'(x)
+Wat is de afgeleide van: u*v? uv' + vu' | uv' + u'v | u'v + v'u | uv' + vu' | u'v + vu' | u'v + uv'
+Wat is de afgeleide van: u/v? (v du/dx - u dv/dx) / v^2 | (v*du/dx - u*dv/dx) / v^2 | (v du/dx - u dv/dx) / v2 | (v*du/dx - u*dv/dx) / v2
+Wat is d/dx f(u)? df/du * du/dx | f'(u) * du/dx | df/du du/dx | f'(u) du/dx
+Wat is de inversie regel voor de afgeleide? dy/dx = 1/(dx/dy)
+Wat is de regel van l'Hospital (voor 0/0 of ∞/∞)? lim f'/g' = lim f/g | lim f'(x)/g'(x) = lim f(x)/g(x) | lim f/g = lim f'/g' | lim f(x)/g(x) = lim f'(x)/g'(x)
+Wat is de vergelijking van een cirkel met middelpunt in (0,0)?  x^2 + y^2 = r^2 | x2 + y2 = r2
 
-Wat zijn de alkalimetalen op volgorde van klein naar groot? Li Na K Rb Cs Fr
-Wat zijn de aardalkalimetalen op volgorde van klein naar groot? Be Mg Ca Sr Ba Ra
-Wat zijn de halogenen op volgorde van klein naar groot? F Cl Br I At Ts
-Wat zijn de edelgassen op volgorde van klein naar groot? He Ne Ar Kr Xe Rn Og
-
-Wat is de AMU van H?  1.008
-Wat is de AMU van He? 4.003
-Wat is de AMU van Li? 6.941
-Wat is de AMU van Be? 9.012
-Wat is de AMU van B?  10.811
-Wat is de AMU van C?  12.011
-Wat is de AMU van N?  14.007
-Wat is de AMU van O?  15.999
-Wat is de AMU van F?  18.998
-Wat is de AMU van Ne? 20.180
-Wat is de AMU van Na? 22.990
-Wat is de AMU van Mg? 24.305
-Wat is de AMU van Al? 26.982
-Wat is de AMU van Si? 28.086
-Wat is de AMU van P?  30.974
-Wat is de AMU van S?  32.066
-Wat is de AMU van Cl? 35.453
-Wat is de AMU van Ar? 39.948
-Wat is de AMU van K?  39.098
-Wat is de AMU van Ca? 40.078
-
-Wat is het CN van Ag⁺? 2
-Wat is het CN van Cu⁺? 2 4
-Wat is het CN van Au⁺? 2 4
-Wat is het CN van Co²⁺? 4 6
-Wat is het CN van Cu²⁺? 4 6
-Wat is het CN van Zn²⁺? 4
-Wat is het CN van Pt²⁺? 4
-Wat is het CN van Pt⁴⁺? 6
-
-Hoe sorteer je de volgende elementen van minder naar meer electronegatief: C, N, O, F, S, Cl, I? S I C N Cl O F
-Op basis waarvan bepaal je welk atoom centraal ligt in een lewis structuur? elektronegativiteit | electronegativity
-Golven langer dan zichtbaar licht? infrarood microwave radio | infrared microwave radio
-Golven korter dan zichtbaar licht? ultraviolet xray gamma ray
-
-Wat is de volledige naam van en? ethylenediamine
-Wat is de volledige naam van ox²⁻a? Oxalato
-Wat is de volledige naam van EDTA? ethylene diamine tetra acetato
-Wat is de formule van en? C2 H8 N2
-Wat is de formule van ox²⁻a? C2 O4 2-
-Wat is de formule van EDTA? C10 H16 N2 O8
-Wat is de afkorting van C2 H8 N2? en
-Wat is de afkorting van C2 O4 2-? ox2-a
-Wat is de afkorting van C10 H16 N2 O8? EDTA
-
-Hoe komt zwavel van nature voor? S8
-Hoe komt fosfor van nature voor? P4
-Welke elementen zijn van nature diatomair? Cl O Br H I N F
-
-Wat geeft electronen af? reductans | reducing agent
-Wat neemt electronen op? oxidans | oxidizing agent
-Als een stof reduceert dan krijgt het meer/minder electronen? meer
-Als een stof oxideert dan krijgt het meer/minder electronen? minder
-1 in het grieks? mono
-2 in het grieks? di
-3 in het grieks? tri
-4 in het grieks? tetra
-5 in het grieks? penta
-6 in het grieks? hexa
-7 in het grieks? hepta
-8 in het grieks? octa
-9 in het grieks? nona
-10 in het grieks? deca
-1-10 in het grieks? mono di tri tetra penta hexa hepta octa nona deca
-2-5 in liganden? bis tris tetrakis pentakis
-
-Welke 5 categorien slaan nooit neer? groep1 NH4+ CH3COO- ClO4- NO3- | group1 NH4+ CH3COO- ClO4- NO3-
-Welke 3 elementen hebben de grootste kans van neerslag? Ag Hg Pb
-Welke 3 elementen slaan neer met cloor, broom of iodide? Ag Hg Pb
-Welke 3 elementen zijn oplosbaar, behalve met zilver, lood of kwik? Cl Br I
-Welke polyatomische ionen kunnen neerslaan? CO3 2- OH- PO4 3- SO3 2- oxide
-Sulfaten zijn meestal oplosbaar, wat zijn de uitzonderingen? Ba Ca Sr
-
-
-naamgeving bij toenemende oxidatietoestand? hypo_iet _iet _aat per_aat
-naamgeving bij binaire zuren die waterstof en een niet-metaal bevatten (bijv. HCl)? hydro_ acid
-
-Wat is de formule van methaan? CH4
-Wat is de formule van ethaan? C2H6
-Wat is de formule van propaan? C3H8
-Wat is de formule van etheen? C2H4
-Wat is de formule van benzeen? C6H6
-Wat is de formule van ethanol? C2H6O
-Wat is de formule van ammoniak? NH3
-
-Wat is de formule van chloorzuur? HClO3
-Wat is de formule van salpeterzuur? HNO3
-Wat is de formule van zwavelzuur? H2SO4
-Wat is de formule van zoutzuur? HCl
-
-Wat is de formule van hydrosulfuric acid? H2S
-Wat is de formule van hydroiodic acid? HI
-Wat is de formule van hydrochloric acid? HCl
-Wat is de formule van hydrobromic acid? HBr
-Wat is de formule van hydrofluoric acid? HF
-Wat is de formule van bromic acid? HBrO3
-Wat is de formule van nitric acid? HNO3
-
-Wat is de naam van HI? waterstof jodide | hydroiodic acid
-Wat is de naam van HCl? zoutzuur | hydrochloric acid
-Wat is de naam van HBr? waterstof bromide | hydrobromic acid
-Wat is de naam van HF? waterstof fluoride | hydrofluoric acid
-Wat is de naam van HNO₃? salpeterzuur | nitric acid
-Wat is de naam van HBrO₃? broomzuur | waterstofbroomaat | bromic acid
-Wat is de naam van HClO₃? chloorzuur | chloric acid
-Wat is de naam van H₂SO₄? zwavelzuur | sulfuric acid
-
-Wat is de formule van de methyl groep? CH3
-Wat is de formule van de groep kenmerkend voor alcoholen? OH
-Wat is de formule van de carboxyl groep? COOH
-
-Wat is de formule van het ammonium ion?              NH4 +
-Wat is de formule van het acetaat ion?               C2H3O2 -
-Wat is de formule van het Carbonate ion?             CO3 2-
-Wat is de formule van het Hydrogen carbonate ion?    HCO 3-
-Wat is de formule van het Hypochlorite ion?          ClO -
-Wat is de formule van het Chlorite ion?              ClO2 -
-Wat is de formule van het Chlorate ion?              ClO3 -
-Wat is de formule van het Perchlorate ion?           ClO4 -
-Wat is de formule van het Chromate ion?              CrO4 2-
-Wat is de formule van het Dichromate ion?            Cr2O7 2-
-Wat is de formule van het Cyanide ion?               CN -
-Wat is de formule van het Hydroxide ion?             OH -
-Wat is de formule van het Hydronium ion?             H3O +
-Wat is de formule van het Nitrite ion?               NO2 -
-Wat is de formule van het Nitrate ion?               NO3 -
-Wat is de formule van het Oxalate ion?               C2O4 2-
-Wat is de formule van het Permanganate ion?          MnO4 -
-Wat is de formule van het Phosphate ion?             PO4 3-
-Wat is de formule van het Hydrogen Phosphate ion?    HPO4 2-
-Wat is de formule van het DiHydrogen Phosphate ion?  H2PO4 -
-Wat is de formule van het Sulfite ion?               SO3 2-
-Wat is de formule van het Hydrogen sulfite ion?      HSO3 -
-Wat is de formule van het Sulfate ion?               SO4 2-
-Wat is de formule van het Hydrogen sulfate ion?      HSO4 -
-Wat is de formule van het Thiosulfate ion?           S2O3 2-
-
-Wat is de formule van het aqua ligand?               H2O
-Wat is de formule van het ammine ligand?             NH3
-Wat is de formule van het carbonyl ligand?           CO
-Wat is de formule van het oxidonitrogen ligand?      NO
-Wat is de formule van het nitrosyl ligand?           NO
-Wat is de formule van het methanamine ligand?        CH6N
-Wat is de formule van het methaanamine ligand?       CH6N
-Wat is de formule van het pyridine ligand?           C5H5N
-Wat is de formule van het iodido ligand?             I-
-Wat is de formule van het oxido ligand?              O2 -
-Wat is de formule van het hydroxido ligand?          OH-
-Wat is de formule van het cyanido ligand?            CN-
-Wat is de formule van het acetaat ligand?            C2H3O2
-Wat is de formule van het sulfato ligand?            SO4 2-
-Wat is de formule van het thiosulfato ligand?        S2O3 2-
-Wat is de formule van het nitrito-N-a ligand?        NO2-
-Wat is de formule van het nitrito-O-a ligand?        ONO-
-Wat is de formule van het thiocyanato-S-c ligand?    SCN-
-Wat is de formule van het thiocyanato-N-c ligand?    NCS-
-
-Hoe heet het ligand H₂O?    aqua
-Hoe heet het ligand NH₃?    ammine
-Hoe heet het ligand CO?     carbonyl
-Hoe heet het ligand NO?     oxidonitrogen | nitrosyl
-Hoe heet het ligand CH₅N?   methanamine | methaanamine
-Hoe heet het ligand C₅H₅N?  pyridine
-Hoe heet het ligand I⁻?     iodido
-Hoe heet het ligand O²⁻?    oxido
-Hoe heet het ligand OH⁻?    hydroxido
-Hoe heet het ligand CN⁻?    cyanido
-Hoe heet het ligand C₂H₃O₂? acetaat | acetate
-Hoe heet het ligand SO₄²⁻?  sulfato
-Hoe heet het ligand S₂O₃²⁻? thiosulfato
-Hoe heet het ligand NO₂⁻?   nitrito-N-a
-Hoe heet het ligand ONO⁻?   nitrito-O-a
-Hoe heet het ligand SCN⁻?   Thiocyanato-S-c
-Hoe heet het ligand NCS⁻?   Thiocyanato-N-c
-
-Hoe heet NH₃?               ammoniak | ammonia
-Hoe heet het ion NH₄⁺?      ammonium
-Hoe heet het ion C₂H₃O₂⁻?   acetaat | acetate
-Hoe heet het ion CO₃²⁻?     carvonaat | carbonate
-Hoe heet het ion HCO³⁻?     waterstof carbonaat | hydrogen carbonate
-Hoe heet het ion ClO⁻?      hypochloriet | hypochlorite
-Hoe heet het ion ClO₂⁻?     chloriet | chlorite
-Hoe heet het ion ClO₃⁻?     chloraat | chlorate
-Hoe heet het ion ClO₄⁻?     perchloraat | perchlorate
-Hoe heet het ion CrO₄²⁻?    chromaat | chromate
-Hoe heet het ion Cr₂O₇²⁻?   dichromaat | dichromate
-Hoe heet het ion CN⁻?       cyanide
-Hoe heet het ion OH⁻?       hydroxide
-Hoe heet het ion H₃O⁺?      hydronium
-Hoe heet het ion NO₂⁻?      nitriet | nitrite
-Hoe heet het ion NO₃⁻?      nitraat | nitrate
-Hoe heet het ion C₂O₄²⁻?    oxalaat | oxalate
-Hoe heet het ion MnO₄⁻?     permanganaat | permanganate
-Hoe heet het ion PO₄³⁻?     fosfaat | phosphate
-Hoe heet het ion HPO₄²⁻?    hydrogen phosphate
-Hoe heet het ion H₂PO₄⁻?    dihydrogen phosphate
-Hoe heet het ion SO₃²⁻?     sulfiet | sulfite
-Hoe heet het ion HSO₃⁻?     waterstof sulfiet | hydrogen sulfite
-Hoe heet het ion SO₄²⁻?     sulfaat | sulfate
-Hoe heet het ion HSO₄⁻?     waterstof sulfaat | hydrogen sulfate
-Hoe heet het ion S₂O₃²⁻?    thiosulfaat | thiosulfate
+wat is ∫x^a dx?      x^(a+1)/(a+1) + C
+wat is ∫e^ax dx?     (1/a) * e^ax + C | (1/a) e^ax + C | e^ax/a + C
+wat is ∫sin(ax) dx? -(1/a) * cos(ax)  + C | -(1/a) cos(ax)  + C | -cos(ax)/a + C
+wat is ∫cos(ax) dx?  (1/a) * sin(ax)  + C |  (1/a) sin(ax)  + C |  sin(ax)/a + C
+wat is ∫1/(ax+b) dx? (1/a) * ln(ax+b) + C |  (1/a) ln(ax+b) + C | ln(ax+b)/a + C
+wat is ∫u dv?        u*v - ∫(v du) | u*v - ∫vdu | uv - ∫(v du) | uv - ∫vdu
+Wat is ∫ln(x)?       x ln(x) - x | x*ln(x)-x
+Wat is ∫e⁻ˣ voor a = 0 en b = ∞? 1
 
 
 
@@ -436,74 +126,6 @@ Hoe heet het ion S₂O₃²⁻?    thiosulfaat | thiosulfate
 
 
 
-
-
-@EOF@
-
-Wat is de electronegativiteit van F?  3.98
-Wat is de electronegativiteit van O?  3.44
-Wat is de electronegativiteit van Cl? 3.16
-Wat is de electronegativiteit van N?  3.04
-Wat is de electronegativiteit van C?  2.55
-Wat is de electronegativiteit van I?  2.66
-Wat is de electronegativiteit van S?  2.58
-
-@done@
-
-Wat is de afkorting van hydrogen? H
-Wat is de afkorting van helium? He
-Wat is de afkorting van lithium? Li
-Wat is de afkorting van beryllium? Be
-Wat is de afkorting van boron? B
-Wat is de afkorting van carbon? C
-Wat is de afkorting van nitrogen? N
-Wat is de afkorting van oxygen? O
-Wat is de afkorting van fluorine? F
-Wat is de afkorting van neon? Ne
-Wat is de afkorting van sodium? Na
-Wat is de afkorting van magnesium? Mg
-Wat is de afkorting van aluminium? Al
-Wat is de afkorting van silicon? Si
-Wat is de afkorting van phosphorous? P
-Wat is de afkorting van sulfur? S
-Wat is de afkorting van chlorine? Cl
-Wat is de afkorting van argon? Ar
-Wat is de afkorting van potassium? K
-Wat is de afkorting van calcium? Ca
-
-Wat is de naam van het element H? hydrogen
-Wat is de naam van het element He? helium
-Wat is de naam van het element Li? lithium
-Wat is de naam van het element Be? beryllium
-Wat is de naam van het element B? boron
-Wat is de naam van het element C? carbon
-Wat is de naam van het element N? nitrogen
-Wat is de naam van het element O? oxygen
-Wat is de naam van het element F? fluorine
-Wat is de naam van het element Ne? neon
-Wat is de naam van het element Na? sodium
-Wat is de naam van het element Mg? magnesium
-Wat is de naam van het element Al? aluminium
-Wat is de naam van het element Si? silicon
-Wat is de naam van het element P? phosphorous
-Wat is de naam van het element S? sulfur
-Wat is de naam van het element Cl? chlorine
-Wat is de naam van het element Ar? argon
-Wat is de naam van het element K? potassium
-Wat is de naam van het element Ca? calcium
-Wat is de naam van het element Cs? cesium
-Wat is de naam van het element Fr? francium
-Wat is de naam van het element Sr? strontium
-Wat is de naam van het element I? iodine
-Wat is de naam van het element Rb? rubidium
-Wat is de naam van het element Ba? barium
-Wat is de naam van het element Ra? radium
-Wat is de naam van het element At? astatine
-Wat is de naam van het element Ts? tennessine
-Wat is de naam van het element Kr? krypton
-Wat is de naam van het element Xe? xenon
-Wat is de naam van het element Rn? radon
-Wat is de naam van het element Og? oganesson
 
 
 

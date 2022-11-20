@@ -19,10 +19,9 @@ ${question.query}<br/>
 		</#list>
 	</ul>
 	<#if answer?has_content>
-		${answer} (your answer)
+		${answer} (your answer)<br/>
 	</#if>
 </#if>
-
 
 <script>
 document.getElementById('answer').focus();
