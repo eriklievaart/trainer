@@ -11,22 +11,35 @@ import com.eriklievaart.toolkit.io.api.LineFilter;
 import com.eriklievaart.toolkit.lang.api.collection.LazyMap;
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.lang.api.str.StringBuilderWrapper;
+import com.eriklievaart.trainer.web.loader.QuestionLoader;
 
 public class State {
 
 	public Optional<Question> current;
 
+	private QuestionLoader loader = new ClasspathLoader();
 	private List<Question> questions;
 	private Map<String, Progress> progression = new LazyMap<>(key -> new Progress());
 
 	{
 		loadProgress();
-		reload();
+		loadQuestions();
 		nextQuestion();
 	}
 
-	public void reload() {
-		questions = ListTool.shuffledCopy(Questions.load());
+	public void reloadIfModified() {
+		if (loader.isModified()) {
+			loadQuestions();
+		}
+	}
+
+	private void loadQuestions() {
+		questions = ListTool.shuffledCopy(Questions.load(loader));
+		for (int i = 0; i < questions.size(); i++) {
+			if (progression.get(questions.get(i).getHash()).isModified()) {
+				questions.add(0, questions.remove(i));
+			}
+		}
 		nextQuestion();
 	}
 
@@ -72,7 +85,7 @@ public class State {
 	private void storeProgression() {
 		StringBuilderWrapper builder = new StringBuilderWrapper();
 		progression.forEach((key, p) -> {
-			if (p.lastRight != 0 || p.lastWrong != 0) {
+			if (p.isModified()) {
 				builder.subLine("$;$;$;$", key, p.lastRight, p.lastWrong, p.validUntil);
 			}
 		});
@@ -86,5 +99,9 @@ public class State {
 	public int countRemaining() {
 		long now = System.currentTimeMillis();
 		return ListTool.filter(questions, q -> progression.get(q.getHash()).validUntil < now).size();
+	}
+
+	public void setQuestionLoader(QuestionLoader loader) {
+		this.loader = loader;
 	}
 }

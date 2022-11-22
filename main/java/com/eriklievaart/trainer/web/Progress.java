@@ -20,7 +20,7 @@ public class Progress {
 	}
 
 	private long randomize(long fixed) {
-		double random = (Math.random() + 1) * fixed;
+		double random = (10 * Math.random() + 1) * fixed;
 		return (long) random;
 	}
 
@@ -36,6 +36,10 @@ public class Progress {
 
 	public boolean skip() {
 		return validUntil > System.currentTimeMillis();
+	}
+
+	public boolean isModified() {
+		return lastRight != 0 || lastWrong != 0;
 	}
 
 	@Override

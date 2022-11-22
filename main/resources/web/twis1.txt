@@ -1,0 +1,131 @@
+
+Hoe noem je 1,2,3, ... ? natuurlijk getal | natural number
+Hoe noem je ... ,-3,-2,-1,0,1,2,3, ... ? integer
+Hoe noem je -√3, -√2, √2, √3 ? irrationeel getal | irrational number
+Hoe noem je een getal wat een rationeel of irrationeel getal kan zijn? echt getal | real number
+Hoe noem je √-½, √-1, √-2? complex getal | complex number
+Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kunnen worden? transcendente functie | transcendental function
+Hoe noem je een punt waarvoor de afgeleide 0 is, of geen waarde heeft? kritiek punt | critical point | stationary point
+Hoe noem je een punt waarop de tweede afgeleide 0 is? inflectie punt | inflection point
+Hoe noem je een punt waarop de eerste afgeleide 0 is en de tweede afgeleide van teken verandert? buigpunt | turning point
+Hoe noem je een functie waarvan de tweede afgeleide positief is (binnen een interval)? hol | convex
+Hoe noem je een functie waarvan de tweede afgeleide negatief is (binnen een interval)? bol | concaaf
+Hoe noem je een functie die symmetrisch is ten opzichte van de y-as? even
+Hoe noem je een functie waarvoor geldt dat f(-x) = f(x)? even
+Hoe noem je een functie waarvoor geldt dat f(-x) = -f(x)? oneven
+Hoe noem je een functie die ge-integreerd wordt? integrand
+Hoe noem je een integraal waarvoor begin en eindpunt zijn gedefinieerd? definite integral
+
+Hoe bereken je de discriminand? (-b +- sqrt(b2 - 4ac))/2a | (-b +- sqrt(b^2 - 4ac))/2a
+Hoe bereken je het even deel van een integraal?   1/2 [f(x) + f(-x)] | [f(x) + f(-x)]/2
+Hoe bereken je het oneven deel van een integraal? 1/2 [f(x) - f(-x)] | [f(x) - f(-x)]/2
+Hoe bereken je een volume bij omwentelen om de x-as? pi * integraal
+Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2)
+
+De teller staat boven/onder de breukstreep? boven | above
+De noemer staat boven/onder de breukstreep? onder | below
+Waar stat csc voor? cosec | cosecant
+
+tan(x) == ____? sin(x)/cos(x)
+sin(x)/cos(x) == ____? tan(x)
+sin²(x) == ____? 1 - cos2(x)
+cos²(x) == ____? 1 - sin2(x)
+sin(-x) == ____? -sin(x)
+-sin(x) == ____? sin(-x)
+cos(-x) == ____? cos(x)
+tan(-x) == ____? -tan(x)
+-tan(x) == ____? tan(-x)
+tan(x ± n·π) == ____? tan(x)
+
+stelling van pythagoras = ____? a2 + b2 = c2
+sinus regel == ____? sin(A)/a = sin(B)/b = sin(C)/c
+cosinus regel == ____? a2 = b2 + c2 -2bc cos(A) | a2 = b2 + c2 -2bc * cos(A)
+
+sin(x+y)? sin(x)cos(y) + cos(x)sin(y) | sin(x)cos(y) + sin(y)cos(x)
+sin(x-y)? sin(x)cos(y) - cos(x)sin(y) | sin(x)cos(y) - sin(y)cos(x)
+cos(x+y)? cos(x)cos(y) - sin(x)sin(y)
+cos(x-y)? cos(x)cos(y) + sin(x)sin(y) | sin(x)sin(y) + cos(x)cos(y)
+sin(2x) ? 2sin(x)cos(x) | 2cos(x)sin(x)
+cos(2x) ? cos2(x) - sin2(x) | 1 - 2sin2(x) | 2cos2(x) - 1
+
+sec(x)? 1/cos(x)
+cosec(x)? 1/sin(x)
+cot(x)? 1/tan(x) | cos(x)/sin(x)
+
+sin(0)?   1/2 sqrt(0) | 1/2 w0 | 0
+sin(π/6)? 1/2 sqrt(1) | 1/2 w1 | 1/2
+sin(π/4)? 1/2 sqrt(2) | 1/2 w2
+sin(π/3)? 1/2 sqrt(3) | 1/2 w3
+sin(π/2)? 1/2 sqrt(4) | 1/2 w4 | 1
+cos(0)?   1/2 sqrt(4) | 1/2 w4 | 1
+cos(π/6)? 1/2 sqrt(3) | 1/2 w3
+cos(π/4)? 1/2 sqrt(2) | 1/2 w2
+cos(π/3)? 1/2 sqrt(1) | 1/2 w1 | 1/2
+cos(π/2)? 1/2 sqrt(0) | 1/2 w0 | 0
+
+ln(x) + ln(y)? ln(xy) | ln(x*y)
+ln(xy)? ln(x) + ln(y)
+ln(x) - ln(y)? ln(x/y)
+ln(x/y)? ln(x) - ln(y)
+ln(x^n)? n*ln(x) | n ln(x)
+n·ln(x)? ln(x^n)
+e^a·e^b? e^(a+b)
+e^(a+b)? e^a*e^b
+
+log[a](b)? log[c](b)/log[c](a) | log(b)/log(a) | log[a](c) * log[c](b)
+log(b)/log(a)? log[a](b)
+log[a](c) * log[c](b)? log[a](b)
+
+Definitie van de differentiaal? (f(x + dx) - f(x)) / dx
+Definitie van eˣ? sum(x^n/n!) | 1 + x/1! + x^2/2! + ...
+
+Wat is de afgeleide van: c? 0
+Wat is de afgeleide van: xᵃ? ax^(a-1) | a*x^(a-1)
+Wat is de afgeleide van: sin(x)? cos(x)
+Wat is de afgeleide van: cos(x)? -sin(x)
+Wat is de afgeleide van: tan(x)? sec2(x) | 1/cos2(x)
+Wat is de afgeleide van: arcsin(x)?  1/sqrt(1-x2) |  1/sqrt(1-x^2)
+Wat is de afgeleide van: arccos(x)? -1/sqrt(1-x2) | -1/sqrt(1-x^2)
+Wat is de afgeleide van: arctan(x)?  1/(x^2+1) | 1/(1+x^2)  |  1/(x2+1) | 1/(1+x2)
+Wat is de afgeleide van: arccot(x)? -1/(x^2+1) | -1/(1+x^2) | -1/(x2+1) | -1/(1+x2)
+Wat is de afgeleide van: sin⁻¹(x/a)? 1/sqrt(a2 - x2) | 1/sqrt(a^2 - x^2)
+Wat is de afgeleide van: cos⁻¹(x/a)? -1/sqrt(a2 - x2) | -1/sqrt(a^2 - x^2)
+Wat is de afgeleide van: tan⁻¹(x/a)? a/(a2 + x2) | a/(a^2 + x^2)
+Wat is de afgeleide van: eˣ? e^x
+Wat is de afgeleide van: aˣ? a^x * ln(a) | a^x ln(a)
+Wat is de afgeleide van: cosh(x)? sinh(x)
+Wat is de afgeleide van: sinh(x)? cosh(x)
+Wat is de afgeleide van: ln(x)? 1/x
+Wat is de afgeleide van: logₐ(x)? 1/(x*ln(a)) | 1/(x ln(a))
+Wat is de afgeleide van: a·f(x)? a * f'(x) | a f'(x)
+Wat is de afgeleide van: f(x) + g(x)? f'(x) + g'(x)
+Wat is de afgeleide van: u*v? uv' + vu' | uv' + u'v | u'v + v'u | uv' + vu' | u'v + vu' | u'v + uv'
+Wat is de afgeleide van: u/v? (v du/dx - u dv/dx) / v^2 | (v*du/dx - u*dv/dx) / v^2 | (v du/dx - u dv/dx) / v2 | (v*du/dx - u*dv/dx) / v2
+Wat is d/dx f(u)? df/du * du/dx | f'(u) * du/dx | df/du du/dx | f'(u) du/dx
+Wat is de inversie regel voor de afgeleide? dy/dx = 1/(dx/dy)
+Wat is de regel van l'Hospital (voor 0/0 of ∞/∞)? lim f'/g' = lim f/g | lim f'(x)/g'(x) = lim f(x)/g(x) | lim f/g = lim f'/g' | lim f(x)/g(x) = lim f'(x)/g'(x)
+Wat is de vergelijking van een cirkel met middelpunt in (0,0)?  x^2 + y^2 = r^2 | x2 + y2 = r2
+
+wat is ∫x^a dx?      x^(a+1)/(a+1) + C
+wat is ∫e^ax dx?     (1/a) * e^ax + C | (1/a) e^ax + C | e^ax/a + C
+wat is ∫sin(ax) dx? -(1/a) * cos(ax)  + C | -(1/a) cos(ax)  + C | -cos(ax)/a + C
+wat is ∫cos(ax) dx?  (1/a) * sin(ax)  + C |  (1/a) sin(ax)  + C |  sin(ax)/a + C
+wat is ∫1/(ax+b) dx? (1/a) * ln(ax+b) + C |  (1/a) ln(ax+b) + C | ln(ax+b)/a + C
+wat is ∫u dv?        u*v - ∫(v du) | u*v - ∫vdu | uv - ∫(v du) | uv - ∫vdu
+Wat is ∫ln(x)?       x ln(x) - x | x*ln(x)-x
+Wat is ∫e⁻ˣ voor a = 0 en b = ∞? 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

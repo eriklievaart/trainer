@@ -38,6 +38,7 @@ public class QuestionController extends AbstractTemplateController {
 				model.put("answer", answer);
 			}
 		});
+		state.reloadIfModified();
 	}
 
 	private void render() {
