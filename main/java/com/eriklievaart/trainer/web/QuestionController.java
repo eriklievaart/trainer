@@ -51,7 +51,7 @@ public class QuestionController extends AbstractTemplateController {
 		}
 	}
 
-	private boolean isValid(List<String> list, String answer) {
+	static boolean isValid(List<String> list, String answer) {
 		for (String expect : list) {
 			if (Str.isEqualIgnoreCase(strip(expect), strip(answer))) {
 				return true;
@@ -60,7 +60,7 @@ public class QuestionController extends AbstractTemplateController {
 		return false;
 	}
 
-	private String strip(String answer) {
-		return answer.replaceAll("[ _]", "");
+	static String strip(String answer) {
+		return answer.replaceAll("[ _,]", "").replaceAll("s++$", "");
 	}
 }
