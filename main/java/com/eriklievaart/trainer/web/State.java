@@ -54,6 +54,34 @@ public class State {
 		return;
 	}
 
+	public void correct() {
+		progression.get(current.get().getHash()).correct();
+		storeProgression();
+		nextQuestion();
+	}
+
+	public void incorrect() {
+		progression.get(current.get().getHash()).incorrect();
+		storeProgression();
+		nextQuestion();
+	}
+
+	public Remaining countRemaining() {
+		long now = System.currentTimeMillis();
+		Remaining r = new Remaining();
+
+		for (Question q : questions) {
+			Progress p = progression.get(q.getHash());
+			if (p.validUntil < now) {
+				r.total++;
+				if (p.isModified()) {
+					r.rehearse++;
+				}
+			}
+		}
+		return r;
+	}
+
 	private void loadProgress() {
 		if (!getProgressFile().isFile()) {
 			return;
@@ -70,18 +98,6 @@ public class State {
 		}
 	}
 
-	public void correct() {
-		progression.get(current.get().getHash()).correct();
-		storeProgression();
-		nextQuestion();
-	}
-
-	public void incorrect() {
-		progression.get(current.get().getHash()).incorrect();
-		storeProgression();
-		nextQuestion();
-	}
-
 	private void storeProgression() {
 		StringBuilderWrapper builder = new StringBuilderWrapper();
 		progression.forEach((key, p) -> {
@@ -94,11 +110,6 @@ public class State {
 
 	private File getProgressFile() {
 		return new File(JvmPaths.getJarDirOrRunDir(getClass()), "progress.txt");
-	}
-
-	public int countRemaining() {
-		long now = System.currentTimeMillis();
-		return ListTool.filter(questions, q -> progression.get(q.getHash()).validUntil < now).size();
 	}
 
 	public void setQuestionLoader(QuestionLoader loader) {

@@ -27,14 +27,18 @@ public class Questions {
 	}
 
 	private static void parseEqualsSign(List<Question> result, String line) {
-		String[] questionToAnswer = line.split("\\s*=\\s*", 2);
-		AssertionException.on(questionToAnswer.length != 2, "*ERROR* Invalid question: $", line);
-		result.add(new Question(questionToAnswer[1], ListTool.of(questionToAnswer[0].split("\\|"))));
+		String[] answersToQuestion = line.split("\\s*=\\s*", 2);
+		AssertionException.on(answersToQuestion.length != 2, "*ERROR* Invalid question: $", line);
+		result.add(new Question(answersToQuestion[1], parseAnswers(answersToQuestion[0])));
 	}
 
 	private static void parseQuestionMark(List<Question> result, String line) {
-		String[] questionToAnswer = line.split("\\s*\\?\\s*", 2);
-		AssertionException.on(questionToAnswer.length != 2, "*ERROR* Invalid question: $", line);
-		result.add(new Question(questionToAnswer[0] + "?", ListTool.of(questionToAnswer[1].split("\\|"))));
+		String[] questionToAnswers = line.split("\\s*\\?\\s*", 2);
+		AssertionException.on(questionToAnswers.length != 2, "*ERROR* Invalid question: $", line);
+		result.add(new Question(questionToAnswers[0] + "?", parseAnswers(questionToAnswers[1])));
+	}
+
+	private static List<String> parseAnswers(String answer) {
+		return ListTool.map(ListTool.of(answer.split("\\|")), s -> s.replaceAll("`", "|"));
 	}
 }

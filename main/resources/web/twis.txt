@@ -1,9 +1,9 @@
 
-Hoe noem je 1,2,3, ... ? natuurlijk getal | natural number
-Hoe noem je ... ,-3,-2,-1,0,1,2,3, ... ? integer
-Hoe noem je -√3, -√2, √2, √3 ? irrationeel getal | irrational number
+Hoe noem je een getal uit 1,2,3, ... ? natuurlijk getal | natural number
+Hoe noem je een getal uit ... ,-3,-2,-1,0,1,2,3, ... ? integer
+Hoe noem je een getal uit -√3, -√2, √2, √3 ? irrationeel getal | irrational number
+Hoe noem je een getal uit √-½, √-1, √-2? complex getal | complex number
 Hoe noem je een getal wat een rationeel of irrationeel getal kan zijn? echt getal | real number
-Hoe noem je √-½, √-1, √-2? complex getal | complex number
 Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kunnen worden? transcendente functie | transcendental function
 Hoe noem je een punt waarvoor de afgeleide 0 is, of geen waarde heeft? kritiek punt | critical point | stationary point
 Hoe noem je een punt waarop de tweede afgeleide 0 is? inflectie punt | inflection point
@@ -14,17 +14,18 @@ Hoe noem je een functie die symmetrisch is ten opzichte van de y-as? even
 Hoe noem je een functie waarvoor geldt dat f(-x) = f(x)? even
 Hoe noem je een functie waarvoor geldt dat f(-x) = -f(x)? oneven
 Hoe noem je een functie die ge-integreerd wordt? integrand
-Hoe noem je een integraal waarvoor begin en eindpunt zijn gedefinieerd? definite integral
+Hoe noem je een integraal waarvoor begin en eindpunt zijn gedefinieerd? bepaalde integraal | definite integral
 
 Hoe bereken je de discriminand? (-b +- sqrt(b2 - 4ac))/2a | (-b +- sqrt(b^2 - 4ac))/2a
 Hoe bereken je het even deel van een integraal?   1/2 [f(x) + f(-x)] | [f(x) + f(-x)]/2
 Hoe bereken je het oneven deel van een integraal? 1/2 [f(x) - f(-x)] | [f(x) - f(-x)]/2
-Hoe bereken je een volume bij omwentelen om de x-as? pi * integraal
+Hoe bereken je een volume bij omwentelen om de x-as? pi * integraal y^2 dx | pi * integraal y2 dx
+Hoe bereken je een volume bij omwentelen om de y-as? pi * integraal x^2 dy | pi * integraal x2 dy
 Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2)
 
 De teller staat boven/onder de breukstreep? boven | above
 De noemer staat boven/onder de breukstreep? onder | below
-Waar stat csc voor? cosec | cosecant
+Waar stat csc voor? cosec | cosecant | 1/sin(x)
 
 tan(x) == ____? sin(x)/cos(x)
 sin(x)/cos(x) == ____? tan(x)
@@ -36,6 +37,14 @@ cos(-x) == ____? cos(x)
 tan(-x) == ____? -tan(x)
 -tan(x) == ____? tan(-x)
 tan(x ± n·π) == ____? tan(x)
+sinh(x) = ____? (e^x - e^-x)/2
+cosh(x) = ____? (e^x + e^-x)/2
+tanh(x) = ____? sinh(x)/cosh(x) | (e^x - e^-x) / (e^x + e^-x)
+cosh(x) + sinh(x)? e^x
+cosh(x) - sinh(x)? e^-x
+
+30° in π? pi/6 | 1/6
+45° in π? pi/4 | 1/4
 
 stelling van pythagoras = ____? a2 + b2 = c2
 sinus regel == ____? sin(A)/a = sin(B)/b = sin(C)/c
@@ -69,15 +78,15 @@ ln(x) - ln(y)? ln(x/y)
 ln(x/y)? ln(x) - ln(y)
 ln(x^n)? n*ln(x) | n ln(x)
 n·ln(x)? ln(x^n)
-e^a·e^b? e^(a+b)
-e^(a+b)? e^a*e^b
+eᵃ·eᵇ? e^(a+b)
+eᵃ⁺ᵇ? e^a * e^b
 
 log[a](b)? log[c](b)/log[c](a) | log(b)/log(a) | log[a](c) * log[c](b)
 log(b)/log(a)? log[a](b)
 log[a](c) * log[c](b)? log[a](b)
 
 Definitie van de differentiaal? (f(x + dx) - f(x)) / dx
-Definitie van eˣ? sum(x^n/n!) | 1 + x/1! + x^2/2! + ...
+Definitie van eˣ? sum(x^n/n!) | 1 + x/1! + x^2/2! + ... | 1 + x/1! + x2/2! + ...
 
 Wat is de afgeleide van: c? 0
 Wat is de afgeleide van: xᵃ? ax^(a-1) | a*x^(a-1)
@@ -92,11 +101,11 @@ Wat is de afgeleide van: sin⁻¹(x/a)? 1/sqrt(a2 - x2) | 1/sqrt(a^2 - x^2)
 Wat is de afgeleide van: cos⁻¹(x/a)? -1/sqrt(a2 - x2) | -1/sqrt(a^2 - x^2)
 Wat is de afgeleide van: tan⁻¹(x/a)? a/(a2 + x2) | a/(a^2 + x^2)
 Wat is de afgeleide van: eˣ? e^x
-Wat is de afgeleide van: aˣ? a^x * ln(a) | a^x ln(a)
+Wat is de afgeleide van: aˣ? a^x * ln(a) | a^x ln(a) | a^x ln a
 Wat is de afgeleide van: cosh(x)? sinh(x)
 Wat is de afgeleide van: sinh(x)? cosh(x)
 Wat is de afgeleide van: ln(x)? 1/x
-Wat is de afgeleide van: logₐ(x)? 1/(x*ln(a)) | 1/(x ln(a))
+Wat is de afgeleide van: logₐ(x)? 1/(x*ln(a)) | 1/(x ln(a)) | 1/(x ln a)
 Wat is de afgeleide van: a·f(x)? a * f'(x) | a f'(x)
 Wat is de afgeleide van: f(x) + g(x)? f'(x) + g'(x)
 Wat is de afgeleide van: u*v? uv' + vu' | uv' + u'v | u'v + v'u | uv' + vu' | u'v + vu' | u'v + uv'
@@ -114,6 +123,88 @@ wat is ∫1/(ax+b) dx? (1/a) * ln(ax+b) + C |  (1/a) ln(ax+b) + C | ln(ax+b)/a +
 wat is ∫u dv?        u*v - ∫(v du) | u*v - ∫vdu | uv - ∫(v du) | uv - ∫vdu
 Wat is ∫ln(x)?       x ln(x) - x | x*ln(x)-x
 Wat is ∫e⁻ˣ voor a = 0 en b = ∞? 1
+
+i² = ? -1
+i⁻¹ = ? -i
+i⁴ⁿ = ? 1
+i⁴ⁿ⁺¹ = ? i
+i⁴ⁿ⁺² = ? -1
+i⁴ⁿ⁺³ = ? -i
+
+complex number?    z = x + iy | z = re^(i*arg)
+complex conjugate? z*= x - iy | z*= re^-(i*arg)
+½(z + z*) = ? x
+½(z - z*) = ? iy
+zz* = ? x2 + y2
+zz* | `z`2 = x² + y²
+|z|? sqrt(x2 + y2) | w(x2 + y2)
+`z`= √(x² + y²)
+imaginary x? r cos(arg) | r cos arg
+imaginary y? r sin(arg) | r sin arg | r*sin(arg) | r*sin arg
+x = r cos(θ)
+y = r sin(θ)
+How to calculate arg from x and y? arg = tan-1(y/x) | tan-1(y/x) | arctan(y/x) | arctan(y/x)
+z₁z₂? r1r2(cos(arg1 + arg2) + i sin(arg1 + arg2))
+z1 * z2 | z1z2 = r₁r₂(cos(θ₁ + θ₂) + i sin(θ₁ - θ₂))
+z₁/z₂? r1/r2(cos(arg1 - arg2) + i sin(arg1 - arg2))
+z1/z2= r1/r2(cos(θ₁ - θ₂) + i sin(θ₁ - θ₂))
+z⁻¹?  1/r(cos(arg) - i sin(arg)) | 1/r e^-(i*arg) | 1/(x+iy)
+z-1 = 1/r(cos(θ) - i sin(θ))
+arg(z₁z₂)? arg(z1) + arg(z2)
+arg(z1z2) | arg(z1*z2) = arg(z₁) + arg(z₂)
+|z₁·z₂|? `z1` * `z2`
+`z1z2`|`z1*z2`= |z1| * |z2|
+(cos(θ) + i sin(θ))⁻ⁿ? cos(n*arg) - i sin(n*arg) | cos(n arg) - i sin(n arg)
+(cos(arg) + i sin(arg))^-n = cos(n*θ) - i sin(n*θ) | z^-n
+
+complex function f(x)? g(x) + ih(x)
+f*(x) = g(x) - i·h(x)
+complex function f*(x) ? g(x) - i*h(x) | g(x) - i h(x)
+complex function f(x)·f*(x) ? `f(x)`2 | g(x)2 + h(x)2 | g2(x) + h2(x)
+f(x) * f*(x) | f(x)f*(x) | `f(x)`2 = complex functions: g(x)² + h(x)²
+
+e^iθ ? cos(arg) + i sin(arg)
+e^-iθ ? cos(arg) - i sin(arg)
+cosθ + i sinθ as power series? e^(i*arg)
+cosθ - i sinθ as power series? e^-(i*arg)
+
+z = e^iθ, zz* = ____? e^(i*arg) · e^-(i*arg) | e^0 | 1
+z = re^iθ
+z* = re^-iθ
+z-1 = 1/r e^-iθ
+e^iπ ? -1
+(e^iθ)ⁿ? (cos(arg) + i sin(arg))^n | cos(n*arg) + i*sin(n*arg) | cos(n*arg) + i sin(n*arg)
+x’ ? x cos(arg) - y sin(arg)
+x' = x cosθ - y sinθ
+y’ ? x sin(arg) - y cos(arg)
+y' = x sinθ - y cosθ
+
+cos(arg) = ½(e^iθ + e^-iθ)
+sin(arg) = (e^iθ - e^-iθ)/2i
+cosθ as power series? e^(i*arg)/2 + e^-(i*arg)/2
+sinθ as power series? e^(i*arg)/2i + e^-(i*arg)/2i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

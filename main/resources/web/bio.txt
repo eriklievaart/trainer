@@ -1,0 +1,516 @@
+emergent properties = new properties arising with each step upwards in the hierarchy of life, owing to interaction between parts
+systems biology = analysis of interactions between parts of complex biological systems
+biosphere = the entire portion of earth inhabited by life
+ecosystem = all living and non-living components of an area
+community = all organisms in an ecosystem
+population = group of species that interbreed
+organism = individual living thing
+organ = group of tissues performing a specialized function
+tissue = group of cells performing a specialized function
+cell = an organisms fundamental unit of structure and function
+organelle = functional component present in cell
+molecule = chemical structure of 2 or more atoms
+membrane = encloses cell, regulates what passes in and out from the environment
+amphipathic = half hydrophilic, half hydrophobic
+prokaryotic cell = type of cell in single cell organisms
+eukaryotic cell = type of cell in multi-cell organisms
+gene = section of DNA chromosome, unit of inheritance, defines the blueprint for creating proteins
+gene expression = genes are transcribed into RNA, which is translated into protein building blocks called amino acids
+nucleotide = building block for defining a gene.
+genome = all genetic instructions an organism inherits
+What are the 4 types of pyrimidines and purines present in DNA? adenine, cytosine, guanine, thymine
+What are the 4 types of pyrimidines and purines present in RNA? adenine, cytosine, guanine, uracil
+proteomics = large scale study of proteins
+bioinformatics = studying large biological datasets with computer assistance
+consumer = organism that feeds on other organisms or their remains
+producer = organisms that make their own food (plants, bacteria and protists)
+feedback regulation = the output of a process regulates that very process
+negative feedback loop | negative feedback = process output reduces initial stimulus. It is the most common form of feedback.
+climate change = directional change to climate that lasts at least 3 decades
+evolution = process by which species accumulate differences from their ancestors
+eukarya = multi-cell organisms
+plantae = eukarya subgroup of organisms that produce food through photosynthesis
+fungi = eukarya subgroup that absorb nutrients in dissolved form from environment
+animalia = eukarya subgroup that eats and digests other organisms
+protist = diverse eukarya subgroup of mostly unicellular organisms
+induction = generalization derived from large numbers of observations
+deductive reasoning = predictions about specifics based on a general rule
+controlled experiment = experiment that compares experiment group against a control group
+independent variable = factor manipulated by the researchers
+dependent variable = factor being measured, predicted to be affected by the independent variable
+theory = general rule that is broader than a hypothesis and can even be used to generate multiple hypotheses. Is generally supported by a body of evidence
+model organism = species that is easy to grow and suitable for use in research
+hydrogen bond = when the positive charge of a H atom in a covalent bond allows it to be attracted to another negatively charged atom
+van der waals interaction | van der waals force = the non-uniform distribution of charge on an neutrally charged molecule may cause attraction to other atoms
+chemical equilibrium = when a reversible chemical reaction has reached a state of balance, because both directions process equally often.
+cohesion = the phenomenon where hydrogen bonds hold a substance together
+surface tension = a measure of how difficult it is to stretch or break the surface of a liquid
+adhesion = the clinging of one substance to another
+thermal energy = the kinetic energy of atoms or molecules (total kinetic energy)
+temperature = the average kinetic energy of the molecules in a body of matter
+heat = termal energy transfer from body of matter to another
+calorie = the amount of heat that 1g of water releases when it cools by 1°C
+kilocalorie = the amount of heat that 1kg of water releases when it cools by 1°C
+joule = 0.239 calories
+specific heat = the amount of heat that must be absorbed or lost for 1g of that substance to change by 1°C
+vaporization | evaporization = transitioning from liquid to gas
+heat of vaporization = the quantity of heat a liquid must absorb for 1g of it to be converted from liquid to gas
+evaporative cooling = the surface of a liquid cools down when a liquid evaporates (due to the hottest molecules leaving)
+solution = homogeneous mixture of two or more substances
+solvent = dissolving agent
+solute = the substance that is dissolved
+aqueous solution = solution where the solvent is water
+hydration shell = sphere of water molecules around a dissolved ion
+hydrophilic = has an affinity for water
+hydrophobic = repels water
+ocean acidification = The absorbtion of CO₂ by the ocean, causing it to become more acidic, through the formation of carbonic acid
+hydrocarbon = organic molecules consisting of only carbon (C) and hydrogen (H)
+isomers = compounds that have the same number of atoms, but are different
+structural isomer = isomer that differs in the covalent arrangement of its atoms
+cis-trans isomer = isomer that has identical covalent bonds, but a different structural arrangement
+enantiomer = mirrored isomer that contains an asymmetric carbon
+asymmetric carbon = carbon attached to 4 different atoms or groups of atoms
+adenosine triphosphate | ATP = organic molecule with three phosphate groups attached
+adenosine = organic part of a molecule that is part of a adenosine triphosphate
+macromolecule = large carbohydrate, protein or acid
+polymer = long molecule containing many identical blocks
+monomer = repeating section of a polymere
+enzyme = specialized molecule that speeds up construction and destruction of polymers
+condensation reaction = connecting two monomeres together
+dehydration reaction = condensation reaction in which a water molecule is lost
+hydrolysis = breaking a polymere in two, using a water molecule
+carbohydrate = sugar or polymer of sugars
+monosaccharide = sugars n·(CH₂O)
+glucose | galactose | fructose = C₆H₁₂O₆
+disaccharide = two monosaccharides joined together by a glycosidic linkage
+glycosidic linkage = a covalent bond formed between two monosaccharides by a hydration reaction
+polysaccharide = polymer with hundreds to thousands of monosaccharides joined by glycosidic linkages
+starch = a polymere of glucose monomers, that plants use to store energy
+glycocen = a polymere of glucose monomers, that animals use to store energy
+cellulose = a polysaccharide used to build cell walls. It is a isomer of starch
+microfibril = group of cellulose molecules held together through hydrogen bonds
+chitin = a polysaccharide containing a nitrogen atom, used by arthropods to create exoskeletons
+lipids = large non-polymere molecules that are hydrophobic including: fats, phospholipids and steroids
+fat | triglycerol | triglyceride = glycerol molecules joined together with fatty acids through dehydration
+glycerol = an alcohol with 3 hydroxyl groups
+fatty acid = a long carboskeleton containing a carboxyl group
+saturated fatty acid = fatty acid, without any double bonds on carbon atoms
+unsaturated fatty acid = fatty acid containing one or more double bonds between carbon atoms
+trans fatty acid = unsaturated fatty acid with double bonds in trans configuration, leading to slightly straighter molecules.
+phospholipid = similar to a fat, but with one hydroxyl group bound to a phosphate group instead of a fatty acid
+bilayer = film of double layered phospholipids that forms when phospholipids are in water
+steroids = group of lipids containing 4 fused carbon rings, used to create cell membranes
+cholesterol = type of steroid common in animals, used to build cells
+peptide bond = bond between amino acids, formed by a dehydration reaction between the amino group of one amino acid and the carboxyl group of another
+polypeptide = polymer of amino acids
+protein = biologically functional molecule made up of multiple polypeptides
+catalyst = chemical agent that selectively speeds up chemical reactions, without being consumed in the process
+amino acid = organic molecule with an amino group and a carboxyl group attached to a single carbon atom
+fibrous protein = classification of protein that is shaped like long fibers
+globular protein = Protein that acts as enzyme, messenger, transport, regulator or structural protein. It is roughly circular.
+primary structure = how do we call a protein's sequence of amino acids.
+secondary structure = coils and folds that contribute to the protein's overal shape.
+tertiary structure = overal shape of the polypeptide, resulting from interactions between the side chains (R-groups) of the amino acids.
+quarternary structure = overal protein structure formed by aggregation of two or more polypeptide chains in certain proteins
+alpha helix = delicate coil formed by a hydrogenbond between every fourth amino acid.
+beta pleated sheet = straight polypeptide chains lying side by side, bound by hydrogen bonds
+hydrophobic interaction = when hydrophobic (non-polar) side chains of a protein end up in a cluster in the center of the protein.
+sickle cell disease = genetic blood disorder, caused by the substitution of one amino acid by another in the hemoglobin protein, responsible for carrying oxygen
+denaturation = A protein's loss of its natural shape. This can happen if the PH, temperature salt concentration or other aspects of the environment are altered
+renaturation = restoring a protein's native structure
+X-ray crystallography | xray crystallography = technique for determining the 3D structure of a protein, through means of firing an X-ray at the protein and measuring the diffraction.
+Nuclear magnetic resonance | cryo-electron microscopy | bioinformatics = alternative methods of determining the 3D structure of proteins
+intrinsically disordered protein = flexible reshapable protein, that doesn't take on their target structure until they interact with its target protein or molecule.
+gene = discrete unit of inheritance defining the amino acid sequence of a polypeptide
+nucleic acid = polymers made of monomers called nucleotides
+deoxyribonucleic acid | DNA = fixed type of nucleic acid containing directions for its own replication and RNA synthesis
+ribonucleic acid | RNA = transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell
+messenger RNA | mRNA = type of RNA that interacts with the cell's protein synthesizing machinery to produce a polypeptide, which fold into all or part of a proteins
+gene expression = the process through which DNA directs RNA synthesis, which in turn controls protein synthesis
+ribosome = sites of protein synthesis (for eukaryotic cells these are in the cytoplasm - the region between nucleus and outer boundary)
+polynucleotide = polymer of nucleotides
+nucleotide = monomer composed of three parts 1) a pentose (5 carbon sugar) 2) nitrogen base 3) one to three phosphate groups
+nucleoside = nucleotide without the phosphate groups
+nitrogen base = one or two carbon rings containing nitrogen atoms that are used in nucleotides
+deoxyribose = sugar used in DNA
+sugar phosphate backbone = repeating pattern of sugars and phosphate groups that link together a DNA molecule
+3' end | 3' = end of the DNA molecule containing a hydroxyl group
+5' end | 5' = end of the DNA molecule containing a phosphate group
+double helix = structure of a DNA molecule in which two sugar-phosphate backbones run in opposite directions from each other
+genomics = interdisciplinary field of biology focusing on the structure, function, evolution, mapping, and editing of genomes
+proteomics = field of study that examines large sets of proteins
+light microscope = microscope that passes light through a specimen and then through a glass lenses (can see objects smaller than a micrometer)
+electron microscope = microscope that focuses a beam of electrons onto an object (can see objects under 10 nanometer)
+scanning electron microscope = microscope that scans the surface of the sample, usually coated with a thin film of gold
+transmission electron microscope = microscope used to study internal structure of cells
+magnification = ratio of object size to image size
+resolution = measure of the clarity of an image
+contrast = difference between light and dark areas of an image
+cytology = the study of cell structures
+biochemistry = the study of chemical processes of cells
+cell fractionation = technique that separates major organelles and other subcellular structures (uses differential centrifugation)
+differential centrifugation = method to separate organelles by spinning tubes at a series of increasing speeds
+plasma membrane = selective barrier, made of bilayer phospholipids, that allows transfer of oxygen, nutrients and waste.
+cytosol = a liquid matrix around the organelles, semifluid jellylike substance
+chromosome = carry genes in the form of DNA
+cytoplasma = interior of cell, for eukaryotic cells, this excludes the nucleus
+nuclear envelope = double membrane enclosing nucleus
+nucleolus = produces ribosomes
+chromatin = material used to make chromosomes, consisting of proteins and DNA
+endoplasmatic reticulum = massive net of membranes, the transportation system of the eukaryotic cell, and has many other important functions such as protein folding.
+smooth ER = ER without ribosomes; synthesizes lipids, metabolizes carbohydrates, detoxifies drugs and poisons, stores calcum ions
+rough ER = ER studded on outer surface with robosomes; makes secretory proteins and is a membrane factory for the cell
+ribosome = complexes that make proteins. Free in cytosol or bound to rough ER or nuclear envelope
+plasma membrane = membrane enclosing cell
+golgi apparatus = synthesizes, modifies, sorts and secretes cell products (products of the ER, such as proteins)
+mitochondrion | mitochondria = cellular respiration occurs here, generates ATP (energy) from sugars, fats and other fuels; cells often have hundreds of them
+peroxisome = specialized metabolic functions; produces H₂O₂ and then converts it to water
+cytoskeleton = reinforces cell shape; functions in cell movement
+microfilaments intermediate filaments microtubules | microfilament intermediate filament microtubule = list the three elements in the cytoskeleton small to large
+microfilament = [rods, twisted double chain] thinnest cytoskeleton fiber; anchors nucleus
+intermediate filament = performs muscle contraction; only in some animals
+microtubule = [pipes] thickest cytoskeleton fiber; moves organelles
+lysosome = digestive (acidic) organelle where macromolecules are hydrolized, breaks down excess or worn out cell parts
+the PH of a lysosome is ____? accidic
+microvili = membrane projections that increase cell surface area
+centrosome = area near nucleus that initiates microtubules
+flagellum | flagella = hairlike structure present in some animal cells to create motility
+central vacuole = prominent organelle in older plant cells. Stores and breaks down waste products, hydrolyses macromolecules
+chloroplast = photosynthetic organelle; converts solar energy into chemical energy; double membraned organelle
+plasmodesmata = cytoplasmatic channels through cell walls that connect to cytoplasms of adjacent cells
+cell wall = outer layer that protects cell; made of cellulose, other polysaccharides and protein
+pancreas = organ that makes digestive enzymes
+endomembrane system = includes nuclear envelope, endoplasmatic reticulum, golgi apparatus, lysosomes, various kind of vesicles & vacuoles and the plasma membrane.
+vesicle = sac made of membrane
+transport vesicle = moves ER products to the golgi apparatus
+cis face = This side of the golgi apparatus receives cell products produced by the ER. It faces the nucleus.
+trans face = This side of the golgi apparatus ships cell products. It faces away from the nucleus.
+cisternae = group of associated flattened membraneous sacs in the golgi apparatus
+autophagy = recycling a cells own genetic material (in lysosome)
+vacuole = large vesicle derived from the endoplasmatic reticulum, selectively stores and transports solutes
+endosymbiont = cell living within a cell
+endosymbiont theory = in the past a host cell engulfed a prokaryotic cell (mitochondria / chloroplast) and they started living in a symbiotic relationship
+cristae = infoldings in the inner membrane of a mitochondrion
+intermembrane space = space between a mitochonrion's inner membrane and its outer membrane
+mitochondrial matrix = space inside a mitochondrion's inner membrane; contains DNA, ribosomes and enzymes
+extracellular matrix | ECM = regulates a cell's behavior by communicating through integrins
+integrin = cell surface receptor proteins
+chlorophyll = green pigment found in chloroplasts
+thylakoid = interconnected sacs of membranes in chloroplasts
+stroma = fluid covering thylakoids, surrounded by two membranes containing a third membrane system
+primary cell wall = thin initial cell wall of a young plant
+middle lamella = glues primary walls of cells together
+secondary cell wall = stronger cell wall between plasma membrane and primary cell wall. Present in mature cells of some, but not all plants
+plasmodesmata = channels in plant cell walls, that connect cells
+cell motility | motility = includes cell movement and movement of cell parts
+motor protein = moves whole cells to along fibers outside the cell & moves vesicles and other organelles inside cell along cytoskeleton track
+flagellum | flagella = squiggly tail made of microtubules on a cell that allows it to move, cells rarely contain more than a few
+cilia = protrusions from cells made of microtubules, that work as antennas (in which case there is one) or for movement (in which case there are many)
+dyneins = large motor proteins that move flagella & cilia
+mosaic aspect = membranes consist of a collage of different proteins. The composition is different for different species.
+selective permeability = the membrane chooses which substances pass the membrane and which ones don't
+transport protein = protein that allows a specific substance to cross the membrane
+channel protein = hydrophilic channel that certain ions or molecules use to cross the membrane
+aquaporin = channel protein specifically for water
+ion channel = channel protein that transport ions
+gated channel = channel that opens or closes in response to a stimilus, most ion channels are of this type
+integral protein = any protein which has a special functional region for the purpose of securing its position within the cellular membrane.
+transmembrane protein = protein that spans the membrane (the majority)
+peripheral protein = protein loosely bound to the surface of a membrane
+glycolipid = covalently bound carbohydrate or lipid
+glycoprotein = covalently bound carbohydrates and proteins
+blood type = the variation of carbohydrates on the glycoproteins on the surface of blood cells
+diffusion = automatic spreading of a substance across a space, does not require energy
+passive transport = diffusion of substance across a biological membrane. Much of the traffic across cell membranes works this way
+facilitated diffusion = passive transport of molecules and ions that can't pass the membrane normally, but can pass through transport proteins
+osmosis = the diffusion of free water across a selectively permeable membrane, whether artificial or cellular
+tonicity = the ability of a surrounding solution to cause a cell to gain or lose water
+active transport = pumping a solute across the membrane against its gradient. This requires energy (ATP).
+sodium potassium pump = active transport protein that exchanges Na⁺ for K⁺, to keep potassium (sodium) levels high (low) in the cell
+proton pump = protein often found in plants, which pumps hydrogen ions (H⁺) out of cells
+exocytosis = cells secrete certain molecules, by transporting them in vesicles and then fusing those vesicles with the cell membrane
+endocytosis = cells absorb certain molecules, by forming a vesicle from part of the membrane and splitting it off
+hypertonic = cell has more water than the environment; the cell will lose water, shrivel and probably die
+isotonic = cell has similar amount of water as environment, no movement takes place
+hypotonic = cell has less water than the environment; the cell will swell and burst
+osmoregulation = control mechanism for solute concentrations and water balance
+turgor pressure = pressure of cell wall on cell that prevents more water uptake in hypotonic environment.
+turgid = healthy state of cell, where turgor pressure is keeping the cell firm
+flacid = cell is in isotonic environment, causing a lack of pressure and stability. The plant and goes limp and wilts.
+plasmosis = cell is in hypertonic environment, loses water quickly and dies.
+membrane potential = difference in charge between cations and anions on both sides of a membrane
+electrochemical gradient = combination of the electrical force and the chemical force driving the diffusion of ions across a membrane
+electrogenic pump = transport protein that generate voltage across a membrane
+cotransport = transporting a solute against the concentration gradient for free, by coupling it with a solute that is going along its gradient
+plasmodesmata = only in plants; exchange water and solutes between cells, possibly proteins and RNA.
+desmosome = connects cells and muscles
+tight junction = prevents leakage of fluids (for example through skin)
+gap junction = passageway between cells, which allow cells to exchange substances (ions, sugars, amino acids & small molecules)
+open system = energy and matter can be transferred to the system's surroundings
+isolated system = energy and matter are locked into the system
+entropy = measure of molecular disorder
+energy = capacity to cause change
+kinetic energy = energy associated with motion
+thermal energy = energy associated with random movements of molecules
+heat = thermal energy in transfer from one object to another
+potential energy = energy that is not kinetic
+chemical energy = potential energy available for release in a chemical reaction
+free energy = portion of a System's energy that can work when temperature and pressure are constant
+equilibrium = stable state (a cell in this state is dead)
+bioenergetics = the study of how energy flows through living organisms
+activation energy = the energy required to start a reaction (for breaking chemical bonds)
+metabolism = the totality of an organisms chemical reactions
+metabolic pathway = series of steps in which a molecule is repeatedly modified, catalyzed by enzymes
+catabolic pathway = degradative process which break down complex molecules and release energy
+anabolic pathway | biosynthetic pathway = consumes energy to build complicated molecules
+exergonic reaction = chemical reaction that is spontaneous
+endergonic reaction = chemical reaction that absorbs free energy from the environment
+energy coupling = the use of an exergonic process to drive an endergonic one
+adenosine triphosphate | ATP = energy molecule that powers cellular work
+phosphorylation = the transfer of a phosphate group from ATP to some other molecule
+phosphorylated intermediate = recipient molecule of the phosphate group (a key component in energy coupling)
+ATP cycle = the repeated coupling and decoupling of phosphate groups in a cell
+transport work = pumping substances across membranes
+substrate = reactant an enzyme works on
+enzyme substrate = enzyme with a substrate bound to it (reaction is in process)
+active site = part of the enzyme that binds to the substrate
+induced fit = tightening of an enzyme around a substrate after initial contact
+cofactors = nonprotein helpers for catalytic activity required by some enzymes
+coenzyme = works with an enzyme to initiate or aid the function of the enzyme
+competitive inhibitor = blocks enzyme working by clogging the active site
+noncompetitive inhibitor = blocks enzyme working, by binding outside of the active site, causing the protein to lose its functional shape
+allosteric regulation = any case in which protein function is affected by the binding of a regulatory molecule to a separate site
+cooperativity = when a substrate binding to one active site of a multisubunit enzyme, raises the effectiveness of other active sites in the enzyme
+feedback inhibition = halting a metabolic pathway, by binding the end product to an enzyme that works early in the pathway
+catabolic pathway = metabolic pathway that releases stored energy by breaking down complex molecules
+aerobic respiration = the most efficient catabolic pathway; organic fuels react with oxygen
+anaerobic respiration = process which harvests chemical energy, through an electron transport chain, without oxygen (some prokaryotes)
+fermentation = a partial degradation of organic fuels (usually sugars) without oxygen without an electron transport chain
+cellular respiration = both anaerobic & aerobic processess
+nicotinamide adenine dinucleotide = coenzyme suited as electron carrier: NAD⁺ ↔ NADH
+dehydrogenase = enzyme that removes a pair of hydrogen atoms from substrate (glucose) and delivers one proton plus 2 electrons to NAD⁺ → NADH
+electron transport chain = process breaking respiration H → H₂O into several smaller, less explosive steps
+substrate level phosphorylation | substrate-level phosphorylation = when an enzyme transfers a phosphate group from a substrate molecule to ADP
+acetyl coenzyme A | acetyl CoA = molecule used to transfer the acetyl group in citric acid cycle, contains high potential energy
+glycolysis = breaks glucose in two compounds called pyruvate
+pyruvate oxidation = phase that oxidizes pyruvate into acetyl CoA; takes place in mitochondria (eukaryotecells) or cytosol (pokaryote cells)
+citric acid cycle = process that completes breakdown of glucose to CO₂
+oxidative phosphorylation = combines O₂ with H⁺ and electrons from NADH or FADH₂ / electron transport and chemiosmosis
+electron transport chain = collection of molecules, that transport electrons, located in the inner membrane of mitochondrion (eukaryote cells) or in the plasma membrane (prokaryote cells)
+cytochrome = downhill electron carriers that have an iron atom, which accepts and donates electrons
+chemiosmosis = using the difference in ion charge across a membrane to power cellular work (such as ATP synthesis)
+proton-motive force | proton motive force = H⁺ gradient that has the capacity to perform work
+ATP synthase = the enzyme that makes ATP from ADP and inorganic phosphate
+alcohol fermentation = splits one CO₂ molecule off of pyruvate C₃O₃H₃, creating Acetyldehyde C₂OH₄, then takes 2 protons from 2 NADH to form ethanol C₂H₆O.
+lactic acid fermentation = takes 2 protons from 2 NADH and uses them to transform pyruvate C₃O₃H₃, into lactate C₃O₃H₅. No CO₂ is formed.
+obligates anaerobe = organism that dies in the presence of oxygen; carries out fermentation or anaerobic respiration
+facultative anaerobe = organism (yeast and many bacteria) that can live with or without oxygen and make ATP through fermentation or respiration
+deanimation = removing the amino group of a protein, the amino group is excreted as ammonia, urea or other waste products
+deanimation = removing an amino group from an amino acid, in order to make it suitable as a fuel for aerobic respiration
+beta oxidation = breaking a fatty acid down into two-carbon fragments (acetyl CoA), for aerobic respiration
+photosynthesis = the process of converting sunlight into chemical energy stored in sugars and other organic molecules
+autotrophs | producers = organisms that sustain themselves without eating anything derived from other living beings
+photoautotroph = organism that uses light as a source of energy to synthesize organic substances
+heterotrophs = organisms that live on other organisms
+decomposer = heterotroph that feed on dead organisms or excrements
+chloroplast = organelle in eukaryotes that absorbs energy from sunlight and uses it to drive the synthesis of organic compounds
+stomata = microscopic pores used to breathe in CO₂ and breathe out O₂; can be closed during hot weather, to prevent water loss
+granum | grana = stacked columns of thylakoid sacs
+pigment = substance that absorbs visible light
+spectrophotometer = device that measures the absorption of various wavelengths of light
+absorption spectrum = graph plotting the absorption of various wavelengths
+chlorophyll = green pigment in thylakoid membranes
+chlorophyll-a = primary light capturing pigment, participating directly in light reactions (mainly violet-blue & red light)
+chlorophyll-b = light capturing acessory pigment (mainly blue & orange); structurally similar, has one CH₃ group replaced with CHO
+carotenoid = photosynthesis acessory pigments (mostly blue, somewhat violet)
+photoprotection = carotenoids have an important secondary function; they dissipate excessive light, that would damage chlorophyll and interact with oxygen
+primary electron acceptor = molecule capable of accepting electrons and becoming reduced
+photophosphorylation = Phosphorylation induced by radiant energy in photosynthesis. Generates ATP through chemiosmosis
+carbon fixation = the process by which inorganic carbon (particularly in the form of carbon dioxide) is converted to organic compounds by living organisms.
+reaction center complex = organized association of proteins holding chlorophyll-a molecules and electron acceptors
+light harvesting complex = collection of pigment molecules bound to proteins; light antenna for reaction center complex
+photosystem II = system best at absorbing 680 nm light
+photosystem  I = system best at absorbing 700 nm light
+linear electron flow = flow of electrons through the photosystems
+cyclic electron flow = alternate path that uses PSI, but not PSII
+C3 plant = plant that produces 3-phosphoglycerate as a product of carbon fixation
+photorespiration = occurs in light, consumes O₂ and produces CO₂; requires ATP
+C4 plant = plant that prefaces the carbon cycle with 4-carbon compounds
+crassulacean acid metabolism plant | CAM plant = plant that opens its stomata at night and closes it during the day
+quorum sensing = the ability of bacteria, to detect other bacteria through secreted molecules
+signal transduction pathway = mechanism through which bacteria communicate
+endocrine signaling = specialized cells release hormones, which travel through the circulatory sytem towards cells that can recognize them and respond
+protein kinase = enzyme that transfers a phosphate group to a protein; often used in transduction pathways
+protein phosphatase = enzymes that rapidly remove phosphate groups from proteins (dephosphorylation)
+dephosphorylation = removal of phosphate group from proteins
+second messenger | secondary messenger = molecule that relays messages in a cell from receptor to target where an action takes place
+cyclic AMP | cyclic adenosine monophosphate = a small molecule produced from ATP by the enzyme adenylyl cyclase
+growth factor = signaling molecule that stimulates cell division
+synaptic signaling = an electric pulse triggers the secretion of neurotransmitter molecules
+hormone = long distance signaling molecule
+signal reception = phase where signaling molecule binds to a receptor protein
+signal transduction = phase that converts the signal to a form that causes cellular change
+cellular response = phase where any imaginable cellular activity occurs in response to the signal
+G protein coupled receptor | G-protein coupled receptor | GPCRs = receptor that works with a G-protein, a protein that binds the energy rich molecule GTP
+G protein coupled receptor | G-protein coupled receptor | GPCRs = largest group of human cell surface receptors
+GTP = energy source for G-protein coupled receptors
+GDP = inactive form of energy source for G-protein coupled receptors
+receptor tyrosene kinase | RTK = cell receptor that is a protein kinase - an enzyme that catalyzes the transfer of phosphate groups to another enzyme
+ATP = RTK energy source
+dimer = two receptor monomers sticking closely together
+ion channel receptor = acts as a gate, allowing or blocking the flow of certain ions
+relay molecule = molecule used from receptor to response in a signal transduction pathway
+scaffolding protein = large protein, with several attached relay proteins
+signal amplification = when the number of activated products is much greater than that in previous steps
+response termination = all processes have some way of returning to their inactive form
+apoptosis = cellular suicide
+meiosis = special kind of cell division used to produce sperm and eggs, which have only one set of chromosomes
+genome = a cell's DNA; it's genetic information
+somatic cell = any type of cell that is not a reproductive cell
+gamete = reproductive cell (sperm & eggs); has half the chromosomes of somatic cells
+cohesin = protein complexes that run across whole length of DNA molecule and attach the two sister chromatids
+cell cycle = life of the cell from the time it is formed (due to cell division) up to its own division
+mitotic phase | M-phase = cell division phase (10% of cell cycle)
+mitosis = division of the genetic material in the nucleus (during cell division)
+cytokinesis = division of the cytoplasma (during cell division)
+interphase = 90% of cell cycle
+G1 phase = cell lifecycle phase of metabolic activity and growth
+S phase | S-phase = cell lifecycle phase of metabolic activity, growth and DNA synthesis
+G2 phase = cell lifecycle phase of metabolic activity, growth and preparation for cell division; centrosome is duplicated
+G0 phase = cell lifecycle phase, where a cell no longer divides
+chromosome = a long DNA molecule with part or all of the genetic material of an organism; can contain one or two chromatids
+chromatin = entire complex of DNA and proteins, that is the building material of chromosomes
+sister chromatids = the two strains of DNA, that contain identical copies of chromosomes
+nucleolus = largest structure in the nucleus; produces ribosomes
+centrosome = area near nucleas that contains 2 centrioles and initiates microtubules (cell division)
+centromere = region in the chromosomal DNA where a chromatid is attached closely to its sister chromatid; knot between 2 chromatids
+mitotic spindle = microtubule fibers between the two centrosomes used to separate the sister chromatids; constructed from microtubules of the cytoskeleton
+centriole = barrel shaped organelle within centrosome (ring met rietjes); they organize microtubuli in the cytoplasm
+kinetochore = attachment points for microtubuli on a sister chromatid, used to pull the chromosome in two
+separase = enzyme that separates sister chromatids at the beginning of the anaphase
+nonkinetochore tubules = microtubules that are not attached to kinetochores, but reach the opposite pole by the end of the metaphase
+binary fission = doubling of size of a prokaryote cell, then dividing into two
+origin of replication = only for some bacteria: place in the DNA where replication starts and produces a secondary origin, which moves to opposide side of cell
+cell cycle control system = cyclically operating set of molecules in a cell that both triggers and coordinates key events in the cell cycle
+Cyclin dependent kinase | Cdk = enzyme that has to be attached to cyclin (a protein)
+Maturation promoting factor | MPF = a CDK that triggers the cell's passage past the G₂ checkpoint, initiating mitosis
+growth factor = a protein released by certain cells that stimulates other cells to divide
+density dependent inhibition = a phenomenon, where crowded cells stop dividing
+anchorage dependence = many animal cells will only divide if attached to something (e.g. culture flask of extracellular matrix of tissue)
+transformation = a process through which cells acquire to divide indefinitely, behaving like cancer cells
+benign tumor = cancer cells that can't move or survive at another site, due to their genetic and celular changes
+malignant tumor = cancer cells able to spread to other tissues; also called transformed cells
+metastasis = the spreading of cancer cells to locations distant from their original site
+nucleoid = space where genetic information is stored in prokaryotic cell
+nucleus = space where genetic information is stored in eukaryotic cell
+
+CH3 = formula of methyl group
+CO = formula of carbonyl group
+COOH = formula of carboxyl group
+PO4 2- = formula of phosphate group
+NH2 = formula of amino group
+SH = formula of sulfhydryl group
+
+What is the name of the -CH₃ group? Methyl
+What is the name of the -CO group? carbonyl
+What is the name of the -COOH group? carboxyl
+What is the name of the -PO₄²⁻ group? phosphate
+What is the name of the -NH₂ group? amino
+What is the name of the -SH group? sulfhydryl
+
+What is the function of the -OH group? dissolve compound | dissolve sugar | dissolving compound | dissolving sugar
+What is the function of the -COOH group? donate proton | donate H+
+What is the function of the -PO₄²⁻ group? release energy
+What is the function of the -NH₂ group? accept proton | accept H+
+What is the function of the -SH group? stabilize protein structure | stabilizing protein structure
+What is the function of the -CH₃ group? affect gene expression
+
+Where is RNA synthesized? nucleolus
+Where are lipids, steroids and phospholipids synthesized? smooth ER | smooth endoplasmatic reticulum
+Where are membranes (their building blocks) synthesized? rough ER | rough endoplasmatic reticulum
+Where is the DNA of a chloroplast located? stroma
+Where does glycolysis take place? cytosol
+Where does phosphorylation take place? electron transport chain
+Where do we find the electron transport chain? cristae | mitochondrial inner membrane | inner membrane
+Where does the calvin cycle take place? stroma
+Where do plants get their electrons for chemiosmosis? H2O | water
+
+What are the three types of animal junctions? desmosome gap junction tight junction | demosomes gap junctions tight junctions
+What is the only type of protein that moves a solute against its gradient? carrier protein
+What is the full name of RTK? receptor tyrosene kinase
+What is the full name of GPCR? G-protein coupled receptor | G protein coupled receptor
+What are the 3 phases in the signal transduction pathway? signal reception, signal transduction, cellular response
+What kind of messenger molecule does endocryne signaling use? hormone
+What are the most common second messengers? Ca2+ cyclic AMP
+What are the stages of cellular respiration? glycolysis, pyruvate oxidation, citric acid cycle, oxidative phosphorylation
+What are the two main stages of glycolysis? energy investment phase, energy payoff phase
+What is formed at the end of the electron transport chain? water | H2O
+What is generated with the energy of the electron transport chain? H+ gradient
+What is the full name of NAD? nicotinamide adenine dinucleotide
+What molecule(s) does glycolysis turn glucose into? pyruvate
+What is the cellular respiration input of mitochondria? pyruvate
+What electron carriers are involved in cellular respiration? NAD + FAD | NAD FAD
+What is oxidative phosphorylation used for in cells? ATP synthesis
+What is the net yield of glycolysis? 2ATP + 2NADH
+What process uses a H⁺ gradient to synthesize ATP? chemiosmosis
+What formula starts the cyclic acid cycle? acetyl CoA + Oxaloacetate -> citrate
+What is the input molecule for the cyclic acid cycle? acetyl CoA
+What does -lysis stand for? split | splitting | to split | separate | separation | to separate
+What phases does photosynthesis have? light reactions, calvin cycle
+What does the calvin cycle produce? carbohydrates
+What does the calvin cycle consume? CO2
+What separates animal cells during mitosis? cleavage furrow
+What separates plant cells during mitosis? cell plate
+What is the mitotic spindle made up of? micro tubuli, proteins | micro tubuli and proteins | micro tubuli + proteins | micro tubuli & proteins
+What is a kinetochore made up of? proteins
+What is the cleavage furrow made up of? microfilaments
+What constructs the cell plate? vesicles
+
+Which receptor is often involved when one signal molecule causes multiple branching responses in a cell? RTK | receptor tyrosene kinase
+Which energy molecules are synthesized during the citric acid cycle? 3NADH + 2FADH2 | 3NADH 2FADH2
+Which molecule in the electron transport chain donates the electron to oxygen? cytochrome | the last cytochrome
+Which process is shared by aerobic respiration and fermentation? glycolysis
+Which type of fermentation generates CO₂? alcohol fermentation
+Which type of fermentation takes place in animals? lactic acid fermentation
+Which enzyme converts ATP into cyclic AMP? adenyl cyclase
+Which enzyme is involved in chemiosmosis? ATP synthase
+Which enzyme catalyzes the following reaction: H-C-OH + NAD⁺ → C=O + NADH + H⁺? dehydrogenase
+Which enzyme cleaves glucose in two? aldolase
+Which enzyme synthesizes sugar from CO2 as part of the calvin cycle? rubisco
+Which process generates 90% of all ATP? phosphorylation
+Which process is called "sugar splitting"? glycolysis
+Which phases does mitosis have? prophase, prometaphase, metaphase, anaphase, telophase
+Which mitosis phase has the nucleoli disappear and the mitotic spindle begin to form? prophase
+Which mitosis phase has the chromatin fibers condense, so that they become observable through a light microscope? prophase
+Which mitosis phase has the nuclear envelope fragment, a kinetochore form and the cell lengthen? prometaphase
+Which mitosis phase has the centrosomes at opposite sides of the cell, the centromeres of the duplicated chromosomes midway the two poles? metaphase
+Which mitosis phase has the sister chromatids separate? anaphase
+Which mitosis phase has the two daughter nuclei form and the nucleoli reappear? telophase
+Which mitosis phase does cytokinesis begin? anaphase or telophase
+
+How many phosphate groups are invested in the energy investment phase? 2 | two
+How many CO₂ molecules are generated during the citric acid cycle? 2 | two
+How much ATP is generated from a glucose molecule in the electron transport chain? 30-32
+How does pyruvate leave the citric acid cycle? CO2
+
+From where to where does the electron transport chain pump protons? mitochondrial matrix -> intermembrane space
+From where to where do protons move in mitochondria, when passing the ATP synthase enzyme? intermembrane space -> mitochondrial matrix
+From where to where do protons move, when plants perform chemiosmosis? stroma -> thylakoid space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

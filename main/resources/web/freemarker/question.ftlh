@@ -1,6 +1,6 @@
 <#include "header.ftlh"/>
 
-<h1>question (${remaining})</h1>
+<h1>question ${remaining}</h1>
 ${question.query}<br/>
 
 <form>
