@@ -1,12 +1,14 @@
 package com.eriklievaart.trainer.web;
 
 import java.io.File;
+import java.util.List;
 
 import org.osgi.framework.BundleContext;
 
 import com.eriklievaart.jl.core.api.osgi.LightningActivator;
 import com.eriklievaart.jl.core.api.page.PageSecurity;
 import com.eriklievaart.osgi.toolkit.api.ContextWrapper;
+import com.eriklievaart.toolkit.io.api.ResourceTool;
 import com.eriklievaart.toolkit.logging.api.LogTemplate;
 import com.eriklievaart.trainer.web.loader.HotLoader;
 
@@ -24,13 +26,24 @@ public class Activator extends LightningActivator {
 	@Override
 	protected void init(BundleContext context) throws Exception {
 		addTemplateSource();
+		configureQuestionLoader();
+		createRoutes();
+	}
 
-		ContextWrapper wrapper = getContextWrapper();
-		wrapper.getPropertyStringOptional(QUESTION_FILE, p -> {
+	private void configureQuestionLoader() {
+		ContextWrapper context = getContextWrapper(); // required for OSGI
+		context.getPropertyStringOptional(QUESTION_FILE, p -> {
 			File file = new File(p);
 			log.info("hot loading questions from: " + file);
 			state.setQuestionLoader(new HotLoader(file));
 		});
+	}
+
+	private void createRoutes() {
+		List<String> index = ResourceTool.getLines(getClass(), "/web/questions/index.txt");
+		for (String string : index) {
+			System.out.println("@@@@ " + string);
+		}
 		addPageService(builder -> {
 			builder.newRoute("root").mapGet("", () -> new QuestionController(state));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));
