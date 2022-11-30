@@ -41,11 +41,11 @@ public class Activator extends LightningActivator {
 
 	private void createRoutes() {
 		List<String> index = ResourceTool.getLines(getClass(), "/web/questions/index.txt");
-		for (String string : index) {
-			System.out.println("@@@@ " + string);
-		}
 		addPageService(builder -> {
-			builder.newRoute("root").mapGet("", () -> new QuestionController(state));
+			for (String course : index) {
+				builder.newRoute(course).mapGet(course, () -> new QuestionController(state));
+			}
+			builder.newRoute("root").mapGet("", () -> new IndexController(index));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));
 		});
 	}
