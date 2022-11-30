@@ -1,0 +1,29 @@
+
+tangentieel = parallel met de snelheidsvector
+normaal = loodrecht op de snelheidsvector
+tangentieel = een versnelling die alleen de grootte van de snelheidsvector verandert
+normaal = een versnelling die alleen de richting van de snelheidsvector verandert
+projectiel = voorwerp dat alleen onder invloed van zwaartekracht beweegt
+reikwijdte = afstand waarop projectiel terug op de grond komt
+
+a[rad] ? v2/R
+a[tan] ? d`v`/dt
+a[rad] = v²/R
+a[tan] = d|v|/dt
+
+kinematica = beschrijving van beweging
+dynamica = beschrijving relatie tussen oorzaak beweging en beweging zelf
+resultante | netto kracht = som van krachten die inwerken op een lichaam
+evenwicht = som van netto krachten op het lichaam is nul
+traagheid = eigenschap van lichaam om zijn bewegingtoestand te houden
+initieel waarnemer = waarnemer waarvoor 1ᵉ wet van Newton geldig is
+gewicht = grootte van zwaartekracht die aan een lichaam trekt
+
+2ᵉ wet van Newton? som F = ma
+3ᵉ wet van Newton? actie = -reactie
+
+1N = 1 kg·m/s²
+1N ? 1 kg*m/s2 | 1 kg m/s2
+
+
+
