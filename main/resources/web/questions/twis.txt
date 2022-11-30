@@ -19,8 +19,8 @@ Hoe noem je een integraal waarvoor begin en eindpunt zijn gedefinieerd? bepaalde
 Hoe bereken je de discriminand? (-b +- sqrt(b2 - 4ac))/2a | (-b +- sqrt(b^2 - 4ac))/2a
 Hoe bereken je het even deel van een integraal?   1/2 [f(x) + f(-x)] | [f(x) + f(-x)]/2
 Hoe bereken je het oneven deel van een integraal? 1/2 [f(x) - f(-x)] | [f(x) - f(-x)]/2
-Hoe bereken je een volume bij omwentelen om de x-as? pi * integraal y^2 dx | pi * integraal y2 dx
-Hoe bereken je een volume bij omwentelen om de y-as? pi * integraal x^2 dy | pi * integraal x2 dy
+Hoe bereken je een volume bij omwentelen om de x-as? pi integraal y^2 dx | pi integraal y2 dx | pi [y^2 dx] | pi [y2 dx] | pi * integraal y^2 dx | pi * integraal y2 dx | pi * [y^2 dx] | pi * [y2 dx]
+Hoe bereken je een volume bij omwentelen om de y-as? pi integraal x^2 dy | pi integraal x2 dy | pi [x^2 dy] | pi [x2 dy] | pi * integraal x^2 dy | pi * integraal x2 dy | pi * [x^2 dy] | pi * [x2 dy]
 Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2)
 
 De teller staat boven/onder de breukstreep? boven | above
@@ -37,14 +37,14 @@ cos(-x) == ____? cos(x)
 tan(-x) == ____? -tan(x)
 -tan(x) == ____? tan(-x)
 tan(x ± n·π) == ____? tan(x)
-sinh(x) = ____? (e^x - e^-x)/2
-cosh(x) = ____? (e^x + e^-x)/2
+sinh(x) = ____? 1/2(e^x - e^-x) | (e^x - e^-x)/2
+cosh(x) = ____? 1/2(e^x + e^-x) | (e^x + e^-x)/2
 tanh(x) = ____? sinh(x)/cosh(x) | (e^x - e^-x) / (e^x + e^-x)
 cosh(x) + sinh(x)? e^x
 cosh(x) - sinh(x)? e^-x
 
-30° in π? pi/6 | 1/6
-45° in π? pi/4 | 1/4
+30° in π? pi/6 | 1/6*pi | 1/6 pi | 1/6
+45° in π? pi/4 | 1/4*pi | 1/4 pi | 1/4
 
 stelling van pythagoras = ____? a2 + b2 = c2
 sinus regel == ____? sin(A)/a = sin(B)/b = sin(C)/c
@@ -132,7 +132,7 @@ i⁴ⁿ⁺² = ? -1
 i⁴ⁿ⁺³ = ? -i
 
 complex number?    z = x + iy | z = re^(i*arg)
-complex conjugate? z*= x - iy | z*= re^-(i*arg)
+complex conjugate? z*= x - iy | z*= re^-(i*arg) | x - iy | re^-(i*arg) |
 ½(z + z*) = ? x
 ½(z - z*) = ? iy
 zz* = ? x2 + y2
@@ -168,7 +168,7 @@ e^-iθ ? cos(arg) - i sin(arg)
 cosθ + i sinθ as power series? e^(i*arg)
 cosθ - i sinθ as power series? e^-(i*arg)
 
-z = e^iθ, zz* = ____? e^(i*arg) · e^-(i*arg) | e^0 | 1
+z = e^iθ, zz* = ____? e^(i*arg) * e^-(i*arg) | e^0 | 1
 z = re^iθ
 z* = re^-iθ
 z-1 = 1/r e^-iθ
@@ -182,7 +182,7 @@ y' = x sinθ - y cosθ
 cos(arg) = ½(e^iθ + e^-iθ)
 sin(arg) = (e^iθ - e^-iθ)/2i
 cosθ as power series? e^(i*arg)/2 + e^-(i*arg)/2
-sinθ as power series? e^(i*arg)/2i + e^-(i*arg)/2i
+sinθ as power series? e^(i*arg)/2i - e^-(i*arg)/2i
 
 
 
