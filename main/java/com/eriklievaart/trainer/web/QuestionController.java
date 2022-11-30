@@ -30,7 +30,10 @@ public class QuestionController extends AbstractTemplateController {
 	private void processAnswer() {
 		parameters.getOptional("answer").ifPresent(answer -> {
 			Question query = state.current.get();
-			if (isValid(query.getAnswers(), answer)) {
+
+			if (!query.getHash().equals(parameters.getString("hash"))) {
+				model.put("mismatch", true);
+			} else if (isValid(query.getAnswers(), answer)) {
 				state.correct();
 			} else {
 				state.incorrect();
@@ -42,6 +45,7 @@ public class QuestionController extends AbstractTemplateController {
 	}
 
 	private void render() {
+		model.putIfAbsent("mismatch", false);
 		if (state.current.isEmpty()) {
 			setTemplate("/web/freemarker/complete.ftlh");
 		} else {
