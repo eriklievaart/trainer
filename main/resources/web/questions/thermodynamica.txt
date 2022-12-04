@@ -1,0 +1,5 @@
+
+gaswet? pv = nRT
+gasconstante (atmosfeer)? 0.082057 atm L / K mol
+gasconstante (pascal)?    8.3145   KPa L / K mol
+

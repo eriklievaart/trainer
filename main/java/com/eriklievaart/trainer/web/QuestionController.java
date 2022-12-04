@@ -1,6 +1,7 @@
 package com.eriklievaart.trainer.web;
 
 import java.util.List;
+import java.util.function.Supplier;
 
 import com.eriklievaart.jl.core.api.Bean;
 import com.eriklievaart.jl.core.api.Parameters;
@@ -15,10 +16,10 @@ public class QuestionController extends AbstractTemplateController {
 	@Bean
 	private Parameters parameters;
 
-	private State state;
+	private Supplier<State> state;
 
-	public QuestionController(State state) {
-		this.state = state;
+	public QuestionController(Supplier<State> supplier) {
+		this.state = supplier;
 	}
 
 	@Override
@@ -29,28 +30,28 @@ public class QuestionController extends AbstractTemplateController {
 
 	private void processAnswer() {
 		parameters.getOptional("answer").ifPresent(answer -> {
-			Question query = state.current.get();
+			Question query = state.get().current.get();
 
 			if (!query.getHash().equals(parameters.getString("hash"))) {
 				model.put("mismatch", true);
 			} else if (isValid(query.getAnswers(), answer)) {
-				state.correct();
+				state.get().correct();
 			} else {
-				state.incorrect();
+				state.get().incorrect();
 				model.put("previous", query);
 				model.put("answer", answer);
 			}
 		});
-		state.reloadIfModified();
+		state.get().reloadIfModified();
 	}
 
 	private void render() {
 		model.putIfAbsent("mismatch", false);
-		if (state.current.isEmpty()) {
+		if (state.get().current.isEmpty()) {
 			setTemplate("/web/freemarker/complete.ftlh");
 		} else {
-			model.put("remaining", "" + state.countRemaining());
-			model.put("question", state.current.get());
+			model.put("remaining", "" + state.get().countRemaining());
+			model.put("question", state.get().current.get());
 			setTemplate("/web/freemarker/question.ftlh");
 		}
 	}

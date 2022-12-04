@@ -15,13 +15,17 @@ import com.eriklievaart.trainer.web.loader.QuestionLoader;
 
 public class State {
 
-	public Optional<Question> current;
+	private final String course;
+	private final QuestionLoader loader;
 
-	private QuestionLoader loader = new ClasspathLoader();
+	public Optional<Question> current;
 	private List<Question> questions;
 	private Map<String, Progress> progression = new LazyMap<>(key -> new Progress());
 
-	{
+	public State(QuestionLoader loader, String course) {
+		this.loader = loader;
+		this.course = course;
+
 		loadProgress();
 		loadQuestions();
 		nextQuestion();
@@ -34,7 +38,7 @@ public class State {
 	}
 
 	private void loadQuestions() {
-		questions = ListTool.shuffledCopy(Questions.load(loader));
+		questions = ListTool.shuffledCopy(Questions.load(loader.getInputStream(course)));
 		for (int i = 0; i < questions.size(); i++) {
 			if (progression.get(questions.get(i).getHash()).isModified()) {
 				questions.add(0, questions.remove(i));
@@ -110,9 +114,5 @@ public class State {
 
 	private File getProgressFile() {
 		return new File(JvmPaths.getJarDirOrRunDir(getClass()), "progress.txt");
-	}
-
-	public void setQuestionLoader(QuestionLoader loader) {
-		this.loader = loader;
 	}
 }

@@ -1,9 +1,9 @@
 <#include "header.ftlh"/>
 
-<li>
+<ul>
 	<#list index as item>
 		<li><a href="/web/${item}">${item}</a></li>
 	</#list>
-</li>
+</ul>
 
 <#include "footer.ftlh"/>

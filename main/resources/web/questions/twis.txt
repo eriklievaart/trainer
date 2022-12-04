@@ -4,7 +4,7 @@ Hoe noem je een getal uit ... ,-3,-2,-1,0,1,2,3, ... ? integer
 Hoe noem je een getal uit -√3, -√2, √2, √3 ? irrationeel getal | irrational number
 Hoe noem je een getal uit √-½, √-1, √-2? complex getal | complex number
 Hoe noem je een getal wat een rationeel of irrationeel getal kan zijn? echt getal | real number
-Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kunnen worden? transcendente functie | transcendental function
+Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kan worden? transcendente functie | transcendental function
 Hoe noem je een punt waarvoor de afgeleide 0 is, of geen waarde heeft? kritiek punt | critical point | stationary point
 Hoe noem je een punt waarop de tweede afgeleide 0 is? inflectie punt | inflection point
 Hoe noem je een punt waarop de eerste afgeleide 0 is en de tweede afgeleide van teken verandert? buigpunt | turning point
@@ -21,7 +21,7 @@ Hoe bereken je het even deel van een integraal?   1/2 [f(x) + f(-x)] | [f(x) + f
 Hoe bereken je het oneven deel van een integraal? 1/2 [f(x) - f(-x)] | [f(x) - f(-x)]/2
 Hoe bereken je een volume bij omwentelen om de x-as? pi integraal y^2 dx | pi integraal y2 dx | pi [y^2 dx] | pi [y2 dx] | pi * integraal y^2 dx | pi * integraal y2 dx | pi * [y^2 dx] | pi * [y2 dx]
 Hoe bereken je een volume bij omwentelen om de y-as? pi integraal x^2 dy | pi integraal x2 dy | pi [x^2 dy] | pi [x2 dy] | pi * integraal x^2 dy | pi * integraal x2 dy | pi * [x^2 dy] | pi * [x2 dy]
-Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2)
+Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2) | [sqrt(1+f'(x)2)]
 
 De teller staat boven/onder de breukstreep? boven | above
 De noemer staat boven/onder de breukstreep? onder | below
@@ -121,7 +121,7 @@ wat is ∫sin(ax) dx? -(1/a) * cos(ax)  + C | -(1/a) cos(ax)  + C | -cos(ax)/a +
 wat is ∫cos(ax) dx?  (1/a) * sin(ax)  + C |  (1/a) sin(ax)  + C |  sin(ax)/a + C
 wat is ∫1/(ax+b) dx? (1/a) * ln(ax+b) + C |  (1/a) ln(ax+b) + C | ln(ax+b)/a + C
 wat is ∫u dv?        u*v - ∫(v du) | u*v - ∫vdu | uv - ∫(v du) | uv - ∫vdu
-Wat is ∫ln(x)?       x ln(x) - x | x*ln(x)-x
+Wat is ∫ln(x)?       x ln(x) - x + C | x*ln(x)-x + C
 Wat is ∫e⁻ˣ voor a = 0 en b = ∞? 1
 
 i² = ? -1
@@ -139,8 +139,8 @@ zz* = ? x2 + y2
 zz* | `z`2 = x² + y²
 |z|? sqrt(x2 + y2) | w(x2 + y2)
 `z`= √(x² + y²)
-imaginary x? r cos(arg) | r cos arg
-imaginary y? r sin(arg) | r sin arg | r*sin(arg) | r*sin arg
+polar representation of imaginary x in ? r cos(arg) | r cos arg
+polar representation of imaginary y? r sin(arg) | r sin arg | r*sin(arg) | r*sin arg
 x = r cos(θ)
 y = r sin(θ)
 How to calculate arg from x and y? arg = tan-1(y/x) | tan-1(y/x) | arctan(y/x) | arctan(y/x)
@@ -155,7 +155,7 @@ arg(z1z2) | arg(z1*z2) = arg(z₁) + arg(z₂)
 |z₁·z₂|? `z1` * `z2`
 `z1z2`|`z1*z2`= |z1| * |z2|
 (cos(θ) + i sin(θ))⁻ⁿ? cos(n*arg) - i sin(n*arg) | cos(n arg) - i sin(n arg)
-(cos(arg) + i sin(arg))^-n = cos(n*θ) - i sin(n*θ) | z^-n
+(cos(θ) + i sin(θ))^-n | (cos(arg) + i sin(arg))^-n = cos(n*θ) - i sin(n*θ)
 
 complex function f(x)? g(x) + ih(x)
 f*(x) = g(x) - i·h(x)
@@ -163,14 +163,14 @@ complex function f*(x) ? g(x) - i*h(x) | g(x) - i h(x)
 complex function f(x)·f*(x) ? `f(x)`2 | g(x)2 + h(x)2 | g2(x) + h2(x)
 f(x) * f*(x) | f(x)f*(x) | `f(x)`2 = complex functions: g(x)² + h(x)²
 
-e^iθ ? cos(arg) + i sin(arg)
-e^-iθ ? cos(arg) - i sin(arg)
+e^iθ ? z |cos(arg) + i sin(arg)
+e^-iθ ? z* | cos(arg) - i sin(arg)
 cosθ + i sinθ as power series? e^(i*arg)
 cosθ - i sinθ as power series? e^-(i*arg)
 
 z = e^iθ, zz* = ____? e^(i*arg) * e^-(i*arg) | e^0 | 1
-z = re^iθ
-z* = re^-iθ
+z | r(cos(arg) + i sin(arg)) = re^iθ
+z*| r(cos(arg) - i sin(arg)) = re^-iθ
 z-1 = 1/r e^-iθ
 e^iπ ? -1
 (e^iθ)ⁿ? (cos(arg) + i sin(arg))^n | cos(n*arg) + i*sin(n*arg) | cos(n*arg) + i sin(n*arg)
@@ -179,12 +179,22 @@ x' = x cosθ - y sinθ
 y’ ? x sin(arg) - y cos(arg)
 y' = x sinθ - y cosθ
 
-cos(arg) = ½(e^iθ + e^-iθ)
-sin(arg) = (e^iθ - e^-iθ)/2i
-cosθ as power series? e^(i*arg)/2 + e^-(i*arg)/2
-sinθ as power series? e^(i*arg)/2i - e^-(i*arg)/2i
+cos(θ) | cos(arg) = ½(e^iθ + e^-iθ)
+sin(θ) | sin(arg) = (e^iθ - e^-iθ)/2i
+cosθ as power series? e^(i*arg)/2 + e^-(i*arg)/2 | (e^(i*arg) + e^-(i*arg))/2
+sinθ as power series? e^(i*arg)/2i - e^-(i*arg)/2i | (e^(i*arg) - e^-(i*arg))/2i
 
-
+arithmetic progression = a, a+d, a+2d, a+3d, ...
+geometric progression = a, ax, ax², ax³, ...
+harmonic sequence = 1, 1/r, 1/r², 1/r³, ...
+fibonacci sequence = u₀, u₀, u₀+u₁, u₁+u₂, u₂+u₃, ...
+convergent = limit u of the sequence is finite and unique
+divergent = limit of the sequence if not unique or not finite
+power series = infinite series involving integer powers of the variable x
+sum of arithmetic series? na + n/2*(n-1)d | na + n/2(n-1)d
+sum of geometric series? (1-x^n) / (1-x)
+1 + nx + n(n-1)x²/2! + n(n-1)(n-2)x₃/3! + ...? binomial expansion
+binomial coefficient? n!/r!/(n-r)!
 
 
 

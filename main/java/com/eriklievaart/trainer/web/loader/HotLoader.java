@@ -9,16 +9,16 @@ import com.eriklievaart.toolkit.io.api.RuntimeIOException;
 
 public class HotLoader implements QuestionLoader {
 
-	private final File file;
+	private final File directory;
 
 	public HotLoader(File file) {
-		this.file = file;
+		this.directory = file;
 	}
 
 	@Override
-	public InputStream getInputStream() {
+	public InputStream getInputStream(String course) {
 		try {
-			return new FileInputStream(file);
+			return new FileInputStream(new File(directory, course + ".txt"));
 		} catch (FileNotFoundException e) {
 			throw new RuntimeIOException(e);
 		}

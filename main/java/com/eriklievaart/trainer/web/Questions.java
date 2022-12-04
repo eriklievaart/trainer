@@ -7,14 +7,12 @@ import com.eriklievaart.toolkit.io.api.LineFilter;
 import com.eriklievaart.toolkit.lang.api.AssertionException;
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.lang.api.collection.NewCollection;
-import com.eriklievaart.trainer.web.loader.QuestionLoader;
 
 public class Questions {
 
-	public static List<Question> load(QuestionLoader loader) {
+	public static List<Question> load(InputStream is) {
 		List<Question> result = NewCollection.list();
 
-		InputStream is = loader.getInputStream();
 		for (String line : new LineFilter(is).dropBlank().eof().regexReplaceAll("\\s+", " ").trim().list()) {
 
 			if (line.contains("?")) {

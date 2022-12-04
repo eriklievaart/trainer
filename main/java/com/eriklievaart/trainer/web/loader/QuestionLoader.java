@@ -4,7 +4,7 @@ import java.io.InputStream;
 
 public interface QuestionLoader {
 
-	public InputStream getInputStream();
+	public InputStream getInputStream(String course);
 
 	public boolean isModified();
 }
