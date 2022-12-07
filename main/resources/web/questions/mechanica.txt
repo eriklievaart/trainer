@@ -6,10 +6,10 @@ normaal = een versnelling die alleen de richting van de snelheidsvector verander
 projectiel = voorwerp dat alleen onder invloed van zwaartekracht beweegt
 reikwijdte = afstand waarop projectiel terug op de grond komt
 
-a[rad] ? v2/R
-a[tan] ? d`v`/dt
-a[rad] = v²/R
-a[tan] = d|v|/dt
+normaal versnelling voor een cirkel beweging a[rad] ? v2/R
+tangentiële versnelling voor een cirkel beweging a[tan] ? d`v`/dt
+a[rad] = cirkel beweging: v²/R
+a[tan] = cirkel beweging: d|v|/dt
 
 kinematica = beschrijving van beweging
 dynamica = beschrijving relatie tussen oorzaak beweging en beweging zelf
@@ -19,11 +19,28 @@ traagheid = eigenschap van lichaam om zijn bewegingtoestand te houden
 initieel waarnemer = waarnemer waarvoor 1ᵉ wet van Newton geldig is
 gewicht = grootte van zwaartekracht die aan een lichaam trekt
 
-2ᵉ wet van Newton? som F = ma
+2ᵉ wet van Newton? som F = ma | F = ma
 3ᵉ wet van Newton? actie = -reactie
 
 1N = 1 kg·m/s²
 1N ? 1 kg*m/s2 | 1 kg m/s2
 
+# H6
+Hooke's law | Hookes law = the force of a spring is directly proportional to its elongation
+power | vermogen = the time rate at which work is done
+When work done is positive, total kinetic energy increases/decreases? increases
+When work done is negative, total kinetic energy increases/decreases? decreases
 
+formule voor arbeid?               W = Fs | W = Fs cos(arg)
+formule voor kinetische energie?   K = 1/2mv2 | K = mv2/2
+formule voor vermogen?             P = f*v | P = fv | P = dW/dt
+formule voor accelleratie?         a = (v1 2 - v2 2)/2s | a = (v1^2 - v2^2)/2s | dvx/dt
+
+eenheid van arbeid? Joule | J
+eenheid van kinetische energie? Joule | J
+eenheid van vermogen? J/s | Watt | W
+
+Joule is een eenheid van ____? arbeid | energie | kinetische energie
+Watt is een eenheid van ____? vermogen
+Kwh is een eenheid van ____? arbeid | energie | kinetische energie
 

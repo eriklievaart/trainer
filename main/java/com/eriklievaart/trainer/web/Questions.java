@@ -13,7 +13,7 @@ public class Questions {
 	public static List<Question> load(InputStream is) {
 		List<Question> result = NewCollection.list();
 
-		for (String line : new LineFilter(is).dropBlank().eof().regexReplaceAll("\\s+", " ").trim().list()) {
+		for (String line : new LineFilter(is).dropHash().dropBlank().eof().regexReplaceAll("\\s+", " ").trim().list()) {
 
 			if (line.contains("?")) {
 				parseQuestionMark(result, line);

@@ -4,7 +4,7 @@ Hoe noem je een getal uit ... ,-3,-2,-1,0,1,2,3, ... ? integer
 Hoe noem je een getal uit -√3, -√2, √2, √3 ? irrationeel getal | irrational number
 Hoe noem je een getal uit √-½, √-1, √-2? complex getal | complex number
 Hoe noem je een getal wat een rationeel of irrationeel getal kan zijn? echt getal | real number
-Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kan worden? transcendente functie | transcendental function
+Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kan worden? transcendent | transcendental | transcendente functie | transcendental function
 Hoe noem je een punt waarvoor de afgeleide 0 is, of geen waarde heeft? kritiek punt | critical point | stationary point
 Hoe noem je een punt waarop de tweede afgeleide 0 is? inflectie punt | inflection point
 Hoe noem je een punt waarop de eerste afgeleide 0 is en de tweede afgeleide van teken verandert? buigpunt | turning point
@@ -86,7 +86,7 @@ log(b)/log(a)? log[a](b)
 log[a](c) * log[c](b)? log[a](b)
 
 Definitie van de differentiaal? (f(x + dx) - f(x)) / dx
-Definitie van eˣ? sum(x^n/n!) | 1 + x/1! + x^2/2! + ... | 1 + x/1! + x2/2! + ...
+Definitie van eˣ? sum(x^n/n!) | 1 + x/1! + x^2/2! + ... | 1 + x/1! + x2/2! + ... | 1 + x/1! + x2/2! + x3/3! + ...
 
 Wat is de afgeleide van: c? 0
 Wat is de afgeleide van: xᵃ? ax^(a-1) | a*x^(a-1)
@@ -131,7 +131,7 @@ i⁴ⁿ⁺¹ = ? i
 i⁴ⁿ⁺² = ? -1
 i⁴ⁿ⁺³ = ? -i
 
-complex number?    z = x + iy | z = re^(i*arg)
+complex number with real part and imaginary part? z = x + iy | x + iy | r(cos(arg) + i*sin(arg)) | r(cos(arg) + i sin(arg))
 complex conjugate? z*= x - iy | z*= re^-(i*arg) | x - iy | re^-(i*arg) |
 ½(z + z*) = ? x
 ½(z - z*) = ? iy
@@ -152,7 +152,7 @@ z⁻¹?  1/r(cos(arg) - i sin(arg)) | 1/r e^-(i*arg) | 1/(x+iy)
 z-1 = 1/r(cos(θ) - i sin(θ))
 arg(z₁z₂)? arg(z1) + arg(z2)
 arg(z1z2) | arg(z1*z2) = arg(z₁) + arg(z₂)
-|z₁·z₂|? `z1` * `z2`
+|z₁·z₂|? `z1` * `z2` | `z1``z2`
 `z1z2`|`z1*z2`= |z1| * |z2|
 (cos(θ) + i sin(θ))⁻ⁿ? cos(n*arg) - i sin(n*arg) | cos(n arg) - i sin(n arg)
 (cos(θ) + i sin(θ))^-n | (cos(arg) + i sin(arg))^-n = cos(n*θ) - i sin(n*θ)
@@ -184,20 +184,35 @@ sin(θ) | sin(arg) = (e^iθ - e^-iθ)/2i
 cosθ as power series? e^(i*arg)/2 + e^-(i*arg)/2 | (e^(i*arg) + e^-(i*arg))/2
 sinθ as power series? e^(i*arg)/2i - e^-(i*arg)/2i | (e^(i*arg) - e^-(i*arg))/2i
 
-arithmetic progression = a, a+d, a+2d, a+3d, ...
-geometric progression = a, ax, ax², ax³, ...
+arithmetic progression | arithmetic sequence = a, a+d, a+2d, a+3d, ...
+geometric progression | geometric sequence = a, ax, ax², ax³, ...
 harmonic sequence = 1, 1/r, 1/r², 1/r³, ...
 fibonacci sequence = u₀, u₀, u₀+u₁, u₁+u₂, u₂+u₃, ...
 convergent = limit u of the sequence is finite and unique
 divergent = limit of the sequence if not unique or not finite
 power series = infinite series involving integer powers of the variable x
-sum of arithmetic series? na + n/2*(n-1)d | na + n/2(n-1)d
+sum of arithmetic series? na + n/2*(n-1)d | na + n/2(n-1)d | an + n/2*(n-1)d | an + n/2(n-1)d
 sum of geometric series? (1-x^n) / (1-x)
-1 + nx + n(n-1)x²/2! + n(n-1)(n-2)x₃/3! + ...? binomial expansion
 binomial coefficient? n!/r!/(n-r)!
 
+Σ 1/(r(r+1))? n/(n+1)
+lim[n → ∞] geometric series for |x| < 1? 1/(1-x)
+lim[n → ∞] harmonic series? diverges | divergent
 
+MacLaurin series = the value of a function and its derivatives at x = 0
+Taylor series = the value of a function and its derivatives at x = a
+When does the binomial series converge? -1 < x < 1
 
+taylor series = Σ(x-a)ⁿ/n! fⁿ(a)
+
+(1+x)^a | binomial expansion = name the series: 1 + ax + a(a-1)/2!x² + a(a-1)(a-2)/3!x³ + ...
+sin(x)  = name the series: x - x³/3! + x⁵/5! - x⁷/7 + ...
+cos(x)  = name the series: 1 - x²/2! + x⁴/4! - x⁶/6! + ...
+tan(x)  = name the series: x + x³/3 + 2x⁵/15 + 17x⁷/315 + ...
+ln(1+x) = name the series: x - x²/2 + x³/3 - x⁴/4 + ...
+e^x     = name the series: 1 + x + x²/2! + x³/3! + x⁴/4! + ...
+sinh(x) = name the series: x + x³/3! + x⁵/5! + x⁷/7! + ...
+cosh(x) = name the series: 1 + x²/2! + x⁴/4! + x⁶/6! + ...
 
 
 
