@@ -1,7 +1,7 @@
 
 tangentieel = parallel met de snelheidsvector
 normaal = loodrecht op de snelheidsvector
-tangentieel = een versnelling die alleen de grootte van de snelheidsvector verandert
+tangentieel | tangentiele versnelling = een versnelling die alleen de grootte van de snelheidsvector verandert
 normaal = een versnelling die alleen de richting van de snelheidsvector verandert
 projectiel = voorwerp dat alleen onder invloed van zwaartekracht beweegt
 reikwijdte = afstand waarop projectiel terug op de grond komt
@@ -17,7 +17,7 @@ resultante | netto kracht = som van krachten die inwerken op een lichaam
 evenwicht = som van netto krachten op het lichaam is nul
 traagheid = eigenschap van lichaam om zijn bewegingtoestand te houden
 initieel waarnemer = waarnemer waarvoor 1ᵉ wet van Newton geldig is
-gewicht = grootte van zwaartekracht die aan een lichaam trekt
+gewicht = Hoe noem je de grootte van de zwaartekracht die aan een lichaam trekt
 
 2ᵉ wet van Newton? som F = ma | F = ma
 3ᵉ wet van Newton? actie = -reactie
@@ -33,8 +33,9 @@ When work done is negative, total kinetic energy increases/decreases? decreases
 
 formule voor arbeid?               W = Fs | W = Fs cos(arg)
 formule voor kinetische energie?   K = 1/2mv2 | K = mv2/2
+formule voor arbeid veer?          W = 1/2kX2 | W = kX2/2
 formule voor vermogen?             P = f*v | P = fv | P = dW/dt
-formule voor accelleratie?         a = (v1 2 - v2 2)/2s | a = (v1^2 - v2^2)/2s | dvx/dt
+formule voor accelleratie?         a = (v1 2 - v2 2)/2s | a = (v1^2 - v2^2)/2s | a = dv/dt
 
 eenheid van arbeid? Joule | J
 eenheid van kinetische energie? Joule | J
