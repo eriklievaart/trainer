@@ -11,6 +11,8 @@ tangentiële versnelling voor een cirkel beweging a[tan] ? d`v`/dt
 a[rad] = cirkel beweging: v²/R
 a[tan] = cirkel beweging: d|v|/dt
 
+berekenen verplaatsing? x = x0 + vt + 1/2at2 | x = x0 + vt + at2/2
+
 kinematica = beschrijving van beweging
 dynamica = beschrijving relatie tussen oorzaak beweging en beweging zelf
 resultante | netto kracht = som van krachten die inwerken op een lichaam
