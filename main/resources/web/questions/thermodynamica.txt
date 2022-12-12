@@ -3,3 +3,16 @@ gaswet? pv = nRT
 gasconstante (atmosfeer)? 0.082057 atm L / K mol
 gasconstante (pascal)?    8.3145   KPa L / K mol
 
+
+elektronen affiniteiten = de hoeveelheid energie benodigd om electronen van een negatief atoom te verwijderen
+bindingsenergie (B.E.) = de atomaire vormingenthalpievan een diatomische molecule, volgens X(g) + Y(g) ↔ XY(g)
+ionisatie energieën = de hoeveelheid energie benodigd om electronen van een neutraal/positief gasvormig atoom te verwijderen
+rooster enthalpie = de hoeveelheid energie benodigd om ionische bindingen te breken tot ionen
+
+
+Wat is ΔH°?
+Wat is ΔU°?
+Wat is ΔC[p]
+Wat is het verschil tussen q[p] en q[V]
+inwendige energie (U) - eenheid joule (J)
+
