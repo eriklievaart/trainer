@@ -1,18 +1,72 @@
 
-gaswet? pv = nRT
+systeem = regio in de ruimte die het onderwerp vormt van de thermodynamische studie
+omgeving = alles rondom het systeem
+universum = systeem + omgeving
+geisoleerd systeem = geen enkele vorm van interactie tussen systeem en omgeving
+gesloten systeem = geen uitwisseling van materie, wel energie tussen systeem en omgeving
+open systeem = materie en energie worden uitgewisseld tyssen systeem en omgeving
+arbeid | w = massa-plaats tegenwerkende kracht
+positieve arbeid = arbeid wordt uitgeoefend op het systeem
+expansie arbeid = arbeid die een gas levert, wanneer het uitzet en de atmosfeer verdrijft
+diathermale wand = wand die energietransfer van warmte toelaat
+adiabatische wand = wand die geen warmte doorlaat
+isotherm = met constante temperatuur
+isochoor = met constante druk
+isobar = bij 1 atm
+toestandsfunctie = functie die een toestand beschrijft
+baanfunctie | path = functie die beschrijft hoe in een doel toestand te komen
+irreversibel proces | irreversibel = spontaan proces in één richting, maar niet in de andere
+reversibel proces | reversibel = proces welke kan van richting veranderd kan worden met infititesmale verandering van een variabele
+endotherme reactie | endotherm = er is warmte toegevoegd aan het systeem, zijn energie inhoud stijgt
+exotherme reactie | exotherm = het systeem heeft warmte afgegeven, zijn energie inhoud daalt
+vormings enthalpie = kwantitatieve uitdrukking van de enthalpie van een verbinding relatief t.o.v. zijn samenstellende elementen
+atomaire vormings enthalpie = enthalpieverandering bestaand uit de vorming van een verbinding als gas, uit atomen als gas
+bindingsenergie = de atomaire vormingenthalpievan een diatomische molecule, volgens X(g) + Y(g) ↔ XY(g)
+ionisatie energie = de hoeveelheid energie benodigd om electronen van een neutraal/positief gasvormig atoom te verwijderen
+elektronen affiniteit = de hoeveelheid energie benodigd om electronen van een negatief atoom te verwijderen
+rooster enthalpie = de hoeveelheid energie benodigd om ionische bindingen te breken tot ionen
+intensieve eigenschappen | intensief = eigenschappen die hetzelfde zijn voor het hele systeem, als voor half het systeem
+extensieve eigenschappen | extensief = eigenschappen die gehalveerd worden, als het systeem gehalveerd worden (bijv. entropie)
+
+standaard druk? 1 bar
+normale druk? 1 atm
+de eenheid van arbeid (w)? joule | J
+de eenheid van inwendige energie (U)? joule | J
+de eenheid van enthalpieverandering? J/mol | Joule / mol | kJ / mol | kilo Joule / mol
+1 joule in andere SI eenheden? 1Nm
 gasconstante (atmosfeer)? 0.082057 atm L / K mol
 gasconstante (pascal)?    8.3145   KPa L / K mol
+constante van planck?     6.626e-34 Js
 
+notatie voor enthalpie? H
+notatie voor inwendige energie? U
+notatie voor arbeid? w
+notatie voor warmte energie? q
+notatie voor entropie? S
+notatie voor het verschil in de molaire warmtecapaciteiten van producten en reagentia onder standaard voorwaarden? delta Cp
 
-elektronen affiniteiten = de hoeveelheid energie benodigd om electronen van een negatief atoom te verwijderen
-bindingsenergie (B.E.) = de atomaire vormingenthalpievan een diatomische molecule, volgens X(g) + Y(g) ↔ XY(g)
-ionisatie energieën = de hoeveelheid energie benodigd om electronen van een neutraal/positief gasvormig atoom te verwijderen
-rooster enthalpie = de hoeveelheid energie benodigd om ionische bindingen te breken tot ionen
+waar staat H voor? enthalpie
+waar staat U voor? inwendige energie
+waar staat w voor? arbeid
+waar staat q voor? warmte energie
+waar staat S voor? entropie
+waar staat ΔCp voor? verschil in warmtecapaciteiten | warmtecapaciteit verschil
+waar staat ΔH° voor? standaard enthalpie
+waar staat vΔᵣH° voor? standaard reactie enthalpie
+waar staat vΔfH° voor? standaard vormings enthalpie
+waar staat ΔcH° voor? standaard verbrandings enthalpie
+waar staat ΔₜᵣₛH° voor? standaard fase transitie enthalpie
 
+q is afhankelijk/onafhankelijk van de baanfunctie? afhankelijk
+W is afhankelijk/onafhankelijk van de baanfunctie? afhankelijk
+U is afhankelijk/onafhankelijk van de baanfunctie? onafhankelijk
+Als een ideaal gas adiabatisch expandeert, dan daalt/stijgt de temperatuur? daalt
+Als een ideaal gas adiabatisch comprimeert, dan daalt/stijgt de temperatuur? stijgt
+ΔH > 0 → endotherm of exotherm? endotherm
+ΔH < 0 → endotherm of exotherm? exotherm
 
-Wat is ΔH°?
-Wat is ΔU°?
-Wat is ΔC[p]
-Wat is het verschil tussen q[p] en q[V]
-inwendige energie (U) - eenheid joule (J)
+formule voor de druk van een gas? F = pA
+formule voor enthalpie? H = U + pV
+gaswet? pv = nRT
+
 

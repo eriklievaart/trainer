@@ -1,4 +1,7 @@
 
+bounds on intervals with parentheses () are included/excluded? excluded
+bounds on intervals with brackets [] are included/excluded? included
+
 Hoe noem je een getal uit 1,2,3, ... ? natuurlijk getal | natural number
 Hoe noem je een getal uit ... ,-3,-2,-1,0,1,2,3, ... ? integer
 Hoe noem je een getal uit -√3, -√2, √2, √3 ? irrationeel getal | irrational number
@@ -21,7 +24,7 @@ Hoe bereken je het even deel van een integraal?   1/2 [f(x) + f(-x)] | [f(x) + f
 Hoe bereken je het oneven deel van een integraal? 1/2 [f(x) - f(-x)] | [f(x) - f(-x)]/2
 Hoe bereken je een volume bij omwentelen om de x-as? pi integraal y^2 dx | pi integraal y2 dx | pi [y^2 dx] | pi [y2 dx] | pi * integraal y^2 dx | pi * integraal y2 dx | pi * [y^2 dx] | pi * [y2 dx]
 Hoe bereken je een volume bij omwentelen om de y-as? pi integraal x^2 dy | pi integraal x2 dy | pi [x^2 dy] | pi [x2 dy] | pi * integraal x^2 dy | pi * integraal x2 dy | pi * [x^2 dy] | pi * [x2 dy]
-Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2) | [sqrt(1+f'(x)2)]
+Hoe bereken je de lengte van een curve? integraal sqrt(1+f'(x)2) | [sqrt(1+f'(x)2)] | sqrt(1+f'2(x)) | [sqrt(1+f'2(x))]
 
 De teller staat boven/onder de breukstreep? boven | above
 De noemer staat boven/onder de breukstreep? onder | below
@@ -190,7 +193,7 @@ harmonic sequence = 1, 1/r, 1/r², 1/r³, ...
 fibonacci sequence = u₀, u₀, u₀+u₁, u₁+u₂, u₂+u₃, ...
 convergent = limit u of the sequence is finite and unique
 divergent = limit of the sequence if not unique or not finite
-power series = infinite series involving integer powers of the variable x
+power series = infinite sequence involving integer powers of the variable x
 sum of arithmetic series? na + n/2*(n-1)d | na + n/2(n-1)d | an + n/2*(n-1)d | an + n/2(n-1)d
 sum of geometric series? (1-x^n) / (1-x)
 binomial coefficient? n!/r!/(n-r)!
@@ -198,6 +201,7 @@ binomial coefficient? n!/r!/(n-r)!
 Σ 1/(r(r+1))? n/(n+1)
 lim[n → ∞] geometric series for |x| < 1? 1/(1-x)
 lim[n → ∞] harmonic series? diverges | divergent
+Formula of Cauchy's criterion? r = lim[n → ∞] ⁿ√aₙ | r = lim n sqrt(an) | r = lim nw(an)
 
 MacLaurin series = the value of a function and its derivatives at x = 0
 Taylor series = the value of a function and its derivatives at x = a
@@ -205,14 +209,25 @@ When does the binomial series converge? -1 < x < 1
 
 taylor series = Σ(x-a)ⁿ/n! fⁿ(a)
 
-(1+x)^a | binomial expansion = name the series: 1 + ax + a(a-1)/2!x² + a(a-1)(a-2)/3!x³ + ...
-sin(x)  = name the series: x - x³/3! + x⁵/5! - x⁷/7 + ...
-cos(x)  = name the series: 1 - x²/2! + x⁴/4! - x⁶/6! + ...
-tan(x)  = name the series: x + x³/3 + 2x⁵/15 + 17x⁷/315 + ...
-ln(1+x) = name the series: x - x²/2 + x³/3 - x⁴/4 + ...
-e^x     = name the series: 1 + x + x²/2! + x³/3! + x⁴/4! + ...
-sinh(x) = name the series: x + x³/3! + x⁵/5! + x⁷/7! + ...
-cosh(x) = name the series: 1 + x²/2! + x⁴/4! + x⁶/6! + ...
+(1+x)^a | binomial expansion = name the sequence: 1 + ax + a(a-1)/2!x² + a(a-1)(a-2)/3!x³ + ...
+sin(x)  = name the sequence: x - x³/3! + x⁵/5! - x⁷/7 + ...
+cos(x)  = name the sequence: 1 - x²/2! + x⁴/4! - x⁶/6! + ...
+tan(x)  = name the sequence: x + x³/3 + 2x⁵/15 + 17x⁷/315 + ...
+ln(1+x) = name the sequence: x - x²/2 + x³/3 - x⁴/4 + ...
+e^x     = name the sequence: 1 + x + x²/2! + x³/3! + x⁴/4! + ...
+sinh(x) = name the sequence: x + x³/3! + x⁵/5! + x⁷/7! + ...
+cosh(x) = name the sequence: 1 + x²/2! + x⁴/4! + x⁶/6! + ...
+
+functions of position = functions of 3 coordinates in 3-dimensional space
+partial derivative = function differentiated with respect to one variable, while treating the others as constants
+tangent plane = plane that touches the representative surface of a function at a specific point
+optimization = finding maxima & minima for a function
+
+fᵢᵢ > 0 && fⱼⱼ > 0 ? minimum
+fᵢᵢ < 0 && fⱼⱼ < 0 ? maximum
+fᵢᵢfⱼⱼ - f²ᵢⱼ > 0 ? minimum or maximum | minimum ` maximum
+fᵢᵢfⱼⱼ - f²ᵢⱼ < 0 ? saddle point
+saddle point = maximum in one direction and a minimum in another direction
 
 
 
