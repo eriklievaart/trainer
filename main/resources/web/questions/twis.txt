@@ -193,7 +193,7 @@ harmonic sequence = 1, 1/r, 1/r², 1/r³, ...
 fibonacci sequence = u₀, u₀, u₀+u₁, u₁+u₂, u₂+u₃, ...
 convergent = limit u of the sequence is finite and unique
 divergent = limit of the sequence if not unique or not finite
-power series = infinite sequence involving integer powers of the variable x
+power series | machtreeks = infinite sequence involving integer powers of the variable x
 sum of arithmetic series? na + n/2*(n-1)d | na + n/2(n-1)d | an + n/2*(n-1)d | an + n/2(n-1)d
 sum of geometric series? (1-x^n) / (1-x)
 binomial coefficient? n!/r!/(n-r)!
@@ -219,9 +219,11 @@ sinh(x) = name the sequence: x + x³/3! + x⁵/5! + x⁷/7! + ...
 cosh(x) = name the sequence: 1 + x²/2! + x⁴/4! + x⁶/6! + ...
 
 functions of position = functions of 3 coordinates in 3-dimensional space
-partial derivative = function differentiated with respect to one variable, while treating the others as constants
+partial derivative | partieel afgeleide = function differentiated with respect to one variable, while treating the others as constants
 tangent plane = plane that touches the representative surface of a function at a specific point
 optimization = finding maxima & minima for a function
+convergentie straal = R in { R = lim |aₙ₊₁/aₙ| }
+convergentie interval = interval van x waarop reeks convergeert
 
 fᵢᵢ > 0 && fⱼⱼ > 0 ? minimum
 fᵢᵢ < 0 && fⱼⱼ < 0 ? maximum
