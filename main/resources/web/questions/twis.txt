@@ -11,6 +11,7 @@ Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kan worde
 Hoe noem je een punt waarvoor de afgeleide 0 is, of geen waarde heeft? kritiek punt | critical point | stationary point
 Hoe noem je een punt waarop de tweede afgeleide 0 is? inflectie punt | inflection point
 Hoe noem je een punt waarop de eerste afgeleide 0 is en de tweede afgeleide van teken verandert? buigpunt | turning point
+Hoe noem je een punt waarop alle eerste partieel afgeleiden 0 zijn? stationary point
 Hoe noem je een functie waarvan de tweede afgeleide positief is (binnen een interval)? hol | convex
 Hoe noem je een functie waarvan de tweede afgeleide negatief is (binnen een interval)? bol | concaaf
 Hoe noem je een functie die symmetrisch is ten opzichte van de y-as? even
@@ -116,7 +117,7 @@ Wat is de afgeleide van: u/v? (v du/dx - u dv/dx) / v^2 | (v*du/dx - u*dv/dx) / 
 Wat is d/dx f(u)? df/du * du/dx | f'(u) * du/dx | df/du du/dx | f'(u) du/dx
 Wat is de inversie regel voor de afgeleide? dy/dx = 1/(dx/dy)
 Wat is de regel van l'Hospital (voor 0/0 of ∞/∞)? lim f'/g' = lim f/g | lim f'(x)/g'(x) = lim f(x)/g(x) | lim f/g = lim f'/g' | lim f(x)/g(x) = lim f'(x)/g'(x)
-Wat is de vergelijking van een cirkel met middelpunt in (0,0)?  x^2 + y^2 = r^2 | x2 + y2 = r2
+Wat is de vergelijking van een cirkel met middelpunt in (0,0)? r^2 = x^2 + y^2  | r2 = x2 + y2 | x^2 + y^2 = r^2 | x2 + y2 = r2
 
 wat is ∫x^a dx?      x^(a+1)/(a+1) + C
 wat is ∫e^ax dx?     (1/a) * e^ax + C | (1/a) e^ax + C | e^ax/a + C
@@ -139,7 +140,7 @@ complex conjugate? z*= x - iy | z*= re^-(i*arg) | x - iy | re^-(i*arg) |
 ½(z + z*) = ? x
 ½(z - z*) = ? iy
 zz* = ? x2 + y2
-zz* | `z`2 = x² + y²
+zz* | `z`2 | z2 = x² + y²
 |z|? sqrt(x2 + y2) | w(x2 + y2)
 `z`= √(x² + y²)
 polar representation of imaginary x? r cos(arg) | r cos arg
@@ -164,7 +165,7 @@ complex function f(x)? g(x) + ih(x)
 f*(x) = g(x) - i·h(x)
 complex function f*(x) ? g(x) - i*h(x) | g(x) - i h(x)
 complex function f(x)·f*(x) ? `f(x)`2 | g(x)2 + h(x)2 | g2(x) + h2(x)
-f(x) * f*(x) | f(x)f*(x) | `f(x)`2 = complex functions: g(x)² + h(x)²
+f(x) * f*(x) | f(x)f*(x) | `f(x)`2 | f(x)2 | f2(x) = complex functions: g(x)² + h(x)²
 
 e^iθ ? z |cos(arg) + i sin(arg)
 e^-iθ ? z* | cos(arg) - i sin(arg)
@@ -218,7 +219,7 @@ e^x     = name the sequence: 1 + x + x²/2! + x³/3! + x⁴/4! + ...
 sinh(x) = name the sequence: x + x³/3! + x⁵/5! + x⁷/7! + ...
 cosh(x) = name the sequence: 1 + x²/2! + x⁴/4! + x⁶/6! + ...
 
-functions of position = functions of 3 coordinates in 3-dimensional space
+function of position = function of 3 coordinates in 3-dimensional space
 partial derivative | partieel afgeleide = function differentiated with respect to one variable, while treating the others as constants
 tangent plane | tangent = plane that touches the representative surface of a function at a specific point
 optimization = finding maxima & minima for a function
@@ -227,9 +228,12 @@ convergentie interval = interval van x waarop reeks convergeert
 
 fᵢᵢ > 0 && fⱼⱼ > 0 ? minimum
 fᵢᵢ < 0 && fⱼⱼ < 0 ? maximum
-fᵢᵢfⱼⱼ - f²ᵢⱼ > 0 ? minimum or maximum | minimum ` maximum
+fᵢᵢfⱼⱼ - f²ᵢⱼ > 0 ? minimum of maximum | minimum or maximum | minimum ` maximum
 fᵢᵢfⱼⱼ - f²ᵢⱼ < 0 ? saddle point
 saddle point = maximum in one direction and a minimum in another direction
+
+(∂y/∂x)? -(del z/ del y) / (del z/del x)
+del y / del x = -(∂z/∂y) / (∂z/∂x)
 
 
 

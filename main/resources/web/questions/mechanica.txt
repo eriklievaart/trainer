@@ -6,12 +6,12 @@ normaal = een versnelling die alleen de richting van de snelheidsvector verander
 projectiel = voorwerp dat alleen onder invloed van zwaartekracht beweegt
 reikwijdte = afstand waarop projectiel terug op de grond komt
 
-normaal versnelling voor een cirkel beweging a[rad] ? v2/R
-tangentiële versnelling voor een cirkel beweging a[tan] ? d`v`/dt
-a[rad] = cirkel beweging: v²/R
-a[tan] = cirkel beweging: d|v|/dt
+normaal versnelling voor een cirkel beweging a[rad] ? v2/R | ω²/R | omega^2/R | omega2/R
+tangentiële versnelling voor een cirkel beweging a[tan] ? dv/dt | r dω/dt | ra
+a[rad] = cirkel beweging: v²/R | ω²/R
+a[tan] = cirkel beweging: dv/dt | r dω/dt | rα
 
-berekenen verplaatsing? x = x0 + vt + 1/2at2 | x = x0 + vt + at2/2
+berekenen verplaatsing? x = x₀ + vt + ½at² | x = x0 + vt + 1/2at2 | x = x0 + vt + at2/2
 
 kinematica = beschrijving van beweging
 dynamica = beschrijving relatie tussen oorzaak beweging en beweging zelf
@@ -20,30 +20,105 @@ evenwicht = som van netto krachten op het lichaam is nul
 traagheid = eigenschap van lichaam om zijn bewegingtoestand te houden
 initieel waarnemer = waarnemer waarvoor 1ᵉ wet van Newton geldig is
 gewicht = Hoe noem je de grootte van de zwaartekracht die aan een lichaam trekt
+conservative force | conservatieve kracht = bidirectionele conversie tussen kinetische en potentiele energie
+massa centrum | center of mass = massa gewogen gemiddelde positie van alle deeltjes
+bij alle botsingen is er behoud van ____? impuls | momentum
+elastische botsing = botsing met behoud van kinetische energie
+inelastische botsing = botsing met verlies van kinetische energie
+interne kracht = kracht tussen objecten die deel zijn van het systeem
+externe kracht = kracht vanuit object buiten het systeem op het systeem
+geisoleerd systeem = systeem zonder externe krachten
+rigid body | onvervormbaar = de afmeting en vorm veranderen niet tijdens de beweging
+krachtmoment | torque = een quantitatieve maat van een kracht om een rotatie te starten of veranderen
+krachtarm = lijn van de kracht vector
+rolwrijving = vrijwing die ontstaat omdat het opervlak waarover gerold wordt vervormd
 
 2ᵉ wet van Newton? som F = ma | F = ma
 3ᵉ wet van Newton? actie = -reactie
 
 1N = 1 kg·m/s²
 1N ? 1 kg*m/s2 | 1 kg m/s2
+1 rpm in radialen? π/30 rad/s | pi/30 rad/s
+θ in radialen? boog/straal | angle/radius | s/r
 
-# H6
-Hooke's law | Hookes law = the force of a spring is directly proportional to its elongation
 power | vermogen = the time rate at which work is done
 When work done is positive, total kinetic energy increases/decreases? increases
 When work done is negative, total kinetic energy increases/decreases? decreases
+Waar wordt het symbool · voor gebruikt? vector naar je toe
+Waar wordt het symbool x voor gebruikt? vector van je af
 
-formule voor arbeid?               W = Fs | W = Fs cos(arg)
-formule voor kinetische energie?   K = 1/2mv2 | K = mv2/2
-formule voor arbeid veer?          W = 1/2kX2 | W = kX2/2
-formule voor vermogen?             P = f*v | P = fv | P = dW/dt
-formule voor accelleratie?         a = (v1 2 - v2 2)/2s | a = (v1^2 - v2^2)/2s | a = dv/dt
+formule voor accelleratie?                         a = (v1 2 - v2 2)/2s | a = (v1^2 - v2^2)/2s | a = dv/dt
+formule voor arbeid?                               W = Fs | W = Fs cos(arg)
+formule voor arbeid veer?                          W = 1/2 k X2 | W = k X2/2
+formule voor arbeid zwaartekracht?                 W = mgh1 - mgh2
+formule voor potentiele energie zwaartekracht?     U = mgh
+formule voor impuls?                               p = mv | p = vm
+formule voor frictie/wrijvingskracht?              Fₖ = n·μₖ | Fk = n*muk | F = n*mu | F = n muk | F = n mu
+formule voor kinetische energie?                   K = 1/2mv2 | K = mv2/2
+formule voor krachtstoot?                          J = som Fdt
+formule voor vermogen?                             P = f*v | P = Fv | P = dW/dt
+formule voor traagheidsmomentum?                   I = Σ mᵢrᵢ² | I = som m*r2 | I = som mr2
+formule voor afgelegde hoek?                       θ = θ₀ + ω₀t + ½αt² | theta = theta0 + omega0t + 1/2alpha t2 | theta = theta0 + omega0t + alpha t2/2
+formule voor hoeksnelheid?                         ω = v/r | omega = v/r
+formule voor gemiddelde hoeksnelheid?              ω[av] = Δθ/Δt | omega[avg] = delta theta / delta t | omega[av] = delta theta / delta t
+formule voor ogenblikkelijke hoeksnelheid?         ω[z]  = dθ/dt | omega[z] = d theta / d t
+formule voor gemiddelde hoekversnelling?           α[av] = Δω/Δt | alpha[avg] = delta omega / delta t | alpha[av] = delta omega / delta t
+formule voor ogenblikkelijke hoekversnelling?      α[z]  = dω/dt | alpha[z]  = d omega / d t
+formule voor snelheid van een roterend punt?       v = rω | v = r*omega | v = r omega | v = omega*r | v = omega r
+formule voor kinetische energie rotatie?           K = ½Iω² | K = 1/2I omega2 | K = I omega2 /2
+formule voor stelling van steiner?                 I[p] = I[cm] + Md2
+formule voor berekenen I, indien geen puntmassa?   I = ∫r²dm = ∫r²p dv | I = [r2 dm] | I = [r2p dv]
+formule voor krachtmoment?                         tau = Fl | tau = F(r sin(arg)) | tau = F[tan]r
+formule voor krachtmoment a.d.h.v. I?              som tau = I alpha
+formule voor rollen zonder slippen?                v = Rω | v = R omega
+formule voor rotatie arbeid?                       w = ∫τdθ | w = [tau d theta] | w = [tau d arg]
+formule voor rotatie arbeid bij constante τ?       W = τΔθ | w = tau delta theta
+formule voor rotatie vermogen?                     p = τω | p = tau omega
+formule voor draaimoment L?                        L = rp | L = rmv
+formule voor draaimoment L indien onvervormbaar?   L = iω | L = i*omega | L = i omega
+formule voor kinetische energie translatie met rotatie?            K = 1/2mv2 + 1/2I omega2 | K = mv2/2 + I omega2/2 | (mv2 + i omega2)/2
+formule voor relatie kinetische energie met potentiele energie?    K1 + U1 + W = K2 + U2 | U1 + K1 + W = U2 + K2
 
 eenheid van arbeid? Joule | J
 eenheid van kinetische energie? Joule | J
 eenheid van vermogen? J/s | Watt | W
+eenheid van impuls? kg m/s
+eenheid van krachtstoot? kg m/s2
+eenheid van hoeksnelheid ω? rad/s
+eenheid van hoekversnelling α? rad/s2
+eenheid van traagheidsmomentum I? kg·m² | kg m2
+eenheid van krachtmoment τ? Nm
+eenheid van draaimoment L? kg m2/s2
+
+afkorting van traagheidsmomentum? I
+afkorting van kinetisch energie? K
+afkorting van krachtstoot? J
+afkorting van draaimoment? L
+afkorting van krachtmoment? tau
+afkorting van krachtarm? l
+afkorting van vermogen? p
+afkorting van hoekversnelling? alpha
+
+betekenis van I? traagheidsmomentum | moment of inertia | rotational inertia
+betekenis van K? kinetische energie
+betekenis van L? draaimoment
+betekenis van J? krachtstoot
+betekenis van τ? krachtmoment
+betekenis van l? krachtarm
+betekenis van p? vermogen | power
+betekenis van α? hoekversnelling
 
 Joule is een eenheid van ____? arbeid | energie | kinetische energie
 Watt is een eenheid van ____? vermogen
 Kwh is een eenheid van ____? arbeid | energie | kinetische energie
+
+
+impuls in het Engels? momentum
+krachtstoot in het Engels? impulse
+momentum in het Nederlands? impuls
+impulse in het Nederlands? krachtstoot
+
+
+
+
 
