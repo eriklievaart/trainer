@@ -12,13 +12,14 @@ diathermale wand = wand die energietransfer van warmte toelaat
 adiabatische wand = wand die geen warmte doorlaat
 isotherm = met constante temperatuur
 isochoor = met constante druk
-isobar = bij 1 atm
+isobaar = bij 1 atm
 toestandsfunctie = functie die een toestand beschrijft
 baanfunctie | path = functie die beschrijft hoe in een doel toestand te komen
 irreversibel proces | irreversibel = spontaan proces in één richting, maar niet in de andere
 reversibel proces | reversibel = proces welke kan van richting veranderd kan worden met infititesmale verandering van een variabele
 endotherme reactie | endotherm = er is warmte toegevoegd aan het systeem, zijn energie inhoud stijgt
 exotherme reactie | exotherm = het systeem heeft warmte afgegeven, zijn energie inhoud daalt
+enthalpie = de inwendige energie met daaraan toegevoegd de druk maal het volume
 vormings enthalpie = kwantitatieve uitdrukking van de enthalpie van een verbinding relatief t.o.v. zijn samenstellende elementen
 atomaire vormings enthalpie = enthalpieverandering bestaand uit de vorming van een verbinding als gas, uit atomen als gas
 bindingsenergie = de atomaire vormingenthalpievan een diatomische molecule, volgens X(g) + Y(g) ↔ XY(g)
@@ -37,6 +38,7 @@ de eenheid van enthalpieverandering? J/mol | Joule / mol | kJ / mol | kilo Joule
 gasconstante (atmosfeer)? 0.082057 atm L / K mol
 gasconstante (pascal)?    8.3145   KPa L / K mol
 constante van planck?     6.626e-34 Js
+warmtecapaciteit van water? 4.2 J K⁻¹ g⁻¹ | 4.2 J / K g
 
 notatie voor enthalpie? H
 notatie voor inwendige energie? U
@@ -60,6 +62,7 @@ waar staat ΔₜᵣₛH° voor? standaard fase transitie enthalpie
 q is afhankelijk/onafhankelijk van de baanfunctie? afhankelijk
 W is afhankelijk/onafhankelijk van de baanfunctie? afhankelijk
 U is afhankelijk/onafhankelijk van de baanfunctie? onafhankelijk
+H is afhankelijk/onafhankelijk van de baanfunctie? onafhankelijk
 Als een ideaal gas adiabatisch expandeert, dan daalt/stijgt de temperatuur? daalt
 Als een ideaal gas adiabatisch comprimeert, dan daalt/stijgt de temperatuur? stijgt
 ΔH > 0 → endotherm of exotherm? endotherm
@@ -67,6 +70,7 @@ Als een ideaal gas adiabatisch comprimeert, dan daalt/stijgt de temperatuur? sti
 
 formule voor de druk van een gas? F = pA
 formule voor enthalpie? H = U + pV
+formule voor arbeid bij expansie gas? dW = pdV
 gaswet? pv = nRT
 
 

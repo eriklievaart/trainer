@@ -58,7 +58,7 @@ formule voor kinetische energie?                   K = 1/2mv2 | K = mv2/2
 formule voor krachtstoot?                          J = som Fdt
 formule voor vermogen?                             P = f*v | P = Fv | P = dW/dt
 formule voor traagheidsmomentum?                   I = Σ mᵢrᵢ² | I = som m*r2 | I = som mr2
-formule voor afgelegde hoek?                       θ = θ₀ + ω₀t + ½αt² | theta = theta0 + omega0t + 1/2alpha t2 | theta = theta0 + omega0t + alpha t2/2
+formule voor berekenen afgelegde hoek?             θ = θ₀ + ω₀t + ½αt² | theta = theta0 + omega0t + 1/2alpha t2 | theta = theta0 + omega0t + alpha t2/2 | theta = theta0 + omegat + 1/2alpha t2 | theta = theta0 + omegat + alpha t2/2
 formule voor hoeksnelheid?                         ω = v/r | omega = v/r
 formule voor gemiddelde hoeksnelheid?              ω[av] = Δθ/Δt | omega[avg] = delta theta / delta t | omega[av] = delta theta / delta t
 formule voor ogenblikkelijke hoeksnelheid?         ω[z]  = dθ/dt | omega[z] = d theta / d t
@@ -71,7 +71,7 @@ formule voor berekenen I, indien geen puntmassa?   I = ∫r²dm = ∫r²p dv | I
 formule voor krachtmoment?                         tau = Fl | tau = F(r sin(arg)) | tau = F[tan]r
 formule voor krachtmoment a.d.h.v. I?              som tau = I alpha
 formule voor rollen zonder slippen?                v = Rω | v = R omega
-formule voor rotatie arbeid?                       w = ∫τdθ | w = [tau d theta] | w = [tau d arg]
+formule voor rotatie arbeid?                       w = ∫τdθ | w = [tau d arg] | w = [tau d theta]
 formule voor rotatie arbeid bij constante τ?       W = τΔθ | w = tau delta theta
 formule voor rotatie vermogen?                     p = τω | p = tau omega
 formule voor draaimoment L?                        L = rp | L = rmv
@@ -94,19 +94,19 @@ afkorting van traagheidsmomentum? I
 afkorting van kinetisch energie? K
 afkorting van krachtstoot? J
 afkorting van draaimoment? L
-afkorting van krachtmoment? tau
+afkorting van krachtmoment? τ | tau
 afkorting van krachtarm? l
 afkorting van vermogen? p
-afkorting van hoekversnelling? alpha
+afkorting van hoekversnelling? α | alpha
 
-betekenis van I? traagheidsmomentum | moment of inertia | rotational inertia
-betekenis van K? kinetische energie
-betekenis van L? draaimoment
-betekenis van J? krachtstoot
-betekenis van τ? krachtmoment
-betekenis van l? krachtarm
-betekenis van p? vermogen | power
-betekenis van α? hoekversnelling
+betekenis van I in formules? traagheidsmomentum | moment of inertia | rotational inertia
+betekenis van K in formules? kinetische energie | kinetic energy
+betekenis van L in formules? draaimoment | angular momentum
+betekenis van J in formules? krachtstoot | impulse
+betekenis van τ in formules? krachtmoment | torque
+betekenis van l in formules? krachtarm | lever arm
+betekenis van p in formules? vermogen | power
+betekenis van α in formules? hoekversnelling
 
 Joule is een eenheid van ____? arbeid | energie | kinetische energie
 Watt is een eenheid van ____? vermogen
