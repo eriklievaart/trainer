@@ -29,7 +29,7 @@ interne kracht = kracht tussen objecten die deel zijn van het systeem
 externe kracht = kracht vanuit object buiten het systeem op het systeem
 geisoleerd systeem = systeem zonder externe krachten
 rigid body | onvervormbaar = de afmeting en vorm veranderen niet tijdens de beweging
-krachtmoment | torque = een quantitatieve maat van een kracht om een rotatie te starten of veranderen
+krachtmoment | koppel | torque = een quantitatieve maat van een kracht om een rotatie te starten of veranderen
 krachtarm = lijn van de kracht vector
 rolwrijving = vrijwing die ontstaat omdat het opervlak waarover gerold wordt vervormd
 
