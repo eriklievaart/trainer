@@ -29,17 +29,32 @@ interne kracht = kracht tussen objecten die deel zijn van het systeem
 externe kracht = kracht vanuit object buiten het systeem op het systeem
 geisoleerd systeem = systeem zonder externe krachten
 rigid body | onvervormbaar = de afmeting en vorm veranderen niet tijdens de beweging
-krachtmoment | torque = een quantitatieve maat van een kracht om een rotatie te starten of veranderen
+krachtmoment | koppel | torque = een quantitatieve maat van een kracht om een rotatie te starten of veranderen
 krachtarm = lijn van de kracht vector
 rolwrijving = vrijwing die ontstaat omdat het opervlak waarover gerold wordt vervormd
+elastic | elastisch = object gaat terug naar zijn oorspronkelijke vorm na loslaten
+plastic | plastisch = object blijgt vervormd na loslaten
+tensile strain = verhoudingsgewijze verlenging van een object waar kracht op uitgeoefend wordt
+tension = object heeft tegenliggende krachten die elkaar opheffen naar buiten gericht
+trekspanning | tensile stress = deel van de krachten van een object in tension, dat een dwarsdoorsnede beinvloed
+compressie | compression = object heeft tegenliggende krachten die elkaar opheffen naar binnen gericht
+compressiespanning | compression stress = deel van de krachten van een object onder compressie, dat een dwarsdoorsnede beinvloed
+strain = fractionele verandering van een object onder spanning
+proportional limit | evenredigheidslimiet = maximale stress, waarvoor geldt dat de vervorming proportioneel is
+yield point = maximum stress, waarvoor geldt dat de vervorming reversibel is
+elastic limit = stress op het "yield point"
+elastic hysteresis = het fenomeen, dat kracht zetten op een object en loslaten, via een ander vervormings profiel verloopt
+breaking stress | ultimate strength | tensile strength = vereiste stress om een object te breken
 
 2ᵉ wet van Newton? som F = ma | F = ma
 3ᵉ wet van Newton? actie = -reactie
+hooke's law? stress / strain = elastic modulus | elastic modulus = stress / strain
+definieer θ in radialen? boog/straal | angle/radius | s/r
 
 1N = 1 kg·m/s²
 1N ? 1 kg*m/s2 | 1 kg m/s2
 1 rpm in radialen? π/30 rad/s | pi/30 rad/s
-θ in radialen? boog/straal | angle/radius | s/r
+1 Pa in andere SI eenheden? 1N/m² | 1N/m2
 
 power | vermogen = the time rate at which work is done
 When work done is positive, total kinetic energy increases/decreases? increases
@@ -69,13 +84,18 @@ formule voor kinetische energie rotatie?           K = ½Iω² | K = 1/2I omega2
 formule voor stelling van steiner?                 I[p] = I[cm] + Md2
 formule voor berekenen I, indien geen puntmassa?   I = ∫r²dm = ∫r²p dv | I = [r2 dm] | I = [r2p dv]
 formule voor krachtmoment?                         tau = Fl | tau = F(r sin(arg)) | tau = F[tan]r
-formule voor krachtmoment a.d.h.v. I?              som tau = I alpha
+formule voor krachtmoment a.d.h.v. I?              Στ = Iα | som tau = I alpha
 formule voor rollen zonder slippen?                v = Rω | v = R omega
 formule voor rotatie arbeid?                       w = ∫τdθ | w = [tau d arg] | w = [tau d theta]
 formule voor rotatie arbeid bij constante τ?       W = τΔθ | w = tau delta theta
 formule voor rotatie vermogen?                     p = τω | p = tau omega
 formule voor draaimoment L?                        L = rp | L = rmv
-formule voor draaimoment L indien onvervormbaar?   L = iω | L = i*omega | L = i omega
+formule voor draaimoment L indien onvervormbaar?   L = Iω | L = I*omega | L = I omega
+formule voor tensile stress?                       F/A
+formule voor Young's modulus?                      Y = (F/A)/(Δl/l₀) | Y = (F/A)/(delta l/l0) | Y = F/A * l₀/Δl | Y = F/A * l0/delta l | Y = stress/strain | Y = tensile stress / tensile strain
+formule voor druk in een vloeistof?                p = F/A
+formule voor bulk modulus?                         B = -Δp / (ΔV/V₀) | B = -bulk stress/bulk strain | B = -delta p/ (delta V/V0)
+formule voor compressibility?                      k = 1/B | k = -(ΔV/V₀)/Δp | k = -(delta V/V0)/delta p
 formule voor kinetische energie translatie met rotatie?            K = 1/2mv2 + 1/2I omega2 | K = mv2/2 + I omega2/2 | (mv2 + i omega2)/2
 formule voor relatie kinetische energie met potentiele energie?    K1 + U1 + W = K2 + U2 | U1 + K1 + W = U2 + K2
 
@@ -97,15 +117,17 @@ afkorting van draaimoment? L
 afkorting van krachtmoment? τ | tau
 afkorting van krachtarm? l
 afkorting van vermogen? p
+afkorting van impuls? p
 afkorting van hoekversnelling? α | alpha
+afkorting van compressibility? k
 
 betekenis van I in formules? traagheidsmomentum | moment of inertia | rotational inertia
 betekenis van K in formules? kinetische energie | kinetic energy
 betekenis van L in formules? draaimoment | angular momentum
 betekenis van J in formules? krachtstoot | impulse
-betekenis van τ in formules? krachtmoment | torque
+betekenis van τ in formules? krachtmoment | torque | koppel
 betekenis van l in formules? krachtarm | lever arm
-betekenis van p in formules? vermogen | power
+betekenis van p in formules? vermogen | power | impuls
 betekenis van α in formules? hoekversnelling
 
 Joule is een eenheid van ____? arbeid | energie | kinetische energie
