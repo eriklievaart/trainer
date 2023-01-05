@@ -38,6 +38,7 @@ public class Activator extends LightningActivator {
 			log.info("hot loading questions from: " + directory);
 			return new HotLoader(directory);
 		}
+		log.info("using classpath loader for questions");
 		return new ClasspathLoader();
 	}
 

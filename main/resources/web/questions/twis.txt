@@ -19,6 +19,7 @@ Hoe noem je een functie waarvoor geldt dat f(-x) = f(x)? even
 Hoe noem je een functie waarvoor geldt dat f(-x) = -f(x)? oneven
 Hoe noem je een functie die ge-integreerd wordt? integrand
 Hoe noem je een integraal waarvoor begin en eindpunt zijn gedefinieerd? bepaalde integraal | definite integral
+Hoe noem je de verzameling van y-waarden waarvoor een invoerwaarde bestaat zodat y = f(x)? het beeld van de functie | het beeld van f(x)
 
 Hoe bereken je de discriminand? (-b +- sqrt(b2 - 4ac))/2a | (-b +- sqrt(b^2 - 4ac))/2a
 Hoe bereken je het even deel van een integraal?   1/2 [f(x) + f(-x)] | [f(x) + f(-x)]/2
@@ -198,6 +199,7 @@ power series | machtreeks = infinite sequence involving integer powers of the va
 sum of arithmetic series? na + n/2*(n-1)d | na + n/2(n-1)d | an + n/2*(n-1)d | an + n/2(n-1)d
 sum of geometric series? (1-x^n) / (1-x)
 binomial coefficient? n!/r!/(n-r)!
+wat is de wiskundige notatie van het beeld van de functie f? bld f
 
 Σ 1/(r(r+1))? n/(n+1)
 lim[n → ∞] geometric series for |x| < 1? 1/(1-x)

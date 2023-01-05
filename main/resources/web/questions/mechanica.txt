@@ -45,6 +45,8 @@ yield point = maximum stress, waarvoor geldt dat de vervorming reversibel is
 elastic limit = stress op het "yield point"
 elastic hysteresis = het fenomeen, dat kracht zetten op een object en loslaten, via een ander vervormings profiel verloopt
 breaking stress | ultimate strength | tensile strength = vereiste stress om een object te breken
+spanning = stress in het Nederlands
+rek = strain in het Nederlands
 
 2ᵉ wet van Newton? som F = ma | F = ma
 3ᵉ wet van Newton? actie = -reactie

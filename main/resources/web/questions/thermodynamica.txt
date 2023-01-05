@@ -1,4 +1,5 @@
 
+thermodynamica = omzetting van vormen van energie
 systeem = regio in de ruimte die het onderwerp vormt van de thermodynamische studie
 omgeving = alles rondom het systeem
 universum = systeem + omgeving
@@ -6,53 +7,69 @@ geisoleerd systeem = geen enkele vorm van interactie tussen systeem en omgeving
 gesloten systeem = geen uitwisseling van materie, wel energie tussen systeem en omgeving
 open systeem = materie en energie worden uitgewisseld tyssen systeem en omgeving
 arbeid | w = massa-plaats tegenwerkende kracht
-positieve arbeid = arbeid wordt uitgeoefend op het systeem
+positieve arbeid = arbeid die wordt uitgeoefend op het systeem
 expansie arbeid = arbeid die een gas levert, wanneer het uitzet en de atmosfeer verdrijft
-diathermale wand = wand die energietransfer van warmte toelaat
-adiabatische wand = wand die geen warmte doorlaat
+vrije expansie | free expansion = expansie tegenover een vacuum → w=0
+diathermale wand | diathermaal = wand die energietransfer van warmte toelaat
+adiabatische wand | adiabatisch = wand die geen warmte doorlaat
 isotherm = met constante temperatuur
 isochoor = met constante druk
 isobaar = bij 1 atm
 toestandsfunctie = functie die een toestand beschrijft
 baanfunctie | path = functie die beschrijft hoe in een doel toestand te komen
 irreversibel proces | irreversibel = spontaan proces in één richting, maar niet in de andere
-reversibel proces | reversibel = proces welke kan van richting veranderd kan worden met infititesmale verandering van een variabele
+reversibel proces | reversibel = proces welke van richting veranderd kan worden met infititesmale verandering van een variabele
+temperatuur = waarneming van warmte
+warmte = energie die zich verplaatst
 endotherme reactie | endotherm = er is warmte toegevoegd aan het systeem, zijn energie inhoud stijgt
 exotherme reactie | exotherm = het systeem heeft warmte afgegeven, zijn energie inhoud daalt
 enthalpie = de inwendige energie met daaraan toegevoegd de druk maal het volume
 vormings enthalpie = kwantitatieve uitdrukking van de enthalpie van een verbinding relatief t.o.v. zijn samenstellende elementen
 atomaire vormings enthalpie = enthalpieverandering bestaand uit de vorming van een verbinding als gas, uit atomen als gas
-bindingsenergie = de atomaire vormingenthalpievan een diatomische molecule, volgens X(g) + Y(g) ↔ XY(g)
+bindingsenergie = de atomaire vormingenthalpie van een diatomische molecule, volgens X(g) + Y(g) ↔ XY(g)
 ionisatie energie = de hoeveelheid energie benodigd om electronen van een neutraal/positief gasvormig atoom te verwijderen
-elektronen affiniteit = de hoeveelheid energie benodigd om electronen van een negatief atoom te verwijderen
+elektronen affiniteit = de hoeveelheid energie benodigd om electronen van een negatief geladen atoom te verwijderen
 rooster enthalpie = de hoeveelheid energie benodigd om ionische bindingen te breken tot ionen
-intensieve eigenschappen | intensief = eigenschappen die hetzelfde zijn voor het hele systeem, als voor half het systeem
-extensieve eigenschappen | extensief = eigenschappen die gehalveerd worden, als het systeem gehalveerd worden (bijv. entropie)
+intensieve eigenschap | intensief = eigenschap die hetzelfde is voor het hele systeem, als voor half het systeem
+extensieve eigenschap | extensief = eigenschap die gehalveerd wordt, als het systeem gehalveerd wordt (bijv. entropie)
+Wet van Hess = De standaard enthalpie van een globale reactie is gelijk aan de som van de standaardenthalpie van de deelreacties
+Wet van Kirchhoff = De enthalpie bij een niet standaard temperatuur is de enthalpie bij standaard temperatuur plus de temperatuursverandering bij gewogen warmtecapaciteiten
 
 standaard druk? 1 bar
 normale druk? 1 atm
+Welke druk gebruiken we als het teken ° gebruikt wordt? de standaard druk | standaard druk | 1 bar
+indien ander aangegeven gebruiken we welk temperatuur en druk? 25°C en 1 bar | 25C en 1 bar | 25C 1 bar
 de eenheid van arbeid (w)? joule | J
 de eenheid van inwendige energie (U)? joule | J
 de eenheid van enthalpieverandering? J/mol | Joule / mol | kJ / mol | kilo Joule / mol
-1 joule in andere SI eenheden? 1Nm
+1 joule in andere SI eenheden? 1Nm | 1 kg m²/s² | 1 kg m2/s2
+1 kg m²/s² in andere SI eenheden? 1 Joule | 1J
 gasconstante (atmosfeer)? 0.082057 atm L / K mol
 gasconstante (pascal)?    8.3145   KPa L / K mol
 constante van planck?     6.626e-34 Js
-warmtecapaciteit van water? 4.2 J K⁻¹ g⁻¹ | 4.2 J / K g
+warmtecapaciteit van water? 4186 J/kg K | 4.186 J g⁻¹ K⁻¹ | 4.186 J / g / K | 4.186 J / g K
+1 atm in pascal? 1 atm = 101.325 Pa | 101.325 Pa
 
 notatie voor enthalpie? H
 notatie voor inwendige energie? U
 notatie voor arbeid? w
 notatie voor warmte energie? q
 notatie voor entropie? S
-notatie voor het verschil in de molaire warmtecapaciteiten van producten en reagentia onder standaard voorwaarden? delta Cp
+notatie voor stoichiometrische coefficient? ν | v | mu
+notatie voor het verschil in de molaire warmtecapaciteiten van producten en reagentia onder standaard voorwaarden? ΔCₚ | delta Cp
+notatie voor het verschil in warmtecapaciteiten van producten en reagentia onder standaard voorwaarden? ΔCₚ | delta Cp
+notatie voor molaire warmtecapaciteit bij constante druk? Cₚ,ₘ | Cp,m
 
+waar staat dA (A is een willekeurige toestandsfunctie) voor? integraal die bepaald wordt door het genomen pad | inexacte differentiaal
+waar staat ΔA (A is een willekeurige toestandsfunctie) voor? integraal die exact bepaald wordt op basis van eindwaarde - beginwaarde | eindwaarde - beginwaarde | A₂ - A₁
 waar staat H voor? enthalpie
 waar staat U voor? inwendige energie
 waar staat w voor? arbeid
-waar staat q voor? warmte energie
+waar staat q voor? warmte energie | warmte
 waar staat S voor? entropie
-waar staat ΔCp voor? verschil in warmtecapaciteiten | warmtecapaciteit verschil
+Waar staat ν (nu) voor? stoichiometrische coefficient | coefficient
+waar staat ΔCp voor? verschil in warmtecapaciteiten | warmtecapaciteit verschil | verandering in warmtecapaciteit | verandering van warmtecapaciteit
+Waar staat Cₚ,ₘ voor? molaire warmtecapaciteit bij constante druk | molaire warmtecapaciteit constante druk
 waar staat ΔH° voor? standaard enthalpie
 waar staat vΔᵣH° voor? standaard reactie enthalpie
 waar staat vΔfH° voor? standaard vormings enthalpie
@@ -65,12 +82,49 @@ U is afhankelijk/onafhankelijk van de baanfunctie? onafhankelijk
 H is afhankelijk/onafhankelijk van de baanfunctie? onafhankelijk
 Als een ideaal gas adiabatisch expandeert, dan daalt/stijgt de temperatuur? daalt
 Als een ideaal gas adiabatisch comprimeert, dan daalt/stijgt de temperatuur? stijgt
+Als de reactie enthalpie positief is, dan is de verbinding stabiel/onstabiel? onstabiel
+Als de reactie enthalpie negatief is, dan is de verbinding stabiel/onstabiel? stabiel
 ΔH > 0 → endotherm of exotherm? endotherm
 ΔH < 0 → endotherm of exotherm? exotherm
 
-formule voor de druk van een gas? F = pA
+formule voor de druk van een gas? F = pA | p = F/A
 formule voor enthalpie? H = U + pV
-formule voor arbeid bij expansie gas? dW = pdV
-gaswet? pv = nRT
+formule voor arbeid bij expansie gas (algemeen)? dW = pdV | dW = pA dx | w = -∫pdV | w = -[pdV]
+formule voor arbeid bij expansie gas (constante druk)? w = -pₑₓ∫dV | w = -pₑₓΔV | w = -p[dV] | w = -p(Vf-Vi) | w = -p delta V
+formule voor arbeid bij expansie gas (isotherm, reversibel)? w = -nRT ∫dv/V | w = -nRT ln(Vf/Vi) | w = -nRT [dv/V]
+formule voor gaswet? pv = nRT
+formule voor warmtecapaciteit? C = δq/dT | C = delta q/dT
+formule voor warmte a.d.h.v. warmtecapaciteit bij kleine temperatuurverschillen? q = cΔT | q = c delta T
+formule voor eerste wet van thermodynamica? ΔU = q + w | delta U = q + w
+formule voor dU (infinitesimaal proces)? dU = δq + δw | dU = delta q + delta w
+formule voor ΔU bij verwarmen tegen constant volume? dU = n·CᵥdT | dU = n Cv dT
+formule voor dH (algemeen)? dH = δq + Vdp | dH = delta q + Vdp
+formule voor dH (isochoor)? dH = δq | dH = delta q
+formule voor dH (warmtecapaciteit)? dH = Cₚ dT | dH = Cp dT
+formule voor Cₚ,ₘ? Cₚ,ₘ = ΔH / nΔT | Cpm = delta H / (n delta T) | Cpm = delta H / n delta T
+formule voor Cₚ,ᵥ? Cₚ,ᵥ = Cₚ,ₘ - R | Cpv = Cpm - R
+formule voor wet van Kirchhoff? ΔH(T₂) = ΔH(T₁) + ∫ΔCₚdT | delta H(T2) = delta H(T1) + [delta C dT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

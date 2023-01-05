@@ -10,6 +10,7 @@ import com.eriklievaart.toolkit.io.api.JvmPaths;
 import com.eriklievaart.toolkit.io.api.LineFilter;
 import com.eriklievaart.toolkit.lang.api.collection.LazyMap;
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
+import com.eriklievaart.toolkit.lang.api.str.Str;
 import com.eriklievaart.toolkit.lang.api.str.StringBuilderWrapper;
 import com.eriklievaart.trainer.web.loader.QuestionLoader;
 
@@ -87,10 +88,11 @@ public class State {
 	}
 
 	private void loadProgress() {
-		if (!getProgressFile().isFile()) {
+		File file = getProgressFile();
+		if (!file.isFile()) {
 			return;
 		}
-		for (String line : new LineFilter(getProgressFile()).dropBlank().drop(s -> s.split(";").length != 4).list()) {
+		for (String line : new LineFilter(file).dropBlank().drop(s -> s.split(";").length != 4).list()) {
 
 			String[] keyRightWrongValid = line.split(";");
 			Progress progress = new Progress();
@@ -113,6 +115,7 @@ public class State {
 	}
 
 	private File getProgressFile() {
-		return new File(JvmPaths.getJarDirOrRunDir(getClass()), "progress.txt");
+		File root = new File(JvmPaths.getJarDirOrRunDir(getClass())).getParentFile();
+		return new File(root, Str.sub("data/$.txt", course));
 	}
 }
