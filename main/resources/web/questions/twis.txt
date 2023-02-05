@@ -1,6 +1,7 @@
 
 bounds on intervals with parentheses () are included/excluded? excluded
 bounds on intervals with brackets [] are included/excluded? included
+bounds on intervals with brackets ][ are included/excluded? excluded
 
 Hoe noem je een getal uit 1,2,3, ... ? natuurlijk getal | natural number
 Hoe noem je een getal uit ... ,-3,-2,-1,0,1,2,3, ... ? integer
@@ -11,6 +12,8 @@ Hoe noem je een functie die niet in een eindige polynomiaal uitgedrukt kan worde
 Hoe noem je een punt waarvoor de afgeleide 0 is, of geen waarde heeft? kritiek punt | critical point | stationary point
 Hoe noem je een punt waarop de tweede afgeleide 0 is? inflectie punt | inflection point
 Hoe noem je een punt waarop de eerste afgeleide 0 is en de tweede afgeleide van teken verandert? buigpunt | turning point
+Hoe noem je een complexe θ ϵ [0,2π)? hoofdargument
+Hoe noem je de volgende representatie van een complex getal: r (cosθ + i sinθ)? polaire vorm
 Hoe noem je een punt waarop alle eerste partieel afgeleiden 0 zijn? stationary point
 Hoe noem je een functie waarvan de tweede afgeleide positief is (binnen een interval)? hol | convex
 Hoe noem je een functie waarvan de tweede afgeleide negatief is (binnen een interval)? bol | concaaf
@@ -42,8 +45,8 @@ cos(-x) == ____? cos(x)
 tan(-x) == ____? -tan(x)
 -tan(x) == ____? tan(-x)
 tan(x ± n·π) == ____? tan(x)
-sinh(x) = ____? 1/2(e^x - e^-x) | (e^x - e^-x)/2
-cosh(x) = ____? 1/2(e^x + e^-x) | (e^x + e^-x)/2
+sinh(x) = ____? 1/2(e^x - e^-x) | (e^x - e^-x)/2 | e^x/2 - e^-x/2
+cosh(x) = ____? 1/2(e^x + e^-x) | (e^x + e^-x)/2 | e^x/2 + e^-x/2
 tanh(x) = ____? sinh(x)/cosh(x) | (e^x - e^-x) / (e^x + e^-x)
 cosh(x) + sinh(x)? e^x
 cosh(x) - sinh(x)? e^-x
@@ -126,7 +129,7 @@ wat is ∫sin(ax) dx? -(1/a) * cos(ax)  + C | -(1/a) cos(ax)  + C | -cos(ax)/a +
 wat is ∫cos(ax) dx?  (1/a) * sin(ax)  + C |  (1/a) sin(ax)  + C |  sin(ax)/a + C
 wat is ∫1/(ax+b) dx? (1/a) * ln(ax+b) + C |  (1/a) ln(ax+b) + C | ln(ax+b)/a + C
 wat is ∫u dv?        u*v - ∫(v du) | u*v - ∫vdu | uv - ∫(v du) | uv - ∫vdu
-Wat is ∫ln(x)?       x ln(x) - x + C | x*ln(x)-x + C
+Wat is ∫ln(x)?       x ln(x) - x + C | x*ln(x)-x + C | x ln x - x + C
 Wat is ∫e⁻ˣ voor a = 0 en b = ∞? 1
 
 i² = ? -1
@@ -148,13 +151,13 @@ polar representation of imaginary x? r cos(arg) | r cos arg
 polar representation of imaginary y? r sin(arg) | r sin arg | r*sin(arg) | r*sin arg
 x = r cos(θ)
 y = r sin(θ)
-How to calculate arg from x and y? arg = tan-1(y/x) | tan-1(y/x) | arctan(y/x) | arctan(y/x)
+How to calculate arg from x and y? arg = tan-1(y/x) | tan-1(y/x) | arctan(y/x)
 z₁z₂? r1r2(cos(arg1 + arg2) + i sin(arg1 + arg2))
 z1 * z2 | z1z2 = r₁r₂(cos(θ₁ + θ₂) + i sin(θ₁ - θ₂))
 z₁/z₂? r1/r2(cos(arg1 - arg2) + i sin(arg1 - arg2))
 z1/z2= r1/r2(cos(θ₁ - θ₂) + i sin(θ₁ - θ₂))
 z⁻¹?  1/r(cos(arg) - i sin(arg)) | 1/r e^-(i*arg) | 1/(x+iy)
-z-1 = 1/r(cos(θ) - i sin(θ))
+z-1 | 1/z = 1/r(cos(θ) - i sin(θ))
 arg(z₁z₂)? arg(z1) + arg(z2)
 arg(z1z2) | arg(z1*z2) = arg(z₁) + arg(z₂)
 |z₁·z₂|? `z1` * `z2` | `z1``z2`
@@ -170,13 +173,13 @@ f(x) * f*(x) | f(x)f*(x) | `f(x)`2 | f(x)2 | f2(x) = complex functions: g(x)² +
 
 e^iθ ? z |cos(arg) + i sin(arg)
 e^-iθ ? z* | cos(arg) - i sin(arg)
-cosθ + i sinθ as power series? e^(i*arg)
-cosθ - i sinθ as power series? e^-(i*arg)
+cosθ + i sinθ as power series? e^(i*arg) | e^i*arg
+cosθ - i sinθ as power series? e^-(i*arg) | e^-i*arg
 
 z = e^iθ, zz* = ____? e^(i*arg) * e^-(i*arg) | e^0 | 1
 z | r(cos(arg) + i sin(arg)) = re^iθ
 z*| r(cos(arg) - i sin(arg)) = re^-iθ
-z-1 = 1/r e^-iθ
+z-1 | 1/z = 1/r e^-iθ
 e^iπ ? -1
 (e^iθ)ⁿ? (cos(arg) + i sin(arg))^n | cos(n*arg) + i*sin(n*arg) | cos(n*arg) + i sin(n*arg)
 x’ ? x cos(arg) - y sin(arg)
@@ -198,12 +201,12 @@ divergent = limit of the sequence if not unique or not finite
 power series | machtreeks = infinite sequence involving integer powers of the variable x
 sum of arithmetic series? na + n/2*(n-1)d | na + n/2(n-1)d | an + n/2*(n-1)d | an + n/2(n-1)d
 sum of geometric series? (1-x^n) / (1-x)
-binomial coefficient? n!/r!/(n-r)!
+binomial coefficient? n!/r!/(n-r)! | n!/(r!(n-r)!) | n!/((n-r)!r!)
 wat is de wiskundige notatie van het beeld van de functie f? bld f
 
 Σ 1/(r(r+1))? n/(n+1)
 lim[n → ∞] geometric series for |x| < 1? 1/(1-x)
-lim[n → ∞] harmonic series? diverges | divergent
+lim[n → ∞] harmonic series? diverges | divergent | divergeert
 Formula of Cauchy's criterion? r = lim[n → ∞] ⁿ√aₙ | r = lim n sqrt(an) | r = lim nw(an)
 
 MacLaurin series = the value of a function and its derivatives at x = 0
@@ -223,7 +226,7 @@ cosh(x) = name the sequence: 1 + x²/2! + x⁴/4! + x⁶/6! + ...
 
 function of position = function of 3 coordinates in 3-dimensional space
 partial derivative | partieel afgeleide = function differentiated with respect to one variable, while treating the others as constants
-tangent plane | tangent = plane that touches the representative surface of a function at a specific point
+raakvlak | tangent plane | tangent = plane that touches the representative surface of a function at a specific point
 optimization = finding maxima & minima for a function
 convergentie straal = R in { R = lim |aₙ₊₁/aₙ| }
 convergentie interval = interval van x waarop reeks convergeert
@@ -234,9 +237,9 @@ fᵢᵢfⱼⱼ - f²ᵢⱼ > 0 ? minimum of maximum | minimum or maximum | minim
 fᵢᵢfⱼⱼ - f²ᵢⱼ < 0 ? saddle point
 saddle point = maximum in one direction and a minimum in another direction
 
-(∂y/∂x)? -(del z/ del y) / (del z/del x)
+formule voor (∂y/∂x) (contour)? -(del z/ del y) / (del z/del x)
 del y / del x = -(∂z/∂y) / (∂z/∂x)
-
+formule voor berekenen van een contour -1 = ? (del x/del y)(del y/del x)(del z/del x)
 
 
 

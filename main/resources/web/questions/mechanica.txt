@@ -6,9 +6,9 @@ normaal = een versnelling die alleen de richting van de snelheidsvector verander
 projectiel = voorwerp dat alleen onder invloed van zwaartekracht beweegt
 reikwijdte = afstand waarop projectiel terug op de grond komt
 
-normaal versnelling voor een cirkel beweging a[rad] ? v2/R | ω²/R | omega^2/R | omega2/R
+normaal versnelling voor een cirkel beweging a[rad] ? v2/r | rω² | r omega^2 | r omega2
 tangentiële versnelling voor een cirkel beweging a[tan] ? dv/dt | r dω/dt | ra
-a[rad] = cirkel beweging: v²/R | ω²/R
+a[rad] = cirkel beweging: v²/R | rω²
 a[tan] = cirkel beweging: dv/dt | r dω/dt | rα
 
 berekenen verplaatsing? x = x₀ + vt + ½at² | x = x0 + vt + 1/2at2 | x = x0 + vt + at2/2
@@ -23,8 +23,8 @@ gewicht = Hoe noem je de grootte van de zwaartekracht die aan een lichaam trekt
 conservative force | conservatieve kracht = bidirectionele conversie tussen kinetische en potentiele energie
 massa centrum | center of mass = massa gewogen gemiddelde positie van alle deeltjes
 bij alle botsingen is er behoud van ____? impuls | momentum
-elastische botsing = botsing met behoud van kinetische energie
-inelastische botsing = botsing met verlies van kinetische energie
+elastische botsing | elastisch | elastic collision | elastic= botsing met behoud van kinetische energie
+inelastische botsing | inelastisch | inelastic collision | elastic collision = botsing met verlies van kinetische energie
 interne kracht = kracht tussen objecten die deel zijn van het systeem
 externe kracht = kracht vanuit object buiten het systeem op het systeem
 geisoleerd systeem = systeem zonder externe krachten
@@ -50,27 +50,28 @@ rek = strain in het Nederlands
 
 2ᵉ wet van Newton? som F = ma | F = ma
 3ᵉ wet van Newton? actie = -reactie
-hooke's law? stress / strain = elastic modulus | elastic modulus = stress / strain
+hooke's law (elastic modulus)? stress / strain = elastic modulus | elastic modulus = stress / strain
 definieer θ in radialen? boog/straal | angle/radius | s/r
 
 1N = 1 kg·m/s²
-1N ? 1 kg*m/s2 | 1 kg m/s2
+1N in andere SI eenheden? 1 kg*m/s2 | 1 kg m/s2
 1 rpm in radialen? π/30 rad/s | pi/30 rad/s
 1 Pa in andere SI eenheden? 1N/m² | 1N/m2
+1 Joule in andere SI eenheden? 1 Nm
 
 power | vermogen = the time rate at which work is done
 When work done is positive, total kinetic energy increases/decreases? increases
 When work done is negative, total kinetic energy increases/decreases? decreases
-Waar wordt het symbool · voor gebruikt? vector naar je toe
-Waar wordt het symbool x voor gebruikt? vector van je af
+Waar wordt het symbool · voor gebruikt? vector naar je toe | vector naar je toe gericht
+Waar wordt het symbool x voor gebruikt? vector van je af | vector van je af gericht
 
 formule voor accelleratie?                         a = (v1 2 - v2 2)/2s | a = (v1^2 - v2^2)/2s | a = dv/dt
 formule voor arbeid?                               W = Fs | W = Fs cos(arg)
-formule voor arbeid veer?                          W = 1/2 k X2 | W = k X2/2
+formule voor arbeid veer?                          W = ½kX² | W = 1/2 k X2 | W = k X2/2
 formule voor arbeid zwaartekracht?                 W = mgh1 - mgh2
 formule voor potentiele energie zwaartekracht?     U = mgh
 formule voor impuls?                               p = mv | p = vm
-formule voor frictie/wrijvingskracht?              Fₖ = n·μₖ | Fk = n*muk | F = n*mu | F = n muk | F = n mu
+formule voor frictie/wrijvingskracht?              Fₖ = n·μₖ| Fk = n*muk | Fk = n muk  | F = n*mu | F = n muk | F = n mu
 formule voor kinetische energie?                   K = 1/2mv2 | K = mv2/2
 formule voor krachtstoot?                          J = som Fdt
 formule voor vermogen?                             P = f*v | P = Fv | P = dW/dt
@@ -83,12 +84,12 @@ formule voor gemiddelde hoekversnelling?           α[av] = Δω/Δt | alpha[avg
 formule voor ogenblikkelijke hoekversnelling?      α[z]  = dω/dt | alpha[z]  = d omega / d t
 formule voor snelheid van een roterend punt?       v = rω | v = r*omega | v = r omega | v = omega*r | v = omega r
 formule voor kinetische energie rotatie?           K = ½Iω² | K = 1/2I omega2 | K = I omega2 /2
-formule voor stelling van steiner?                 I[p] = I[cm] + Md2
+formule voor stelling van steiner?                 Iₚ = I[cm] + Md² | I[p] = I[cm] + Md2
 formule voor berekenen I, indien geen puntmassa?   I = ∫r²dm = ∫r²p dv | I = [r2 dm] | I = [r2p dv]
 formule voor krachtmoment?                         tau = Fl | tau = F(r sin(arg)) | tau = F[tan]r
 formule voor krachtmoment a.d.h.v. I?              Στ = Iα | som tau = I alpha
-formule voor rollen zonder slippen?                v = Rω | v = R omega
-formule voor rotatie arbeid?                       w = ∫τdθ | w = [tau d arg] | w = [tau d theta]
+formule voor snelheid bij rollen zonder slippen?   v = Rω | v = R omega
+formule voor rotatie arbeid?                       w = ∫τdθ | w = [tau d theta] | w = [tau d arg]
 formule voor rotatie arbeid bij constante τ?       W = τΔθ | w = tau delta theta
 formule voor rotatie vermogen?                     p = τω | p = tau omega
 formule voor draaimoment L?                        L = rp | L = rmv
@@ -98,7 +99,7 @@ formule voor Young's modulus?                      Y = (F/A)/(Δl/l₀) | Y = (F
 formule voor druk in een vloeistof?                p = F/A
 formule voor bulk modulus?                         B = -Δp / (ΔV/V₀) | B = -bulk stress/bulk strain | B = -delta p/ (delta V/V0)
 formule voor compressibility?                      k = 1/B | k = -(ΔV/V₀)/Δp | k = -(delta V/V0)/delta p
-formule voor kinetische energie translatie met rotatie?            K = 1/2mv2 + 1/2I omega2 | K = mv2/2 + I omega2/2 | (mv2 + i omega2)/2
+formule voor kinetische energie translatie met rotatie?            K = ½mv² + ½Iω² | K = 1/2mv2 + 1/2I omega2 | K = mv2/2 + I omega2/2 | (mv2 + i omega2)/2
 formule voor relatie kinetische energie met potentiele energie?    K1 + U1 + W = K2 + U2 | U1 + K1 + W = U2 + K2
 
 eenheid van arbeid? Joule | J
