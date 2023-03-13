@@ -1,0 +1,76 @@
+voetganger of bestuurder: persoon op step/skateboard? voetganger
+voetganger of bestuurder: persoon met kruiwagen/kinderwagen? voetganger
+voetganger of bestuurder: persoon met fiets aan hand? voetganger
+voetganger of bestuurder: fietser? bestuurder
+voetganger of bestuurder: ruiter? bestuurder
+voetganger of bestuurder: persoon die huifkar bestuurt? bestuurder
+voetganger of bestuurder: persoon die één of meer koeien leidt? bestuurder
+Hoe noemen we een voertuig dat gestopt is niet langer dan nodig voor laden en lossen? stilstaand voertuig | stilstaand
+Hoe noemen we een voertuig dat gestopt is niet langer dan nodig voor in- of uitstappen van personen? stilstaand voertuig | stilstaand
+Hoe noemen we een voertuig dat gestopt is langer dan nodig voor laden en lossen? geparkeerd voertuig | geparkeerd
+Hoe noemen we een voertuig dat gestopt is langer dan nodig voor in- of uitstappen van personen? geparkeerd voertuig |geparkeerd
+Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
+Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
+Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
+Motorvoertuigen waarvoor rijbewijs C od D vereisd is? groep 2
+elk voertuig met een eigen motor, dat bestemd is om op eigen kracht te rijden? motorvoertuig
+MTM van een auto? <= 3500 kg
+MTM van een lichte vrachtwagen? <= 3500 kg
+MTM van een vrachtwagen? > 3500 kg
+Hoe noemen we een auto voor het trekken van een oplegger? trekker
+Hoe noemen we een aanhangwagen zonder vooras? oplegger
+Hoe noemen we een groep aan elkaar gekoppelde voertuigen? sleep
+Hoe noemen we een sleep bestaande uit een trekker en een oplegger? geleed voertuig
+Wat is de maximum snelheid van een landbouwvoertuig? 40 km/u
+De toegestane massa van een rijklaar voertuig met volledige uitrusting, brandstof, bestuurder, passagiers en lading? maximaal toegelaten massa | MTM
+De actuele massa van een rijklaar voertuig met volledige uitrusting, brandstof, bestuurder, passagiers en lading? massa in beladen toestand | MBT
+De massa van een rijklaar voertuig met volledige uitrusting en brandstof, maar zonder bestuurder, passagiers en lading? tarra | eigen massa
+De massa van een rijklaar voertuig met volledige uitrusting, maar zonder brandstof, bestuurder, passagiers en lading? ledige massa
+Maximaal toegestane massa die een voertuig als lading mag hebben? laadvermogen
+eigen massa + laadvermorgen? MTM | maximaal toegestane massa
+de massa van een voertuig op een weegbrug? MBT | massa in beladen toestand
+wat is de vorm van reflectoren op auto's, vrachtwagens, autocars en autobussen? rechthoekig | rechthoek
+wat is de vorm van reflectoren op aanhangwagens? driehoekig | driehoek
+welke maximumsnelheid moet een autocar of autobus vermelden? 75 km/u
+welke maximumsnelheid moet een vrachtwagen of sleep met MTM boven 7.5 ton vermelden? 60
+welke maximumsnelheid moet een vrachtwagen of sleep met MTM tussen 3.5 en 7.5 ton vermelden? geen
+wat is de maximaal teogestane MTM van het C rijbewijs? <= 750 kg
+wat is de maximaal teogestane MTM van het CE rijbewijs? onbeperkt
+maximaal toegestaan MTM van trekkend voertuig met aanhangwagen voor C1+E en D1+E? <= 12000 kg
+plaatsing gevarendriehoek op autosnelwegen? 100m
+plaatsing gevarendriehoek op gewone wegen en autowegen? 30m
+vereiste zichtbaarheid gevarendriehoek binnen bebouwde kom? 50m
+wat is verplicht op autobussen, autocars en autos voor bezoldigd vervoer? verbandkist
+wat is verplicht op autos die geen verbandkist hoeven hebben? verbandetui
+wat is verplicht op elke vrachtauto? on board unit | OBU
+wat is verplicht in elke auto? brandblusser en veiligheidsvest
+welke documenten moeten altijd in elke auto liggen? gelijkvormigheidsattest, identificatieverslag, kentekenbewijs, verzekeringsbewijs
+hoe vaak moeten vrachtwagens in vlaanderen gekeurd worden? om het jaar | elke 2 jaar
+hoe vaak moeten vrachtwagens in Wallonië gekeurd worden? om de zes maanden, bij goedkeuring een jaar
+vervoer over de weg binnen eenland, door een bedrijf wat in dat land geen zetel heeft? cabotage
+de drie categoriën vergunningen? communautair vervoer, extra communautair vervoer, nationaal vervoer
+waar mogen bedrijven goederenvervoer verrichten met een vergunning communautair vervoer? EU, EVA en VK | Europese Unie, Europese Vrijhandelsassociatie, en Verenigd Koningkrijk
+gemeenschappelijk vervoer volgens een bepaald tijdsschema, met een vast traject, waarbij de reizigers op- en afstappen aan vooraf bepaalde haltes en dat voor iedereen openstaat? geregeld vervoer
+gemeenschappelijk vervoer volgens bepaalde categoriën, waarbij andere reizigers zijn uitgesloten? bijzonder geregeld vervoer
+een laan in een rijbaan/rijstrook noemen we een rijbaan/rijstrook? rijbaan rijstrook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
