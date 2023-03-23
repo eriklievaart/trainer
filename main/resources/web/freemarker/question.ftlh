@@ -1,10 +1,16 @@
 <#include "header.ftlh"/>
 
 <h1>question ${remaining}</h1>
+
+<#if question.img?has_content>
+	<img src="${lightning.getCurrentPath()}/${question.img}"></img>
+</#if>
+
 ${question.query}<br/>
 
+
 <form>
-	<input id="answer" name="answer" type="input" autocomplete="off">
+	<input id="answer" name="answer" type="input" autocomplete="off" size="50">
 	<input id="hash" name="hash" type="hidden" value="${question.hash}">
 	<input type="submit" value="submit">
 </form>

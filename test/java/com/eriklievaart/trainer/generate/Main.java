@@ -15,7 +15,9 @@ public class Main {
 
 		StringBuilderWrapper builder = new StringBuilderWrapper();
 		for (File file : questions.listFiles()) {
-			builder.appendLine(file.getName().replaceFirst(".txt$", ""));
+			if (file.isFile()) {
+				builder.appendLine(file.getName().replaceFirst(".txt$", ""));
+			}
 		}
 		FileTool.writeStringToFile(builder.toString(), index);
 		System.out.println("index generated in " + index);

@@ -48,6 +48,7 @@ public class Activator extends LightningActivator {
 		addPageService(builder -> {
 			for (String course : index) {
 				builder.newRoute(course).mapGet(course, () -> new QuestionController(states.getSupplier(course)));
+				builder.newRoute(course + ".img").mapGet(course + "/*", () -> new ImageController());
 			}
 			builder.newRoute("root").mapGet("", () -> new IndexController(index));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));

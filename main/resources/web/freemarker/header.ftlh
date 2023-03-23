@@ -13,4 +13,5 @@
 	.nohl:visited{color: #777}
 	#footer{font-size: 40px;}
 	input { background-color: #888; margin: 5px 0px; }
+	img { display:block; }
 </style>

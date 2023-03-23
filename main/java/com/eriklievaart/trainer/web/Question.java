@@ -8,6 +8,7 @@ import com.eriklievaart.toolkit.io.api.sha1.Sha1;
 public class Question {
 
 	private String query;
+	private String img;
 	private List<String> answer;
 
 	public Question(String query, List<String> answer) {
@@ -17,6 +18,14 @@ public class Question {
 
 	public String getQuery() {
 		return query;
+	}
+
+	public void setImg(String value) {
+		img = value;
+	}
+
+	public String getImg() {
+		return img;
 	}
 
 	public List<String> getAnswers() {

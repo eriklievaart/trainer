@@ -1,4 +1,7 @@
 
+[compile]
+jsoup org.jsoup 1.11.3
+
 [bundle]
 jl-core @local @snapshot
 jl-freemarker @local @snapshot

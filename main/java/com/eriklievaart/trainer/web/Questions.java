@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.eriklievaart.toolkit.io.api.LineFilter;
 import com.eriklievaart.toolkit.lang.api.AssertionException;
+import com.eriklievaart.toolkit.lang.api.check.CheckStr;
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.lang.api.collection.NewCollection;
 
@@ -27,13 +28,27 @@ public class Questions {
 	private static void parseEqualsSign(List<Question> result, String line) {
 		String[] answersToQuestion = line.split("\\s*=\\s*", 2);
 		AssertionException.on(answersToQuestion.length != 2, "*ERROR* Invalid question: $", line);
-		result.add(new Question(answersToQuestion[1], parseAnswers(answersToQuestion[0])));
+		result.add(createQuestion(answersToQuestion[1], parseAnswers(answersToQuestion[0])));
+	}
+
+	private static Question createQuestion(String query, List<String> answers) {
+		if (query.startsWith("[")) {
+			CheckStr.contains(query, "]");
+			String[] imgToQuestion = query.substring(1).split("]", 2);
+
+			Question question = new Question(imgToQuestion[1].trim(), answers);
+			question.setImg(imgToQuestion[0].trim());
+			return question;
+
+		} else {
+			return new Question(query, answers);
+		}
 	}
 
 	private static void parseQuestionMark(List<Question> result, String line) {
 		String[] questionToAnswers = line.split("\\s*\\?\\s*", 2);
 		AssertionException.on(questionToAnswers.length != 2, "*ERROR* Invalid question: $", line);
-		result.add(new Question(questionToAnswers[0] + "?", parseAnswers(questionToAnswers[1])));
+		result.add(createQuestion(questionToAnswers[0] + "?", parseAnswers(questionToAnswers[1])));
 	}
 
 	private static List<String> parseAnswers(String answer) {

@@ -12,21 +12,21 @@ Hoe noemen we een voertuig dat gestopt is langer dan nodig voor in- of uitstappe
 Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
 Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
 Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
-Motorvoertuigen waarvoor rijbewijs C od D vereisd is? groep 2
+Motorvoertuigen waarvoor rijbewijs C of D vereisd is? groep 2
 elk voertuig met een eigen motor, dat bestemd is om op eigen kracht te rijden? motorvoertuig
-MTM van een auto? <= 3500 kg
-MTM van een lichte vrachtwagen? <= 3500 kg
-MTM van een vrachtwagen? > 3500 kg
+MTM van een auto? <= 3500 kg | <= 3.5 ton
+MTM van een lichte vrachtwagen? <= 3500 kg | <= 3.5 ton
+MTM van een vrachtwagen? > 3500 kg | > 3.5 ton
 Hoe noemen we een auto voor het trekken van een oplegger? trekker
 Hoe noemen we een aanhangwagen zonder vooras? oplegger
 Hoe noemen we een groep aan elkaar gekoppelde voertuigen? sleep
 Hoe noemen we een sleep bestaande uit een trekker en een oplegger? geleed voertuig
-Wat is de maximum snelheid van een landbouwvoertuig? 40 km/u
+Wat is de maximum snelheid van een landbouwvoertuig? 40 km/u | 40
 De toegestane massa van een rijklaar voertuig met volledige uitrusting, brandstof, bestuurder, passagiers en lading? maximaal toegelaten massa | MTM
 De actuele massa van een rijklaar voertuig met volledige uitrusting, brandstof, bestuurder, passagiers en lading? massa in beladen toestand | MBT
 De massa van een rijklaar voertuig met volledige uitrusting en brandstof, maar zonder bestuurder, passagiers en lading? tarra | eigen massa
 De massa van een rijklaar voertuig met volledige uitrusting, maar zonder brandstof, bestuurder, passagiers en lading? ledige massa
-Maximaal toegestane massa die een voertuig als lading mag hebben? laadvermogen
+maximaal toegestane massa die een voertuig als lading mag hebben? laadvermogen
 eigen massa + laadvermorgen? MTM | maximaal toegestane massa
 de massa van een voertuig op een weegbrug? MBT | massa in beladen toestand
 wat is de vorm van reflectoren op auto's, vrachtwagens, autocars en autobussen? rechthoekig | rechthoek
@@ -34,25 +34,557 @@ wat is de vorm van reflectoren op aanhangwagens? driehoekig | driehoek
 welke maximumsnelheid moet een autocar of autobus vermelden? 75 km/u
 welke maximumsnelheid moet een vrachtwagen of sleep met MTM boven 7.5 ton vermelden? 60
 welke maximumsnelheid moet een vrachtwagen of sleep met MTM tussen 3.5 en 7.5 ton vermelden? geen
-wat is de maximaal teogestane MTM van het C rijbewijs? <= 750 kg
-wat is de maximaal teogestane MTM van het CE rijbewijs? onbeperkt
-maximaal toegestaan MTM van trekkend voertuig met aanhangwagen voor C1+E en D1+E? <= 12000 kg
+wat is de maximaal toegestane MTM van een aanhangwagen met het C rijbewijs? <= 750 kg | 750 kg
+wat is de maximaal toegestane MTM van een aanhangwagen met het CE rijbewijs? onbeperkt
+maximaal toegestaan MTM van trekkend voertuig met aanhangwagen voor C1+E en D1+E? <= 12000 kg | 12000 kg
 plaatsing gevarendriehoek op autosnelwegen? 100m
 plaatsing gevarendriehoek op gewone wegen en autowegen? 30m
 vereiste zichtbaarheid gevarendriehoek binnen bebouwde kom? 50m
-wat is verplicht op autobussen, autocars en autos voor bezoldigd vervoer? verbandkist
+wat is verplicht op autobussen, autocars en autos voor bezoldigd vervoer? verbandkist | verbanddoos
 wat is verplicht op autos die geen verbandkist hoeven hebben? verbandetui
-wat is verplicht op elke vrachtauto? on board unit | OBU
+welk elektronisch systeem is verplicht op elke vrachtauto? on board unit | OBU
 wat is verplicht in elke auto? brandblusser en veiligheidsvest
-welke documenten moeten altijd in elke auto liggen? gelijkvormigheidsattest, identificatieverslag, kentekenbewijs, verzekeringsbewijs
+welke documenten moeten altijd in elke auto liggen? gelijkvormigheidsattest, identificatieverslag, kentekenbewijs, verzekeringsbewijs | gelijkvormigheidsattest identificatieverslag kentekenbewijs verzekeringsbewijs
 hoe vaak moeten vrachtwagens in vlaanderen gekeurd worden? om het jaar | elke 2 jaar
-hoe vaak moeten vrachtwagens in Wallonië gekeurd worden? om de zes maanden, bij goedkeuring een jaar
-vervoer over de weg binnen eenland, door een bedrijf wat in dat land geen zetel heeft? cabotage
-de drie categoriën vergunningen? communautair vervoer, extra communautair vervoer, nationaal vervoer
-waar mogen bedrijven goederenvervoer verrichten met een vergunning communautair vervoer? EU, EVA en VK | Europese Unie, Europese Vrijhandelsassociatie, en Verenigd Koningkrijk
+hoe vaak moeten vrachtwagens in Wallonië gekeurd worden? om de zes maanden | om de zes maanden, bij goedkeuring een jaar
+vervoer over de weg binnen een land, door een bedrijf wat in dat land geen zetel heeft? cabotage
+de drie categoriën vergunningen? communautair vervoer, extra communautair vervoer, nationaal vervoer | communautair vervoer extra communautair vervoer nationaal vervoer | communautair extra communautair nationaal
+waar mogen bedrijven goederenvervoer verrichten met een vergunning communautair vervoer? EU, EVA en VK | EU EVA en VK | EU EVA VK | Europese Unie, Europese Vrijhandelsassociatie, en Verenigd Koningkrijk
 gemeenschappelijk vervoer volgens een bepaald tijdsschema, met een vast traject, waarbij de reizigers op- en afstappen aan vooraf bepaalde haltes en dat voor iedereen openstaat? geregeld vervoer
 gemeenschappelijk vervoer volgens bepaalde categoriën, waarbij andere reizigers zijn uitgesloten? bijzonder geregeld vervoer
 een laan in een rijbaan/rijstrook noemen we een rijbaan/rijstrook? rijbaan rijstrook
+verkeersgeleider = een inrichting die op de rijbaan is aangebracht en die bestemd is om het verkeer te kanaliseren
+bijzondere overrijdbare bedding = afgebakende strook voor trams, autobussen en schoolvervoer
+straat = openbare weg in een bebouwde kom, geheel of gedeeltelijk omgeven door bebouwing
+aardeweg = onverharde openbare weg die niet voor het verkeer van voertuigen in het algemeen is ingericht
+maximum snelheid op een fietsstraat? 30 km/u | 30
+maximum snelheid op een erf? 20 km/u | 20
+maximum snelheid op een weg voor (landbouwvoertuigen), voetgangers, fietsers, ruiters en bromfietsers? 30 km/u | 30
+schoolstraat = openbare weg in de buurt van een onderwijsinstelling, waarvan de toegang op bepaalde tijdstippen wordt afgesloten voor motorvoertuigen
+wat wordt aangeduid door een ondoorbroken streep en een ondoorbroken streep met langere trekken? spitsstrook
+wat wordt aangeduid door één of meer brede witte strepen? bijzondere overrijdbare bedding
+wat wordt aangeduid door een dambord markering? begin bijzondere overrijdbare bedding | einde bijzondere overrijdbare bedding
+verkeersgeleider = met schuine strepen afgebakend stuk weg, wat je rechts moet passeren
+verdrijvingsvlak = met schuine strepen afgebakend stuk weg, waar je niet op mag rijden, stilstaan of parkeren
+1e graad = deze overtredingen brengen de veiligheid van personen niet in gevaar
+2e graad = deze overtredingen brengen de veiligheid van personen onrechtstreeks in gevaar
+3e graad = deze overtredingen brengen de veiligheid van personen rechtstreeks in gevaar
+4e graad = deze overtredingen brengen de veiligheid van personen rechtstreeks in gevaar en leiden bij ongeval bijna onvermijdelijk tot fysieke schade
+bij welke snelheidsoverschrijding wordt een rijbewijs ingetrokken in een 30 zone? 20 km/u | >= 20 km/u
+bij welke snelheidsoverschrijding wordt een rijbewijs ingetrokken buiten een 30 zone? 30 km/u | >= 30 km/u
+gestandaardiseerde checklist = lijst met gedrag en uiterlijke factoren die gebruikt wordt om een vermoeden tot drugsgebruik te constateren
+wat is de maximum snelheid voor een voertuig van MTM meer dan 7.5 ton? 60 km/u | 60
+wat is de maximum snelheid voor een voertuig van MTM 3.5 tot 7.5 ton? 90 km/u | 90
+wat is de maximum snelheid voor autobussen en autocars? 75 km/u | 75
+wat is de maximum snelheid buiten de bebouwde kom voor een voertuig van MTM meer dan 7.5 ton? 60 km/u | 60
+wat is de maximum snelheid buiten de bebouwde kom voor een voertuig van MTM 3.5 tot 7.5 ton? 90 km/u | 90
+wat is de maximum snelheid buiten de bebouwde kom voor een voertuig van MTM 3.5 tot 7.5 ton, bij minder dan 2 rijstroken in een richting? 70 km/u | 70
+wat is de maximum snelheid op autosnelwegen voor autobussen en autocars? 100 km/u | 100 km/u mits veiligheidsgordels en snelheidsbegrenzer
+wat is de maximum snelheid in een voetgangerszone? stapvoets
+wat is de maximum snelheid bij sleep van een defecte aanhangwagen of defect voertuig? 25 km/u | 25
+welke tussenafstand moeten voertuigen van meer dan 7.5 ton aanhouden op bruggen? 15m
+welke tussenafstand moeten voertuigen van meer dan 7.5 ton aanhouden op binnen de bebouwde kom? 50m
+op welke snelheid moet een vrachtwagen begrensd zijn? 90 km/u
+op welke snelheid moet een personen vervoer voertuig begrensd zijn? 100 km/u
+tot hoeveel meter zicht moet je dimlicht gebruiken? 200 | 200m
+tot hoeveel meter zicht moet je mist achterlicht gebruiken? 100 | 100m
+vanaf welke breedte zijn omtreklichten verplicht? 2.5m
+vanaf welk MTM is een contourmarkering verplicht? 7.5 ton | 7500 kg | >= 7500 kg
+wat is de maximale MTM van een ecocombi? 60 ton | 60000 kg
+op welke berm mag je binnen de bebouwde kom parkeren? gelijkgrondse | gelijkgrondse berm
+op welke berm mag je buiten de bebouwde kom parkeren? elke | elke berm
+hoeveel meter moet je van een oversteekplaats vandaan parkeren? 5m | 5
+hoeveel meter moet je van een kruispunt vandaan parkeren? 5m | 5
+hoeveel meter moet je van een stoplicht vandaan parkeren? 20m | 20
+1m = minimale afstand te behouden tot voetgangers binnen de bebouwde kom
+1.5m = minimale afstand te behouden tot voetgangers buiten de bebouwde kom
+hoeveel meter moet afgezet worden bij een ongeluk met gevaarlijke stoffen? 100m
+wat zijn de 4 A's bij een ongeluk met gevaarlijke stoffen? afzetten, afwachten, afblijven, afstand houden
+wat is de maximale hoogte van een vrachtwagen, autobus of autocar? 4m
+wat is de maximale breedte van een vrachtwagen incl. spiegels? 2.55m
+wat is de maximale breedte van een koelwagen? 2.6m | 2.60m
+wat is de maximale breedte van veevoeder transport? 2.75m
+wat is de maximale breedte van transport binnen een straal van 25 km? 3m
+wat is de maximale lengte van een vrachtwagen of aanhangwagen? 12m
+wat is de maximale lengte van een combinatie vrachtwagen met aanhangwagen? 18.75m
+wat is de maximale lengte van een combinatie trekker met oplegger? 16.5m
+wat is de maximale lengte van een autobus of autocar met 2 assen? 13.5m | 13.50m
+wat is de maximale lengte van een autobus of autocar met > 2 assen? 15m
+wat is de maximale lengte van een autobus of autocar met aanhangwagen? 18.75m
+wat is de maximale lengte van een gelede (harmonica) autobus? 18.75m
+wat is de maximale lengte van een ecocombi? 25.25m
+hoever mag lading vooraan uitsteken? niet
+hoever mag lading achteraan uitsteken? 1m
+hoever mag lading vooraan een sleep uitsteken? 0.5m
+hoever mag lading achteraan een sleep uitsteken? 1.5m
+hoever mag lange ondeelbare lading maximaal uitsteken? 3m
+hoe lang mag een lading uitsteken voordat een vierkant bord met diagonaal reflecterende strepen verplicht is? 1m
+wat is de maximaal toegestane dagelijkse arbeidstijd? 12u
+wat is de maximaal toegestane wekelijkse arbeidstijd? 60u
+wat is de maximaal toegestane gemiddelde wekelijkse arbeidstijd over 16 weken? 48u
+wat is de maximaal toegestane twee wekelijkse rijtijd? 90u
+hoeveel pauze heb je recht op bij een arbeidstijd van 6-9 uur? 30m
+hoeveel pauze heb je recht op bij een arbeidstijd van meer dan 9 uur? 45m
+welke 2 akkoorden regelen de rij en rusttijden in professioneel vervoer? EG 561/2006 en AETR | EG 561/2006 & AETR
+hoe lang mag je maximaal rijden voordat je een rijtijdonderbreking moet doen? 4u30m | 4.5u
+wat is de minimale lengte van een rijtijd onderbreking? 15m | 15 minuten
+wat is de minimale normale dagelijke rusttijd? 11u
+hoe mag je de minimale normale dagelijkse rusttijd splitsen? 3u 9u | 9u 3u | 3u, 9u | 9u, 3u
+hoe vaak per week mag je normale dagelijkse rusttijd splitsen to minstens 9u? 3x | 3
+wat is de dagelijkse rusttijd bij meervoudige bemanning? 9u per 30u
+hoe lang kan een voertuig maximaal blijven rijden bij meervoudige bemanning? 20u
+na hoeveel werkdagen moet je een wekelijkse rusttijd nemen? 6 | 6d | 6 dagen
+hoe lang moet een wekelijkse rusttijd minimaal zijn? 45u
+hoe lang moet een verkorte wekelijkse rusttijd minimaal zijn? 24u
+hoeveel weken heb je maximaal om een verkorte wekelijkse rusttijd te compenseren? 3 | 3w | 3 weken
+wat is het maximaal aantal opeenvolgende verkorte wekelijkse rusttijden wat je mag opnemen in internationaal vervoer? 2
+wat zijn de 4 soorten digitale tachograaf kaarten? bedrijfskaart, bestuurderskaart, controlekaart, werkplaatskaart
+bestuurderskaart = type tachograafkaart op naam van bestuurder
+bedrijfskaart = type tachograafkaart, welke voor alle bestuurders van een voertuig gebruikt wordt
+werkplaatskaart = type tachograafkaart, welke voor wordt gebruikt om de digitale tachograafkaart te installeren
+controlekaart = type tachograafkaart, welke voor wordt gebruikt om de tachograaf, bestuurderskaart en bedrijfskaart te controleren.
+binnen hoeveel dagen moet een defecte tachograaf hersteld worden? 7 | 7d | 7 dagen
+wie is verantwoordelijk voor overtredingen omtrent de rij en rusttijden? werkgever | de werkgever
+hoe heet het als een werkgever zich onttrekt aan aansprakelijkheid van overtredingen omtrent de rij en rusttijden? disculperen
+integraalbouw = chassis en carrosserie vormen één geheel
+ladderchassis | framechassis = chassis bestaande uit twee stalen langsliggers die met verschillende dwarsliggers verbonden zijn
+wat zijn de slagen in een vierslagmotor? inlaat, compressie, arbeid, uitlaat | inlaat compressie arbeid uitlaat
+krukas = zet de op en neergaande bewegingen van de zuiger om in een draaiende beweging
+koppel | draaimoment = de kracht waarmee de krukas draait
+vermogen = de hoeveelheid arbeid die een motor in een bepaalde tijd kan verrichten
+koppel = nodig om een voertuig in beweging te brengen
+vermogen = nodig om hoge snelheden te bereiken
+intercooler = speciale radiator die voor de koelvloeistof wordt geplaatst en de inlaatlucht koelt, voordat die de cilinders bereikt
+specifiek brandstofverbruik = verbruik van een motor die zich niet in een rijdend voertuig bevindt
+wat zijn de 5 functies van motorolie? demping, dichting, koeling, reiniging, smering | demping dichting koeling reiniging smering
+koppeling = brengt de verbinding tussen de motor en de versnellingsbak tot stand en verbreekt ze
+overdrive = zuinige versnelling waarbij de wielen sneller draaien dan de motor
+differentieel = verschil in snelheid waarmee de wielen aan beide kanten draaien om bochten te kunnen nemen
+differentieelblokkering | differentieelslot = schakelaar om de differentieel uit te zetten
+wat is de maximale snelheid waarbij je de differentieelblokkering aan mag zetten? 40 km/u | 40
+liftas = as met wielen die je kunt opheffen
+schijfremmen = veel gebruikt remsysteem, wat warmte goed afvoert en door de rijwind stofvrij gehouden wordt
+trommelrem | trommelremmen = remsysteem, wat goed beschermd is tegen modder en zand
+hydraulisch remsysteem = remsysteem wat via vloeistofdruk in de remleidingen geregeld wordt
+gescheiden remsysteem = remsysteem waarbij de voorremmen afzonderlijk aangestuurd worden van de achterremmen
+luchtdruk remsysteem = remsysteem waarbij de remvoering wordt aangestuurd d.m.v. een compressor die luchtdruk opbouwt
+welke remcircuits hebben vrachtwagens? achteras, vooras, getrokken voertuig, parkeerrem | achteras vooras getrokken voertuig parkeerrem
+vorstbeveiliger | luchtdroger = systeem om water in het remsysteem af te voeren
+remkrachtverdeler = systeem wat de remkracht verdeelt in functie van de gewichtsverdeling over de wielen
+compressor = voorziet het remsysteem van luchtdruk
+drukregelaar = houdt de luchtdruk op peil, blaast overdruk naar buiten
+vierkringsbeveiligingsventiel = verdeelt de samengeperste lucht over de verschillende remkringen (vooras, achteras, getrokken voertuig, parkeerrem)
+luchtketel = slaat een voorraad perslucht op, waar meerdere malen mee geremd kan worden
+luchtdrukmeter | manometer = wijzer die de luchtdruk in de remkringen weergeeft
+wie voorziet de aanhangwagen of oplegger van druk? het trekkende voertuig | trekkende voertuig | trekkend voertuig
+waarvoor dient de gele aansluiting op het remsysteem van een aanhanger / oplegger? doorgeven remcommando's | doorgeven remcommandos | doorgeven remsignaal | doorgeven remsignalen | doorgave remcommando's | doorgave remcommandos | doorgave remsignaal | doorgave remsignalen
+waarvoor dient de rode aansluiting op het remsysteem van een aanhanger / oplegger? doorgeven perslucht | doorgave perslucht | overbrengen perslucht
+oplooprem = remsysteem in lichte aanhangwagens wat wordt bestuurd door de kracht op de trekhaak
+waar staat ASR voor? antislipregeling
+waar staat BAS voor? brake assist system
+waar staat ESP voor? electronisch stabiliteitsprogramma | electronic stability program
+ABS = systeem wat voorkomt dat de wielen blokkeren bij remmen
+ASR = systeem wat voorkomt dat de aangedreven wielen doorslippen bij optrekken of rijden op gladde ondergrond
+BAS = systeem wat detecteerd hoe snel de bestuurder zijn voet van gaspedaal naar rempedaal verplaatst
+ESP = systeem wat ingrijpt bij onderstuur en overstuur en als het voertuig dreigt te kantelen
+motorrem = remsysteem wat de kleppen dicht gooit en met de opgebouwde druk het voertuig afremt
+remvertrager = slijtagevaste rem waarmee je langduring kunt remmen
+halterem = rem die voorkomt dat je kan wegrijden zolang de deuren open zijn
+wielvlucht | camber = hoek van de wielen t.o.v. de as
+toespoor = het lichtelijk naar binnen richten van de voorwielen bij auto's met achterwielaandrijving
+uitspoor = het lichtelijk naar buiten richten van de voorwielen bij auto's met voorwielaandrijving
+schokdemper | schokdempers = systeem wat er voor zorgt dat voertuigen na een hobbel niet blijven doorveren
+stabilisatorstangen = systeem wat zijdelingse krachten opvangt
+alternator = bron van electriciteit in een auto
+V-riem | V riem = draait mee met de krukas en drijft de alternator aan
+spanningsregelaar = houdt de elektrische spanning constant
+hoofdschakelaar | accuschakelaar = knop om de verbinding met de accu te verbreken zodat hij niet zo snel leeg loopt
+karkas = stevige kern van een band
+hiel = rand die zorgt dat het wiel niet kan loskomen van de velg
+wang = deel van de band wat zorgt voor verende eigenschappen
+loopvlak = deel van de band wat contact maakt met de weg
+schouder = overgang van loopvlak tot wang
+wat is het minimum verplichte bandenprofiel? 1.6mm
+herinsnijden = met een gloeiend mesje door de groeven van een band gaan tot die weer de gewenste diepte hebben
+herrubberen = nieuw rubber over een versleten oppervlak van een band gieten
+uitbalanceren = kleine gewichtjes op de velg bevestigen om het oneven gewicht van een band te compenseren
+boutcentrering = het wiel wordt door de vorm van de boutgaten en wielmoeren automatisch gecentreerd
+naafcentrering = het midden van het wiel past precies om de pasrand van de naaf
+C = kenletter op die wielnaaf voor naafcentrering
+N = kenletter op die wielnaaf voor boutcentrering
+wat is de vuistregel voor stopafstand (droog wegdek)? (v/10)^2
+wat is de vuistregel voor stopafstand (nat wegdek)? (v/10)^2 + v/10
+
+eigen vervoer = vervoer van goederen die afkomstig zijn of bestemd voor de eigen onderneming
+beroepsvervoer = vervoer voor rekening van derden
+ADR-transport | ADR transport = vervoer van gevaarlijke stoffen
+ATP-transport | ATP transport = vervoer van bederfbare voedingsmiddelen
+autotransport = vervoer van auto's met vrachtwagens of opleggers
+bulktransport = vervoer van onverpakte materialen (bijv. zand, korrels, poeders of vloeistoffen)
+distributie = afleveren van goederen op verschillende plaatsen
+groepage = gezamenlijk goederen vervoeren voor verschillende klanten
+LKW-Maut | LKW Maut = Duitse vrachtwagentol
+multimodaal vervoer = vervoer van één transporteenheid via meer dan één transportmodus
+tanktransport = vervoer van vloeistof of gas met een tankwagen of tankcontainer
+uitzonderlijk vervoer = vervoer waarbij de afmetingen en of de massa de toegelaten maxima overschrijven
+viapass = kilometerheffing / tol voor de belgische secundaire en autosnelwegen
+afzender = bedrijf of persoon die de opdracht tot vervoer geeft
+vervoerder = bedrijf dat de goederen transporteert
+dispatcher = stelt de planning in en coördineert het vervoer
+ontvanger | rechthebbende = bedrijf of persoon waar de goederen moeten worden afgeleverd
+verlader = deze organisatie laadt de te vervoeren goederen op de vrachtwagen
+expediteur | transportmakelaar = tussenpartij die in opdracht van afzender de goederen voor vervoer aanbiedt bij een vervoerder
+cargadoor = expediteur voor zeevervoer
+stuwadoor = verantwoordelijk voor het laden, losen en stuwen van de goederen in een schip
+commercieel geschil = de klant of de vervoerder schendt of betwist de voorwaarden uit het contract
+platooning = elektronisch koppelen van vrachtwagens om een vaste volgafstand aan te houden
+automatic road train | automatic road trains | ART = platooning met alleen een bestuurder in de voorste vrachtwagen
+vrachtbeurs | vrachtbeurzen = online platform waarop vervoerders een retourlading kunnen vinden welke aansluit op hun andere opdrachten
+stedelijke distributie centra | stedelijk distributie centra | stedelijk distributie centrum = distributie centrum buiten de stadskern wat zendingen voor verschillende winkels bundelt en met elektrische vrachtwagens of bestelbussen bezorgt
+nachtelijke bevoorrading = bezorgen van goederen tussen 22 en 6 uur
+wat wordt uitgedruikt in g/kWh? specifiek brandstofverbruik
+groene zone = range van toerentallen waarin het koppel het grootst is en het brandstofverbruik het laagst
+kruissnelheid = de snelheid waarmee een voertuig zich zo efficiënt mogelijk kan voortbewegen
+Cw-waarde | cw waarde = de stroomlijning van een voertuig wordt uitgedrukt in de
+meet je bandenspanning alleen bij? koude banden
+waar staat ACC voor? adaptive cruise control
+waar staat PCC voor? predictive cruise control
+waar staat EEV voor? enhanced environmental friendly vehicle
+waar staat EGR voor? exhaust gas recirculation
+waar staat LZV voor? langer zwaarder voertuig | ecocombi
+ACC | adaptive cruise control = cruise control die het voertuig voor je op afstand volgt
+PCC | predictive cruise control = cruise control die op basis van GPS data rekening houdt met hellingen en bochten
+EEV | enhanced enviromental friendly vehicle = europese emissie norm waar diesel voertuigen aan kunnen voldoen
+EGR | exhaust gas recirculation = het koelen van uitlaatgassen en terugsturen naar de verbrandingskamer om stikstofoxide uitstoot te reduceren
+losgestort vervoer = vervoer waarbij goederen of producten zonder verpakking in een laadruimte worden gestort (zoals zand, grind, afval of schroot)
+stukgoed = vervoer van verpakte goederen en stoffen
+collo = benaming van een verpakking in de transport sector
+-18C = maximale temperatuur bij transport diepvriesgoederen
+asdruk = som van de wieldrukken aan één as
+tandem = twee assen die achter elkaar geplaatst zijn en waarvan de afstand tussen het midden van de assen kleiner dan 1.8m is
+welk deel van het gewicht moeten de voorassen van een vrachtwagen met tandem minimaal dragen? 20 procent | 20%
+welk deel van het gewicht moeten de achterassen van een vrachtwagen met tandem minimaal dragen? 25 procent | 25%
+120x80 cm | 120*80cm = afmetingen europallet
+100x80 cm | 100*80cm = afmetingen ISO-pallet
+120x100 cm | 120*100cm = afmetingen Chep-pallet
+slingerschot = verdeelt de vloeistof in een tankwagen om te stabiliteit te vergroten
+middelpunvliedende kracht | zijwaartse kracht = kracht op lading als een voertuig een bocht neemt
+tonronding = het midden van de weg licht hoger dan de zijkanten
+wat zijn de europese constructienormen voor vrachtwagens en opleggers? EN12642L en EN12642XL | EN12642L & EN12642XL | EN12642X?L
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet de achterwand minstens tegen bestand zijn volgens EN12642L? 25 procent | 25%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet de achterwand minstens tegen bestand zijn volgens EN12642XL? 30 procent | 30%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet het kopschot minstens tegen bestand zijn volgens EN12642L? 40 procent | 40%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet het kopschot minstens tegen bestand zijn volgens EN12642XL? 50 procent | 50%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet de zijwanden minstens tegen bestand zijn volgens EN12642L? 30 procent | 30%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet de zijwanden minstens tegen bestand zijn volgens EN12642XL? 40 procent | 40%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet een schuifzeilen minstens tegen bestand zijn volgens EN12642L? 0 procent | 0% | niets | null | geen
+welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de latten van een huifopbouw minstens tegen bestand zijn volgens EN12642L? 6 procent | 6%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de boordwanden van een huifopbouw minstens tegen bestand zijn volgens EN12642L? 24 procent | 24%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de rongen voor ronde of cylindrische ladingen minstens tegen bestand zijn volgens EN12642L? 50 procent | 50%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de rongen voor NIET ronde of cylindrische ladingen minstens tegen bestand zijn volgens EN12642L? 30 procent | 30%
+welk deel van de evenredig verdeelde kracht van het laadvermogen moet de zijwanden minstens tegen bestand zijn volgens EN12642L? 30 procent | 30%
+wat zijn de 3 manieren van ladingzekering? krachtsluitende ladingzekering, vormsluitende ladingzekering, combinatie ladingzekering | krachtsluitende ladingzekering vormsluitende ladingzekering combinatie ladingzekering | krachtsluitende vormsluitende combinatie | krachtsluitend vormsluitend gecombineerd
+Wat zijn de 4 manieren van vormsluitende ladingzekering? directzekeren fixeren kopsjorren opsluiten | opsluiten fixeren directzekeren kopsjorren | opsluiten, fixeren, directzekeren, kopsjorren
+opsluiten = ladingzekering waarbij de lading langs elke kant tegen de wanden wordt opgesloten
+fixeren = ladingzekering waarbij laadeenheden worden vastgeklemd door hulpmiddelen, die de krachten opnemen en doorgeven aan de wanden
+keggen = driehoekige blokken die cilindervormige ladingen tegenhouden
+goot = inkeping in de laadvloer om cilindervormige ladingen te zekeren
+vanaf welk gewicht is een goot vereist voor het vervoeren van een coil? 10 ton
+tussenwandverbinding | tussenwandverbindingen = hout of aluminium stangen bevestigd aan de zijwanden om de lading te zekeren
+twistlock = zekering om containers op elkaar of op vrachtwagens te zekeren
+vanaf welke massa is een twistlock vereist voor een container? 5.5 ton
+wat zijn de 2 manieren van directzekeren? diagonaalsjorren en schuinsjorren | diagonaalsjorren & schuinsjorren | diagonaalsjorren, schuinsjorren | diagonaalsjorren schuinsjorren
+directzekeren = lading zekeren met spanmiddelen aan vaste elementen op de laadvloer
+sjorog | sjorogen = ring bevestigd aan de laadvloer waaraan spanmiddelen bevestigd kunnen worden
+diagonaalsjorren = systeem van spanbanden om een lading direct te zekeren; minimaal 4 spanbanden nodig, elke spanband zekert naar 2 richtingen
+schuinsjorren = systeem van spanbanden om een lading direct te zekeren; minimaal 8 spanbanden nodig, 2 per zijde van de lading; elke spanband zekert naar 1 richting
+kopsjorren = spanmiddel om de bovenzijde van een lading gespannen en aan zijkanden van de laadruimte vastgemaakt
+bochtsjorren = lus om de lading heen om de lading langs de zijkant te zekeren
+neersjorren = spanbanden over de lading getrokken en aangespannen met een ratel, waardoor de lading op de laadvloer geperst wordt
+waar staat LC voor? lashing capacity
+waar staat SHF voor? standard hand force
+waar staat STF voor? standard tension force
+lashing capacity = de hoogste toegestane kracht in een rechte lijn waarvoor een spanband ontworpen is
+SHF | standard hand force = de normale armkracht die op het spanelement (ratel) moet worden uitgeoefend om de aangegeven voorspankracht te bereiken
+STF | standard tension force = de voorspankracht die in de spanband wordt opgebouwd door de ratel en de handkracht (van belang bij neersjorren)
+hoeveel procent mag een spanband maximaal uitrekken bij het bereiken van de toegestane trekkracht? 7 procent | 7%
+ratel = mechanisme om spanbanden aan te spannen
+hoekbeschermer | hoekstuk = hulpmiddel dat voorkomt dat een spanband de lading snijdt of omgekeerd
+kantelproef = test waarbij gecontroleerd wordt dat een lading niet vervormd als het onder een hoek van maximaal 26 graden wordt gebracht
+waar staat IBC voor? intermediate bulk container
+intermediate bulk container | IBC = grote verpakking ontworpen om met mechanische hulpmiddelen, zoals een heftruck of een kraan verplaatst te worden
+transpallet | pompwagen = mechanisch of elektrisch apparaat om goederen op een pallet te verplaatsen
+steekwagen = handgestuurd karretje om goederen op korte afstand te verplaatsen
+bakkenwagen = plateau op 4 wielen om bakken te verrijden
+laad en loskraan | laad- en loskraan = vaste constructie op een vrachtwagen met open bak om goederen langs de bovenkant van de laadvloer te laden zonder andere hulpmiddelen
+voorwaarts | vooruit = richting van sterkste krachten bij wegvervoer
+zijwaarts = richting van sterkste krachten bij zeevervoer
+lengterichting = richting van sterkste krachten bij treinvervoer
+fiscaal kenteken = elektronisch document dat bewijst dat er verkeersbelasting wordt betaald
+technische fiche = document met de technische gegevens van een vrachtwagen of aanhangwagen met MTM > 3.5 ton
+identificatieverslag = document met identificatiegegevens van een voertuig of aanhangwagen met MTM tussen 750 en 3500 kg
+bilaterale vergunning = vergunning tussen 2 landen volgens overeenkomsten gesloten met dat land
+transitovergunning = vergunning voor vervoer via een land, naar een ander land
+CEMT = vergunning voor ondernemingen met veilige en milieuvriendelijke voertuigen
+welke gegevens staan op het sticker van een ATP-gekeurd voertuig? isolatiewaarde, temperatuurbereik, geldigheidsduur keuring | isolatiewaarde temperatuurbereik geldigheidsduur keuring
+welk certificaat is vereist voor het vervoeren van diervoeder? FCA-certificaat | FCA certificaat | FCA
+CMR-verdrag | CMR verdrag = verdrag voor grensoverschrijdend vervoer waar bijna alle europese landen bij aangesloten zijn
+voor wie zijn de 3 exemplaren van een CMR-vrachtbrief bedoeld? afzender, geadresseerde, vervoerder | afzender geadresseerde vervoerder
+tot welke afstand mag de vrachtbrief voor korte afstand gebruikt worden? 50 km
+volgens welk verdrag is in Europa het vrij vervoer van goederen en personen geregeld? het Schengen verdrag | Schengen verdrag | Schengen
+enig document | enig = document gebruikt voor in- en uitvoer van goederen in en uit de EU
+T1-formulier | T1 formulier | T1 = formulier gebruikt voor goederen van buiten de EU
+T2-formulier | T2 formulier | T2 = formulier gebruikt voor goederen van binnen de EU door of naar een van de EVA landen
+waar staat FUP voor? front underrun protection
+FUP | front underrun protection = stalen balk in of onder de voorbumper die voorkomt dat personenwagens bij een frontale botsing onder de vrachtwagen verdwijnen
+alfapass = electronische identificatiekaart voor bezoekers van havens die persoonlijke en biometrische gegevens van de houder bevat
+demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van geneesmiddelen
+
+[a1a-02.png] welk bord is dit (a1a)? gevaarlijke bocht naar links | gevaarlijke bocht
+[a1b-02.png] welk bord is dit (a1b)? gevaarlijke bocht naar rechts | gevaarlijke bocht
+[a1c-02.png] welk bord is dit (a1c)? gevaarlijke dubbele of meer dan twee bochten de eerste naar links | haarspeldbocht
+[a1d-02.png] welk bord is dit (a1d)? gevaarlijke dubbele of meer dan twee bochten de eerste naar rechts | haarspeldbocht
+[a3-02.png] welk bord is dit (a3)? gevaarlijke daling | steile daling
+[a5-02.png] welk bord is dit (a5)? gevaarlijke helling | steile helling
+[a7a-02.png] welk bord is dit (a7a)? rijbaanversmalling
+[a7b-02.png] welk bord is dit (a7b)? rijbaanversmalling links
+[a7c-02.png] welk bord is dit (a7c)? rijbaanversmalling rechts
+[a9-02.png] welk bord is dit (a9)? beweegbare brug
+[a11-02.png] welk bord is dit (a11)? uitweg op kaai of oever | kaai of oever
+[a13-02.png] welk bord is dit (a13)? dwarse uitholling of ezelsrug
+[a14-02.png] welk bord is dit (a14)? verhoogde inrichting
+[a15-02.png] welk bord is dit (a15)? gladde rijbaan slipgevaar | slipgevaar
+[a17-02(1).png] welk bord is dit (a17)? kiezelprojectie
+[a19-02.png] welk bord is dit (a19)? vallende stenen
+[a21-02.png] welk bord is dit (a21)? oversteekplaats voor voetgangers
+[a23-02.png] welk bord is dit (a23)? opgelet kinderen
+[a25-02.png] welk bord is dit (a25)? oversteekplaats voor fietsers en bromfietsers
+[a27-02.png] welk bord is dit (a27)? overstekend groot wild
+[a29-02.png] welk bord is dit (a29)? overstekend vee
+[a31-02.png] welk bord is dit (a31)? werken
+[a33-02.png] welk bord is dit (a33)? verkeerslichten | stoplichten
+[a35-02.png] welk bord is dit (a35)? vliegtuigen op geringe hoogte | lage vliegtuigen | laaghangende vliegtuigen
+[a37-02.png] welk bord is dit (a37)? zijwind | pas op zijwind
+[a39-02.png] welk bord is dit (a39)? twee richtingsverkeer toegelaten na een stuk eenrichtingsverkeer | tweerichtingsverkeer
+[a41-02.png] welk bord is dit (a41)? overweg met slagbomen
+[a43-02.png] welk bord is dit (a43)? overweg zonder slagbomen | onbewaakte spoorwegovergang
+[a49-02.png] welk bord is dit (a49)? openbare weg kruist met een of meer in de rijbaan aangelegde sporen
+[a50.png.c.png] welk bord is dit (a50)? opgelet file
+[a51-02.png] welk bord is dit (a51)? gevaar dat niet door een speciaal symbool wordt bepaald
+[b1-02.png] welk bord is dit (b1)? voorrang verlenen
+[b5-02.png] welk bord is dit (b5)? stoppen en voorrang verlenen
+[b9-02.png] welk bord is dit (b9)? voorrangsweg
+[b11-02.png] welk bord is dit (b11)? einde voorrangsweg
+[b17-02.png] welk bord is dit (b17)? kruispunt waar de voorrang van rechts geldt
+[b19-02.png] welk bord is dit (b19)? smalle doorgang voorrang verlenen aan de bestuurders die uit de tegenovergestelde richting komen
+[b21-02.png] welk bord is dit (b21)? smalle doorgang voorrang ten opzichte van de bestuurders die uit de tegenovergestelde richting komen
+[b22-02.png] welk bord is dit (b22)? fietsers en bromfietsers mogen rechtsaf slaan en de verkeerslichten voorbijrijden | fietsers door verkeerslicht rechtsaf | fietsers negeren stoplicht | fietsers negeren verkeerslicht
+[b23-02.png] welk bord is dit (b23)? fietsers en bromfietsers mogen rechtdoor rijden en de verkeerslichten voorbijrijden | fietsers negeren stoplicht
+[c1-02.png] welk bord is dit (c1)? verboden richting voor iedere bestuurder
+[c3-02.png] welk bord is dit (c3)? verboden in beide richtingen voor iedere bestuurder | verboden in beide richtingen | verboden voor beide richtingen
+[c5-02.png] welk bord is dit (c5)? verboden voor bestuurders van motorvoertuigen | verboden voor motorvoertuigen
+[c7-02.png] welk bord is dit (c7)? verboden voor bestuurders van motorfietsen | verboden voor motorfietsen | verboden voor motoren | verboden motorfietsen | verboden motoren
+[c9-02.png] welk bord is dit (c9)? verboden voor bestuurders van bromfietsen
+[c9-c11-02(1).png] welk bord is dit (c9)? c11 verboden voor bestuurders van bromfietsen en fietsen
+[c11-02.png] welk bord is dit (c11)? verboden voor bestuurders van rijwielen
+[c13-02.png] welk bord is dit (c13)? verboden voor bestuurders van gespannen
+[c15-02.png] welk bord is dit (c15)? verboden voor ruiters
+[c17-02.png] welk bord is dit (c17)? verboden voor bestuurders van handkarren
+[c19-02.png] welk bord is dit (c19)? verboden voor voetgangers
+[c21-02.png] welk bord is dit (c21)? verboden voor bestuurders van voertuigen waarvan de massa in beladen toestand hoger is dan de aangeduide massa | verboden bij MBT | verboden MBT | verbod MBT
+[c22-02.png] welk bord is dit (c22)? verboden voor bestuurders van autocars
+[c23-02.png] welk bord is dit (c23)? verboden voor bestuurders van voertuigen bestemd of gebruikt voor het vervoer van zaken | vrachtwagenverbod
+[c24a-02.png] welk bord is dit (c24a)? verboden voor bestuurders van voertuigen die gevaarlijke goederen vervoeren
+[c24b-02.png] welk bord is dit (c24b)? verboden voor bestuurders van voertuigen die gevaarlijke ontvlambare of ontplofbare stoffen vervoeren
+[c24c-02.png] welk bord is dit (c24c)? verboden voor bestuurders van voertuigen die gevaarlijke verontreinigende stoffen vervoeren
+[c25-02.png] welk bord is dit (c25)? verboden voor voertuigen langer dan het aangeduide | lengteverbod
+[c27-02.png] welk bord is dit (c27)? verboden voor voertuigen breder dan het aangeduide | breedteverbod
+[c29-02(1).png] welk bord is dit (c29)? verboden voor voertuigen hoger dan het aangeduide | maximum hoogte | verbod hoogte | hoogteverbod
+[c31a-02.png] welk bord is dit (c31a)? verbod om links af te slaan | verboden linksaf te slaan | verbod linksaf slaan
+[c31b-02.png] welk bord is dit (c31b)? verbod rechts af te slaan | verboden rechtsaf te slaan | verbod rechtsaf slaan
+[c33-02.png] welk bord is dit (c33)? keerverbod
+[c35-02.png] welk bord is dit (c35)? inhaalverbod
+[c37-02.png] welk bord is dit (c37)? einde verbod opgelegd door het verkeersbord c35
+[c39-02.png] welk bord is dit (c39)? verbod voertuigen met toegelaten massa 3500 kg in te halen | inhaalverbod voor vrachtwagens | inhaalverbod vrachtwagens
+[c41-02.png] welk bord is dit (c41)? einde van het verbod opgelegd door het verkeersbord c39
+[generator_1c1e7f.png] welk bord is dit (c43)? maximumsnelheid
+[generator_d15df3.png] welk bord is dit (c45)? einde maximumsnelheid
+[c46-02.png] welk bord is dit (c46)? einde van alle plaatselijke verbodsbepalingen opgelegd aan de voertuigen in beweging | einde alle verboden
+[c47-02.png] welk bord is dit (c47)? tolpost verbod voorbij te rijden zonder te stoppen | tolpost
+[d1a-02.png] welk bord is dit (d1a)? verplichting rechtdoor | verplicht rechtdoor
+[d1b-02.png] welk bord is dit (d1b)? verplichting links afslaan | verplicht links afslaan | verplicht linksaf
+[d1b2-02.png] welk bord is dit (d1b)? verplichting rechts afslaan | verplicht rechts afslaan | verplicht rechtsaf
+[d4links-02.png] welk bord is dit (d4)? verplicht linksaf voor voertuigen die gevaarlijke goederen vervoeren
+[d4rechtdoor-02.png] welk bord is dit (d4)? verplicht rechtdoor voor voertuigen die gevaarlijke goederen vervoeren
+[d4rechts-02.png] welk bord is dit (d4)? verplicht rechts voor voertuigen die gevaarlijke goederen vervoeren
+[d5-02.png] welk bord is dit (d5)? verplicht rondgaand verkeer | rotonde
+[d7-02.png] welk bord is dit (d7)? verplicht fietspad
+[d9a-02.png] welk bord is dit (d9a)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
+[d9b-02.png] welk bord is dit (d9b)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
+[d10-02.png] welk bord is dit (d10)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
+[d11-02.png] welk bord is dit (d11)? verplichte weg voor voetgangers | verplicht voor voetgangers
+[d13-02.png] welk bord is dit (d13)? verplichte weg voor ruiters | verplicht voor ruiters
+[e1-02.png] welk bord is dit (e1)? parkeerverbod | verboden te parkeren
+[e3-02.png] welk bord is dit (e3)? stilstaan en parkeren verboden
+[e5-02.png] welk bord is dit (e5)? parkeerverbod van de 1e tot de 15e van de maand
+[e7-02.png] welk bord is dit (e7)? parkeerverbod van de 16e tot het einde van de maand
+[e9a-02.png] welk bord is dit (e9a)? parkeren toegelaten | parkeergelegenheid
+[e9aelektrischopladen-02.png] welk bord is dit (e9a)? elektrisch laden parkeerplaats voorbehouden voor het elektrisch opladen van je wagen
+[e9a mindervaliden-02.png] welk bord is dit (e9a)? mindervaliden parkeren enkel toegelaten voor mindervaliden
+[e9a parkeerschijf-02.png] welk bord is dit (e9a)? parkeerschijf parkeren beperkt in tijd parkeerschijf verplicht
+[e9b-02.png] welk bord is dit (e9b)? parkeren uitsluitend voor autos
+[e9c-02.png] welk bord is dit (e9c)? parkeren uitsluitend voor vrachtwagens | parkeren uitsluitend vrachtwagens
+[e9d-02.png] welk bord is dit (e9d)? parkeren uitsluitend voor autocars
+[e9e-02.png] welk bord is dit (e9e)? verplicht parkeren op de berm of op het trottoir | verplicht op de berm parkeren | verplicht bermparkeren
+[e9f-02.png] welk bord is dit (e9f)? verplicht parkeren deels op de berm of op het trottoir | verplicht deels op de berm parkeren | verplicht deels bermparkeren
+[e9g-02.png] welk bord is dit (e9g)? verplicht parkeren op de rijbaan | verplicht op rijbaan parkeren | verplicht rijbaanparkeren
+[e9h-02.png] welk bord is dit (e9h)? parkeren uitsluitend voor kampeerautos
+[e9i-02.png] welk bord is dit (e9i)? parkeren uitsluitend voor motorfietsen
+[e11-02.png] welk bord is dit (e11)? halfmaandelijks parkeren in gans de bebouwde kom | halfmaandelijks parkeren
+[generator_d3d88a.png] welk bord is dit (f1a)? begin van een bebouwde kom | begin bebouwde kom | bebouwde kom
+[generator_afd983.png] welk bord is dit (f1a)? begin van een bebouwde kom | begin bebouwde kom | bebouwde kom
+[f1b-liggend-02.png] welk bord is dit (f1b)? begin van een bebouwde kom | begin bebouwde kom | bebouwde kom
+[f1b-02.png] welk bord is dit (f1b)? begin van een bebouwde kom | begin bebouwde kom | bebouwde kom
+[generator_20f35a.png] welk bord is dit (f3a)? einde bebouwde kom
+[generator_49595c.png] welk bord is dit (f3a)? einde bebouwde kom
+[f3b-02.png] welk bord is dit (f3b)? einde bebouwde kom
+[f3b-liggend-02.png] welk bord is dit (f3b)? einde bebouwde kom
+[f4a-02.png] welk bord is dit (f4a)? zone 30 kmu
+[f4b-02.png] welk bord is dit (f4b)? einde zone 30 kmu
+[f5-02.png] welk bord is dit (f5)? autosnelweg
+[f7-02.png] welk bord is dit (f7)? einde autosnelweg
+[f8-02.png] welk bord is dit (f8)? tunnel
+[f9-02.png] welk bord is dit (f9)? autoweg
+[f11-02.png] welk bord is dit (f11)? einde van de autoweg | einde autoweg
+[f12a-02.png] welk bord is dit (f12a)? begin van een woonerf of van een erf | begin erf | erf
+[f12b-02.png] welk bord is dit (f12b)? einde van een woonerf of van een erf | einde erf
+[f13-02.png] welk bord is dit (f13)? rijstrook keuze
+[f17-02.png] welk bord is dit (f17)? rijstrook aanduiding voorbehouden voor autobussen
+[f18_tekengebied1.png] welk bord is dit (f18)? bijzondere overrijdbare bedding
+[f19-02.png] welk bord is dit (f19)? eenrichtingsverkeer
+[f21-02.png] welk bord is dit (f21)? rechts of links voorbijrijden toegelaten
+[generator_cbe9a0.png] welk bord is dit (f23a)? nummer van een gewone weg | gewone weg
+[generator_fa6b8c.png] welk bord is dit (f23b)? nummer van een autosnelweg | autosnelweg
+[generator_251c60.png] welk bord is dit (f23c)? nummer van een internationale weg | internationale weg
+[generator_3ea2f1.png] welk bord is dit (f23d)? nummer van een ringweg | ringweg
+[generator_feb2e7.png] welk bord is dit (f29)? wegwijzer
+[generator_f903d8.png] welk bord is dit (f29)? wegwijzer
+[generator_ceb670.png] welk bord is dit (f31)? wegwijzer autostrade
+[generator_4dd8c6.png] welk bord is dit (f31)? wegwijzer autostrade
+[generator_b48196.png] welk bord is dit (f39)? aankondiging van een omleiding
+[generator_4fa5f7.png] welk bord is dit (f41)? wegwijzer omleidingsweg
+[generator_4477e8.png] welk bord is dit (f41)? wegwijzer omleidingsweg
+[generator_c6a529.png] welk bord is dit (f43)? gemeentegrens
+[generator_d11e11.png] welk bord is dit (f43)? gemeentegrens
+[f431100x300-02-02.png] welk bord is dit (f43)? gemeentegrens
+[f45-02.png] welk bord is dit (f45)? doodlopende weg | doodlopende straat
+[f45b-02.png] welk bord is dit (f45b)? doodlopende weg uitgezonderd voetgangers en fietsers | doodlopende weg uitgezonderd | doodlopende straat uitgezonderd
+[f47-02.png] welk bord is dit (f47)? einde van de werken
+[f49-02.png] welk bord is dit (f49)? oversteekplaats voor voetgangers | voetgangers oversteekplaats | oversteekplaats voetgangers
+[f50-02.png] welk bord is dit (f50)? oversteekplaats voor fietsers en bromfietsers | oversteekplaats fietsers en bromfietsers
+[generator_2ad4a7.png] welk bord is dit (f50bis)? opgepast als je van richting veranderd fietsers
+[generator_af8d4b.png] welk bord is dit (f50bis)? opgepast als je van richting veranderd voetgangers
+[generator_b91ec4.png] welk bord is dit (f53)? verplegingsinrichting
+[generator_a70d87.png] welk bord is dit (f55)? hulppost
+[generator_3fc23f.png] welk bord is dit (f56)? brandblusapparaat
+[generator_10be46.png] welk bord is dit (f59)? aankondiging parking | aankondiging parkeren | aanduiding parking | aanduiding parkeren
+[generator_98aa49.png] welk bord is dit (f59a)? aankondiging parking | aankondiging parkeren | aanduiding parking | aanduiding parkeren
+[generator_edf69b.png] welk bord is dit (f60)? overdekte parking
+[generator_b48616.png] welk bord is dit (f61)? telefoon
+[generator_072e06.png] welk bord is dit (f62)? noodtelefoon
+[generator_b92d5f.png] welk bord is dit (f63)? tankstation
+[generator_4c9476.png] welk bord is dit (f63)? elektrisch laden | tankstation voor elektrisch laden
+[generator_47710e.png] welk bord is dit (f63)? specifieke brandstof tankstation met een specifieke brandstof | LPG
+[generator_c57c1b.png] welk bord is dit (f65)? hotel of motel
+[generator_3b86db.png] welk bord is dit (f67)? restaurant
+[generator_fddbc2.png] welk bord is dit (f69)? drankgelegenheid | drinkgelegenheid
+[generator_9c852a.png] welk bord is dit (f71)? kampeerterrein
+[generator_ed5252.png] welk bord is dit (f73)? caravanterrein
+[generator_64e461.png] welk bord is dit (f75)? jeugdherberg
+[generator_c74711.png] welk bord is dit (f77)? toeristische informatie
+[f87-02.png] welk bord is dit (f87)? verhoogde inrichting vluchtheuvel
+[f97-02.png] welk bord is dit (f97)? rijstrook versmalling
+[f99b-02.png] welk bord is dit (f99b)? deel van de openbare weg voorbehouden voor fietsers en voetgangers | weg voorbehouden fietsers en voetgangers | voorbehouden fietsers en voetgangers
+[f99c-02.png] welk bord is dit (f99c)? voorbehouden voor het verkeer van landbouwvoertuigen voetgangers fietsers ruiters en bestuurders van bromfietsers
+[f101a-02.png] welk bord is dit (f101a)? einde voorbehouden voor het verkeer van voetgangers fietsers ruiters en bestuurders van bromfietsers
+[f101b-02.png] welk bord is dit (f101b)? einde deel van de openbare weg voorbehouden voor fietsers en voetgangers
+[f101c-02.png] welk bord is dit (f101c)? einde voorbehouden voor het verkeer van landbouwvoertuigen voetgangers fietsers ruiters en bestuurders van bromfietsers
+[generator_e4c6e6.png] welk bord is dit (f103)? begin voetgangerszone | begin zone voetgangers
+[generator_332fde.png] welk bord is dit (f105)? einde voetgangerszone | einde zone voetgangers
+[f111-02.png] welk bord is dit (f111)? fietsstraat
+[f113-02.png] welk bord is dit (f113)? einde fietsstraat
+[f117-02.png] welk bord is dit (f117)? begin van een lage emissiezone
+[f118-02(1).png] welk bord is dit (f118)? einde lage emissiezone
+[generator_2606f3.png] welk bord is dit (gii)? aanduiding van de lengte van een gedeelte van de openbare weg
+[generator_2891ba.png] welk bord is dit (giii)? opgepast kans op ijzel | opgepast ijzel | pas op ijzel
+[generator_97ea0d.png] welk bord is dit (giii)? opgepast industriezone | pas op industriezone | pas op industriegebied | pas op industrieterrein | industriezone | industriegebied | industrieterrein
+[generator_4209a1.png] welk bord is dit (giii)? opgepast langsgroeven | pas op langsgroeven
+[generator_bd6f30.png] welk bord is dit (giii)? opgepast kans op aquaplaning | pas op aquaplaning
+[generator_bdfa13.png] welk bord is dit (giii)? opgepast uitrit | pas op uitrit
+[generator_73b2b4.png] welk bord is dit (giv)? beperking of verbod voor sommige weggebruikers
+[gix-02.png] welk bord is dit (gix)? versmalling van een rijstrook
+[generator_03384a.png] welk bord is dit (gia)? aanduiding van een afstand
+[generator_52cd50.png] welk bord is dit (gib)? aanduiding van een afstand
+[generator_84fb80.png] welk bord is dit (gv)? aanvulling op de verkeersborden stilstaan en parkeren
+[generator_e64479.png] welk bord is dit (gvi)? aanduiding
+[generator_634824.png] welk bord is dit (gviii)? voorrangs aanduiding
+[generator_186e14.png] welk bord is dit (gviia)? aanvulling verkeersborden parkeren | aanvulling verkeersbord parkeren | aanvulling parkeerbord
+[generator_6b6765.png] welk bord is dit (gviib)? aanvulling verkeersborden parkeren | aanvulling verkeersbord parkeren | aanvulling parkeerbord
+[generator_d68380.png] welk bord is dit (gviic)? aanvulling verkeersborden parkeren | aanvulling verkeersbord parkeren | aanvulling parkeerbord
+[generator_cca511.png] welk bord is dit (gxi)? afrit
+[generator_3b05ff.png] welk bord is dit (gxa)? begin van de reglementering | begin reglementering
+[generator_50fe24.png] welk bord is dit (gxb)? einde van de reglementering | einde reglementering
+[generator_69992c.png] welk bord is dit (gxc)? reglementering op een korte afstand
+[generator_a1693e.png] welk bord is dit (gxd)? reglementering op een lange afstand
+[generator_fc0bde.png] welk bord is dit (m1)? enkel voor fietsers | enkel fietsers
+[generator_bd30c7.png] welk bord is dit (m2)? uitgezonderd fietsers
+[generator_9bb676.png] welk bord is dit (m3bis)? uitgezonderd fietsers en bromfietsers
+[generator_e198dc.png] welk bord is dit (m4)? fietsers mogen in 2 richtingen
+[generator_0ccf92.png] welk bord is dit (m8)? enkel voor fietsers en bromfietsers
+[generator_ebf899.png] welk bord is dit (m9)? fietsers in twee richtingen op de dwarslopende weg die je gaat oprijden
+[generator_103e38.png] welk bord is dit (m10)? fietsers en bromfietser in twee richtingen op de dwarslopende weg die je gaat oprijden
+[generator_899dae.png] welk bord is dit (m11)? uitgezonderd fietsers en bromfietsers
+[generator_e886e9.png] welk bord is dit (m13)? verplichting voor bromfietsers
+[generator_62b9be.png] welk bord is dit (m14)? verplichting voor bromfietsen klasse b en bromfietsers | verplicht voor bromfietsers klasse b | verplicht voor bromfietsers
+[generator_1d46f6.png] welk bord is dit (m15)? verbod voor bromfietsers | verboden voor bromfietsers
+[generator_6bd339.png] welk bord is dit (m17)? fietsers en bromfietsers mogen in 2 richtingen | fietsers en bromfietsers twee richtingsverkeer | twee richtingsverkeer fietsers en bromfietsers
+[generator_80f552.png] welk bord is dit (m19)? enkel voor bromfietsers
+[generator_146a28.png] welk bord is dit (m20)? enkel voor fietsers en bromfietsers
+[generator_ffb0de.png] welk bord is dit (zc5)? zone verboden toegang voor motorvoertuigen met meer dan 2 wielen
+[generator_49cbd4.png] welk bord is dit (zc5)? einde zone verboden toegang voor motorvoertuigen met meer dan 2 wielen
+[generator_0dbd83.png] welk bord is dit (zc21)? zone verboden toegang voor bestuurders van voertuigen waarvan de massa hoger is dan de aangeduide massa | zone verbod MBT | zone MBT
+[generator_8402ac.png] welk bord is dit (zc21)? einde zone verboden toegang voor bestuurders van voertuigen waarvan de massa hoger is dan de aangeduide massa | einde zone verbod MBT | einde zone MBT
+[generator_70bcc4.png] welk bord is dit (zc21t)? zone verboden toegang voor bestuurders van voertuigen waarvan de massa hoger is dan de aangeduide massa | zone verboden MBT | zone MBT
+[generator_d89789.png] welk bord is dit (zc21t)? einde zone verboden toegang voor bestuurders van voertuigen waarvan de massa hoger is dan de aangeduide massa | einde zone MBT | einde zone verboden MBT
+[generator_54a5af.png] welk bord is dit (zc35)? zone verboden inhalen | zone inhaalverbod
+[generator_fd3149.png] welk bord is dit (zc35)? einde zone verboden inhalen | einde zone inhaalverbod
+[generator_d3f27b.png] welk bord is dit (zc35t)? zone verboden inhalen | zone inhaalverbod
+[generator_f93bee.png] welk bord is dit (zc35t)? einde zone verboden inhalen | einde zone inhaalverbod
+[generator_bde266.png] welk bord is dit (zc43)? zone met een snelheidsbeperking | zone snelheidsverbod
+[generator_6e455f.png] welk bord is dit (zc45)? einde zone met een snelheidsbeperking | einde zone snelheidsverbod
+[generator_2d0f20.png] welk bord is dit (ze1)? zone parkeerverbod
+[ze1 einde-02.png] welk bord is dit (ze1)? einde zone parkeerverbod
+[generator_619fea.png] welk bord is dit (ze9a)? parkeerschijf zone parkeren beperkt in tijd parkeerschijf verplicht
+[generator_64aa4c.png] welk bord is dit (ze9a)? parkeerschijf dique de stationnement einde zone parkeren beperkt in tijd parkeerschijf verplicht
+[f111zone-02.png] welk bord is dit (zone f111)? zone fietsstraat
+[f113zone-02.png] welk bord is dit (zone f113)? einde zone fietsstraat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
