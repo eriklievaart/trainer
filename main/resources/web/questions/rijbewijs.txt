@@ -43,7 +43,7 @@ vereiste zichtbaarheid gevarendriehoek binnen bebouwde kom? 50m
 wat is verplicht op autobussen, autocars en autos voor bezoldigd vervoer? verbandkist | verbanddoos
 wat is verplicht op autos die geen verbandkist hoeven hebben? verbandetui
 welk elektronisch systeem is verplicht op elke vrachtauto? on board unit | OBU
-wat is verplicht in elke auto? brandblusser en veiligheidsvest
+wat is verplicht in elke auto? brandblusser, gevarendriehoek en veiligheidsvest | brandblusser gevarendriehoek veiligheidsvest
 welke documenten moeten altijd in elke auto liggen? gelijkvormigheidsattest, identificatieverslag, kentekenbewijs, verzekeringsbewijs | gelijkvormigheidsattest identificatieverslag kentekenbewijs verzekeringsbewijs
 hoe vaak moeten vrachtwagens in vlaanderen gekeurd worden? om het jaar | elke 2 jaar
 hoe vaak moeten vrachtwagens in Wallonië gekeurd worden? om de zes maanden | om de zes maanden, bij goedkeuring een jaar
@@ -52,6 +52,7 @@ de drie categoriën vergunningen? communautair vervoer, extra communautair vervo
 waar mogen bedrijven goederenvervoer verrichten met een vergunning communautair vervoer? EU, EVA en VK | EU EVA en VK | EU EVA VK | Europese Unie, Europese Vrijhandelsassociatie, en Verenigd Koningkrijk
 gemeenschappelijk vervoer volgens een bepaald tijdsschema, met een vast traject, waarbij de reizigers op- en afstappen aan vooraf bepaalde haltes en dat voor iedereen openstaat? geregeld vervoer
 gemeenschappelijk vervoer volgens bepaalde categoriën, waarbij andere reizigers zijn uitgesloten? bijzonder geregeld vervoer
+gemeenschappelijk vervoer zonder een bepaald tijdsschema? ongeregeld vervoer
 een laan in een rijbaan/rijstrook noemen we een rijbaan/rijstrook? rijbaan rijstrook
 verkeersgeleider = een inrichting die op de rijbaan is aangebracht en die bestemd is om het verkeer te kanaliseren
 bijzondere overrijdbare bedding = afgebakende strook voor trams, autobussen en schoolvervoer
@@ -214,6 +215,19 @@ C = kenletter op die wielnaaf voor naafcentrering
 N = kenletter op die wielnaaf voor boutcentrering
 wat is de vuistregel voor stopafstand (droog wegdek)? (v/10)^2
 wat is de vuistregel voor stopafstand (nat wegdek)? (v/10)^2 + v/10
+welk rijbewijs is nodig voor het besturen van een lichte vrachtwagen van 3500kg met aanhangwagen van 750kg? B
+welk rijbewijs is nodig voor het besturen van een autocar met 16 passagiers? C1
+hoe oud moet je zijn voor het besturen van een vrachtwagen > 7500 kg met vakbekwaamheid? 18
+hoe oud moet je zijn voor het besturen van een vrachtwagen > 7500 kg zonder vakbekwaamheid? 21
+wanneer mag je file rijden op een eenrichtingsweg zonder rijstroken? bij drukte | bij druk verkeer | druk verkeer
+wanneer wordt een verhoogde inrichting aangegeven met een bord? alleen bij niet kruispunten | bij niet kruispunten | uitgezonderd kruispunten
+mag een vrachtwagen rijden op een fietssuggestie strook? ja
+hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen <= 3500 kg? 1kg
+hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen > 3500 kg? 2kg
+hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen > 7500 kg? 3kg
+hoeveel poeder moet er zitten in de brandblusser van een aanhangwagen 2500kg <= 3500 kg? 1kg
+hoeveel poeder moet er zitten in de brandblusser van een aanhangwagen 3500kg <= 7500 kg? 2kg
+hoeveel poeder moet er zitten in de brandblusser van een aanhangwagen > 7500kg? 3kg
 
 eigen vervoer = vervoer van goederen die afkomstig zijn of bestemd voor de eigen onderneming
 beroepsvervoer = vervoer voor rekening van derden
@@ -376,7 +390,7 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [b9-02.png] welk bord is dit (b9)? voorrangsweg
 [b11-02.png] welk bord is dit (b11)? einde voorrangsweg
 [b17-02.png] welk bord is dit (b17)? kruispunt waar de voorrang van rechts geldt | gevaarlijk kruispunt
-[b19-02.png] welk bord is dit (b19)? smalle doorgang voorrang verlenen aan de bestuurders die uit de tegenovergestelde richting komen | smalle doorgang voorrang verlenen
+[b19-02.png] welk bord is dit (b19)? smalle doorgang voorrang verlenen aan de bestuurders die uit de tegenovergestelde richting komen | smalle doorgang voorrang verlenen | voorrang verlenen tegemoetkomend verkeer
 [b21-02.png] welk bord is dit (b21)? smalle doorgang voorrang ten opzichte van de bestuurders die uit de tegenovergestelde richting komen | smalle doorgang met voorrang
 [b22-02.png] welk bord is dit (b22)? fietsers en bromfietsers mogen rechtsaf slaan en de verkeerslichten voorbijrijden | fietsers door verkeerslicht rechtsaf | fietsers negeren stoplicht | fietsers negeren verkeerslicht
 [b23-02.png] welk bord is dit (b23)? fietsers en bromfietsers mogen rechtdoor rijden en de verkeerslichten voorbijrijden | fietsers negeren stoplicht
@@ -394,18 +408,18 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [c22-02.png] welk bord is dit (c22)? verboden voor bestuurders van autocars | verboden voor autocars | verboden autocars
 [c23-02.png] welk bord is dit (c23)? verboden voor bestuurders van voertuigen bestemd of gebruikt voor het vervoer van zaken | verboden voor vrachtwagens | vrachtwagenverbod
 [c24a-02.png] welk bord is dit (c24a)? verboden voor bestuurders van voertuigen die gevaarlijke goederen vervoeren | verboden ADR transport | verboden voor ADR transport
-[c25-02.png] welk bord is dit (c25)? verboden voor voertuigen langer dan het aangeduide | lengteverbod
-[c27-02.png] welk bord is dit (c27)? verboden voor voertuigen breder dan het aangeduide | breedteverbod
+[c25-02.png] welk bord is dit (c25)? verboden voor voertuigen langer dan het aangeduide | lengteverbod | lengteverbod vrachtwagens
+[c27-02.png] welk bord is dit (c27)? verboden voor voertuigen breder dan het aangeduide | breedteverbod | breedteverbod vrachtwagens
 [c29-02(1).png] welk bord is dit (c29)? verboden voor voertuigen hoger dan het aangeduide | maximum hoogte | verbod hoogte | hoogteverbod
 [c31a-02.png] welk bord is dit (c31a)? verbod om links af te slaan | verboden linksaf te slaan | verbod linksaf slaan | verbod linksaf
 [c31b-02.png] welk bord is dit (c31b)? verbod rechts af te slaan | verboden rechtsaf te slaan | verbod rechtsaf slaan | verbod rechtsaf
-[c33-02.png] welk bord is dit (c33)? keerverbod
-[c35-02.png] welk bord is dit (c35)? inhaalverbod
+[c33-02.png] welk bord is dit (c33)? keerverbod | verboden te keren
+[c35-02.png] welk bord is dit (c35)? inhaalverbod | verboden in te halen
 [c37-02.png] welk bord is dit (c37)? einde verbod opgelegd door het verkeersbord c35 | einde inhaalverbod
 [c39-02.png] welk bord is dit (c39)? verbod voertuigen met toegelaten massa 3500 kg in te halen | inhaalverbod voor vrachtwagens | inhaalverbod vrachtwagens
 [c41-02.png] welk bord is dit (c41)? einde van het verbod opgelegd door het verkeersbord c39 | einde inhaalverbod voor vrachtwagens  | einde inhaalverbod vrachtwagens
 [generator_1c1e7f.png] welk bord is dit (c43)? maximumsnelheid
-[generator_d15df3.png] welk bord is dit (c45)? einde maximumsnelheid
+[generator_d15df3.png] welk bord is dit (c45)? einde maximumsnelheid | einde 50
 [c46-02.png] welk bord is dit (c46)? einde van alle plaatselijke verbodsbepalingen opgelegd aan de voertuigen in beweging | einde alle verboden
 [c47-02.png] welk bord is dit (c47)? tolpost verbod voorbij te rijden zonder te stoppen | tolpost
 [d1a-02.png] welk bord is dit (d1a)? verplichting rechtdoor | verplicht rechtdoor
@@ -422,16 +436,16 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [d11-02.png] welk bord is dit (d11)? verplichte weg voor voetgangers | verplicht voor voetgangers
 [d13-02.png] welk bord is dit (d13)? verplichte weg voor ruiters | verplicht voor ruiters | ruiterpad
 [e1-02.png] welk bord is dit (e1)? parkeerverbod | verboden te parkeren
-[e3-02.png] welk bord is dit (e3)? stilstaan en parkeren verboden | verbod op stilstaan en parkeren
+[e3-02.png] welk bord is dit (e3)? stilstaan en parkeren verboden | verbod op stilstaan en parkeren | stilstaanverbod
 [e5-02.png] welk bord is dit (e5)? parkeerverbod van de 1e tot de 15e van de maand | parkeerverbod 1-15
 [e7-02.png] welk bord is dit (e7)? parkeerverbod van de 16e tot het einde van de maand | parkeerverbod 16-31
 [e9a-02.png] welk bord is dit (e9a)? parkeren toegelaten | parkeergelegenheid
 [e9aelektrischopladen-02.png] welk bord is dit (e9a)? elektrisch laden parkeerplaats voorbehouden voor het elektrisch opladen van je wagen
 [e9a mindervaliden-02.png] welk bord is dit (e9a)? mindervaliden parkeren enkel toegelaten voor mindervaliden
 [e9a parkeerschijf-02.png] welk bord is dit (e9a)? parkeerschijf parkeren beperkt in tijd parkeerschijf verplicht
-[e9b-02.png] welk bord is dit (e9b)? parkeren uitsluitend voor autos
+[e9b-02.png] welk bord is dit (e9b)? parkeren uitsluitend voor autos |  parkeren uitsluitend autos
 [e9c-02.png] welk bord is dit (e9c)? parkeren uitsluitend voor vrachtwagens | parkeren uitsluitend vrachtwagens | parkeren alleen voor vrachtwagens
-[e9d-02.png] welk bord is dit (e9d)? parkeren uitsluitend voor autocars
+[e9d-02.png] welk bord is dit (e9d)? parkeren uitsluitend voor autocars | parkeren uitsluitend autocars
 [e9e-02.png] welk bord is dit (e9e)? verplicht parkeren op de berm of op het trottoir | verplicht op de berm parkeren | verplicht bermparkeren
 [e9f-02.png] welk bord is dit (e9f)? verplicht parkeren deels op de berm of op het trottoir | verplicht deels op de berm parkeren | verplicht deels bermparkeren | verplicht halfbermparkeren
 [e9g-02.png] welk bord is dit (e9g)? verplicht parkeren op de rijbaan | verplicht op rijbaan parkeren | verplicht rijbaanparkeren
@@ -478,7 +492,7 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [f50-02.png] welk bord is dit (f50)? oversteekplaats voor fietsers en bromfietsers | oversteekplaats fietsers en bromfietsers
 [generator_b91ec4.png] welk bord is dit (f53)? verplegingsinrichting
 [generator_a70d87.png] welk bord is dit (f55)? hulppost | ehbo hulppost
-[generator_3fc23f.png] welk bord is dit (f56)? brandblusapparaat
+[generator_3fc23f.png] welk bord is dit (f56)? brandblusapparaat | brandblusser
 [generator_10be46.png] welk bord is dit (f59)? aankondiging parking | aankondiging parkeren | aanduiding parking | aanduiding parkeren
 [generator_edf69b.png] welk bord is dit (f60)? overdekte parking
 [generator_b48616.png] welk bord is dit (f61)? telefoon
@@ -489,10 +503,10 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [generator_c57c1b.png] welk bord is dit (f65)? hotel of motel
 [generator_3b86db.png] welk bord is dit (f67)? restaurant
 [generator_fddbc2.png] welk bord is dit (f69)? drankgelegenheid | drinkgelegenheid
-[generator_9c852a.png] welk bord is dit (f71)? kampeerterrein | kampeergelegenheid
-[generator_ed5252.png] welk bord is dit (f73)? caravanterrein
+[generator_9c852a.png] welk bord is dit (f71)? kampeerterrein | kampeergelegenheid | camping
+[generator_ed5252.png] welk bord is dit (f73)? caravanterrein | caravanstandplaats
 [generator_64e461.png] welk bord is dit (f75)? jeugdherberg
-[f87-02.png] welk bord is dit (f87)? verhoogde inrichting vluchtheuvel | verhoogde vluchtheuvel
+[f87-02.png] welk bord is dit (f87)? verhoogde inrichting | verhoogde inrichting vluchtheuvel | verhoogde vluchtheuvel
 [f97-02.png] welk bord is dit (f97)? rijstrook versmalling | versmalling rijstrook
 [f99b-02.png] welk bord is dit (f99b)? deel van de openbare weg voorbehouden voor fietsers en voetgangers | weg voorbehouden fietsers en voetgangers | voorbehouden fietsers en voetgangers
 [generator_e4c6e6.png] welk bord is dit (f103)? begin voetgangerszone | begin zone voetgangers | voetgangerszone
@@ -541,7 +555,7 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [generator_d3f27b.png] welk bord is dit (zc35t)? zone verboden inhalen | zone inhaalverbod
 [generator_f93bee.png] welk bord is dit (zc35t)? einde zone verboden inhalen | einde zone inhaalverbod
 [generator_bde266.png] welk bord is dit (zc43)? zone met een snelheidsbeperking | zone snelheidsverbod | zone 50
-[generator_6e455f.png] welk bord is dit (zc45)? einde zone met een snelheidsbeperking | einde zone snelheidsverbod | einde zone maximumsnelheid
+[generator_6e455f.png] welk bord is dit (zc45)? einde zone met een snelheidsbeperking | einde zone snelheidsverbod | einde zone maximumsnelheid | einde zone 50
 [generator_2d0f20.png] welk bord is dit (ze1)? zone parkeerverbod
 [ze1 einde-02.png] welk bord is dit (ze1)? einde zone parkeerverbod
 [generator_619fea.png] welk bord is dit (ze9a)? parkeerschijf zone parkeren beperkt in tijd parkeerschijf verplicht | parkeerschijfzone
