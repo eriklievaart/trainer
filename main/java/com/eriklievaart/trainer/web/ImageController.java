@@ -19,7 +19,7 @@ public class ImageController implements PageController {
 	@Override
 	public void invoke(ResponseBuilder response) throws Exception {
 		String image = UrlTool.getTail(request.getRequestURI()).replaceAll("%20", " ");
-		String resource = UrlTool.append("/web/questions/", image);
+		String resource = UrlTool.append("/web/questions/", "_" + image);
 		InputStream is = ResourceTool.getInputStream(getClass(), resource);
 		response.setRenderer(new InputStreamRenderer(is));
 	}

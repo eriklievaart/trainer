@@ -100,12 +100,13 @@ hoeveel meter moet je van een stoplicht vandaan parkeren? 20m | 20
 1m = minimale afstand te behouden tot voetgangers binnen de bebouwde kom
 1.5m = minimale afstand te behouden tot voetgangers buiten de bebouwde kom
 hoeveel meter moet afgezet worden bij een ongeluk met gevaarlijke stoffen? 100m
-wat zijn de 4 A's bij een ongeluk met gevaarlijke stoffen? afzetten, afwachten, afblijven, afstand houden
+wat zijn de 4 A's bij een ongeluk met gevaarlijke stoffen? afzetten, afwachten, afblijven, afstand houden | afzetten afwachten afblijven afstand houden | afzetten afstand houden afblijven afwachten | afblijven afstand houden afwachten afzetten
 wat is de maximale hoogte van een vrachtwagen, autobus of autocar? 4m
 wat is de maximale breedte van een vrachtwagen incl. spiegels? 2.55m
 wat is de maximale breedte van een koelwagen? 2.6m | 2.60m
 wat is de maximale breedte van veevoeder transport? 2.75m
 wat is de maximale breedte van transport binnen een straal van 25 km? 3m
+wat is de maximale afstand waarop transport mag plaats vinden als de vrachtwagen 3m breed is? 25 km
 wat is de maximale lengte van een vrachtwagen of aanhangwagen? 12m
 wat is de maximale lengte van een combinatie vrachtwagen met aanhangwagen? 18.75m
 wat is de maximale lengte van een combinatie trekker met oplegger? 16.5m
@@ -116,7 +117,7 @@ wat is de maximale lengte van een gelede (harmonica) autobus? 18.75m
 wat is de maximale lengte van een ecocombi? 25.25m
 hoever mag lading vooraan uitsteken? niet
 hoever mag lading achteraan uitsteken? 1m
-hoever mag lading vooraan een sleep uitsteken? 0.5m
+hoever mag lading vooraan een sleep uitsteken bij autotransport? 0.5m
 hoever mag lading achteraan een sleep uitsteken? 1.5m
 hoever mag lange ondeelbare lading maximaal uitsteken? 3m
 hoe lang mag een lading uitsteken voordat een vierkant bord met diagonaal reflecterende strepen verplicht is? 1m
@@ -135,7 +136,7 @@ hoe vaak per week mag je normale dagelijkse rusttijd splitsen to minstens 9u? 3x
 wat is de dagelijkse rusttijd bij meervoudige bemanning? 9u per 30u
 hoe lang kan een voertuig maximaal blijven rijden bij meervoudige bemanning? 20u
 na hoeveel werkdagen moet je een wekelijkse rusttijd nemen? 6 | 6d | 6 dagen
-hoe lang moet een wekelijkse rusttijd minimaal zijn? 45u
+hoe lang is een wekelijkse rusttijd? 45u
 hoe lang moet een verkorte wekelijkse rusttijd minimaal zijn? 24u
 hoeveel weken heb je maximaal om een verkorte wekelijkse rusttijd te compenseren? 3 | 3w | 3 weken
 wat is het maximaal aantal opeenvolgende verkorte wekelijkse rusttijden wat je mag opnemen in internationaal vervoer? 2
@@ -220,7 +221,7 @@ welk rijbewijs is nodig voor het besturen van een autocar met 16 passagiers? C1
 hoe oud moet je zijn voor het besturen van een vrachtwagen > 7500 kg met vakbekwaamheid? 18
 hoe oud moet je zijn voor het besturen van een vrachtwagen > 7500 kg zonder vakbekwaamheid? 21
 wanneer mag je file rijden op een eenrichtingsweg zonder rijstroken? bij drukte | bij druk verkeer | druk verkeer
-wanneer wordt een verhoogde inrichting aangegeven met een bord? alleen bij niet kruispunten | bij niet kruispunten | uitgezonderd kruispunten
+wanneer wordt een verhoogde inrichting aangegeven met een bord? alleen niet bij kruispunten | alleen bij niet kruispunten | bij niet kruispunten | uitgezonderd kruispunten | uitgezonderd bij kruispunten
 mag een vrachtwagen rijden op een fietssuggestie strook? ja
 hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen <= 3500 kg? 1kg
 hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen > 3500 kg? 2kg
@@ -228,6 +229,7 @@ hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen > 7500 kg? 
 hoeveel poeder moet er zitten in de brandblusser van een aanhangwagen 2500kg <= 3500 kg? 1kg
 hoeveel poeder moet er zitten in de brandblusser van een aanhangwagen 3500kg <= 7500 kg? 2kg
 hoeveel poeder moet er zitten in de brandblusser van een aanhangwagen > 7500kg? 3kg
+markeren | ongevalsplaats markeren | ongeval markeren = gevarendriehoek plaatsen en de vier richtingaanwijzers laten knipperen
 
 eigen vervoer = vervoer van goederen die afkomstig zijn of bestemd voor de eigen onderneming
 beroepsvervoer = vervoer voor rekening van derden
@@ -282,7 +284,7 @@ welk deel van het gewicht moeten de achterassen van een vrachtwagen met tandem m
 100x80 cm | 100*80cm = afmetingen ISO-pallet
 120x100 cm | 120*100cm = afmetingen Chep-pallet
 slingerschot = verdeelt de vloeistof in een tankwagen om te stabiliteit te vergroten
-middelpunvliedende kracht | zijwaartse kracht = kracht op lading als een voertuig een bocht neemt
+middelpuntvliedende kracht | zijwaartse kracht = kracht op lading als een voertuig een bocht neemt
 tonronding = het midden van de weg licht hoger dan de zijkanten
 wat zijn de europese constructienormen voor vrachtwagens en opleggers? EN12642L en EN12642XL | EN12642L & EN12642XL | EN12642X?L
 welk deel van de evenredig verdeelde kracht van het laadvermogen moet de achterwand minstens tegen bestand zijn volgens EN12642L? 25 procent | 25%
@@ -297,8 +299,12 @@ welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de boord
 welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de rongen voor ronde of cylindrische ladingen minstens tegen bestand zijn volgens EN12642L? 50 procent | 50%
 welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de rongen voor NIET ronde of cylindrische ladingen minstens tegen bestand zijn volgens EN12642L? 30 procent | 30%
 welk deel van de evenredig verdeelde kracht van het laadvermogen moet de zijwanden minstens tegen bestand zijn volgens EN12642L? 30 procent | 30%
+wat is het maximaal evenredig deel van de kracht waarvoor de lading zijwaarts gezekerd moet zijn? 50%
+wat is het maximaal evenredig deel van de kracht waarvoor de lading voorwaarts gezekerd moet zijn? 80%
+wat is het maximaal evenredig deel van de kracht waarvoor de lading achterwaarts gezekerd moet zijn? 50%
 wat zijn de 3 manieren van ladingzekering? krachtsluitende ladingzekering, vormsluitende ladingzekering, combinatie ladingzekering | krachtsluitende ladingzekering vormsluitende ladingzekering combinatie ladingzekering | krachtsluitende vormsluitende combinatie | krachtsluitend vormsluitend gecombineerd
 Wat zijn de 4 manieren van vormsluitende ladingzekering? directzekeren fixeren kopsjorren opsluiten | opsluiten fixeren directzekeren kopsjorren | opsluiten, fixeren, directzekeren, kopsjorren
+wat is de meest effectieve categorie van ladingzekering? vormsluitend
 opsluiten | opsluitzekering = ladingzekering waarbij de lading langs elke kant tegen de wanden wordt opgesloten
 fixeren = ladingzekering waarbij laadeenheden worden vastgeklemd door hulpmiddelen, die de krachten opnemen en doorgeven aan de wanden
 keggen = driehoekige blokken die cilindervormige ladingen tegenhouden
@@ -342,9 +348,12 @@ transitovergunning = vergunning voor vervoer via een land, naar een ander land
 CEMT = vergunning voor ondernemingen met veilige en milieuvriendelijke voertuigen
 welke gegevens staan op het sticker van een ATP-gekeurd voertuig? isolatiewaarde, temperatuurbereik, geldigheidsduur keuring | isolatiewaarde temperatuurbereik geldigheidsduur keuring
 welk certificaat is vereist voor het vervoeren van diervoeder? FCA-certificaat | FCA certificaat | FCA
+waar staat FCA voor? feed chain alliance
 CMR-verdrag | CMR verdrag | CMR = verdrag voor grensoverschrijdend vervoer waar bijna alle europese landen bij aangesloten zijn
 voor wie zijn de 3 exemplaren van een CMR-vrachtbrief bedoeld? afzender, geadresseerde, vervoerder | afzender geadresseerde vervoerder
 tot welke afstand mag de vrachtbrief voor korte afstand gebruikt worden? 50 km
+is een vrachtbrief verplicht bij eigen vervoer? nee
+wat vul je in bij vak 4 bij aflevering? plaats staat datum en uur | plaats staat datum uur
 volgens welk verdrag is in Europa het vrij vervoer van goederen en personen geregeld? het Schengen verdrag | Schengen verdrag | Schengen
 enig document | enig = document gebruikt voor in- en uitvoer van goederen in en uit de EU
 T1-formulier | T1 formulier | T1 = formulier gebruikt voor goederen van buiten de EU
@@ -353,6 +362,37 @@ waar staat FUP voor? front underrun protection
 FUP | front underrun protection = stalen balk in of onder de voorbumper die voorkomt dat personenwagens bij een frontale botsing onder de vrachtwagen verdwijnen
 alfapass = electronische identificatiekaart voor bezoekers van havens die persoonlijke en biometrische gegevens van de houder bevat
 demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van geneesmiddelen
+stempelen = de vrachtwagen stabiliseren door steunbalken uit te schuiven en ze op de grond vast te zetten
+welke kracht van een spanband is van toepassing bij directzekeren? lashing capacity | LC
+welke hoek tussen spanband en laadvloer levert het beste resultaat bij needsjorren? 90 graden
+wat is de maximale MTM voor een vrachtwagen met 2 assen? 19000 kg | 19 ton | 2:19 3:26 4:32
+wat is de maximale MTM voor een vrachtwagen met 3 assen? 26000 kg | 26 ton | 2:19 3:26 4:32
+wat is de maximale MTM voor een vrachtwagen met 4 assen? 32000 kg | 32 ton | 2:19 3:26 4:32
+wat is de maximale MTM voor een aanhangwagen met 2 assen? 20000 kg | 20 ton | 2:20 3:30
+wat is de maximale MTM voor een aanhangwagen met 3 assen? 30000 kg | 30 ton | 2:20 3:30
+wat is de maximale MTM voor een sleep met 2+2 assen? 39000 kg | 39 ton | 4:39 5:44 6:50
+wat is de maximale MTM voor een sleep met 2+3 assen? 44000 kg | 44 ton | 4:39 5:44 6:50
+wat is de maximale MTM voor een sleep met 3+2 assen? 44000 kg | 44 ton | 4:39 5:44 6:50
+wat is de maximale MTM voor een sleep met 3+3 assen? 50000 kg | 50 ton | 44 ton (brussel) - 48 ton (vlaanderen) - 50 ton (wallonië)
+wat is de maximale asdruk van een aangedreven as in België? 12000 kg | 12 ton
+wat is de maximale asdruk van een aangedreven as in Europa? 11500 kg | 11.5 ton
+wat is de maximale asdruk van een aangedreven tandem in Europa? 20000 kg | 20 ton
+wat is de maximale asdruk van een dragende as? 10000 kg | 10 ton
+wat is de maximale asdruk van een dragende tandem? 20000 kg | 20 ton
+welke organisaties mogen een verhuis vrachtbrief afgeven? FOD BKV | BKV FOD
+welke organisaties mogen een CMR-vrachtbrief afgeven? Febetra FOD TLV UPTR
+wanneer moet een kapotte tachograaf gerepareerd worden? onderweg
+mag je een dagelijkse rusttijd nemen in de vrachtwagen terwijl een collega rijdt? nee
+hoe lang is een werkplaats kaart geldig? 1 jaar | 1j
+hoe lang is een bestuurderskaart geldig? 5 jaar | 5j
+hoe lang is een bedrijfskaart geldig? 5 jaar | 5j
+wie verplaatst een voertuig bij een oplegging rijverbod? een andere bestuurder | andere bestuurder
+voor hoeveel dagen moet je de tachograaf data kunnen tonen? 28 dagen | 28d | 28
+wat zie je in een dobli spiegel? de dode hoek | dode hoek
+hoeveel verkeersdoden zijn er jaarlijks ongeveer in België? 500
+wanneer vinden de meeste ongelukken plaats? bij het laden en lossen | laden en lossen
+wat is een normaal gewicht volgens de BMI? 18.5-24.9
+vanaf hoeveel mg uitgeademde alcohol per liter lucht ben je strafbaar? 0.22 mg | 0.22
 
 [a1a-02.png] welk bord is dit (a1a)? gevaarlijke bocht naar links | gevaarlijke bocht
 [a1b-02.png] welk bord is dit (a1b)? gevaarlijke bocht naar rechts | gevaarlijke bocht
@@ -395,7 +435,7 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [b22-02.png] welk bord is dit (b22)? fietsers en bromfietsers mogen rechtsaf slaan en de verkeerslichten voorbijrijden | fietsers door verkeerslicht rechtsaf | fietsers negeren stoplicht | fietsers negeren verkeerslicht
 [b23-02.png] welk bord is dit (b23)? fietsers en bromfietsers mogen rechtdoor rijden en de verkeerslichten voorbijrijden | fietsers negeren stoplicht
 [c1-02.png] welk bord is dit (c1)? verboden richting voor iedere bestuurder | verboden in te rijden
-[c3-02.png] welk bord is dit (c3)? verboden in beide richtingen voor iedere bestuurder | verboden in beide richtingen | verboden voor beide richtingen | verboden in te rijden in beide richtingen | gesloten in beide richtingen
+[c3-02.png] welk bord is dit (c3)? verboden in beide richtingen voor iedere bestuurder | verboden in beide richtingen | verboden voor beide richtingen | verboden in te rijden in beide richtingen | gesloten in beide richtingen | gesloten in twee richtingen | verboden in twee richtingen | verbod in beide richtingen
 [c5-02.png] welk bord is dit (c5)? verboden voor bestuurders van motorvoertuigen | verboden voor motorvoertuigen
 [c7-02.png] welk bord is dit (c7)? verboden voor bestuurders van motorfietsen | verboden voor motorfietsen | verboden voor motoren | verboden motorfietsen | verboden motoren
 [c9-02.png] welk bord is dit (c9)? verboden voor bestuurders van bromfietsen | verboden voor bromfietsers | verboden voor bromfietsen
@@ -408,8 +448,8 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [c22-02.png] welk bord is dit (c22)? verboden voor bestuurders van autocars | verboden voor autocars | verboden autocars
 [c23-02.png] welk bord is dit (c23)? verboden voor bestuurders van voertuigen bestemd of gebruikt voor het vervoer van zaken | verboden voor vrachtwagens | vrachtwagenverbod
 [c24a-02.png] welk bord is dit (c24a)? verboden voor bestuurders van voertuigen die gevaarlijke goederen vervoeren | verboden ADR transport | verboden voor ADR transport
-[c25-02.png] welk bord is dit (c25)? verboden voor voertuigen langer dan het aangeduide | lengteverbod | lengteverbod vrachtwagens
-[c27-02.png] welk bord is dit (c27)? verboden voor voertuigen breder dan het aangeduide | breedteverbod | breedteverbod vrachtwagens
+[c25-02.png] welk bord is dit (c25)? verboden voor voertuigen langer dan het aangeduide | lengteverbod | lengteverbod vrachtwagens | lengtebeperking
+[c27-02.png] welk bord is dit (c27)? verboden voor voertuigen breder dan het aangeduide | breedteverbod | breedteverbod vrachtwagens | breedtebeperking
 [c29-02(1).png] welk bord is dit (c29)? verboden voor voertuigen hoger dan het aangeduide | maximum hoogte | verbod hoogte | hoogteverbod
 [c31a-02.png] welk bord is dit (c31a)? verbod om links af te slaan | verboden linksaf te slaan | verbod linksaf slaan | verbod linksaf
 [c31b-02.png] welk bord is dit (c31b)? verbod rechts af te slaan | verboden rechtsaf te slaan | verbod rechtsaf slaan | verbod rechtsaf
@@ -419,7 +459,7 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [c39-02.png] welk bord is dit (c39)? verbod voertuigen met toegelaten massa 3500 kg in te halen | inhaalverbod voor vrachtwagens | inhaalverbod vrachtwagens
 [c41-02.png] welk bord is dit (c41)? einde van het verbod opgelegd door het verkeersbord c39 | einde inhaalverbod voor vrachtwagens  | einde inhaalverbod vrachtwagens
 [generator_1c1e7f.png] welk bord is dit (c43)? maximumsnelheid
-[generator_d15df3.png] welk bord is dit (c45)? einde maximumsnelheid | einde 50
+[generator_d15df3.png] welk bord is dit (c45)? einde maximumsnelheid | einde 50 | einde snelheidsbeperking
 [c46-02.png] welk bord is dit (c46)? einde van alle plaatselijke verbodsbepalingen opgelegd aan de voertuigen in beweging | einde alle verboden
 [c47-02.png] welk bord is dit (c47)? tolpost verbod voorbij te rijden zonder te stoppen | tolpost
 [d1a-02.png] welk bord is dit (d1a)? verplichting rechtdoor | verplicht rechtdoor
@@ -433,7 +473,7 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [d9a-02.png] welk bord is dit (d9a)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden fietsers en voetgangers
 [d9b-02.png] welk bord is dit (d9b)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
 [d10-02.png] welk bord is dit (d10)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
-[d11-02.png] welk bord is dit (d11)? verplichte weg voor voetgangers | verplicht voor voetgangers
+[d11-02.png] welk bord is dit (d11)? verplichte weg voor voetgangers | verplicht voor voetgangers | verplicht voetpad
 [d13-02.png] welk bord is dit (d13)? verplichte weg voor ruiters | verplicht voor ruiters | ruiterpad
 [e1-02.png] welk bord is dit (e1)? parkeerverbod | verboden te parkeren
 [e3-02.png] welk bord is dit (e3)? stilstaan en parkeren verboden | verbod op stilstaan en parkeren | stilstaanverbod
@@ -501,7 +541,7 @@ demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van gene
 [generator_4c9476.png] welk bord is dit (f63)? elektrisch laden | tankstation voor elektrisch laden
 [generator_47710e.png] welk bord is dit (f63)? specifieke brandstof tankstation met een specifieke brandstof | LPG
 [generator_c57c1b.png] welk bord is dit (f65)? hotel of motel
-[generator_3b86db.png] welk bord is dit (f67)? restaurant
+[generator_3b86db.png] welk bord is dit (f67)? restaurant | eetgelegenheid
 [generator_fddbc2.png] welk bord is dit (f69)? drankgelegenheid | drinkgelegenheid
 [generator_9c852a.png] welk bord is dit (f71)? kampeerterrein | kampeergelegenheid | camping
 [generator_ed5252.png] welk bord is dit (f73)? caravanterrein | caravanstandplaats
