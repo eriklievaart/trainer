@@ -33,7 +33,10 @@ public class Question {
 	}
 
 	public String getHash() {
-		return Sha1.hash(query);
+		if (img == null) {
+			return Sha1.hash(query);
+		}
+		return Sha1.hash(query + ":" + img);
 	}
 
 	@Override
