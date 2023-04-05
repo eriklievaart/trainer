@@ -97,6 +97,9 @@ op welke berm mag je buiten de bebouwde kom parkeren? elke | elke berm
 hoeveel meter moet je van een oversteekplaats vandaan parkeren? 5m | 5
 hoeveel meter moet je van een kruispunt vandaan parkeren? 5m | 5
 hoeveel meter moet je van een stoplicht vandaan parkeren? 20m | 20
+hoe lang mag je buiten de bebouwde kom parkeren met een vrachtwagen? onbeperkt
+hoe lang mag je binnen de bebouwde kom parkeren met een vrachtwagen > 7.5 ton? 8 uur | 8u
+hoe lang mag je een aanhangwagen parkeren? 24u
 1m = minimale afstand te behouden tot voetgangers binnen de bebouwde kom
 1.5m = minimale afstand te behouden tot voetgangers buiten de bebouwde kom
 hoeveel meter moet afgezet worden bij een ongeluk met gevaarlijke stoffen? 100m
@@ -388,6 +391,8 @@ welke gegevens staan op het sticker van een ATP-gekeurd voertuig? isolatiewaarde
 welk certificaat is vereist voor het vervoeren van diervoeder? FCA-certificaat | FCA certificaat | FCA
 waar staat FCA voor? feed chain alliance
 CMR-verdrag | CMR verdrag | CMR = verdrag voor grensoverschrijdend vervoer waar bijna alle europese landen bij aangesloten zijn
+is een CMR vrachtbrief noodzakelijk bij grensoverschrijdend vervoer? ja | j
+is een CMR vrachtbrief noodzakelijk bij lokaal vervoer? in Belgie wel | ja | j
 voor wie zijn de 3 exemplaren van een CMR-vrachtbrief bedoeld? afzender, geadresseerde, vervoerder | afzender geadresseerde vervoerder
 tot welke afstand mag de vrachtbrief voor korte afstand gebruikt worden? 50 km
 is een vrachtbrief verplicht bij eigen vervoer? nee
@@ -419,6 +424,7 @@ wat is de maximale asdruk van een dragende as? 10000 kg | 10 ton
 wat is de maximale asdruk van een dragende tandem? 20000 kg | 20 ton
 welke organisaties mogen een verhuis vrachtbrief afgeven? FOD BKV | BKV FOD
 welke organisaties mogen een CMR-vrachtbrief afgeven? Febetra FOD TLV UPTR
+welke vrachtbrieven mag je zelf opstellen? distributie vrachtbrief en vrachtbrief voor korte afstand | distributie en korte afstand | distributie korte afstand
 wanneer moet een kapotte tachograaf gerepareerd worden? onderweg
 mag je een dagelijkse rusttijd nemen in de vrachtwagen terwijl een collega rijdt? nee
 hoe lang is een werkplaats kaart geldig? 1 jaar | 1j | 1jr
@@ -430,7 +436,7 @@ wat zie je in een dobli spiegel? de dode hoek | dode hoek
 hoeveel verkeersdoden zijn er jaarlijks ongeveer in België? 500
 wanneer vinden de meeste ongelukken plaats? bij het laden en lossen | laden en lossen
 wat is een normaal gewicht volgens de BMI? 18.5-24.9
-vanaf hoeveel mg uitgeademde alcohol per liter lucht ben je strafbaar? 0.22 mg | 0.22
+vanaf hoeveel mg uitgeademde alcohol per liter lucht ben je als professioneel bestuurder strafbaar? 0.09 mg | 0.09
 hoeveel kosten verkeersongevallen de Belgische overheid ongeveer jaarlijks? 6.8 miljard
 aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 
@@ -450,14 +456,14 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [a7a-02.png] welk bord is dit (a7a)? rijbaanversmalling
 [a7b-02.png] welk bord is dit (a7b)? rijbaanversmalling links
 [a7c-02.png] welk bord is dit (a7c)? rijbaanversmalling rechts
-[a9-02.png] welk bord is dit (a9)? beweegbare brug | bewegende brug
+[a9-02.png] welk bord is dit (a9)? beweegbare brug | bewegende brug | pas op beweegbare brug | pas op bewegende brug
 [a11-02.png] welk bord is dit (a11)? uitweg op kaai of oever | kaai of oever
 [a13-02.png] welk bord is dit (a13)? dwarse uitholling of ezelsrug | uitholling | ezelsrug | holle weg
 [a14-02.png] welk bord is dit (a14)? verhoogde inrichting | drempel | pas op drempel
 [a15-02.png] welk bord is dit (a15)? gladde rijbaan slipgevaar | slipgevaar
 [a17-02(1).png] welk bord is dit (a17)? kiezelprojectie | losliggende stenen
 [a19-02.png] welk bord is dit (a19)? vallende stenen
-[a21-02.png] welk bord is dit (a21)? oversteekplaats voor voetgangers | voetgangers oversteekplaats | pas op voetgangers oversteekplaats | pas op oversteekplaats voetgangers
+[a21-02.png] welk bord is dit (a21)? oversteekplaats voor voetgangers | voetgangers oversteekplaats | pas op voetgangers oversteekplaats | pas op oversteekplaats voetgangers | oversteekplaats voetgangers
 [a23-02.png] welk bord is dit (a23)? opgelet kinderen | pas op kinderen
 [a25-02.png] welk bord is dit (a25)? oversteekplaats voor fietsers en bromfietsers | oversteekplaats fietsers en bromfietsers | pas op oversteekplaats fietsers en bromfietsers
 [a27-02.png] welk bord is dit (a27)? overstekend groot wild | overstekend wild
