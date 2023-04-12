@@ -257,7 +257,7 @@ pignon = drijft het kroonwiel aan
 kroonwiel = verbonden met het pignon om de beweging haaks over te brengen
 steekas | steekassen = brengt de draaiende beweging van het kroonwiel over op de wielen
 hoe vaak moet je het peil van de motorolie controleren? dagelijks
-hoe beperk je de snelheid tijdens het afdalen? opschakelen
+hoe beperk je de snelheid tijdens het afdalen? opschakelen | hogere versnelling
 wat is een normale bandenspanning voor vrachtwagens of autobussen? 7.5-8.5 bar | 8 bar
 wat is een normale druk voor een luchtdruk remsysteem? 10 bar
 welke kleur diesel tank je aan een tankstation? wit
@@ -271,6 +271,14 @@ welke kleur rook is meestal te wijten aan olie in de motor door versleten afdich
 welke kleur rook kan ontstaan bij een probleem met de brandstofinspuiting? blauwe rook | blauw
 welke kleur rook krijg je bij een vuil luchtfilter? zwarte rook | zwart
 welke kleur rook krijg je bij teveel brandstof in het brandstofmengsel? zwarte rook | zwart
+hoe boek je autorijden op de tachograaf? rijtijd
+hoe boek je in de file staan op de tachograaf? rijtijd
+hoe boek je laden en lossen op de tachograaf? andere werkzaamheden
+hoe boek je rijden in een normale auto op de tachograaf? andere werkzaamheden
+hoe boek je tijd in de slaapcabine terwijl een andere bestuurder rijdt? beschikbaarheidstijd
+hoe boek je wachttijden aan de grenzen? beschikbaarheidstijd
+hoe boek je wachttijden ten gevolg van een rijverbod? beschikbaarheidstijd
+hoe noemen we vrij te besteden tijd waarin je niet mag rijden of andere werkzaamheden mag verrichten? rusttijd | werkonderbreking
 
 eigen vervoer = vervoer van goederen die afkomstig zijn of bestemd voor de eigen onderneming
 beroepsvervoer = vervoer voor rekening van derden
@@ -321,9 +329,9 @@ asdruk = som van de wieldrukken aan één as
 tandem = twee assen die achter elkaar geplaatst zijn en waarvan de afstand tussen het midden van de assen kleiner dan 1.8m is
 welk deel van het gewicht moeten de voorassen van een vrachtwagen met tandem minimaal dragen? 20 procent | 20%
 welk deel van het gewicht moeten de achterassen van een vrachtwagen met tandem minimaal dragen? 25 procent | 25%
-120x80 cm | 120*80cm = afmetingen europallet
-100x80 cm | 100*80cm = afmetingen ISO-pallet
-120x100 cm | 120*100cm = afmetingen Chep-pallet
+120x80 cm | 120*80 cm | 80x120 cm | 80*120 cm = afmetingen europallet
+100x80 cm | 100*80 cm | 80x100 cm | 80*100 cm = afmetingen ISO-pallet
+120x100cm | 120*100cm | 100x120cm | 100*120cm = afmetingen Chep-pallet
 slingerschot = verdeelt de vloeistof in een tankwagen om te stabiliteit te vergroten
 middelpuntvliedende kracht | zijwaartse kracht = kracht op lading als een voertuig een bocht neemt
 tonronding = het midden van de weg licht hoger dan de zijkanten
@@ -365,7 +373,7 @@ neersjorren = spanbanden over de lading getrokken en aangespannen met een ratel,
 waar staat LC voor? lashing capacity
 waar staat SHF voor? standard hand force
 waar staat STF voor? standard tension force
-lashing capacity = de hoogste toegestane kracht in een rechte lijn waarvoor een spanband ontworpen is
+lashing capacity | LC = de hoogste toegestane kracht in een rechte lijn waarvoor een spanband ontworpen is
 SHF | standard hand force = de normale armkracht die op het spanelement (ratel) moet worden uitgeoefend om de aangegeven voorspankracht te bereiken
 STF | standard tension force = de voorspankracht die in de spanband wordt opgebouwd door de ratel en de handkracht (van belang bij neersjorren)
 hoeveel procent mag een spanband maximaal uitrekken bij het bereiken van de toegestane trekkracht? 7 procent | 7%
@@ -375,7 +383,7 @@ kantelproef = test waarbij gecontroleerd wordt dat een lading niet vervormd als 
 waar staat IBC voor? intermediate bulk container
 intermediate bulk container | IBC = grote verpakking ontworpen om met mechanische hulpmiddelen, zoals een heftruck of een kraan verplaatst te worden
 transpallet | pompwagen = mechanisch of elektrisch apparaat om goederen op een pallet te verplaatsen
-steekwagen = handgestuurd karretje om goederen op korte afstand te verplaatsen
+steekwagen | steekkar = handgestuurd karretje om goederen op korte afstand te verplaatsen
 bakkenwagen = plateau op 4 wielen om bakken te verrijden
 laad en loskraan | laad- en loskraan = vaste constructie op een vrachtwagen met open bak om goederen langs de bovenkant van de laadvloer te laden zonder andere hulpmiddelen
 voorwaarts | vooruit = richting van sterkste krachten bij wegvervoer
@@ -527,7 +535,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [d9b-02.png] welk bord is dit (d9b)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
 [d10-02.png] welk bord is dit (d10)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
 [d11-02.png] welk bord is dit (d11)? verplichte weg voor voetgangers | verplicht voor voetgangers | verplicht voetpad
-[d13-02.png] welk bord is dit (d13)? verplichte weg voor ruiters | verplicht voor ruiters | ruiterpad
+[d13-02.png] welk bord is dit (d13)? verplichte weg voor ruiters | verplicht voor ruiters | verplicht ruiterpad | ruiterpad
 [e1-02.png] welk bord is dit (e1)? parkeerverbod | verboden te parkeren
 [e3-02.png] welk bord is dit (e3)? stilstaan en parkeren verboden | verbod op stilstaan en parkeren | stilstaanverbod | verboden stil te staan
 [e5-02.png] welk bord is dit (e5)? parkeerverbod van de 1e tot de 15e van de maand | parkeerverbod 1-15
@@ -577,7 +585,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [f431100x300-02-02.png] welk bord is dit (f43)? gemeentegrens
 [f45-02.png] welk bord is dit (f45)? doodlopende weg | doodlopende straat
 [f45b-02.png] welk bord is dit (f45b)? doodlopende weg uitgezonderd voetgangers en fietsers | doodlopende weg uitgezonderd | doodlopende straat uitgezonderd
-[f47-02.png] welk bord is dit (f47)? einde van de werken | einde wegwerkzaamheden
+[f47-02.png] welk bord is dit (f47)? einde van de werken | einde werkzaamheden | einde wegwerkzaamheden
 [f49-02.png] welk bord is dit (f49)? oversteekplaats voor voetgangers | voetgangers oversteekplaats | oversteekplaats voetgangers
 [f50-02.png] welk bord is dit (f50)? oversteekplaats voor fietsers en bromfietsers | oversteekplaats fietsers en bromfietsers
 [generator_b91ec4.png] welk bord is dit (f53)? verplegingsinrichting
