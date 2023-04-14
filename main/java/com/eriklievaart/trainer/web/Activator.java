@@ -20,10 +20,6 @@ public class Activator extends LightningActivator {
 
 	private LogTemplate log = new LogTemplate(getClass());
 
-	public Activator() {
-		super("web");
-	}
-
 	@Override
 	protected void init(BundleContext context) throws Exception {
 		addTemplateSource();
