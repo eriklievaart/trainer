@@ -143,7 +143,7 @@ hoe lang is een wekelijkse rusttijd? 45u
 hoe lang moet een verkorte wekelijkse rusttijd minimaal zijn? 24u
 hoeveel weken heb je maximaal om een verkorte wekelijkse rusttijd te compenseren? 3 | 3w | 3 weken
 wat is het maximaal aantal opeenvolgende verkorte wekelijkse rusttijden wat je mag opnemen in internationaal vervoer? 2
-wat zijn de 4 soorten digitale tachograaf kaarten? bedrijfskaart, bestuurderskaart, controlekaart, werkplaatskaart
+wat zijn de 4 soorten digitale tachograaf kaarten? bedrijfskaart, bestuurderskaart, controlekaart, werkplaatskaart | bedrijfskaart bestuurderskaart controlekaart werkplaatskaart
 bestuurderskaart = type tachograafkaart op naam van bestuurder
 bedrijfskaart = type tachograafkaart, welke voor alle bestuurders van een voertuig gebruikt wordt
 werkplaatskaart = type tachograafkaart, welke voor wordt gebruikt om de digitale tachograafkaart te installeren
@@ -257,7 +257,6 @@ pignon = drijft het kroonwiel aan
 kroonwiel = verbonden met het pignon om de beweging haaks over te brengen
 steekas | steekassen = brengt de draaiende beweging van het kroonwiel over op de wielen
 hoe vaak moet je het peil van de motorolie controleren? dagelijks
-hoe beperk je de snelheid tijdens het afdalen? opschakelen | hogere versnelling
 wat is een normale bandenspanning voor vrachtwagens of autobussen? 7.5-8.5 bar | 8 bar
 wat is een normale druk voor een luchtdruk remsysteem? 10 bar
 welke kleur diesel tank je aan een tankstation? wit
@@ -401,7 +400,7 @@ waar staat FCA voor? feed chain alliance
 CMR-verdrag | CMR verdrag | CMR = verdrag voor grensoverschrijdend vervoer waar bijna alle europese landen bij aangesloten zijn
 is een CMR vrachtbrief noodzakelijk bij grensoverschrijdend vervoer? ja | j
 is een CMR vrachtbrief noodzakelijk bij lokaal vervoer? in Belgie wel | ja | j
-voor wie zijn de 3 exemplaren van een CMR-vrachtbrief bedoeld? afzender, geadresseerde, vervoerder | afzender geadresseerde vervoerder
+voor wie zijn de 3 exemplaren van een CMR-vrachtbrief bedoeld? afzender, geadresseerde, vervoerder | afzender geadresseerde vervoerder | afzender ontvanger vervoerder
 tot welke afstand mag de vrachtbrief voor korte afstand gebruikt worden? 50 km
 is een vrachtbrief verplicht bij eigen vervoer? nee
 wat vul je in bij vak 4 bij aflevering? plaats staat datum en uur | plaats staat datum uur
@@ -415,7 +414,7 @@ alfapass = electronische identificatiekaart voor bezoekers van havens die persoo
 demping = minder gevoelig zijn voor prikkels van buitenaf onder invloed van geneesmiddelen
 stempelen = de vrachtwagen stabiliseren door steunbalken uit te schuiven en ze op de grond vast te zetten
 welke kracht van een spanband is van toepassing bij directzekeren? lashing capacity | LC
-welke hoek tussen spanband en laadvloer levert het beste resultaat bij needsjorren? 90 graden
+welke hoek tussen spanband en laadvloer levert het beste resultaat bij neersjorren? 90 graden
 wat is de MTM voor een vrachtwagen met 2 assen? 19000 kg | 19 ton | 2:19 3:26 4:32
 wat is de MTM voor een vrachtwagen met 3 assen? 26000 kg | 26 ton | 2:19 3:26 4:32
 wat is de MTM voor een vrachtwagen met 4 assen? 32000 kg | 32 ton | 2:19 3:26 4:32
@@ -493,7 +492,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [b17-02.png] welk bord is dit (b17)? kruispunt waar de voorrang van rechts geldt | gevaarlijk kruispunt
 [b19-02.png] welk bord is dit (b19)? smalle doorgang voorrang verlenen aan de bestuurders die uit de tegenovergestelde richting komen | smalle doorgang voorrang verlenen | voorrang verlenen tegemoetkomend verkeer
 [b21-02.png] welk bord is dit (b21)? smalle doorgang voorrang ten opzichte van de bestuurders die uit de tegenovergestelde richting komen | smalle doorgang met voorrang
-[b22-02.png] welk bord is dit (b22)? fietsers en bromfietsers mogen rechtsaf slaan en de verkeerslichten voorbijrijden | fietsers door verkeerslicht rechtsaf | fietsers negeren stoplicht | fietsers negeren verkeerslicht | fietsers negeren stoplichten
+[b22-02.png] welk bord is dit (b22)? fietsers en bromfietsers mogen rechtsaf slaan en de verkeerslichten voorbijrijden | fietsers door verkeerslicht rechtsaf | fietsers negeren stoplicht | fietsers negeren verkeerslicht | fietsers negeren stoplichten | fietsers rechtsaf door rood
 [b23-02.png] welk bord is dit (b23)? fietsers en bromfietsers mogen rechtdoor rijden en de verkeerslichten voorbijrijden | fietsers negeren stoplicht | fietsers negeren stoplichten
 [c1-02.png] welk bord is dit (c1)? verboden richting voor iedere bestuurder | verboden in te rijden
 [c3-02.png] welk bord is dit (c3)? verboden in beide richtingen voor iedere bestuurder | verboden in beide richtingen | verboden voor beide richtingen | verboden in te rijden in beide richtingen | gesloten in beide richtingen | gesloten in twee richtingen | verboden in twee richtingen | verbod in beide richtingen
@@ -526,9 +525,9 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [d1a-02.png] welk bord is dit (d1a)? verplichting rechtdoor | verplicht rechtdoor
 [d1b-02.png] welk bord is dit (d1b)? verplichting links afslaan | verplicht links afslaan | verplicht linksaf
 [d1b2-02.png] welk bord is dit (d1b)? verplichting rechts afslaan | verplicht rechts afslaan | verplicht rechtsaf
-[d4links-02.png] welk bord is dit (d4a)? verplicht linksaf voor voertuigen die gevaarlijke goederen vervoeren | ADR transport verplicht linksaf
-[d4rechtdoor-02.png] welk bord is dit (d4b)? verplicht rechtdoor voor voertuigen die gevaarlijke goederen vervoeren | ADR transport verplicht rechtdoor
-[d4rechts-02.png] welk bord is dit (d4c)? verplicht rechts voor voertuigen die gevaarlijke goederen vervoeren | ADR transport verplicht rechtsaf
+[d4links-02.png] welk bord is dit (d4a)? verplicht linksaf voor voertuigen die gevaarlijke goederen vervoeren | ADR transport verplicht linksaf | ADR transport linksaf
+[d4rechtdoor-02.png] welk bord is dit (d4b)? verplicht rechtdoor voor voertuigen die gevaarlijke goederen vervoeren | ADR transport verplicht rechtdoor | ADR transport rechtdoor
+[d4rechts-02.png] welk bord is dit (d4c)? verplicht rechts voor voertuigen die gevaarlijke goederen vervoeren | ADR transport verplicht rechtsaf | ADR transport rechtsaf
 [d5-02.png] welk bord is dit (d5)? verplicht rondgaand verkeer | rotonde
 [d7-02.png] welk bord is dit (d7)? verplicht fietspad
 [d9a-02.png] welk bord is dit (d9a)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden fietsers en voetgangers
@@ -578,8 +577,8 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [generator_3ea2f1.png] welk bord is dit (f23d)? nummer van een ringweg | ringweg
 [generator_feb2e7.png] welk bord is dit (f29)? wegwijzer
 [generator_f903d8.png] welk bord is dit (f29)? wegwijzer
-[generator_ceb670.png] welk bord is dit (f31)? wegwijzer autosnelweg | wegwijzer snelweg
-[generator_4dd8c6.png] welk bord is dit (f31)? wegwijzer autosnelweg | wegwijzer snelweg
+[generator_ceb670.png] welk bord is dit (f31)? wegwijzer autosnelweg | wegwijzer snelweg | autosnelweg
+[generator_4dd8c6.png] welk bord is dit (f31)? wegwijzer autosnelweg | wegwijzer snelweg | autosnelweg
 [generator_c6a529.png] welk bord is dit (f43)? gemeentegrens
 [generator_d11e11.png] welk bord is dit (f43)? gemeentegrens
 [f431100x300-02-02.png] welk bord is dit (f43)? gemeentegrens
@@ -649,7 +648,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [generator_d3f27b.png] welk bord is dit (zc35t)? zone verboden inhalen | zone inhaalverbod
 [generator_f93bee.png] welk bord is dit (zc35t)? einde zone verboden inhalen | einde zone inhaalverbod
 [generator_bde266.png] welk bord is dit (zc43)? zone met een snelheidsbeperking | zone snelheidsverbod | zone 50
-[generator_6e455f.png] welk bord is dit (zc45)? einde zone met een snelheidsbeperking | einde zone snelheidsverbod | einde zone maximumsnelheid | einde zone 50
+[generator_6e455f.png] welk bord is dit (zc45)? einde zone met een snelheidsbeperking | einde zone snelheidsverbod | einde zone maximumsnelheid | einde zone 50 | einde zone snelheidsbeperking
 [generator_2d0f20.png] welk bord is dit (ze1)? zone parkeerverbod
 [ze1 einde-02.png] welk bord is dit (ze1)? einde zone parkeerverbod
 [generator_619fea.png] welk bord is dit (ze9a)? parkeerschijf zone parkeren beperkt in tijd parkeerschijf verplicht | parkeerschijfzone | zone parkeerschijf
