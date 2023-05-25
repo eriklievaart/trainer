@@ -39,13 +39,19 @@ public class State {
 	}
 
 	private void loadQuestions() {
-		questions = ListTool.shuffledCopy(Questions.load(loader.getInputStream(course)));
-		for (int i = 0; i < questions.size(); i++) {
-			if (progression.get(questions.get(i).getHash()).isModified()) {
-				questions.add(0, questions.remove(i));
-			}
-		}
+		questions = sortUnseenLast(ListTool.shuffledCopy(Questions.load(loader.getInputStream(course))));
 		nextQuestion();
+	}
+
+	@SuppressWarnings("unchecked")
+	private List<Question> sortUnseenLast(List<Question> shuffled) {
+
+		Map<Boolean, List<Question>> map = ListTool.partition(shuffled, q -> {
+			return progression.get(q.getHash()).isModified();
+		});
+		List<Question> seen = map.get(true);
+		List<Question> unseen = map.get(false);
+		return unseen.size() < 10 ? shuffled : ListTool.merge(seen, unseen);
 	}
 
 	private void nextQuestion() {

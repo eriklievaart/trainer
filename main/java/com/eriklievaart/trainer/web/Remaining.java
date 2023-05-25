@@ -9,6 +9,7 @@ public class Remaining {
 
 	@Override
 	public String toString() {
-		return rehearse == total || rehearse <= 1 ? "" + total : Str.sub("$/$", rehearse, total);
+		boolean noSlash = rehearse <= 1 || total - rehearse < 10;
+		return noSlash ? "" + total : Str.sub("$/$", rehearse, total);
 	}
 }

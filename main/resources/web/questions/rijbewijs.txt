@@ -84,7 +84,7 @@ wat is de maximum snelheid op autosnelwegen voor autobussen en autocars? 100 km/
 wat is de maximum snelheid in een voetgangerszone? stapvoets
 wat is de maximum snelheid bij sleep van een defecte aanhangwagen of defect voertuig? 25 km/u | 25
 welke tussenafstand moeten voertuigen van meer dan 7.5 ton aanhouden op bruggen? 15m
-welke tussenafstand moeten voertuigen van meer dan 7.5 ton aanhouden op binnen de bebouwde kom? 50m
+welke tussenafstand moeten voertuigen van meer dan 7.5 ton aanhouden binnen de bebouwde kom? 50m
 op welke snelheid moet een vrachtwagen begrensd zijn? 90 km/u
 op welke snelheid moet een personen vervoer voertuig begrensd zijn? 100 km/u
 tot hoeveel meter zicht moet je dimlicht gebruiken? 200 | 200m
@@ -545,7 +545,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [e9d-02.png] welk bord is dit (e9d)? parkeren uitsluitend voor autocars | parkeren uitsluitend autocars
 [e9e-02.png] welk bord is dit (e9e)? verplicht parkeren op de berm of op het trottoir | verplicht op de berm parkeren | verplicht bermparkeren | parkeren uitsluitend op berm
 [e9f-02.png] welk bord is dit (e9f)? verplicht parkeren deels op de berm of op het trottoir | verplicht deels op de berm parkeren | verplicht deels bermparkeren | verplicht halfbermparkeren
-[e9g-02.png] welk bord is dit (e9g)? verplicht parkeren op de rijbaan | verplicht op rijbaan parkeren | verplicht rijbaanparkeren
+[e9g-02.png] welk bord is dit (e9g)? verplicht parkeren op de rijbaan | verplicht op rijbaan parkeren | verplicht rijbaanparkeren | verplicht straatparkeren
 [e9h-02.png] welk bord is dit (e9h)? parkeren uitsluitend voor kampeerautos | parkeren uitsluitend kampeerautos
 [e9i-02.png] welk bord is dit (e9i)? parkeren uitsluitend voor motorfietsen | parkeren uitsluitend motorfietsen | parkeren uitsluitend motoren
 [e11-02.png] welk bord is dit (e11)? halfmaandelijks parkeren in gans de bebouwde kom | halfmaandelijks parkeren | halfmaandelijks wisselparkeren
