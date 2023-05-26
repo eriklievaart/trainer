@@ -85,8 +85,8 @@ wat is de maximum snelheid in een voetgangerszone? stapvoets
 wat is de maximum snelheid bij sleep van een defecte aanhangwagen of defect voertuig? 25 km/u | 25
 welke tussenafstand moeten voertuigen van meer dan 7.5 ton aanhouden op bruggen? 15m
 welke tussenafstand moeten voertuigen van meer dan 7.5 ton aanhouden binnen de bebouwde kom? 50m
-op welke snelheid moet een vrachtwagen begrensd zijn? 90 km/u
-op welke snelheid moet een personen vervoer voertuig begrensd zijn? 100 km/u
+op welke snelheid moet een vrachtwagen begrensd zijn? 90 km/u | 90
+op welke snelheid moet een personen vervoer voertuig begrensd zijn? 100 km/u | 100
 tot hoeveel meter zicht moet je dimlicht gebruiken? 200 | 200m
 tot hoeveel meter zicht moet je mist achterlicht gebruiken? 100 | 100m
 vanaf welke breedte zijn omtreklichten verplicht? 2.5m
@@ -135,7 +135,7 @@ hoe lang mag je maximaal rijden voordat je een rijtijdonderbreking moet doen? 4u
 wat is de minimale lengte van een rijtijd onderbreking? 15m | 15 minuten
 wat is de minimale normale dagelijke rusttijd? 11u
 hoe mag je de minimale normale dagelijkse rusttijd splitsen? 3u 9u | 9u 3u | 3u, 9u | 9u, 3u
-hoe vaak per week mag je normale dagelijkse rusttijd splitsen to minstens 9u? 3x | 3
+hoe vaak per week mag je normale dagelijkse rusttijd splitsen tot minstens 9u? 3x | 3
 wat is de dagelijkse rusttijd bij meervoudige bemanning? 9u per 30u
 hoe lang kan een voertuig maximaal blijven rijden bij meervoudige bemanning? 20u
 na hoeveel werkdagen moet je een wekelijkse rusttijd nemen? 6 | 6d | 6 dagen
@@ -530,9 +530,9 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [d4rechts-02.png] welk bord is dit (d4c)? verplicht rechts voor voertuigen die gevaarlijke goederen vervoeren | ADR transport verplicht rechtsaf | ADR transport rechtsaf
 [d5-02.png] welk bord is dit (d5)? verplicht rondgaand verkeer | rotonde
 [d7-02.png] welk bord is dit (d7)? verplicht fietspad
-[d9a-02.png] welk bord is dit (d9a)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden fietsers en voetgangers
-[d9b-02.png] welk bord is dit (d9b)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
-[d10-02.png] welk bord is dit (d10)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
+[d9a-02.png] welk bord is dit (d9a)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voor fietsers en voetgangers | voorbehouden fietsers en voetgangers
+[d9b-02.png] welk bord is dit (d9b)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
+[d10-02.png] welk bord is dit (d10)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
 [d11-02.png] welk bord is dit (d11)? verplichte weg voor voetgangers | verplicht voor voetgangers | verplicht voetpad
 [d13-02.png] welk bord is dit (d13)? verplichte weg voor ruiters | verplicht voor ruiters | verplicht ruiterpad | ruiterpad
 [e1-02.png] welk bord is dit (e1)? parkeerverbod | verboden te parkeren
@@ -594,7 +594,6 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [generator_b48616.png] welk bord is dit (f61)? telefoon
 [generator_072e06.png] welk bord is dit (f62)? noodtelefoon
 [generator_b92d5f.png] welk bord is dit (f63)? tankstation
-[generator_47710e.png] welk bord is dit (f63)? specifieke brandstof tankstation met een specifieke brandstof | LPG
 [generator_c57c1b.png] welk bord is dit (f65)? hotel of motel
 [generator_3b86db.png] welk bord is dit (f67)? restaurant | eetgelegenheid
 [generator_fddbc2.png] welk bord is dit (f69)? drankgelegenheid | drinkgelegenheid
@@ -630,8 +629,8 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [generator_9bb676.png] welk bord is dit (m3bis)? uitgezonderd fietsers en bromfietsers
 [generator_e198dc.png] welk bord is dit (m4)? fietsers mogen in 2 richtingen | tweerichtingsverkeer fietsers
 [generator_0ccf92.png] welk bord is dit (m8)? enkel voor fietsers en bromfietsers | enkel fietsers en bromfietsers
-[generator_ebf899.png] welk bord is dit (m9)? fietsers in twee richtingen op de dwarslopende weg die je gaat oprijden | tweerichtingsverkeer fietsers dwarslopende weg | tweerichtingsverkeer fietsers dwarsliggende weg | tweerichtingsverkeer fietsers kruisende weg
-[generator_103e38.png] welk bord is dit (m10)? fietsers en bromfietser in twee richtingen op de dwarslopende weg die je gaat oprijden | tweerichtingsverkeer fietsers en bromfietsers dwarslopende weg | tweerichtingsverkeer fietsers en bromfietsers dwarsliggende weg | tweerichtingsverkeer bromfietsers en fietsers kruisende weg
+[generator_ebf899.png] welk bord is dit (m9)? tweerichtingsverkeer fietsers dwarslopende weg | tweerichtingsverkeer fietsers dwarsliggende weg | tweerichtingsverkeer fietsers kruisende weg
+[generator_103e38.png] welk bord is dit (m10)? tweerichtingsverkeer fietsers en bromfietsers dwarslopende weg | tweerichtingsverkeer fietsers en bromfietsers dwarsliggende weg | tweerichtingsverkeer fietsers en bromfietsers kruisende weg
 [generator_899dae.png] welk bord is dit (m11)? uitgezonderd fietsers en bromfietsers
 [generator_1d46f6.png] welk bord is dit (m15)? verbod voor bromfietsers | verboden voor bromfietsers | verboden voor bromfietsen
 [generator_6bd339.png] welk bord is dit (m17)? fietsers en bromfietsers mogen in 2 richtingen | fietsers en bromfietsers twee richtingsverkeer | twee richtingsverkeer fietsers en bromfietsers
