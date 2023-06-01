@@ -454,8 +454,8 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [ADR6_1.gif] welke aanduiding is dit? giftige stoffen | giftige stof | giftig
 [ADR6_2.gif] welke aanduiding is dit? infectueuze stoffen | infectueuze stof | infectueus
 
-[a1a-02.png] welk bord is dit (a1a)? gevaarlijke bocht naar links | gevaarlijke bocht
-[a1b-02.png] welk bord is dit (a1b)? gevaarlijke bocht naar rechts | gevaarlijke bocht
+[a1a-02.png] welk bord is dit (a1a)? gevaarlijke bocht naar links | gevaarlijke bocht links | gevaarlijke bocht
+[a1b-02.png] welk bord is dit (a1b)? gevaarlijke bocht naar rechts | gevaarlijke bocht rechts | gevaarlijke bocht
 [a1c-02.png] welk bord is dit (a1c)? gevaarlijke dubbele of meer dan twee bochten de eerste naar links | s-bocht | s bocht
 [a1d-02.png] welk bord is dit (a1d)? gevaarlijke dubbele of meer dan twee bochten de eerste naar rechts | s-bocht | s bocht
 [a3-02.png] welk bord is dit (a3)? gevaarlijke daling | steile daling
@@ -547,7 +547,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [e9f-02.png] welk bord is dit (e9f)? verplicht parkeren deels op de berm of op het trottoir | verplicht deels op de berm parkeren | verplicht deels bermparkeren | verplicht halfbermparkeren
 [e9g-02.png] welk bord is dit (e9g)? verplicht parkeren op de rijbaan | verplicht op rijbaan parkeren | verplicht rijbaanparkeren | verplicht straatparkeren
 [e9h-02.png] welk bord is dit (e9h)? parkeren uitsluitend voor kampeerautos | parkeren uitsluitend kampeerautos
-[e9i-02.png] welk bord is dit (e9i)? parkeren uitsluitend voor motorfietsen | parkeren uitsluitend motorfietsen | parkeren uitsluitend motoren
+[e9i-02.png] welk bord is dit (e9i)? parkeren uitsluitend voor motorfietsen | parkeren uitsluitend motorfietsen | parkeren uitsluitend voor motoren | parkeren uitsluitend motoren
 [e11-02.png] welk bord is dit (e11)? halfmaandelijks parkeren in gans de bebouwde kom | halfmaandelijks parkeren | halfmaandelijks wisselparkeren
 [generator_d3d88a.png] welk bord is dit (f1a)? begin van een bebouwde kom | begin bebouwde kom | bebouwde kom
 [generator_afd983.png] welk bord is dit (f1a)? begin van een bebouwde kom | begin bebouwde kom | bebouwde kom
