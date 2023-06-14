@@ -146,8 +146,8 @@ wat is het maximaal aantal opeenvolgende verkorte wekelijkse rusttijden wat je m
 wat zijn de 4 soorten digitale tachograaf kaarten? bedrijfskaart, bestuurderskaart, controlekaart, werkplaatskaart | bedrijfskaart bestuurderskaart controlekaart werkplaatskaart
 bestuurderskaart = type tachograafkaart op naam van bestuurder
 bedrijfskaart = type tachograafkaart, welke voor alle bestuurders van een voertuig gebruikt wordt
-werkplaatskaart = type tachograafkaart, welke voor wordt gebruikt om de digitale tachograafkaart te installeren
-controlekaart = type tachograafkaart, welke voor wordt gebruikt om de tachograaf, bestuurderskaart en bedrijfskaart te controleren.
+werkplaatskaart = type tachograafkaart, welke wordt gebruikt om de digitale tachograafkaart te installeren
+controlekaart = type tachograafkaart, welke wordt gebruikt om de tachograaf, bestuurderskaart en bedrijfskaart te controleren.
 binnen hoeveel dagen moet een defecte tachograaf hersteld worden? 7 | 7d | 7 dagen
 wie is verantwoordelijk voor overtredingen omtrent de rij en rusttijden? werkgever | de werkgever
 hoe heet het als een werkgever zich onttrekt aan aansprakelijkheid van overtredingen omtrent de rij en rusttijden? disculperen
@@ -188,7 +188,7 @@ oplooprem = remsysteem in lichte aanhangwagens wat wordt bestuurd door de kracht
 waar staat ASR voor? antislipregeling
 waar staat BAS voor? brake assist system
 waar staat ESP voor? electronisch stabiliteitsprogramma | electronic stability program
-ABS = systeem wat voorkomt dat de wielen blokkeren bij remmen
+ABS | abs = systeem wat voorkomt dat de wielen blokkeren bij remmen
 ASR = systeem wat voorkomt dat de aangedreven wielen doorslippen bij optrekken of rijden op gladde ondergrond
 BAS = systeem wat detecteerd hoe snel de bestuurder zijn voet van gaspedaal naar rempedaal verplaatst
 ESP = systeem wat ingrijpt bij onderstuur en overstuur en als het voertuig dreigt te kantelen
@@ -227,7 +227,7 @@ welk rijbewijs is nodig voor het besturen van een autocar met 16 passagiers? C1
 hoe oud moet je zijn voor het besturen van een vrachtwagen > 7500 kg met vakbekwaamheid? 18
 hoe oud moet je zijn voor het besturen van een vrachtwagen > 7500 kg zonder vakbekwaamheid? 21
 wanneer mag je file rijden op een eenrichtingsweg zonder rijstroken? bij drukte | bij druk verkeer | druk verkeer
-wanneer wordt een verhoogde inrichting aangegeven met een bord? alleen niet bij kruispunten | alleen bij niet kruispunten | bij niet kruispunten | uitgezonderd kruispunten | uitgezonderd bij kruispunten
+wanneer wordt een verhoogde inrichting aangegeven met een bord? alleen niet bij kruispunten | alleen bij niet kruispunten | bij niet kruispunten | uitgezonderd kruispunten | uitgezonderd bij kruispunten | behalve bij kruispunten
 mag een vrachtwagen rijden op een fietssuggestie strook? ja
 hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen <= 3500 kg? 1kg
 hoeveel poeder moet er zitten in de brandblusser van een vrachtwagen > 3500 kg? 2kg
@@ -245,7 +245,7 @@ landen niet in de EU, maar wel in de EER? Ijsland, Noorwegen, Liechtenstein | Ij
 Europese landen niet in de EU/EER? zwitserland, VK | zwitserland VK | VK Zwitserland
 mag je bij gecombineerd vervoer een verkorte dagelijkse rusttijd 2x onderbreken tot max 1 uur? nee | n
 mag je bij gecombineerd vervoer een gewone dagelijkse rusttijd 2x onderbreken tot max 1 uur? ja | j
-mag je bij gecombineerd vervoer een gewone dagelijkse rusttijd 2x onderbreken met 1 uur? nee | n
+mag je bij gecombineerd vervoer een gewone dagelijkse rusttijd 2x onderbreken met 1 uur per keer? nee | n
 wat verwarmt de voorgloeibougies van een dieselmotor? de lucht | lucht
 wat past de versnellingsbak aan? het koppel | koppel
 wat moet je uit de brandstoftank houden? water en vuil | water vuil | vuil water
@@ -323,7 +323,7 @@ EGR | exhaust gas recirculation = het koelen van uitlaatgassen en terugsturen na
 losgestort vervoer = vervoer waarbij goederen of producten zonder verpakking in een laadruimte worden gestort (zoals zand, grind, afval of schroot)
 stukgoed = vervoer van verpakte goederen en stoffen
 collo = benaming van een verpakking in de transport sector
--18C = maximale temperatuur bij transport diepvriesgoederen
+-18 | -18C | -18 celcius = maximale temperatuur bij transport diepvriesgoederen
 asdruk = som van de wieldrukken aan één as
 tandem = twee assen die achter elkaar geplaatst zijn en waarvan de afstand tussen het midden van de assen kleiner dan 1.8m is
 welk deel van het gewicht moeten de voorassen van een vrachtwagen met tandem minimaal dragen? 20 procent | 20%
@@ -403,7 +403,7 @@ is een CMR vrachtbrief noodzakelijk bij lokaal vervoer? in Belgie wel | ja | j
 voor wie zijn de 3 exemplaren van een CMR-vrachtbrief bedoeld? afzender, geadresseerde, vervoerder | afzender geadresseerde vervoerder | afzender ontvanger vervoerder
 tot welke afstand mag de vrachtbrief voor korte afstand gebruikt worden? 50 km
 is een vrachtbrief verplicht bij eigen vervoer? nee
-wat vul je in bij vak 4 bij aflevering? plaats staat datum en uur | plaats staat datum uur
+wat vul je in bij vak 4 bij aflevering? plaats staat datum en uur | plaats staat datum uur | datum plaats staat uur
 volgens welk verdrag is in Europa het vrij vervoer van goederen en personen geregeld? het Schengen verdrag | Schengen verdrag | Schengen
 enig document | enig = document gebruikt voor in- en uitvoer van goederen in en uit de EU
 T1-formulier | T1 formulier | T1 = formulier gebruikt voor goederen van buiten de EU
@@ -508,7 +508,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [c22-02.png] welk bord is dit (c22)? verboden voor bestuurders van autocars | verboden voor autocars | verboden autocars
 [c23-02.png] welk bord is dit (c23)? verboden voor bestuurders van voertuigen bestemd of gebruikt voor het vervoer van zaken | verboden voor vrachtwagens | vrachtwagenverbod
 [c24a-02.png] welk bord is dit (c24a)? verboden voor bestuurders van voertuigen die gevaarlijke goederen vervoeren | verboden ADR transport | verboden voor ADR transport
-[c25-02.png] welk bord is dit (c25)? verboden voor voertuigen langer dan het aangeduide | lengteverbod | lengteverbod vrachtwagens | lengtebeperking
+[c25-02.png] welk bord is dit (c25)? verboden voor voertuigen langer dan het aangeduide | lengteverbod | lengteverbod vrachtwagens | lengtebeperking vrachtwagens | lengtebeperking
 [c27-02.png] welk bord is dit (c27)? verboden voor voertuigen breder dan het aangeduide | breedteverbod | breedteverbod vrachtwagens | breedtebeperking
 [c29-02(1).png] welk bord is dit (c29)? verboden voor voertuigen hoger dan het aangeduide | maximum hoogte | verbod hoogte | hoogteverbod | hoogtebeperking
 [c31a-02.png] welk bord is dit (c31a)? verbod om links af te slaan | verboden linksaf te slaan | verbod linksaf slaan | verbod linksaf | verbod op linksafslaan
@@ -594,7 +594,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [generator_b48616.png] welk bord is dit (f61)? telefoon
 [generator_072e06.png] welk bord is dit (f62)? noodtelefoon
 [generator_b92d5f.png] welk bord is dit (f63)? tankstation
-[generator_c57c1b.png] welk bord is dit (f65)? hotel of motel
+[generator_c57c1b.png] welk bord is dit (f65)? hotel of motel | hotel | motel
 [generator_3b86db.png] welk bord is dit (f67)? restaurant | eetgelegenheid
 [generator_fddbc2.png] welk bord is dit (f69)? drankgelegenheid | drinkgelegenheid
 [generator_9c852a.png] welk bord is dit (f71)? kampeerterrein | kampeergelegenheid | camping

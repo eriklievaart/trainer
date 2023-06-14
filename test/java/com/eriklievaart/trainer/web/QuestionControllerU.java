@@ -17,6 +17,7 @@ public class QuestionControllerU {
 		Check.isTrue(QuestionController.isValid(Arrays.asList("foo"), "fo,o"));
 		Check.isTrue(QuestionController.isValid(Arrays.asList("fo,o"), "fo,o"));
 		Check.isTrue(QuestionController.isValid(Arrays.asList("fo,o"), "foo"));
+		Check.isTrue(QuestionController.isValid(Arrays.asList("foo"), "FOO"));
 		Check.isFalse(QuestionController.isValid(Arrays.asList("foo"), "bar"));
 
 		Check.isTrue(QuestionController.isValid(Arrays.asList("prophase, prometaphase, metaphase, anaphase, telophase"),
