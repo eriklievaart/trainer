@@ -23,4 +23,10 @@ public class QuestionControllerU {
 		Check.isTrue(QuestionController.isValid(Arrays.asList("prophase, prometaphase, metaphase, anaphase, telophase"),
 				"prophase prometaphase metaphase anaphase telophase"));
 	}
+
+	@Test
+	public void isValidCase() {
+		Check.isTrue(QuestionController.isValid(Arrays.asList("S"), "s"));
+		Check.isTrue(QuestionController.isValid(Arrays.asList("s"), "S"));
+	}
 }

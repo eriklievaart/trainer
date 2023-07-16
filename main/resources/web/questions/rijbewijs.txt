@@ -26,7 +26,7 @@ De toegestane massa van een rijklaar voertuig met volledige uitrusting, brandsto
 De actuele massa van een rijklaar voertuig met volledige uitrusting, brandstof, bestuurder, passagiers en lading? massa in beladen toestand | MBT
 De massa van een rijklaar voertuig met volledige uitrusting en brandstof, maar zonder bestuurder, passagiers en lading? tarra | eigen massa
 De massa van een rijklaar voertuig met volledige uitrusting, maar zonder brandstof, bestuurder, passagiers en lading? ledige massa
-maximaal toegestane massa die een voertuig als lading mag hebben? laadvermogen
+Hoe heet de maximaal toegestane massa die een voertuig als lading mag hebben? laadvermogen
 eigen massa + laadvermorgen? MTM | maximaal toegestane massa
 de massa van een voertuig op een weegbrug? MBT | massa in beladen toestand
 wat is de vorm van reflectoren op auto's, vrachtwagens, autocars en autobussen? rechthoekig | rechthoek
@@ -134,7 +134,7 @@ welke 2 akkoorden regelen de rij en rusttijden in professioneel vervoer? EG 561/
 hoe lang mag je maximaal rijden voordat je een rijtijdonderbreking moet doen? 4u30m | 4.5u
 wat is de minimale lengte van een rijtijd onderbreking? 15m | 15 minuten
 wat is de minimale normale dagelijke rusttijd? 11u
-hoe mag je de minimale normale dagelijkse rusttijd splitsen? 3u 9u | 9u 3u | 3u, 9u | 9u, 3u
+hoe mag je de minimale normale dagelijkse rusttijd splitsen? 3u 9u | 9u 3u | 3u, 9u | 9u, 3u | 3 uur en 9 uur | 9 uur en 3 uur
 hoe vaak per week mag je normale dagelijkse rusttijd splitsen tot minstens 9u? 3x | 3
 wat is de dagelijkse rusttijd bij meervoudige bemanning? 9u per 30u
 hoe lang kan een voertuig maximaal blijven rijden bij meervoudige bemanning? 20u
@@ -173,7 +173,7 @@ trommelrem | trommelremmen = remsysteem, wat goed beschermd is tegen modder en z
 hydraulisch remsysteem = remsysteem wat via vloeistofdruk in de remleidingen geregeld wordt
 gescheiden remsysteem = remsysteem waarbij de voorremmen afzonderlijk aangestuurd worden van de achterremmen
 luchtdruk remsysteem = remsysteem waarbij de remvoering wordt aangestuurd d.m.v. een compressor die luchtdruk opbouwt
-welke remcircuits hebben vrachtwagens? achteras, vooras, getrokken voertuig, parkeerrem | achteras vooras getrokken voertuig parkeerrem
+welke remcircuits hebben vrachtwagens? achteras, vooras, getrokken voertuig, parkeerrem | achteras vooras getrokken voertuig parkeerrem | achteras vooras parkeerrem getrokken voertuig | vooras achteras parkeerrem getrokken voertuig
 vorstbeveiliger | luchtdroger = systeem om water in het remsysteem af te voeren
 remkrachtverdeler = systeem wat de remkracht verdeelt in functie van de gewichtsverdeling over de wielen
 compressor = voorziet het remsysteem van luchtdruk
@@ -213,7 +213,7 @@ wang = deel van de band wat zorgt voor verende eigenschappen
 loopvlak = deel van de band wat contact maakt met de weg
 schouder = overgang van loopvlak tot wang
 wat is het minimum verplichte bandenprofiel? 1.6mm
-herinsnijden = met een gloeiend mesje door de groeven van een band gaan tot die weer de gewenste diepte hebben
+herinsnijden | regrooving = met een gloeiend mesje door de groeven van een band gaan tot die weer de gewenste diepte hebben
 herrubberen = nieuw rubber over een versleten oppervlak van een band gieten
 uitbalanceren = kleine gewichtjes op de velg bevestigen om het oneven gewicht van een band te compenseren
 boutcentrering = het wiel wordt door de vorm van de boutgaten en wielmoeren automatisch gecentreerd
@@ -256,7 +256,7 @@ aandrijfas = brengt het koppel van de versnellingsbak over op het pignon
 pignon = drijft het kroonwiel aan
 kroonwiel = verbonden met het pignon om de beweging haaks over te brengen
 steekas | steekassen = brengt de draaiende beweging van het kroonwiel over op de wielen
-hoe vaak moet je het peil van de motorolie controleren? dagelijks
+hoe vaak moet je het peil van de motorolie controleren? dagelijks | elke dag
 wat is een normale bandenspanning voor vrachtwagens of autobussen? 7.5-8.5 bar | 8 bar
 wat is een normale druk voor een luchtdruk remsysteem? 10 bar
 welke kleur diesel tank je aan een tankstation? wit
@@ -394,7 +394,7 @@ identificatieverslag = document met identificatiegegevens van een voertuig of aa
 bilaterale vergunning = vergunning tussen 2 landen volgens overeenkomsten gesloten met dat land
 transitovergunning = vergunning voor vervoer via een land, naar een ander land
 CEMT = vergunning voor ondernemingen met veilige en milieuvriendelijke voertuigen
-welke gegevens staan op het sticker van een ATP-gekeurd voertuig? isolatiewaarde, temperatuurbereik, geldigheidsduur keuring | isolatiewaarde temperatuurbereik geldigheidsduur keuring
+welke gegevens staan op het sticker van een ATP-gekeurd voertuig? isolatiewaarde, temperatuurbereik, geldigheidsduur keuring | isolatiewaarde temperatuurbereik geldigheidsduur keuring | isolatiewaarde geldigheidsduur keuring temperatuurbereik
 welk certificaat is vereist voor het vervoeren van diervoeder? FCA-certificaat | FCA certificaat | FCA
 waar staat FCA voor? feed chain alliance
 CMR-verdrag | CMR verdrag | CMR = verdrag voor grensoverschrijdend vervoer waar bijna alle europese landen bij aangesloten zijn
@@ -431,7 +431,7 @@ wat is de maximale asdruk van een dragende as? 10000 kg | 10 ton
 wat is de maximale asdruk van een dragende tandem? 20000 kg | 20 ton
 welke organisaties mogen een verhuis vrachtbrief afgeven? FOD BKV | BKV FOD
 welke organisaties mogen een CMR-vrachtbrief afgeven? Febetra FOD TLV UPTR
-welke vrachtbrieven mag je zelf opstellen? distributie vrachtbrief en vrachtbrief voor korte afstand | distributie en korte afstand | distributie korte afstand
+welke vrachtbrieven mag je zelf opstellen? distributie vrachtbrief en vrachtbrief voor korte afstand | distributie en korte afstand | distributie korte afstand | korte afstand en distributie | korte afstand distributie
 wanneer moet een kapotte tachograaf gerepareerd worden? onderweg
 mag je een dagelijkse rusttijd nemen in de vrachtwagen terwijl een collega rijdt? nee
 hoe lang is een werkplaats kaart geldig? 1 jaar | 1j | 1jr
@@ -464,7 +464,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [a7b-02.png] welk bord is dit (a7b)? rijbaanversmalling links
 [a7c-02.png] welk bord is dit (a7c)? rijbaanversmalling rechts
 [a9-02.png] welk bord is dit (a9)? beweegbare brug | bewegende brug | pas op beweegbare brug | pas op bewegende brug
-[a11-02.png] welk bord is dit (a11)? uitweg op kaai of oever | kaai of oever
+#[a11-02.png] welk bord is dit (a11)? uitweg op kaai of oever | kaai of oever
 [a13-02.png] welk bord is dit (a13)? dwarse uitholling of ezelsrug | uitholling | ezelsrug | holle weg
 [a14-02.png] welk bord is dit (a14)? verhoogde inrichting | drempel | pas op drempel
 [a15-02.png] welk bord is dit (a15)? gladde rijbaan slipgevaar | slipgevaar
@@ -532,7 +532,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [d7-02.png] welk bord is dit (d7)? verplicht fietspad
 [d9a-02.png] welk bord is dit (d9a)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voor fietsers en voetgangers | voorbehouden fietsers en voetgangers
 [d9b-02.png] welk bord is dit (d9b)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
-[d10-02.png] welk bord is dit (d10)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
+#[d10-02.png] welk bord is dit (d10)? deel van de weg voorbehouden voor voetgangers en fietsers | voorbehouden voor voetgangers en fietsers | voorbehouden voetgangers en fietsers
 [d11-02.png] welk bord is dit (d11)? verplichte weg voor voetgangers | verplicht voor voetgangers | verplicht voetpad
 [d13-02.png] welk bord is dit (d13)? verplichte weg voor ruiters | verplicht voor ruiters | verplicht ruiterpad | ruiterpad
 [e1-02.png] welk bord is dit (e1)? parkeerverbod | verboden te parkeren
@@ -602,7 +602,7 @@ aan welke euronorm moeten nieuwe vrachtwagens aan voldoen? Euro VI
 [f87-02.png] welk bord is dit (f87)? verhoogde inrichting | verhoogde inrichting vluchtheuvel | verhoogde vluchtheuvel | drempel
 [f87-02.png] how hard mag je hier? 30 km/u | 30
 [f97-02.png] welk bord is dit (f97)? rijstrook versmalling | versmalling rijstrook
-[f99b-02.png] welk bord is dit (f99b)? deel van de openbare weg voorbehouden voor fietsers en voetgangers | weg voorbehouden fietsers en voetgangers | voorbehouden fietsers en voetgangers
+#[f99b-02.png] welk bord is dit (f99b)? deel van de openbare weg voorbehouden voor fietsers en voetgangers | weg voorbehouden fietsers en voetgangers | voorbehouden fietsers en voetgangers
 [generator_e4c6e6.png] welk bord is dit (f103)? begin voetgangerszone | begin zone voetgangers | voetgangerszone
 [generator_332fde.png] welk bord is dit (f105)? einde voetgangerszone | einde zone voetgangers
 [f111-02.png] welk bord is dit (f111)? fietsstraat

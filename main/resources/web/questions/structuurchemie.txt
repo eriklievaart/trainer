@@ -1,3 +1,129 @@
+Wat is de afkorting van hydrogen? H
+Wat is de afkorting van helium? He
+Wat is de afkorting van lithium? Li
+Wat is de afkorting van beryllium? Be
+Wat is de afkorting van boron? B
+Wat is de afkorting van carbon? C
+Wat is de afkorting van nitrogen? N
+Wat is de afkorting van oxygen? O
+Wat is de afkorting van fluorine? F
+Wat is de afkorting van neon? Ne
+Wat is de afkorting van sodium? Na
+Wat is de afkorting van magnesium? Mg
+Wat is de afkorting van aluminium? Al
+Wat is de afkorting van silicon? Si
+Wat is de afkorting van phosphorous? P
+Wat is de afkorting van sulfur? S
+Wat is de afkorting van chlorine? Cl
+Wat is de afkorting van argon? Ar
+Wat is de afkorting van potassium? K
+Wat is de afkorting van calcium? Ca
+
+Welk element nummer heeft hydrogen? 1
+Welk element nummer heeft helium? 2
+Welk element nummer heeft lithium? 3
+Welk element nummer heeft beryllium? 4
+Welk element nummer heeft boron? 5
+Welk element nummer heeft carbon? 6
+Welk element nummer heeft nitrogen? 7
+Welk element nummer heeft oxygen? 8
+Welk element nummer heeft fluorine? 9
+Welk element nummer heeft neon? 10
+Welk element nummer heeft sodium? 11
+Welk element nummer heeft magnesium? 12
+Welk element nummer heeft aluminium? 13
+Welk element nummer heeft silicon? 14
+Welk element nummer heeft phosphorous? 15
+Welk element nummer heeft sulfur? 16
+Welk element nummer heeft chlorine? 17
+Welk element nummer heeft argon? 18
+Welk element nummer heeft potassium? 19
+Welk element nummer heeft calcium? 20
+
+Wat is de afkorting van element #1? H
+Wat is de afkorting van element #2? He
+Wat is de afkorting van element #3? Li
+Wat is de afkorting van element #4? Be
+Wat is de afkorting van element #5? B
+Wat is de afkorting van element #6? C
+Wat is de afkorting van element #7? N
+Wat is de afkorting van element #8? O
+Wat is de afkorting van element #9? F
+Wat is de afkorting van element #10? Ne
+Wat is de afkorting van element #11? Na
+Wat is de afkorting van element #12? Mg
+Wat is de afkorting van element #13? Al
+Wat is de afkorting van element #14? Si
+Wat is de afkorting van element #15? P
+Wat is de afkorting van element #16? S
+Wat is de afkorting van element #17? Cl
+Wat is de afkorting van element #18? Ar
+Wat is de afkorting van element #19? K
+Wat is de afkorting van element #20? Ca
+
+Wat zijn de elementen van rij 1 op volgorde? H  He
+Wat zijn de elementen van rij 2 op volgorde? Li Be B  C  N O F  Ne
+Wat zijn de elementen van rij 3 op volgorde? Na Mg Al Si P S Cl Ar
+
+Wat is de naam van het element H? hydrogen
+Wat is de naam van het element He? helium
+Wat is de naam van het element Li? lithium
+Wat is de naam van het element Be? beryllium
+Wat is de naam van het element B? boron
+Wat is de naam van het element C? carbon
+Wat is de naam van het element N? nitrogen
+Wat is de naam van het element O? oxygen
+Wat is de naam van het element F? fluorine
+Wat is de naam van het element Ne? neon
+Wat is de naam van het element Na? sodium
+Wat is de naam van het element Mg? magnesium
+Wat is de naam van het element Al? aluminium
+Wat is de naam van het element Si? silicon
+Wat is de naam van het element P? phosphorous
+Wat is de naam van het element S? sulfur
+Wat is de naam van het element Cl? chlorine
+Wat is de naam van het element Ar? argon
+Wat is de naam van het element K? potassium
+Wat is de naam van het element Ca? calcium
+Wat is de naam van het element Cs? cesium
+Wat is de naam van het element Fr? francium
+Wat is de naam van het element Sr? strontium
+Wat is de naam van het element I? iodine
+Wat is de naam van het element Rb? rubidium
+Wat is de naam van het element Ba? barium
+Wat is de naam van het element Ra? radium
+Wat is de naam van het element At? astatine
+Wat is de naam van het element Ts? tennessine
+Wat is de naam van het element Kr? krypton
+Wat is de naam van het element Xe? xenon
+Wat is de naam van het element Rn? radon
+Wat is de naam van het element Og? oganesson
+
+affix 1?  mono
+affix 2?  di
+affix 3?  tri
+affix 4?  tetra
+affix 5?  penta
+affix 6?  hexa
+affix 7?  hepta
+affix 8?  octa
+affix 9?  nona
+affix 10? deca
+affixes 1-10? mono di tri tetra penta hexa hepta octa nona deca
+
+
+
+
+@EOF@
+
+todo:
+	vraag atoomnummers van elementen
+	show affix, ask number
+
+
+
+
+
 
 Wat is de formule voor de kinetische energie van een electron? E = 1/2 mv2
 Wat is de formule om de dichtheid te berekenen? d = m/V
@@ -166,51 +292,6 @@ Hoe drukt men 1 pascal uit in andere SI eenheden? 1 Kg/m/s2
 
 Welke 4 gassen ontstaan regelmatig uit zuur-base reacties? CO2 H2S NH3 SO2
 
-Welk element nummer heeft hydrogen? 1
-Welk element nummer heeft helium? 2
-Welk element nummer heeft lithium? 3
-Welk element nummer heeft beryllium? 4
-Welk element nummer heeft boron? 5
-Welk element nummer heeft carbon? 6
-Welk element nummer heeft nitrogen? 7
-Welk element nummer heeft oxygen? 8
-Welk element nummer heeft fluorine? 9
-Welk element nummer heeft neon? 10
-Welk element nummer heeft sodium? 11
-Welk element nummer heeft magnesium? 12
-Welk element nummer heeft aluminium? 13
-Welk element nummer heeft silicon? 14
-Welk element nummer heeft phosphorous? 15
-Welk element nummer heeft sulfur? 16
-Welk element nummer heeft chlorine? 17
-Welk element nummer heeft argon? 18
-Welk element nummer heeft potassium? 19
-Welk element nummer heeft calcium? 20
-
-Wat is de afkorting van element #1? H
-Wat is de afkorting van element #2? He
-Wat is de afkorting van element #3? Li
-Wat is de afkorting van element #4? Be
-Wat is de afkorting van element #5? B
-Wat is de afkorting van element #6? C
-Wat is de afkorting van element #7? N
-Wat is de afkorting van element #8? O
-Wat is de afkorting van element #9? F
-Wat is de afkorting van element #10? Ne
-Wat is de afkorting van element #11? Na
-Wat is de afkorting van element #12? Mg
-Wat is de afkorting van element #13? Al
-Wat is de afkorting van element #14? Si
-Wat is de afkorting van element #15? P
-Wat is de afkorting van element #16? S
-Wat is de afkorting van element #17? Cl
-Wat is de afkorting van element #18? Ar
-Wat is de afkorting van element #19? K
-Wat is de afkorting van element #20? Ca
-
-Wat zijn de elementen van rij 1 op volgorde? H  He
-Wat zijn de elementen van rij 2 op volgorde? Li Be B  C  N O F  Ne
-Wat zijn de elementen van rij 3 op volgorde? Na Mg Al Si P S Cl Ar
 
 Hoe noemen we een element uit groep 1? alkalimetaal | alkali metals
 Hoe noemen we een element uit groep 2? aardalkalimetaal | alkaline earth
@@ -276,17 +357,6 @@ Wat geeft electronen af? reductans | reducing agent
 Wat neemt electronen op? oxidans | oxidizing agent
 Als een stof reduceert dan krijgt het meer/minder electronen? meer
 Als een stof oxideert dan krijgt het meer/minder electronen? minder
-1 in het grieks? mono
-2 in het grieks? di
-3 in het grieks? tri
-4 in het grieks? tetra
-5 in het grieks? penta
-6 in het grieks? hexa
-7 in het grieks? hepta
-8 in het grieks? octa
-9 in het grieks? nona
-10 in het grieks? deca
-1-10 in het grieks? mono di tri tetra penta hexa hepta octa nona deca
 2-5 in liganden? bis tris tetrakis pentakis
 
 Welke 5 categorien slaan nooit neer? groep1 NH4+ CH3COO- ClO4- NO3- | group1 NH4+ CH3COO- ClO4- NO3-
@@ -426,20 +496,6 @@ Hoe heet het ion HSO₄⁻?     waterstof sulfaat | hydrogen sulfate
 Hoe heet het ion S₂O₃²⁻?    thiosulfaat | thiosulfate
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-@EOF@
-
 Wat is de electronegativiteit van F?  3.98
 Wat is de electronegativiteit van O?  3.44
 Wat is de electronegativiteit van Cl? 3.16
@@ -448,62 +504,8 @@ Wat is de electronegativiteit van C?  2.55
 Wat is de electronegativiteit van I?  2.66
 Wat is de electronegativiteit van S?  2.58
 
-@done@
 
-Wat is de afkorting van hydrogen? H
-Wat is de afkorting van helium? He
-Wat is de afkorting van lithium? Li
-Wat is de afkorting van beryllium? Be
-Wat is de afkorting van boron? B
-Wat is de afkorting van carbon? C
-Wat is de afkorting van nitrogen? N
-Wat is de afkorting van oxygen? O
-Wat is de afkorting van fluorine? F
-Wat is de afkorting van neon? Ne
-Wat is de afkorting van sodium? Na
-Wat is de afkorting van magnesium? Mg
-Wat is de afkorting van aluminium? Al
-Wat is de afkorting van silicon? Si
-Wat is de afkorting van phosphorous? P
-Wat is de afkorting van sulfur? S
-Wat is de afkorting van chlorine? Cl
-Wat is de afkorting van argon? Ar
-Wat is de afkorting van potassium? K
-Wat is de afkorting van calcium? Ca
 
-Wat is de naam van het element H? hydrogen
-Wat is de naam van het element He? helium
-Wat is de naam van het element Li? lithium
-Wat is de naam van het element Be? beryllium
-Wat is de naam van het element B? boron
-Wat is de naam van het element C? carbon
-Wat is de naam van het element N? nitrogen
-Wat is de naam van het element O? oxygen
-Wat is de naam van het element F? fluorine
-Wat is de naam van het element Ne? neon
-Wat is de naam van het element Na? sodium
-Wat is de naam van het element Mg? magnesium
-Wat is de naam van het element Al? aluminium
-Wat is de naam van het element Si? silicon
-Wat is de naam van het element P? phosphorous
-Wat is de naam van het element S? sulfur
-Wat is de naam van het element Cl? chlorine
-Wat is de naam van het element Ar? argon
-Wat is de naam van het element K? potassium
-Wat is de naam van het element Ca? calcium
-Wat is de naam van het element Cs? cesium
-Wat is de naam van het element Fr? francium
-Wat is de naam van het element Sr? strontium
-Wat is de naam van het element I? iodine
-Wat is de naam van het element Rb? rubidium
-Wat is de naam van het element Ba? barium
-Wat is de naam van het element Ra? radium
-Wat is de naam van het element At? astatine
-Wat is de naam van het element Ts? tennessine
-Wat is de naam van het element Kr? krypton
-Wat is de naam van het element Xe? xenon
-Wat is de naam van het element Rn? radon
-Wat is de naam van het element Og? oganesson
 
 
 

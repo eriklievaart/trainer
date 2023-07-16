@@ -66,6 +66,6 @@ public class QuestionController extends AbstractTemplateController {
 	}
 
 	static String strip(String answer) {
-		return answer.replaceAll("[ _,]", "").replaceAll("s++$", "");
+		return answer.replaceAll("[ _,]", "").replaceAll("\\s++$", "");
 	}
 }
