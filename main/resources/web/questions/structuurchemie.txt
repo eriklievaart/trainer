@@ -19,6 +19,40 @@ Wat is de afkorting van argon? Ar
 Wat is de afkorting van potassium? K
 Wat is de afkorting van calcium? Ca
 
+Wat is de naam van het element H? hydrogen
+Wat is de naam van het element He? helium
+Wat is de naam van het element Li? lithium
+Wat is de naam van het element Be? beryllium
+Wat is de naam van het element B? boron
+Wat is de naam van het element C? carbon
+Wat is de naam van het element N? nitrogen
+Wat is de naam van het element O? oxygen
+Wat is de naam van het element F? fluorine
+Wat is de naam van het element Ne? neon
+Wat is de naam van het element Na? sodium
+Wat is de naam van het element Mg? magnesium
+Wat is de naam van het element Al? aluminium
+Wat is de naam van het element Si? silicon
+Wat is de naam van het element P? phosphorous
+Wat is de naam van het element S? sulfur
+Wat is de naam van het element Cl? chlorine
+Wat is de naam van het element Ar? argon
+Wat is de naam van het element K? potassium
+Wat is de naam van het element Ca? calcium
+Wat is de naam van het element Cs? cesium
+Wat is de naam van het element Fr? francium
+Wat is de naam van het element Sr? strontium
+Wat is de naam van het element I? iodine
+Wat is de naam van het element Rb? rubidium
+Wat is de naam van het element Ba? barium
+Wat is de naam van het element Ra? radium
+Wat is de naam van het element At? astatine
+Wat is de naam van het element Ts? tennessine
+Wat is de naam van het element Kr? krypton
+Wat is de naam van het element Xe? xenon
+Wat is de naam van het element Rn? radon
+Wat is de naam van het element Og? oganesson
+
 Welk element nummer heeft hydrogen? 1
 Welk element nummer heeft helium? 2
 Welk element nummer heeft lithium? 3
@@ -65,39 +99,27 @@ Wat zijn de elementen van rij 1 op volgorde? H  He
 Wat zijn de elementen van rij 2 op volgorde? Li Be B  C  N O F  Ne
 Wat zijn de elementen van rij 3 op volgorde? Na Mg Al Si P S Cl Ar
 
-Wat is de naam van het element H? hydrogen
-Wat is de naam van het element He? helium
-Wat is de naam van het element Li? lithium
-Wat is de naam van het element Be? beryllium
-Wat is de naam van het element B? boron
-Wat is de naam van het element C? carbon
-Wat is de naam van het element N? nitrogen
-Wat is de naam van het element O? oxygen
-Wat is de naam van het element F? fluorine
-Wat is de naam van het element Ne? neon
-Wat is de naam van het element Na? sodium
-Wat is de naam van het element Mg? magnesium
-Wat is de naam van het element Al? aluminium
-Wat is de naam van het element Si? silicon
-Wat is de naam van het element P? phosphorous
-Wat is de naam van het element S? sulfur
-Wat is de naam van het element Cl? chlorine
-Wat is de naam van het element Ar? argon
-Wat is de naam van het element K? potassium
-Wat is de naam van het element Ca? calcium
-Wat is de naam van het element Cs? cesium
-Wat is de naam van het element Fr? francium
-Wat is de naam van het element Sr? strontium
-Wat is de naam van het element I? iodine
-Wat is de naam van het element Rb? rubidium
-Wat is de naam van het element Ba? barium
-Wat is de naam van het element Ra? radium
-Wat is de naam van het element At? astatine
-Wat is de naam van het element Ts? tennessine
-Wat is de naam van het element Kr? krypton
-Wat is de naam van het element Xe? xenon
-Wat is de naam van het element Rn? radon
-Wat is de naam van het element Og? oganesson
+Hoe noemen we een element uit groep 1? alkalimetaal | alkali metal
+Hoe noemen we een element uit groep 2? aardalkalimetaal | alkaline earth
+Hoe noemen we een element uit groep 3-12? transitie metaal | transition metal
+Hoe noemen we een element uit groep 17? halogeen | halogen
+Hoe noemen we een element uit groep 18? edelgas | noble gas
+
+Wat zijn de alkalimetalen op volgorde van klein naar groot? Li Na K Rb Cs Fr
+Wat zijn de aardalkalimetalen op volgorde van klein naar groot? Be Mg Ca Sr Ba Ra
+Wat zijn de halogenen op volgorde van klein naar groot? F Cl Br I At Ts
+Wat zijn de edelgassen op volgorde van klein naar groot? He Ne Ar Kr Xe Rn Og
+
+Wat is de AMU van H?  1.008
+Wat is de AMU van He? 4.003
+Wat is de AMU van Li? 6.941
+Wat is de AMU van Be? 9.012
+Wat is de AMU van B?  10.811
+Wat is de AMU van C?  12.011
+Wat is de AMU van N?  14.007
+Wat is de AMU van O?  15.999
+Wat is de AMU van F?  18.998
+Wat is de AMU van Ne? 20.180
 
 affix 1?  mono
 affix 2?  di
@@ -109,16 +131,47 @@ affix 7?  hepta
 affix 8?  octa
 affix 9?  nona
 affix 10? deca
+
+number of affix mono? 1
+number of affix di? 2
+number of affix tri? 3
+number of affix tetra? 4
+number of affix penta? 5
+number of affix hexa? 6
+number of affix hepta? 7
+number of affix octa? 8
+number of affix nona? 9
+number of affix deca? 10
+
 affixes 1-10? mono di tri tetra penta hexa hepta octa nona deca
+
+Hoe komt zwavel van nature voor? S8
+Hoe komt fosfor van nature voor? P4
+Welke elementen zijn van nature diatomair? Cl O Br H I N F
+
+Wat is de formule van methaan? CH4
+Wat is de formule van ethaan? C2H6
+Wat is de formule van propaan? C3H8
+Wat is de formule van etheen? C2H4
+Wat is de formule van benzeen? C6H6
+Wat is de formule van ethanol? C2H6O
+Wat is de formule van ammoniak? NH3
+
+Welke letter duidt de de molaire massa aan? M
+Welke eenheid heeft de molaire massa? g/mol
+Welke letter wordt gebruikt voor het atoomnummer? Z
+Wat telt het atoomnummer? protonen
+Welke letter wordt gebruikt voor het massa getal? A
+wat telt het massa getal? protonen + neutronen
+Wie zei dat bases OH⁻ ionen afstaan? Arhenius
+Wie zei dat bases protonen accepteren? Bronsted
+Hoe drukt men 1 pascal uit in andere SI eenheden? 1 Kg/m/s2
 
 
 
 
 @EOF@
 
-todo:
-	vraag atoomnummers van elementen
-	show affix, ask number
 
 
 
@@ -280,40 +333,9 @@ Hoeveel Torr / mmHg is 1 atm? 760
 Hoeveel Torr is 1 mmHg? 1
 Hoeveel mmHg is 1 Torr? 1
 
-Welke letter duidt de de molaire massa aan? M
-Welke eenheid heeft de molaire massa? g/mol
-Welke letter wordt gebruikt voor het atoomnummer? Z
-Wat telt het atoomnummer? protonen
-Welke letter wordt gebruikt voor het massa getal? A
-wat telt het massa getal? protonen + neutronen
-Wie zei dat bases OH⁻ ionen afstaan? Arhenius
-Wie zei dat bases protonen accepteren? Bronsted
-Hoe drukt men 1 pascal uit in andere SI eenheden? 1 Kg/m/s2
-
 Welke 4 gassen ontstaan regelmatig uit zuur-base reacties? CO2 H2S NH3 SO2
 
 
-Hoe noemen we een element uit groep 1? alkalimetaal | alkali metals
-Hoe noemen we een element uit groep 2? aardalkalimetaal | alkaline earth
-Hoe noemen we een element uit groep 3-12? transitie metaal | transition metal
-Hoe noemen we een element uit groep 17? halogeen | halogen
-Hoe noemen we een element uit groep 18? edelgas | noble gas
-
-Wat zijn de alkalimetalen op volgorde van klein naar groot? Li Na K Rb Cs Fr
-Wat zijn de aardalkalimetalen op volgorde van klein naar groot? Be Mg Ca Sr Ba Ra
-Wat zijn de halogenen op volgorde van klein naar groot? F Cl Br I At Ts
-Wat zijn de edelgassen op volgorde van klein naar groot? He Ne Ar Kr Xe Rn Og
-
-Wat is de AMU van H?  1.008
-Wat is de AMU van He? 4.003
-Wat is de AMU van Li? 6.941
-Wat is de AMU van Be? 9.012
-Wat is de AMU van B?  10.811
-Wat is de AMU van C?  12.011
-Wat is de AMU van N?  14.007
-Wat is de AMU van O?  15.999
-Wat is de AMU van F?  18.998
-Wat is de AMU van Ne? 20.180
 Wat is de AMU van Na? 22.990
 Wat is de AMU van Mg? 24.305
 Wat is de AMU van Al? 26.982
@@ -349,10 +371,6 @@ Wat is de afkorting van C2 H8 N2? en
 Wat is de afkorting van C2 O4 2-? ox2-a
 Wat is de afkorting van C10 H16 N2 O8? EDTA
 
-Hoe komt zwavel van nature voor? S8
-Hoe komt fosfor van nature voor? P4
-Welke elementen zijn van nature diatomair? Cl O Br H I N F
-
 Wat geeft electronen af? reductans | reducing agent
 Wat neemt electronen op? oxidans | oxidizing agent
 Als een stof reduceert dan krijgt het meer/minder electronen? meer
@@ -369,14 +387,6 @@ Sulfaten zijn meestal oplosbaar, wat zijn de uitzonderingen? Ba Ca Sr
 
 naamgeving bij toenemende oxidatietoestand? hypo_iet _iet _aat per_aat
 naamgeving bij binaire zuren die waterstof en een niet-metaal bevatten (bijv. HCl)? hydro_ acid
-
-Wat is de formule van methaan? CH4
-Wat is de formule van ethaan? C2H6
-Wat is de formule van propaan? C3H8
-Wat is de formule van etheen? C2H4
-Wat is de formule van benzeen? C6H6
-Wat is de formule van ethanol? C2H6O
-Wat is de formule van ammoniak? NH3
 
 Wat is de formule van chloorzuur? HClO3
 Wat is de formule van salpeterzuur? HNO3
