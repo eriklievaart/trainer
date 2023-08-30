@@ -120,6 +120,14 @@ Wat is de AMU van N?  14.007
 Wat is de AMU van O?  15.999
 Wat is de AMU van F?  18.998
 Wat is de AMU van Ne? 20.180
+Wat is de AMU van Na? 22.990
+Wat is de AMU van Mg? 24.305
+Wat is de AMU van Al? 26.982
+Wat is de AMU van Si? 28.086
+Wat is de AMU van P?  30.974
+Wat is de AMU van S?  32.066
+Wat is de AMU van Cl? 35.453
+Wat is de AMU van Ar? 39.948
 
 affix 1?  mono
 affix 2?  di
@@ -166,6 +174,47 @@ wat telt het massa getal? protonen + neutronen
 Wie zei dat bases OH⁻ ionen afstaan? Arhenius
 Wie zei dat bases protonen accepteren? Bronsted
 Hoe drukt men 1 pascal uit in andere SI eenheden? 1 Kg/m/s2
+
+Wat is de formule van chloorzuur? HClO3
+Wat is de formule van salpeterzuur? HNO3
+Wat is de formule van zwavelzuur? H2SO4
+Wat is de formule van zoutzuur? HCl
+
+Wat is de formule van hydrosulfuric acid? H2S
+Wat is de formule van hydroiodic acid? HI
+Wat is de formule van hydrochloric acid? HCl
+Wat is de formule van hydrobromic acid? HBr
+Wat is de formule van hydrofluoric acid? HF
+Wat is de formule van bromic acid? HBrO3
+Wat is de formule van nitric acid? HNO3
+
+Wat is de naam van HI? waterstof jodide | hydroiodic acid
+Wat is de naam van HCl? zoutzuur | hydrochloric acid
+Wat is de naam van HBr? waterstof bromide | hydrobromic acid
+Wat is de naam van HF? waterstof fluoride | hydrofluoric acid
+Wat is de naam van HNO₃? salpeterzuur | nitric acid
+Wat is de naam van HBrO₃? broomzuur | waterstofbroomaat | bromic acid
+Wat is de naam van HClO₃? chloorzuur | chloric acid
+Wat is de naam van H₂SO₄? zwavelzuur | sulfuric acid
+
+Wat geeft electronen af? reductans | reducing agent
+Wat neemt electronen op? oxidans | oxidizing agent
+Als een stof reduceert dan krijgt het meer/minder electronen? meer
+Als een stof oxideert dan krijgt het meer/minder electronen? minder
+2-5 in liganden? bis tris tetrakis pentakis
+
+Wat is de formule van de methyl groep? CH3
+Wat is de formule van de groep kenmerkend voor alcoholen? OH
+Wat is de formule van de carboxyl groep? COOH
+
+Hoeveel kelvin is 0°C? 273.15 | 273.15C
+Hoeveel °F is 0 °C? 32
+Hoeveel °F is 100 °C? 212
+Hoeveel Pascal is 1 atm? 101325
+Hoeveel Pascal is 1 bar? 100000
+Hoeveel Torr / mmHg is 1 atm? 760
+Hoeveel Torr is 1 mmHg? 1
+Hoeveel mmHg is 1 Torr? 1
 
 
 
@@ -324,26 +373,9 @@ Wat is de Bohr radius [a₀] ? 52.92 pm
 Wat is de Rydberg constante? 2.179e-18 J
 Wat is [OH⁻] (== [H₃O⁺]) bij 25°C? 1.0e-7
 
-Hoeveel kelvin is 0°C? 273.15 | 273.15C
-Hoeveel °F is 0 °C? 32
-Hoeveel °F is 100 °C? 212
-Hoeveel Pascal is 1 atm? 101325
-Hoeveel Pascal is 1 bar? 100000
-Hoeveel Torr / mmHg is 1 atm? 760
-Hoeveel Torr is 1 mmHg? 1
-Hoeveel mmHg is 1 Torr? 1
-
 Welke 4 gassen ontstaan regelmatig uit zuur-base reacties? CO2 H2S NH3 SO2
 
 
-Wat is de AMU van Na? 22.990
-Wat is de AMU van Mg? 24.305
-Wat is de AMU van Al? 26.982
-Wat is de AMU van Si? 28.086
-Wat is de AMU van P?  30.974
-Wat is de AMU van S?  32.066
-Wat is de AMU van Cl? 35.453
-Wat is de AMU van Ar? 39.948
 Wat is de AMU van K?  39.098
 Wat is de AMU van Ca? 40.078
 
@@ -371,12 +403,6 @@ Wat is de afkorting van C2 H8 N2? en
 Wat is de afkorting van C2 O4 2-? ox2-a
 Wat is de afkorting van C10 H16 N2 O8? EDTA
 
-Wat geeft electronen af? reductans | reducing agent
-Wat neemt electronen op? oxidans | oxidizing agent
-Als een stof reduceert dan krijgt het meer/minder electronen? meer
-Als een stof oxideert dan krijgt het meer/minder electronen? minder
-2-5 in liganden? bis tris tetrakis pentakis
-
 Welke 5 categorien slaan nooit neer? groep1 NH4+ CH3COO- ClO4- NO3- | group1 NH4+ CH3COO- ClO4- NO3-
 Welke 3 elementen hebben de grootste kans van neerslag? Ag Hg Pb
 Welke 3 elementen slaan neer met cloor, broom of iodide? Ag Hg Pb
@@ -387,32 +413,6 @@ Sulfaten zijn meestal oplosbaar, wat zijn de uitzonderingen? Ba Ca Sr
 
 naamgeving bij toenemende oxidatietoestand? hypo_iet _iet _aat per_aat
 naamgeving bij binaire zuren die waterstof en een niet-metaal bevatten (bijv. HCl)? hydro_ acid
-
-Wat is de formule van chloorzuur? HClO3
-Wat is de formule van salpeterzuur? HNO3
-Wat is de formule van zwavelzuur? H2SO4
-Wat is de formule van zoutzuur? HCl
-
-Wat is de formule van hydrosulfuric acid? H2S
-Wat is de formule van hydroiodic acid? HI
-Wat is de formule van hydrochloric acid? HCl
-Wat is de formule van hydrobromic acid? HBr
-Wat is de formule van hydrofluoric acid? HF
-Wat is de formule van bromic acid? HBrO3
-Wat is de formule van nitric acid? HNO3
-
-Wat is de naam van HI? waterstof jodide | hydroiodic acid
-Wat is de naam van HCl? zoutzuur | hydrochloric acid
-Wat is de naam van HBr? waterstof bromide | hydrobromic acid
-Wat is de naam van HF? waterstof fluoride | hydrofluoric acid
-Wat is de naam van HNO₃? salpeterzuur | nitric acid
-Wat is de naam van HBrO₃? broomzuur | waterstofbroomaat | bromic acid
-Wat is de naam van HClO₃? chloorzuur | chloric acid
-Wat is de naam van H₂SO₄? zwavelzuur | sulfuric acid
-
-Wat is de formule van de methyl groep? CH3
-Wat is de formule van de groep kenmerkend voor alcoholen? OH
-Wat is de formule van de carboxyl groep? COOH
 
 Wat is de formule van het ammonium ion?              NH4 +
 Wat is de formule van het acetaat ion?               C2H3O2 -
