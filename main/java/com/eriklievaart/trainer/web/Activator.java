@@ -26,18 +26,6 @@ public class Activator extends LightningActivator {
 		createRoutes();
 	}
 
-	private QuestionLoader getLoader() {
-		ContextWrapper context = getContextWrapper(); // required for OSGI
-
-		if (context.hasProperty(QUESTION_FILE)) {
-			File directory = new File(context.getPropertyString(QUESTION_FILE, null));
-			log.info("hot loading questions from: " + directory);
-			return new HotLoader(directory);
-		}
-		log.info("using classpath loader for questions");
-		return new ClasspathLoader();
-	}
-
 	private void createRoutes() {
 		StateSuppliers states = new StateSuppliers(getLoader());
 		List<String> index = ResourceTool.getLines(getClass(), "/web/questions/index.txt");
@@ -49,5 +37,17 @@ public class Activator extends LightningActivator {
 			builder.newRoute("root").mapGet("", () -> new IndexController(index));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));
 		});
+	}
+
+	private QuestionLoader getLoader() {
+		ContextWrapper context = getContextWrapper(); // required for OSGI
+
+		if (context.hasProperty(QUESTION_FILE)) {
+			File directory = new File(context.getPropertyString(QUESTION_FILE, null));
+			log.info("hot loading questions from: " + directory);
+			return new HotLoader(directory);
+		}
+		log.info("using classpath loader for questions");
+		return new ClasspathLoader();
 	}
 }

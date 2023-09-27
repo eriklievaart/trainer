@@ -1,0 +1,55 @@
+
+
+## fysica ##
+b*h/2 | bh/2                             = oppervlakte van een driehoek met breedte "b" en hoogte "h"
+b*h | bh                                 = oppervlakte van een parallellogram met breedte "b" en hoogte "h"
+πr² | pi r^2 | pi r2                     = oppervlakte van een cirkel
+(a+b)h/2 | h(a+b)/2                      = oppervlakte van een trapezium met hoogte h en breedtes "a" en "b"
+½bc sin(A) | 1/2 bc sin(A) | bc sin(A)/2 = oppervlakte van een driehoek vaarbij je zijdes b en c kent en de hoek A daartussen
+πrR | pi rR                              = oppervlakte kegelmantel (alleen mantel) met straal r (grondcirkel) en straal R (mantel)
+4πr² | 4 pi r2                           = oppervlakte bol
+4/3 πr³ | 4/3 pi r^3 | 4/3 pi r3         = inhoud bol
+⅓Gh | Gh/3 | 1/3 GH                      = inhoud piramide met grondvlak "G" en hoogte "h"
+⅓Gh | Gh/3 | 1/3 GH                      = inhoud kegel met grondvlak "G" en hoogte "h"
+2πr² + 2πrh | 2πr(r+h) | 2 pi r2 + 2 pi rh | 2 pi (r2 + rh) | 2 pi r(r+h) = oppervlakte van een cilinder
+
+
+## electriciteit ##
+geleiders | geleider = stoffen die gemakkelijk een elektron vrijgeven
+niet geleiders | half geleider | isolatoren | isolator = stoffen waarvan elektronen zeer moeilijk loskomen
+potentiaalverschil = drang van de elektronen om naar de andere pool van de batterij te gaan
+de elektronen stroom loopt van ____ naar ____? min plus
+de conventionele stroom loopt van ____ naar ____? plus min
+
+Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
+Hoe noemen we de lading van een elektron? eenheidslading
+Hoeveel elektronen is 1 coulomb? 6.3 * 10¹⁸ | 6.3e18
+
+formule voor arbeid? W = Fs
+formule voor vermogen? P = W/t
+formule voor lading / wet van Faraday? Q = It
+formule voor elektrische spanning? U = W/Q | U = P/I
+formule voor weerstand / wet van Ohm? R = U/I
+
+eenheid voor arbeid (W)? joule
+eenheid voor vermoten (P)? watt
+eenheid voor stroomsterkte (I)? ampere | A
+eenheid voor lading (Q)? C | Coulomb | Ah
+eenheid voor spanning (U)? Volt | V
+eenheid voor weerstand (R)? Ohm
+
+grootheid voor W? arbeid
+grootheid voor F? kracht
+grootheid voor P? vermogen
+grootheid voor I? stroomsterkte
+grootheid voor U? spanning | elektrische spanning
+
+
+
+
+@EOF@
+electriciteit: pagina 21
+
+
+
+

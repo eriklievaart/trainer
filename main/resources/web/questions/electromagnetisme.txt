@@ -1,0 +1,4 @@
+
+insulator = material that blocks the transfer of charge
+conductor = material that transfers charge
+induction = shifting the charge in an object by bringing a charged object close to it
