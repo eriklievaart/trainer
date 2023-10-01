@@ -16,7 +16,7 @@ import com.eriklievaart.trainer.web.loader.QuestionLoader;
 
 public class Activator extends LightningActivator {
 
-	private static final String QUESTION_FILE = "com.eriklievaart.trainer.web.question.dir";
+	private static final String QUESTION_DIR = "com.eriklievaart.trainer.web.question.dir";
 
 	private LogTemplate log = new LogTemplate(getClass());
 
@@ -42,12 +42,12 @@ public class Activator extends LightningActivator {
 	private QuestionLoader getLoader() {
 		ContextWrapper context = getContextWrapper(); // required for OSGI
 
-		if (context.hasProperty(QUESTION_FILE)) {
-			File directory = new File(context.getPropertyString(QUESTION_FILE, null));
+		if (context.hasProperty(QUESTION_DIR)) {
+			File directory = new File(context.getPropertyString(QUESTION_DIR, null));
 			log.info("hot loading questions from: " + directory);
 			return new HotLoader(directory);
 		}
-		log.info("using classpath loader for questions");
+		log.info("using classpath loader for questions; set property % to change", QUESTION_DIR);
 		return new ClasspathLoader();
 	}
 }

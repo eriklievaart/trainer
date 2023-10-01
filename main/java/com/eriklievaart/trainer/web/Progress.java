@@ -20,7 +20,7 @@ public class Progress {
 	}
 
 	private long randomize(long fixed) {
-		double random = (10 * Math.random() + 1) * fixed;
+		double random = (4 * Math.random() + 1) * fixed;
 		return (long) random;
 	}
 
@@ -28,7 +28,7 @@ public class Progress {
 		long now = System.currentTimeMillis();
 
 		if (lastWrong == 0) {
-			lastWrong = now - TimestampTool.ONE_HOUR;
+			lastWrong = now - TimestampTool.ONE_MINUTE;
 		}
 		long timePassed = lastRight - lastWrong;
 		validUntil = lastRight + randomize(timePassed);
