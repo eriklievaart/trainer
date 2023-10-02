@@ -69,7 +69,7 @@ IDPB = interne dienst voor preventie en bescherming
 EDPB = externe dienst voor preventie en bescherming
 EDTC = externe dienst voor technische controle
 CPBW = comité voor preventie en bescherming
-CE-markering = maakt het vrij verkeer van veilige goederen mogelijk over de gehele EU
+CE markering | CE-markering = maakt het vrij verkeer van veilige goederen mogelijk over de gehele EU
 PBM = persoonlijke beschermingsmiddelen
 LMRA = last minute risico analyse
 incident = ongewenste gebeurtenis met of zonder schade of letsel
@@ -82,7 +82,7 @@ welke wetgeving stelt minimale rusttijden en maximale arbeidstijden vast? arbeid
 waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk beschermingsmiddel
 wat zijn de 3 elementen van een arbeidsongeval? gebeurtenis, letsel, relatie
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
-wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten
+wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
 wat te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies
 
 

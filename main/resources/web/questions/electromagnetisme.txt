@@ -7,7 +7,7 @@ induction = shifting the charge in an object by bringing a charged object close 
 8.988 * 10⁹ Nm²/C² | 8.988e9 Nm2/C2 = electric constant (k)
 8.854 * 10⁻¹² C²/Nm² | 8.854e-12 C2/Nm2 = electric constant (ϵ₀)
 
-formula for force between two point charges (Coulomb's law)? F = k|q₁q₂|/r² | F = k|q1q2|/r2
+formula for force between two point charges (Coulomb's law)? F = kq₁q₂/r² | F = kq1q2/r2
 formula for the electric constant? k = 1/4πϵ₀ | k = 1/4 pi epsilon0
 
 
