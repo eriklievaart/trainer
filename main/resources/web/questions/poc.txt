@@ -24,6 +24,10 @@ niet geleiders | half geleider | isolatoren | isolator = stoffen waarvan elektro
 potentiaalverschil = drang van de elektronen om naar de andere pool van de batterij te gaan
 de elektronen stroom loopt van ____ naar ____? min plus
 de conventionele stroom loopt van ____ naar ____? plus min
+stroomdichtheid = de stroomsterkte die een geleider doorvoert per eenheid van doorsnede
+stroomsterkte = de hoeveelheid lading die verplaatst wordt per seconde
+elektrische spanning | elektrisch potentiaalverschil = potentiële energie per eenheid van lading
+spanningsval = verlies van spanning tussen bron en verbruiker
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
 Hoe noemen we de lading van een elektron? eenheidslading
@@ -39,6 +43,10 @@ formule voor stroomdichtheid? J = I/A | JA = I
 formule voor temperatuur (invloed op weerstand)? Rₜ = R₀ + αtR₀ | Rt = R0 (1 + alpha t) | Rt = R0 + R0 alpha t
 formule voor vermogen? P = W/t
 formule voor weerstand / wet van Ohm? R = U/I
+formule voor vervangingsweerstand parallel? Rₜ = 1/(1/R₁ + 1/R₂) | Rt = 1/(1/R1 + 1/R2)
+formule voor vervangingsweerstand serieel? Rₜ = R₁ + R₂ + ... | Rt = R1 + R2
+formule voor de stroomwet van Kirchhoff? ΣI = 0 | sigma I = 0
+formule voor de spanningswet van Kirchhoff? U[bron] = U₁ + U₂ + ... | Ub = U1+U2 | ΣU = 0 | sigma U = 0
 
 eenheid voor doorsnede (A)? mm² | mm2
 eenheid voor arbeid (W)? joule
