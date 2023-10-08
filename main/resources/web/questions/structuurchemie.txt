@@ -216,6 +216,17 @@ Hoeveel Torr / mmHg is 1 atm? 760
 Hoeveel Torr is 1 mmHg? 1
 Hoeveel mmHg is 1 Torr? 1
 
+Wat is het getal van Avogadro? 6.022e23 mol-1
+Wat is de lading van een electron? 1.6022·10⁻¹⁹ | 1.6022e-19 C
+Wat is de snelheid van het licht in vacuum? 3.0e8 m/s
+Wat is het bereik van zichtbaar licht ___-___ nm? 390-760 | 390 760
+Wat is de constante van planck? 6.626e-34 Js
+Wat is de gasconstante [R] (atmosfeer)? 0.082057 atm L / K mol
+Wat is de gasconstante [R] (pascal)?    8.3145   KPa L / K mol
+Wat is de Bohr radius [a₀] ? 52.92 pm
+Wat is de Rydberg constante? 2.179e-18 J
+Wat is [OH⁻] (== [H₃O⁺]) bij 25°C? 1.0e-7
+
 
 
 
@@ -361,17 +372,6 @@ Elektronen moeten verdeeld worden over orbitalen, voordat orbitalen gedeeld word
 Hogere atoomnummers hebben bij dezelfde MO meer/minder energy? minder | less
 Hogere moleculaire massa zorgt voor een hoger/lager kookpunt? hoger
 Een verhoging van de temperatuur vergroot/verkleind de oppervlaktespanning? verkleind
-
-Wat is het getal van Avogadro? 6.022e23 mol-1
-Wat is de lading van een electron? 1.6022e-19 C
-Wat is de snelheid van het licht in vacuum? 3.0e8 m/s
-Wat is het bereik van zichtbaar licht ___-___ nm? 390-760
-Wat is de constante van planck? 6.626e-34 Js
-Wat is de gasconstante [R] (atmosfeer)? 0.082057 atm L / K mol
-Wat is de gasconstante [R] (pascal)?    8.3145   KPa L / K mol
-Wat is de Bohr radius [a₀] ? 52.92 pm
-Wat is de Rydberg constante? 2.179e-18 J
-Wat is [OH⁻] (== [H₃O⁺]) bij 25°C? 1.0e-7
 
 Welke 4 gassen ontstaan regelmatig uit zuur-base reacties? CO2 H2S NH3 SO2
 

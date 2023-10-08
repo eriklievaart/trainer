@@ -27,7 +27,7 @@ de conventionele stroom loopt van ____ naar ____? plus min
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
 Hoe noemen we de lading van een elektron? eenheidslading
-Hoeveel elektronen is 1 coulomb? 6.3 * 10¹⁸ | 6.3e18
+Hoeveel elektronen is 1 Coulomb? 6.3 * 10¹⁸ | 6.3e18
 1 V in andere eenheden? 1 J/C
 
 formule voor arbeid? W = Fs

@@ -7,14 +7,14 @@ induction = shifting the charge in an object by bringing a charged object close 
 8.854 * 10⁻¹² C²/Nm² | 8.854e-12 C2/Nm2 = electric constant (ϵ₀)
 6.022 * 10²³ mol⁻¹ | 6.022e23 mol-1 = constante van Avogadro
 1.6022 * 10⁻¹⁹ C | 1.6022e-19 C = charge of an electron (or proton)
-9.109 * 10⁻³¹ kg | 9.11e-31 kg = mass of an electron
-1.673 * 10⁻²⁷ kg | 1.67e-27 kg = mass of a proton
+9.109 * 10⁻³¹ kg | 9.109e-31 kg = mass of an electron
+1.673 * 10⁻²⁷ kg | 1.673e-27 kg = mass of a proton
 
 unit for electric field (E)? N/C
 unit for charge (q)? Coulomb | C
 
 formula for force between two point charges (Coulomb's law)? F = kq₁q₂/r² | F = kq1q2/r2
-formula for the electric constant? k = 1/4πϵ₀ | k = 1/4 pi epsilon0
+formula for the electric constant? k = 1/4πϵ₀ | k = 1/4 pi epsilon0 | k = 1/4 pi epsilon
 formula for calculating an electric field? E = F/q | Eq = F
 
 
