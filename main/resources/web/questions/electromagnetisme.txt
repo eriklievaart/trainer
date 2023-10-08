@@ -13,6 +13,10 @@ induction = shifting the charge in an object by bringing a charged object close 
 unit for electric field (E)? N/C
 unit for charge (q)? Coulomb | C
 
+For electric fields, λ denotes what? linear charge density
+For electric fields, σ denotes what? surface charge density
+For electric fields, ρ denotes what? volume charge density
+
 formula for force between two point charges (Coulomb's law)? F = k|q₁q₂|/r² | F = k|q1q2|/r2
 formula for the electric constant? k = 1/4πϵ₀ | k = 1/4 pi epsilon0
 formula for calculating an electric field? E = F/q | Eq = F
