@@ -2,6 +2,7 @@
 insulator = material that blocks the transfer of charge
 conductor = material that transfers charge
 induction = shifting the charge in an object by bringing a charged object close to it
+electric dipole = pair of point charges with equal magnitude and opposite sign separated by distance
 
 8.988 * 10⁹ Nm²/C² | 8.988e9 Nm2/C2 = electric constant (k)
 8.854 * 10⁻¹² C²/Nm² | 8.854e-12 C2/Nm2 = electric constant (ϵ₀)
