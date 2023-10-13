@@ -26,7 +26,7 @@ de elektronen stroom loopt van ____ naar ____? min plus
 de conventionele stroom loopt van ____ naar ____? plus min
 stroomdichtheid = de stroomsterkte die een geleider doorvoert per eenheid van doorsnede
 stroomsterkte = de hoeveelheid lading die verplaatst wordt per seconde
-elektrische spanning | elektrisch potentiaalverschil = potentiële energie per eenheid van lading
+elektrische spanning | spanning | elektrisch potentiaalverschil = potentiële energie per eenheid van lading
 spanningsval = verlies van spanning tussen bron en verbruiker
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
@@ -50,7 +50,7 @@ formule voor de spanningswet van Kirchhoff? U[bron] = U₁ + U₂ + ... | Ub = U
 
 eenheid voor doorsnede (A)? mm² | mm2
 eenheid voor arbeid (W)? joule
-eenheid voor vermoten (P)? watt
+eenheid voor vermogen (P)? watt
 eenheid voor stroomsterkte (I)? ampere | A
 eenheid voor lading (Q)? C | Coulomb | Ah
 eenheid voor spanning (U)? Volt | V
