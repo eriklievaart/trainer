@@ -84,6 +84,8 @@ incident = ongewenste gebeurtenis met of zonder schade of letsel
 ongeval = ongewenste plotse gebeurtenis met schade en of lichamelijk letsel tot gevolg
 arbeidsongeval = ongewenste plotse gebeurtenis op het werk met lichamelijk letsel tot gevolg
 bijna ongeval | bijna-ongeval = ongewenste plotse gebeurtenis die had kunnen leiden tot schade en of lichamelijk letsel
+onveilige handeling = een handeling die niet volgens de juiste werkwijze wordt uitgevoerd en tot ongeval kan leiden
+onveilige situatie = een situatie waar niet aan de voorwaarden voor veilig werken is voldaan
 
 welke wetgeving heeft als aandachtspunten uitstoot en afvalverwerking? milieuwetgeving
 welke wetgeving stelt minimale rusttijden en maximale arbeidstijden vast? arbeidstijdenwetgeving
@@ -92,6 +94,9 @@ wat zijn de 3 elementen van een arbeidsongeval? gebeurtenis, letsel, relatie
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
 wat te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies
+wat te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef
+wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM
+welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
 
 
 
