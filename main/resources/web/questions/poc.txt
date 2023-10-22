@@ -6,9 +6,9 @@
 b*h/2 | bh/2                             = oppervlakte van een driehoek met breedte "b" en hoogte "h"
 b*h | bh                                 = oppervlakte van een parallellogram met breedte "b" en hoogte "h"
 πr² | pi r^2 | pi r2                     = oppervlakte van een cirkel
-(a+b)h/2 | h(a+b)/2                      = oppervlakte van een trapezium met hoogte h en breedtes "a" en "b"
 πrR | pi rR                              = oppervlakte kegelmantel (alleen mantel) met straal r (grondcirkel) en straal R (mantel)
 4πr² | 4 pi r2                           = oppervlakte bol
+(a+b)h/2 | h(a+b)/2 | 1/2(a+b)h | 1/2h(a+b) = oppervlakte van een trapezium met hoogte h en breedtes "a" en "b"
 4/3 πr³ | 4/3 pi r^3 | 4/3 pi r3         = inhoud bol
 ⅓Gh | Gh/3 | 1/3 GH                      = inhoud piramide met grondvlak "G" en hoogte "h"
 ⅓Gh | Gh/3 | 1/3 GH                      = inhoud kegel met grondvlak "G" en hoogte "h"
@@ -26,7 +26,7 @@ de elektronen stroom loopt van ____ naar ____? min plus
 de conventionele stroom loopt van ____ naar ____? plus min
 stroomdichtheid = de stroomsterkte die een geleider doorvoert per eenheid van doorsnede
 stroomsterkte = de hoeveelheid lading die verplaatst wordt per seconde
-elektrische spanning | spanning | elektrisch potentiaalverschil = potentiële energie per eenheid van lading
+elektrische spanning | spanning | elektrisch potentiaalverschil  | potentiaalverschil = potentiële energie per eenheid van lading
 spanningsval = verlies van spanning tussen bron en verbruiker
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger

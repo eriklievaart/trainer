@@ -225,7 +225,7 @@ Wat is de gasconstante [R] (atmosfeer)? 0.082057 atm L / K mol
 Wat is de gasconstante [R] (pascal)?    8.3145   KPa L / K mol
 Wat is de Bohr radius [a₀] ? 52.92 pm
 Wat is de Rydberg constante? 2.179e-18 J
-Wat is [OH⁻] (== [H₃O⁺]) bij 25°C? 1.0e-7
+Wat is [OH⁻] (== [H₃O⁺]) bij 25°C? 1.0e-7 | 1e-7
 
 
 
