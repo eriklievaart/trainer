@@ -121,6 +121,25 @@ Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van a
 ## warmte ##
 Wat is de soortelijk warmte van water? 4.19 kJ/kg K
 Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT
+formule voor latente warmte? Q = Lm
+
+How wordt de latente warmte aangeduid? L
+Hoe wordt specifieke smeltwarmte aangeduid? rₛ | rs
+Hoe wordt specifieke verdampingswarmte aangeduid? rᵥ | rv
+
+Wat is de verdampingsenthalpie van 1kg water? 2257 kJ
+
+warmte = maat van kinetische energie van moleculen
+voelbare warmte = warmte die een temperatuursverandering tot gevolg heeft
+latente warmte = verzamelnaam voor stollings-, smeltings-, condensatie en verdampingswarmte
+verdampen = van vloeibaar naar gas vorm gaan
+condenseren = van gas naar vloeibare vorm gaan
+vervluchten = van vast naar gas vorm gaan
+sublimeren = van gas naar vaste vorm gaan
+# smelten = van vast naar vloeibare vorm gaan
+# stollen = vab vloeibaar naar vaste vorm gaan
+verdampingsenthalpie = hoeveelheid warmte benodigd om 1kg vloeistof te verdampen
+
 
 
 
