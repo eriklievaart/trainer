@@ -113,8 +113,8 @@ wat te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instru
 wat te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef | neem oorzaak weg scherm af waarschuw meld chef | neem oorzaak weg, zet af, waarschuw, meld chef | neem oorzaak weg zet af waarschuw meld chef
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
-
-
+Onder invloed van alcohol of drugs is de kans op ongevallen ___ - ___ keer hoger? 2-4 | 2 4
+Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van alcohol? 15%-30% | 15-30% | 15-30 | 15 30
 
 
 
