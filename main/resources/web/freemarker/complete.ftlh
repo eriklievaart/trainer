@@ -9,6 +9,6 @@ Gefeliciflapstaart
 
 <br/><a id="refresh" href="/">refresh!</a>
 <script>document.getElementById('refresh').href = window.location.href.replace(/[?].*/, '');</script>
-<br/><a href="/">home</a>
+<br/><br/><a href="/">home</a>
 
 <#include "footer.ftlh"/>

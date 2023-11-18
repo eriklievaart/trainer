@@ -69,16 +69,16 @@ sec(x)? 1/cos(x)
 cosec(x)? 1/sin(x)
 cot(x)? 1/tan(x) | cos(x)/sin(x)
 
-sin(0)?   1/2 sqrt(0) | 1/2 w0 | 0
-sin(π/6)? 1/2 sqrt(1) | 1/2 w1 | 1/2
-sin(π/4)? 1/2 sqrt(2) | 1/2 w2
-sin(π/3)? 1/2 sqrt(3) | 1/2 w3
-sin(π/2)? 1/2 sqrt(4) | 1/2 w4 | 1
-cos(0)?   1/2 sqrt(4) | 1/2 w4 | 1
-cos(π/6)? 1/2 sqrt(3) | 1/2 w3
-cos(π/4)? 1/2 sqrt(2) | 1/2 w2
-cos(π/3)? 1/2 sqrt(1) | 1/2 w1 | 1/2
-cos(π/2)? 1/2 sqrt(0) | 1/2 w0 | 0
+sin(0)?   ½√0 | 1/2 sqrt(0) | 1/2 w0 | 0
+sin(π/6)? ½√1 | 1/2 sqrt(1) | 1/2 w1 | 1/2
+sin(π/4)? ½√2 | 1/2 sqrt(2) | 1/2 w2
+sin(π/3)? ½√3 | 1/2 sqrt(3) | 1/2 w3
+sin(π/2)? ½√4 | 1/2 sqrt(4) | 1/2 w4 | 1
+cos(0)?   ½√4 | 1/2 sqrt(4) | 1/2 w4 | 1
+cos(π/6)? ½√3 | 1/2 sqrt(3) | 1/2 w3
+cos(π/4)? ½√2 | 1/2 sqrt(2) | 1/2 w2
+cos(π/3)? ½√1 | 1/2 sqrt(1) | 1/2 w1 | 1/2
+cos(π/2)? ½√0 | 1/2 sqrt(0) | 1/2 w0 | 0
 
 ln(x) + ln(y)? ln(xy) | ln(x*y)
 ln(xy)? ln(x) + ln(y)

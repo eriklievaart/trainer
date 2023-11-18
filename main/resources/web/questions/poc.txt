@@ -14,10 +14,21 @@ b*h | bh                                 = oppervlakte van een parallellogram me
 ⅓Gh | Gh/3 | 1/3 GH                      = inhoud kegel met grondvlak "G" en hoogte "h"
 ½bc sin(A) | 1/2 bc sin(A) | bc sin(A)/2 | 1/2 bc sin A | bc sin A / 2    = oppervlakte van een driehoek vaarbij je zijdes b en c kent en de hoek A daartussen
 2πr² + 2πrh | 2πr(r+h) | 2 pi r2 + 2 pi rh | 2 pi (r2 + rh) | 2 pi r(r+h) = oppervlakte van een cilinder
-p = F/A                                  = formule voor druk
 
 hoeveel kg is 1 ton? 1000 | 1000 kg
 1 Pa in andere SI eenheden? 1N/m² | 1N/m2
+formule voor druk? p = F/A
+
+sin(0)?   ½√0 | 1/2 sqrt(0) | 1/2 w0 | 0
+sin(π/6)? ½√1 | 1/2 sqrt(1) | 1/2 w1 | 1/2
+sin(π/4)? ½√2 | 1/2 sqrt(2) | 1/2 w2
+sin(π/3)? ½√3 | 1/2 sqrt(3) | 1/2 w3
+sin(π/2)? ½√4 | 1/2 sqrt(4) | 1/2 w4 | 1
+cos(0)?   ½√4 | 1/2 sqrt(4) | 1/2 w4 | 1
+cos(π/6)? ½√3 | 1/2 sqrt(3) | 1/2 w3
+cos(π/4)? ½√2 | 1/2 sqrt(2) | 1/2 w2
+cos(π/3)? ½√1 | 1/2 sqrt(1) | 1/2 w1 | 1/2
+cos(π/2)? ½√0 | 1/2 sqrt(0) | 1/2 w0 | 0
 
 
 
@@ -99,12 +110,17 @@ wat zijn de 3 elementen van een arbeidsongeval? gebeurtenis, letsel, relatie
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
 wat te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies
-wat te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef
-wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM
+wat te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef | neem oorzaak weg scherm af waarschuw meld chef | neem oorzaak weg, zet af, waarschuw, meld chef | neem oorzaak weg zet af waarschuw meld chef
+wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
 
 
 
+
+
+## warmte ##
+Wat is de soortelijk warmte van water? 4.19 kJ/kg K
+Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT
 
 
 
