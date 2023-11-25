@@ -18,6 +18,8 @@ b*h | bh                                 = oppervlakte van een parallellogram me
 hoeveel kg is 1 ton? 1000 | 1000 kg
 1 Pa in andere SI eenheden? 1N/m² | 1N/m2
 formule voor druk? p = F/A
+1 bar in PSI? 14.4 PSI | 14.4
+1 atm in Pa? 101325 Pa | 101325
 
 sin(0)?   ½√0 | 1/2 sqrt(0) | 1/2 w0 | 0
 sin(π/6)? ½√1 | 1/2 sqrt(1) | 1/2 w1 | 1/2
@@ -43,11 +45,25 @@ stroomdichtheid = de stroomsterkte die een geleider doorvoert per eenheid van do
 stroomsterkte = de hoeveelheid lading die verplaatst wordt per seconde
 elektrische spanning | spanning | elektrisch potentiaalverschil  | potentiaalverschil = potentiële energie per eenheid van lading
 spanningsval = verlies van spanning tussen bron en verbruiker
+magnetiet =  moderne naam voor ijzererts
+magnetisch veld = ruimte rond de magneet waarin de aantrekkingskracht nog voelbaar is
+magnetisch spectrum = zichtbaar maken van magnetisch veld d.m.v. ijzervijlsel
+magnetisch flux | flux = de sterkte van het magnetisch veld
+polen | pool = hier is de magneet het krachtigst
+neutrale lijn = hier is de magneet het zwakst
+elementaire magneet | elementair magneetje = ondeelbaar kleine magneet
+permanente magneet = magneet waarin de elementaire deeltjes blijvend in dezelfde richting staan
+demagnetiseren | ontmagnetiseren = verhitten van magneet totdat de magnetische eigenschappen verdwijnen
+magnetische inductie | inductie = een object magnetisch te maken door blootstelling aan een magneet
+remanent magnetisme = het magnetisch blijven van een object na verwijdering van de magneet
+magnetisch geleidend | geleidend = materiaal dat goed een magnetisch veld doorlaat
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
 Hoe noemen we de lading van een elektron? eenheidslading
 Hoeveel elektronen is 1 Coulomb? 6.3 * 10¹⁸ | 6.3e18
 1 V in andere eenheden? 1 J/C
+Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschappen verliest dan is het ____ magnetisch? zwak
+Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het ____ magnetisch? sterk
 
 formule voor arbeid? W = Fs
 formule voor elektrische spanning? U = P/I | U = W/Q | U = E/q
@@ -120,11 +136,11 @@ Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van a
 
 ## warmte ##
 Wat is de soortelijk warmte van water? 4.19 kJ/kg K
-Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT
-formule voor latente warmte? Q = Lm
-formule voor de warmtestroom (definitie)? φ = Q/t | phi = Q/t
-formule voor de warmtestroom (oppervlakte)? Φ = kAΔT | phi = kA delta T
-formule voor het Reynolds getal? ρvD/η = rho vD/eta
+Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT | c = Q/mT
+formule voor latente warmte? Q = Lm | L = Q/m
+formule voor de warmtestroom [definitie]? φ = Q/t | phi = Q/t
+formule voor de warmtestroom [oppervlakte]? Φ = kA ΔT | phi = kA delta T
+formule voor het Reynolds getal? re = ρvD/η | re = rho vD/eta
 
 How wordt de latente warmte aangeduid? L
 Hoe wordt specifieke smeltwarmte aangeduid? rₛ | rs
@@ -136,10 +152,9 @@ Hoe wordt de stromingssnelheid aangeduid? v
 Hoe wordt de viscositeit aangeduid? η | eta
 Hoe wordt de soortelijke massa aangeduid? ρ | rho
 Hoe wordt de diameter aangeduid? D
-formule voor warmtestroom? φ = Q/t | phi = Q/t
 
 Wat is de verdampingsenthalpie van 1kg water? 2257 kJ
-Waar staat λ voor in de warmteleer? warmtegeleidingscoëfficiënt
+Waar staat λ voor in de warmteleer? warmtegeleidingscoëfficiënt | warmtegeleidingscoefficient
 Waar staat rₛ voor in de warmteleer? smeltwarmte
 Waar staat rᵥ voor in de warmteleer? verdampingswarmte
 Waar staat φ voor in de warmteleer? warmtestroom
@@ -153,7 +168,8 @@ conductoren hebben een hogere/lagere k-waarde? hogere
 isolatoren hebben een hogere/lagere k-waarde? lagere
 laminaire stromingen hebben een goede/slechte warmtewisseling? slechte
 turbulente stromingen hebben een goede/slechte warmtewisseling? goede
-welke parameters spelen een rol in de aard van een stroming? v, η, ρ, D | stromingssnelheid, viscositeit, soortelijke massa, diameter | stromingssnelheid viscositeit soortelijke massa diameter
+welke parameters spelen een rol in de aard van een stroming? v, η, ρ, D | stromingssnelheid, viscositeit, soortelijke massa, diameter | stromingssnelheid viscositeit soortelijke massa diameter | diameter soortelijke massa stromingssnelheid viscositeit
+wat zijn de 3 soorten warmtewisseling? convectie geleiding straling
 
 warmte = maat van kinetische energie van moleculen
 voelbare warmte = warmte die een temperatuursverandering tot gevolg heeft
@@ -165,8 +181,8 @@ sublimeren = van gas naar vaste vorm gaan
 # smelten = van vast naar vloeibare vorm gaan
 # stollen = vab vloeibaar naar vaste vorm gaan
 verdampingsenthalpie = hoeveelheid warmte benodigd om 1kg vloeistof te verdampen
-warmtegeleiding = moleculen blijven op hun plaats en geven door botsingen de inwendige energie door
-convectie = verplaatsing van warmte door het stomen van vloeistoffen of gassen
+warmtegeleiding | geleiding = moleculen blijven op hun plaats en geven door botsingen de inwendige energie door
+convectie = verplaatsing van warmte door het stromen van vloeistoffen of gassen
 straling | radiatie = vorm van warmte uitwisseling, die niet door moleculen gedaan wordt
 warmtestroom = hoeveelheid warmte die per tijdseenheid getransporteerd wordt
 laminaire stroming = trage stroming waarbij vloeistofdeeltjes zich evenwijdig in cilindrische schillen bewegen
