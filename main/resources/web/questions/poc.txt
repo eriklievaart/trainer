@@ -46,6 +46,7 @@ stroomsterkte = de hoeveelheid lading die verplaatst wordt per seconde
 elektrische spanning | spanning | elektrisch potentiaalverschil  | potentiaalverschil = potentiële energie per eenheid van lading
 spanningsval = verlies van spanning tussen bron en verbruiker
 magnetiet =  moderne naam voor ijzererts
+Fe₃O₄ | Fe3O4 = chemische formule van magnetiet
 magnetisch veld = ruimte rond de magneet waarin de aantrekkingskracht nog voelbaar is
 magnetisch spectrum = zichtbaar maken van magnetisch veld d.m.v. ijzervijlsel
 magnetisch flux | flux = de sterkte van het magnetisch veld
@@ -54,16 +55,23 @@ neutrale lijn = hier is de magneet het zwakst
 elementaire magneet | elementair magneetje = ondeelbaar kleine magneet
 permanente magneet = magneet waarin de elementaire deeltjes blijvend in dezelfde richting staan
 demagnetiseren | ontmagnetiseren = verhitten van magneet totdat de magnetische eigenschappen verdwijnen
-magnetische inductie | inductie = een object magnetisch te maken door blootstelling aan een magneet
+magnetische inductie | inductie | induceren = een object magnetisch te maken door blootstelling aan een magneet
 remanent magnetisme = het magnetisch blijven van een object na verwijdering van de magneet
-magnetisch geleidend | geleidend = materiaal dat goed een magnetisch veld doorlaat
+magnetisch geleidend | geleidend | geleider = materiaal dat goed een magnetisch veld doorlaat
+magnetisch veld = onstaat wanneer je stroom door een geleider voert
+spoel = draad met meerdere opeenvolgende lussen
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
 Hoe noemen we de lading van een elektron? eenheidslading
 Hoeveel elektronen is 1 Coulomb? 6.3 * 10¹⁸ | 6.3e18
 1 V in andere eenheden? 1 J/C
-Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschappen verliest dan is het ____ magnetisch? zwak
-Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het ____ magnetisch? sterk
+Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? zwak
+Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? sterk
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan trekken ze mekaar aan? ja
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan trekken ze mekaar aan? nee
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan stoten ze mekaar af? nee
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan stoten ze mekaar af? ja
+welke 2 factoren bepalen de sterkte van het magnetisch veld in een spoel? aantal windingen, stroomsterkte | aantal windingen stroomsterkte | aantal lussen, stroomsterkte | aantal lussen stroomsterkte
 
 formule voor arbeid? W = Fs
 formule voor elektrische spanning? U = P/I | U = W/Q | U = E/q
@@ -96,7 +104,7 @@ grootheid voor P? vermogen
 grootheid voor R? weerstand
 grootheid voor U? spanning | elektrische spanning
 grootheid voor W? arbeid
-grootheid voor ρ? soortelijke weerstand
+grootheid voor ρ (electriciteit)? soortelijke weerstand
 
 
 
@@ -125,7 +133,7 @@ waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk bescherming
 wat zijn de 3 elementen van een arbeidsongeval? gebeurtenis, letsel, relatie
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
-wat te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies
+wat te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies | meld chef neem maatregelen blijf af volg instructies
 wat te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef | neem oorzaak weg scherm af waarschuw meld chef | neem oorzaak weg, zet af, waarschuw, meld chef | neem oorzaak weg zet af waarschuw meld chef
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
@@ -136,7 +144,7 @@ Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van a
 
 ## warmte ##
 Wat is de soortelijk warmte van water? 4.19 kJ/kg K
-Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT | c = Q/mT
+Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT | c = Q/mT | c = Q/m delta T
 formule voor latente warmte? Q = Lm | L = Q/m
 formule voor de warmtestroom [definitie]? φ = Q/t | phi = Q/t
 formule voor de warmtestroom [oppervlakte]? Φ = kA ΔT | phi = kA delta T
@@ -168,7 +176,7 @@ conductoren hebben een hogere/lagere k-waarde? hogere
 isolatoren hebben een hogere/lagere k-waarde? lagere
 laminaire stromingen hebben een goede/slechte warmtewisseling? slechte
 turbulente stromingen hebben een goede/slechte warmtewisseling? goede
-welke parameters spelen een rol in de aard van een stroming? v, η, ρ, D | stromingssnelheid, viscositeit, soortelijke massa, diameter | stromingssnelheid viscositeit soortelijke massa diameter | diameter soortelijke massa stromingssnelheid viscositeit
+welke parameters spelen een rol in de aard van een stroming? v, η, ρ, D | stromingssnelheid, viscositeit, soortelijke massa, diameter | stromingssnelheid viscositeit soortelijke massa diameter | diameter dichtheid stromingssnelheid viscositeit | diameter soortelijke massa stromingssnelheid viscositeit
 wat zijn de 3 soorten warmtewisseling? convectie geleiding straling
 
 warmte = maat van kinetische energie van moleculen
@@ -192,8 +200,168 @@ condenspot = afsluiter die condensaat zo snel mogelijk uit de warmtewisselaar ev
 
 
 
+# appendages
+treksterkte = de kracht nodig om een materiaal te laten breken
+hardheid = weerstand van een materiaal tegen indringing van andere lichamen
+stijfheid = weerstand van een materiaal tegen elastische of niet-blijvende vervorming
+stugheid = weerstand van een materiaal tegen plastische of blijvende vervorming
+brosheid = hoe makkelijk een materiaal breekt bij een kleine vervorming
+RVS304 = alternatieve naam voor RVS18/8
+RVS18/8 = alternatieve naam voor RVS304
+polyvinylchloride = volledige naam van PVC
+polyetheen = volledige naam van PE
+PVC = afkorting van polyvinylchloride
+PE = afkorting van polyetheen
+thermoplasten | thermoplast = kunststof die smelt bij opwarming
+thermoharders | thermoharder = kunststof die ontbindt bij opwarming
+elastomeren | elastomeer = synthetische rubbersoort met grote elasticiteit en stugheid
+PTFE = afkorting van poly tetra fluor etheen
+poly tetra fluor etheen = volledige naam van PTFE
+poly tetra fluor etheen | PTFE = technische naam van teflon
+corrosie = chemische oxidatiereactie tussen zuurstof en metaal
+kathodische bescherming = geleidend contact met onedeler metaal om corrosie tegen te gaan
+oppervlaktecorrosie = corrosie verspreid over het gehele metaaloppervlakte
+corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
+spanningscorrosie = corrosie die ontstaat als twee metalen van verschillende edelheid met elkaar verbonden zijn
+putvormige corrosie | pitting = corrosie die zich uit in de vorm van putjes die snel dieper en breder worden
+pitting = alternatieve naam voor putvormige corrosie
+putvormige corrosie = alternatieve naam voor pitting
+spleetcorrosie = corrosie in de buurt van klinknagels en flenzen en in spleten achter verf of isolatielagen
+Fe₂O₃ | Fe2O3 = formule voor hematiet
+Fe₃O₄ | Fe3O4 = formule voor magnetiet
+rood = kleur van hematiet
+zwart = kleur van magnetiet
+zink | Zn = heel onedel metaal wat vaak als opofferingsmetaal gebruikt wordt
+CL- RVS, O2 stoomketel | CL- RVS O2 stoomketel = 2 voorbeelden van pitting
+DN = ISO normering voor binnendiameter van een buis
+mm = eenheid van de DN
+inch = eenheid van de NPS
+mofverbinding = verbinding tussen appendages, waarbij een buiseinde om de ander heen schuift
+flensverbinding = verbinding tussen appendages, waarbij bouen en moeren gebruikt worden
+blindplaat = flens plaat die op een vrije flens wordt geplaatst om een leiding af te dichten
+brilflens = flens plaat met een open kant en een dichte kant
+o-ringen | o ringen = cirkelvormige afdichtingen vervaardigd uit een elastisch materiaal
+backup-ringen | backup ringen | backup-ring | backup ring = ringen die in een groef geplaatst worden met een o-ring om te voorkomen dat de o-ring beschadigd door extrusie
+quad-ringen | quad ringen | x ringen | x-ringen | quad-ring | quad ring | x ring | x-ring = ringen met 4 afdichtingslippen geschikt voor dynamische toepassingen
+RVS316 = corrosiebestendige variant van roestvrij staal
+RVS304 = meest voorkomende variant van roestvrij staal
+flens = platte ring aan het uiteinde van een buis
+
+hoeveel koolstof bevat staal? <2%
+hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%
+welke 4 voordelen heeft gietijzer? dempend, gietbaar, goedkoop, zuurbestand | dempend gietbaar goedkoop zuurbestand
+welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onlasbaar | bros niet lasbaar
+Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5
+welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid
+welk staal is het meest gebruikt? ongelegeerd staal
+welke positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
+Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
+Wat welke 2 eigenschappen heeft chroom geleerd staal? corrosiebestendig & oxidatiebestendig | corrosiebestendig oxidatiebestendig
+onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur
+Naast ijzer en koolstof bevat ongelegeerd staal minimaal hoeveel procent andere stoffen? 5% | 5
+Wat zijn de hoofdlegeringselementen in rvs? chroom & nikkel | chroom nikkel | Cr & Ni | Cr Ni
+Wat duidt 18/8 aan in RVS18/8? 18% Cr 8% Ni
+Wat is de samenstelling van RVS304? 18% Cr 8% Ni
+Wat is de samenstelling van RVS316? 16% Cr 10% Ni 2% Mo
+Welk element wordt toegevoegd aan RVS om staal corrosiebestendig tegen chloor te maken? Molbydeen | Mo
+Is RVS magnetisch? nee
+Wat is de relatieve warmte-uitzettingscoëfficient van RVS t.o.v. ongelegeerd staal? 1.5
+Welk element wordt vaak aan het staal van gereedschap toegevoegd? vanadium | V
+Wat is het hoofdbestanddeel van legeringen gebruikt bij extreem hoge temperaturen? nikkel
+Welke voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding
+welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen
+waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
+Wat is het grote voordeel van aluminium? licht (gewicht) | licht
+wat zijn de 4 voordelen van een aluminiumlegering? corrosiebestendig slijtvast vonkloos vormbaar
+wanneer is aluminium ongeschikt? hoge temperaturen | hoge temperatuur
+wat is de belangrijkste eigenschap van titanium? corrosiebestendig
+wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten
+welke niet-metalen zijn geschikt voor het vervoeren van zuren, alkaliën en zeewater? polyvinylchloride & polyetheen | PE & PVC | PE PVC | PVC & PE | PVC PE
+welke beperkingen hebben PVC en PE? sterkte & temperatuurgevoelig | sterkte temperatuurgevoelig
+welk materiaal is zeer inert tegenover allerlei chemische media, is niet giftig en heeft een zeer lage vrijwingscoëfficient? teflon | poly tetra fluor etheen | PTFE
+welke beperking heeft teflon? temperatuurgevoelig
+vanaf hoevel graden heeft teflon kwaliteitsverlies? 260 graden | 260
+Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? fluorelastomeren
+waarvoor worden fluorelastomeren vooral gebruikt? afdichtingen | afdichting
+wat zijn de grote voordelen van fluorelastomeren? inertie & temperatuursbestendigheid | inertie & temperatuursbestendigheid
+Materiaal gevormd door verhitting en/of druk van minimaal 2 elementen, waarvan minimaal 1 niet metaal? keramisch materiaal | keramisch
+welke 3 positieve eigenschappen hebben keramische materialen? hard, hittebestendig & slijtvast | hard hittebestendig slijtvast
+welk nadeel heeft keramisch materiaal? bros
+op welke 3 manieren kunnen we corrosiebescherming realiseren? beschermende laag, legering, kathodische bescherming | beschermende laag legering kathodische bescherming | laag legering kathodisch
+welke 3 soorten lagen kunnen corrosiebescherming geven? coating, metaallaag, oxidelaag | coating metaallaag oxidelaag | coating metaal oxide
+noem 2 processen die een metaallaag op een ander metaal aanbrengen om corrosie tegen te gaan? verzinken & verchromen | galvaniseren & verchromen | verzinken verchromen | galvaniseren verchromen
+welke 3 dingen zijn er benodigd voor corrosie? kathode anode elektrolyt | anode elektrolyt kathode
+wat is de formule voor het berekenen van de pH? pH = -log[H⁺] | pH = -log[H+]
+appendages: waar staat NBN voor? bureau voor normalisatie
+appendages: waar staat DIN voor? Deutsches institut fur normung
+appendages: waar staat ANSI voor? american national standards institute
+appendages: waar staat API voor? american petroleum institute
+appendages: waar staat ISO voor? international organization for standardization
+appendages: waar staat DN voor? diametre nominal
+appendages: waar staat NPS voor? nominal pipe size
+appendages: waar staat PN voor? pression nominale
+appendages: wat is de eenheid van PN? bar
+appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
+wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
+wat zijn de 4 nadelen van een te kleine leidingdiameter? capaciteit, drukverliezen, slijtage, trillingen | capaciteit drukverliezen slijtage trillingen | capaciteit drukverlies slijtage trilling
+Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
+hoe heet de wanddikte van een appendage? het schedule | schedule
+wanneer gebruikt men fittings? bij lage druk | lage druk
+welke beperkingen heeft een mofverbinding? lage druk & lage temperatuur | lage druk & temperatuur | lage druk en temperatuur | lage druk lage temperatuur | lage druk temperatuur
+hoeveel bar mag een mofverbinding maximaal hebben? 7 bar
+wat is de meest gebruikte pijpverbindingsmethode? lassen
+wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
+wat is het grote voordeel van gegroefde prenten? drukbestendig
+welke belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch
+waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal
+welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
+
+
+
+
+
+
 @EOF@
-electriciteit: pagina 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
