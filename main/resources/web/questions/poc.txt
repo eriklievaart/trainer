@@ -216,6 +216,7 @@ thermoplasten | thermoplast = kunststof die smelt bij opwarming
 thermoharders | thermoharder = kunststof die ontbindt bij opwarming
 elastomeren | elastomeer = synthetische rubbersoort met grote elasticiteit en stugheid
 PTFE = afkorting van poly tetra fluor etheen
+PTFE = afkorting van de volledige naam van teflon
 poly tetra fluor etheen = volledige naam van PTFE
 poly tetra fluor etheen | PTFE = technische naam van teflon
 corrosie = chemische oxidatiereactie tussen zuurstof en metaal
@@ -237,10 +238,10 @@ DN = ISO normering voor binnendiameter van een buis
 mm = eenheid van de DN
 inch = eenheid van de NPS
 mofverbinding = verbinding tussen appendages, waarbij een buiseinde om de ander heen schuift
-flensverbinding = verbinding tussen appendages, waarbij bouen en moeren gebruikt worden
+flensverbinding = verbinding tussen appendages, waarbij bouten en moeren gebruikt worden
 blindplaat = flens plaat die op een vrije flens wordt geplaatst om een leiding af te dichten
 brilflens = flens plaat met een open kant en een dichte kant
-o-ringen | o ringen = cirkelvormige afdichtingen vervaardigd uit een elastisch materiaal
+o-ringen | o ringen | o-ring | o ring = cirkelvormige afdichtingen vervaardigd uit een elastisch materiaal
 backup-ringen | backup ringen | backup-ring | backup ring = ringen die in een groef geplaatst worden met een o-ring om te voorkomen dat de o-ring beschadigd door extrusie
 quad-ringen | quad ringen | x ringen | x-ringen | quad-ring | quad ring | x ring | x-ring = ringen met 4 afdichtingslippen geschikt voor dynamische toepassingen
 RVS316 = corrosiebestendige variant van roestvrij staal
@@ -254,11 +255,11 @@ welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onl
 Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5
 welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid
 welk staal is het meest gebruikt? ongelegeerd staal
-welke positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
+welke 2 positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
 Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
 Wat welke 2 eigenschappen heeft chroom geleerd staal? corrosiebestendig & oxidatiebestendig | corrosiebestendig oxidatiebestendig
 onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur
-Naast ijzer en koolstof bevat ongelegeerd staal minimaal hoeveel procent andere stoffen? 5% | 5
+Naast ijzer en koolstof bevat hoog gelegeerd staal minimaal hoeveel procent andere stoffen? 5% | 5
 Wat zijn de hoofdlegeringselementen in rvs? chroom & nikkel | chroom nikkel | Cr & Ni | Cr Ni
 Wat duidt 18/8 aan in RVS18/8? 18% Cr 8% Ni
 Wat is de samenstelling van RVS304? 18% Cr 8% Ni
@@ -268,14 +269,14 @@ Is RVS magnetisch? nee
 Wat is de relatieve warmte-uitzettingscoëfficient van RVS t.o.v. ongelegeerd staal? 1.5
 Welk element wordt vaak aan het staal van gereedschap toegevoegd? vanadium | V
 Wat is het hoofdbestanddeel van legeringen gebruikt bij extreem hoge temperaturen? nikkel
-Welke voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding
+Welke voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding | corrosiebestendig & warmtegeleidend | corrosiebestendig warmtegeleidend
 welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen
 waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
 Wat is het grote voordeel van aluminium? licht (gewicht) | licht
 wat zijn de 4 voordelen van een aluminiumlegering? corrosiebestendig slijtvast vonkloos vormbaar
 wanneer is aluminium ongeschikt? hoge temperaturen | hoge temperatuur
 wat is de belangrijkste eigenschap van titanium? corrosiebestendig
-wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten
+wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten | duur
 welke niet-metalen zijn geschikt voor het vervoeren van zuren, alkaliën en zeewater? polyvinylchloride & polyetheen | PE & PVC | PE PVC | PVC & PE | PVC PE
 welke beperkingen hebben PVC en PE? sterkte & temperatuurgevoelig | sterkte temperatuurgevoelig
 welk materiaal is zeer inert tegenover allerlei chemische media, is niet giftig en heeft een zeer lage vrijwingscoëfficient? teflon | poly tetra fluor etheen | PTFE
@@ -303,17 +304,17 @@ appendages: waar staat PN voor? pression nominale
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
 wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
-wat zijn de 4 nadelen van een te kleine leidingdiameter? capaciteit, drukverliezen, slijtage, trillingen | capaciteit drukverliezen slijtage trillingen | capaciteit drukverlies slijtage trilling
+wat zijn de 4 nadelen van een te kleine leidingdiameter? capaciteit, drukverliezen, slijtage, trillingen | capaciteit drukverliezen slijtage trillingen | capaciteit drukverlies slijtage trillingen | capaciteit drukverlies slijtage trilling
 Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
 hoe heet de wanddikte van een appendage? het schedule | schedule
 wanneer gebruikt men fittings? bij lage druk | lage druk
 welke beperkingen heeft een mofverbinding? lage druk & lage temperatuur | lage druk & temperatuur | lage druk en temperatuur | lage druk lage temperatuur | lage druk temperatuur
-hoeveel bar mag een mofverbinding maximaal hebben? 7 bar
+hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
 wat is de meest gebruikte pijpverbindingsmethode? lassen
 wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
 wat is het grote voordeel van gegroefde prenten? drukbestendig
 welke belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch
-waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal
+waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal | metalen ring & vulmateriaal | metalen ring vulmateriaal
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
 
 
