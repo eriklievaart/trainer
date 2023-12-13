@@ -240,6 +240,7 @@ inch = eenheid van de NPS
 mofverbinding = verbinding tussen appendages, waarbij een buiseinde om de ander heen schuift
 flensverbinding = verbinding tussen appendages, waarbij bouten en moeren gebruikt worden
 blindplaat = flens plaat die op een vrije flens wordt geplaatst om een leiding af te dichten
+steekflens = gesloten flens plaat met een uitstekende stang
 brilflens = flens plaat met een open kant en een dichte kant
 o-ringen | o ringen | o-ring | o ring = cirkelvormige afdichtingen vervaardigd uit een elastisch materiaal
 backup-ringen | backup ringen | backup-ring | backup ring = ringen die in een groef geplaatst worden met een o-ring om te voorkomen dat de o-ring beschadigd door extrusie
@@ -247,10 +248,13 @@ quad-ringen | quad ringen | x ringen | x-ringen | quad-ring | quad ring | x ring
 RVS316 = corrosiebestendige variant van roestvrij staal
 RVS304 = meest voorkomende variant van roestvrij staal
 flens = platte ring aan het uiteinde van een buis
+nippel = mannelijke fitting
+mof = vrouwelijke fitting
+gegroefde prenten | gegroefde prent = geribbelde afwerki
 
 hoeveel koolstof bevat staal? <2%
-hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%
-welke 4 voordelen heeft gietijzer? dempend, gietbaar, goedkoop, zuurbestand | dempend gietbaar goedkoop zuurbestand
+hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%n
+welke 4 voordelen heeft gietijzer? dempend, gietbaar, goedkoop, zuurbestand | dempend gietbaar goedkoop zuurbestand | dempend, gietbaar, goedkoop, zuurbestendig | dempend gietbaar goedkoop zuurbestendig
 welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onlasbaar | bros niet lasbaar
 Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5
 welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid
@@ -284,7 +288,7 @@ welke beperking heeft teflon? temperatuurgevoelig
 vanaf hoevel graden heeft teflon kwaliteitsverlies? 260 graden | 260
 Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? fluorelastomeren
 waarvoor worden fluorelastomeren vooral gebruikt? afdichtingen | afdichting
-wat zijn de grote voordelen van fluorelastomeren? inertie & temperatuursbestendigheid | inertie & temperatuursbestendigheid
+wat zijn de 2 grote voordelen van fluorelastomeren? inertie & temperatuursbestendig | inertie & temperatuursbestendig | inertie & temperatuursbestendigheid | inertie & temperatuursbestendigheid | corrosiebestendig & temperatuursbestendigheid | corrosiebestendig & temperatuursbestendigheid
 Materiaal gevormd door verhitting en/of druk van minimaal 2 elementen, waarvan minimaal 1 niet metaal? keramisch materiaal | keramisch
 welke 3 positieve eigenschappen hebben keramische materialen? hard, hittebestendig & slijtvast | hard hittebestendig slijtvast
 welk nadeel heeft keramisch materiaal? bros
@@ -316,6 +320,8 @@ wat is het grote voordeel van gegroefde prenten? drukbestendig
 welke belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch
 waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal | metalen ring & vulmateriaal | metalen ring vulmateriaal
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
+waar worden zachte dichtingen uit gemaakt? asbest grafiet PTFE | asbest grafiet teflon
+
 
 
 
