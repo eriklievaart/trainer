@@ -208,11 +208,14 @@ nevel = heterogeen mengsel van fijne vloeistofdeeltjes in een gas
 rook = heterogeen mengsel van fijne vaste stofdeeltjes in een gas
 schuim = heterogeen mengsel van een gas in een vloeistof
 homogeen mengsel | homogeen = mengsel van deeltjes kleiner dan 10⁻⁹ m
+1s² 2s² 2p³ | 1s2 2s2 2p3 = sommerveld notatie van stikstof
 
 in een homogeen mengsel zijn deeltjes kleiner dan wat? 10⁻⁹ m | 10e-9 m | 1 nm
 in een heterogeen mengsel zijn deeltjes groter dan wat? 10⁻⁷ m | 10e-7 m | 100 nm
 wat ligt tussen homogene en heterogene mengsels in? colloïdale mengsels | colloidale mengsels | colloidaal mengsel
 colloïdale mengsels hebben deeltjes groottes van ____ to ____ ? 10⁻⁹m 10⁻⁷m | 10e-9 m 10e-7 m | 1 nm 100 nm
+welke subniveaus kan een elektronen schil hebben? spdf
+hoeveel elektronen zijn er maximaal per subniveau? s2 p6 d10 f14
 
 
 
