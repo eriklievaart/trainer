@@ -200,6 +200,23 @@ condenspot = afsluiter die condensaat zo snel mogelijk uit de warmtewisselaar ev
 
 
 
+# chemie
+grof mengsel = heterogeen mengsel van vaste stoffen
+suspensie = heterogeen mengsel van fijne vaste stofdeeltjes in een vloeistof
+emulsie = heterogeen mengsel van fijne vloeistofdeeltjes in een andere vloeistof
+nevel = heterogeen mengsel van fijne vloeistofdeeltjes in een gas
+rook = heterogeen mengsel van fijne vaste stofdeeltjes in een gas
+schuim = heterogeen mengsel van een gas in een vloeistof
+homogeen mengsel | homogeen = mengsel van deeltjes kleiner dan 10⁻⁹ m
+
+in een homogeen mengsel zijn deeltjes kleiner dan wat? 10⁻⁹ m | 10e-9 m | 1 nm
+in een heterogeen mengsel zijn deeltjes groter dan wat? 10⁻⁷ m | 10e-7 m | 100 nm
+wat ligt tussen homogene en heterogene mengsels in? colloïdale mengsels | colloidale mengsels | colloidaal mengsel
+colloïdale mengsels hebben deeltjes groottes van ____ to ____ ? 10⁻⁹m 10⁻⁷m | 10e-9 m 10e-7 m | 1 nm 100 nm
+
+
+
+
 # appendages
 treksterkte = de kracht nodig om een materiaal te laten breken
 hardheid = weerstand van een materiaal tegen indringing van andere lichamen
@@ -250,18 +267,37 @@ RVS304 = meest voorkomende variant van roestvrij staal
 flens = platte ring aan het uiteinde van een buis
 nippel = mannelijke fitting
 mof = vrouwelijke fitting
-gegroefde prenten | gegroefde prent = geribbelde afwerki
+gegroefde prenten | gegroefde prent = geribbelde afwerking van een flens om beter tegen hoge drukken te kunnen
+KV-factor | KV factor = hoeveel m³ water op kamertemperatuur per uur door een volledig geopende klep stroomt (bij een drukval van 1 bar)
+m³/u | m3/u = eenheid van de KV-factor
+gallons/minute | gallon/minute = eenheid van de CV-waarde
+CV-waarde | CV waarde = amerikaanse tegenhanger van de KV factor
+klepkarakteristiek = verhouding tussen de stand van de klep tegenover het debiet
+waterslag = drukgolf in vloeistof die ontstaat bij het plots sluiten van een klep
+erosie = slijtage aan kleppen als gevolg van schuring door (onder andere) water
+cavitatie = implosies ten gevolg van drukverlagingen die ontstaan door beweging
+bedieningskoppel = koppel benodigd om een afsluiter te openen of te sluiten
+Nm = eenheid van het bedieningskoppel van een kraan
+fire-safe | fire safe = kwalificatie van een klep die belooft dat de klep beperkt lekt bij hoge druk en temperatuur
+anti static = veer ingebouwd in een kogelkraan om de opbouw van statische elektriciteit te stoppen
+pig afsluiter = variant op de kogelkraan die de pijpleiding kan reinigen
+pijpstop = andere naam voor een pig
+driewegkraan = variant op de plug- of kogelafsluiter die 3 aansluitingen heeft
+vierwegkraan = variant op de plug- of kogelafsluiter die 4 aansluitingen heeft
+L-poort = een plug of kogel met doorgangen in de vorm van een L
+T-poort = een plug of kogel met doorgangen in de vorm van een T
+duplex filters = toepassings voorbeeld voor 3-wegafsluiters
 
 hoeveel koolstof bevat staal? <2%
 hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%n
 welke 4 voordelen heeft gietijzer? dempend, gietbaar, goedkoop, zuurbestand | dempend gietbaar goedkoop zuurbestand | dempend, gietbaar, goedkoop, zuurbestendig | dempend gietbaar goedkoop zuurbestendig
 welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onlasbaar | bros niet lasbaar
 Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5
-welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid
+welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid | bros hard
 welk staal is het meest gebruikt? ongelegeerd staal
 welke 2 positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
 Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
-Wat welke 2 eigenschappen heeft chroom geleerd staal? corrosiebestendig & oxidatiebestendig | corrosiebestendig oxidatiebestendig
+welke eigenschap heeft chroom geleerd staal? corrosiebestendig
 onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur
 Naast ijzer en koolstof bevat hoog gelegeerd staal minimaal hoeveel procent andere stoffen? 5% | 5
 Wat zijn de hoofdlegeringselementen in rvs? chroom & nikkel | chroom nikkel | Cr & Ni | Cr Ni
@@ -273,7 +309,7 @@ Is RVS magnetisch? nee
 Wat is de relatieve warmte-uitzettingscoëfficient van RVS t.o.v. ongelegeerd staal? 1.5
 Welk element wordt vaak aan het staal van gereedschap toegevoegd? vanadium | V
 Wat is het hoofdbestanddeel van legeringen gebruikt bij extreem hoge temperaturen? nikkel
-Welke voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding | corrosiebestendig & warmtegeleidend | corrosiebestendig warmtegeleidend
+Welke voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding | corrosiebestendig & warmtegeleidend | corrosiebestendig warmtegeleidend | corrosiebestendig & geleidend | corrosiebestendig geleidend
 welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen
 waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
 Wat is het grote voordeel van aluminium? licht (gewicht) | licht
@@ -282,19 +318,20 @@ wanneer is aluminium ongeschikt? hoge temperaturen | hoge temperatuur
 wat is de belangrijkste eigenschap van titanium? corrosiebestendig
 wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten | duur
 welke niet-metalen zijn geschikt voor het vervoeren van zuren, alkaliën en zeewater? polyvinylchloride & polyetheen | PE & PVC | PE PVC | PVC & PE | PVC PE
+wat gebeurt er met PVC als je het in de zon laat? wordt bros | bros
 welke beperkingen hebben PVC en PE? sterkte & temperatuurgevoelig | sterkte temperatuurgevoelig
 welk materiaal is zeer inert tegenover allerlei chemische media, is niet giftig en heeft een zeer lage vrijwingscoëfficient? teflon | poly tetra fluor etheen | PTFE
 welke beperking heeft teflon? temperatuurgevoelig
 vanaf hoevel graden heeft teflon kwaliteitsverlies? 260 graden | 260
 Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? fluorelastomeren
 waarvoor worden fluorelastomeren vooral gebruikt? afdichtingen | afdichting
-wat zijn de 2 grote voordelen van fluorelastomeren? inertie & temperatuursbestendig | inertie & temperatuursbestendig | inertie & temperatuursbestendigheid | inertie & temperatuursbestendigheid | corrosiebestendig & temperatuursbestendigheid | corrosiebestendig & temperatuursbestendigheid
+wat zijn de 2 grote voordelen van fluorelastomeren? inertie & temperatuurbestendig | inertie temperatuurbestendig | inert & temperatuurbestendigheid | inert temperatuurbestendigheid | corrosiebestendig & temperatuurbestendigheid | inert temperatuurbestendig | inert & temperatuurbestendigheid | corrosiebestendig temperatuurbestendig
 Materiaal gevormd door verhitting en/of druk van minimaal 2 elementen, waarvan minimaal 1 niet metaal? keramisch materiaal | keramisch
-welke 3 positieve eigenschappen hebben keramische materialen? hard, hittebestendig & slijtvast | hard hittebestendig slijtvast
+welke 3 positieve eigenschappen hebben keramische materialen? hard, hittebestendig & slijtvast | hard hittebestendig slijtvast | hard, warmtebestendig & slijtvast | hard warmtebestendig slijtvast | hard, temperatuurbestendig & slijtvast | hard temperatuurbestendig slijtvast | hard, slijtvast & temperatuurbestendig | hard slijtvast temperatuurbestendig
 welk nadeel heeft keramisch materiaal? bros
 op welke 3 manieren kunnen we corrosiebescherming realiseren? beschermende laag, legering, kathodische bescherming | beschermende laag legering kathodische bescherming | laag legering kathodisch
 welke 3 soorten lagen kunnen corrosiebescherming geven? coating, metaallaag, oxidelaag | coating metaallaag oxidelaag | coating metaal oxide
-noem 2 processen die een metaallaag op een ander metaal aanbrengen om corrosie tegen te gaan? verzinken & verchromen | galvaniseren & verchromen | verzinken verchromen | galvaniseren verchromen
+noem 2 processen die een metaallaag op een ander metaal aanbrengen om corrosie tegen te gaan? verzinken & verchromen | galvaniseren & verchromen | verzinken verchromen | galvaniseren verchromen | verchromen verzinken
 welke 3 dingen zijn er benodigd voor corrosie? kathode anode elektrolyt | anode elektrolyt kathode
 wat is de formule voor het berekenen van de pH? pH = -log[H⁺] | pH = -log[H+]
 appendages: waar staat NBN voor? bureau voor normalisatie
@@ -305,6 +342,9 @@ appendages: waar staat ISO voor? international organization for standardization
 appendages: waar staat DN voor? diametre nominal
 appendages: waar staat NPS voor? nominal pipe size
 appendages: waar staat PN voor? pression nominale
+appendages: waar staat KV voor? klepvermogen | valve capacity
+appendages: waar staat pdt voor? pressure differential transmitter
+appendages: waar staat fc voor? flow controller
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
 wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
@@ -312,16 +352,53 @@ wat zijn de 4 nadelen van een te kleine leidingdiameter? capaciteit, drukverliez
 Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
 hoe heet de wanddikte van een appendage? het schedule | schedule
 wanneer gebruikt men fittings? bij lage druk | lage druk
+welke voordelen heeft een mofverbinding? goedkoop & kan onder een kleine hoek | goedkoop hoek mogelijk
 welke beperkingen heeft een mofverbinding? lage druk & lage temperatuur | lage druk & temperatuur | lage druk en temperatuur | lage druk lage temperatuur | lage druk temperatuur
 hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
 wat is de meest gebruikte pijpverbindingsmethode? lassen
 wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
 wat is het grote voordeel van gegroefde prenten? drukbestendig
-welke belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch
+welke 4 belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch
 waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal | metalen ring & vulmateriaal | metalen ring vulmateriaal
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
 waar worden zachte dichtingen uit gemaakt? asbest grafiet PTFE | asbest grafiet teflon
+bij welke 3 omstandigheden gebruiken we slangen? rare hoeken lengteveranderingen regelmatig wisselen | hoeken lengteveranderingen wisselen | hoek lengteverandering wisselen
+welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen
+welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? katoen nylon
+wat wordt er aan rubberen slangen toegevoegd om extra hoge mechanische belasting aan te kunnen? staaldraad
+wat is het grote voordeel van kunststof slangen? inertie | inert
+welke 2 soorten metalen slangen zijn er? gevlochten slangen & gewikkelde slangen | gevlochten slangen gewikkelde slangen | gevlochten gewikkeld
+Welke 3 aspecten van een flexibel moeten gecontroleerd worden voor gebruik? binnenkant buitenkant koppeling
+Welke 4 zaken moet men op letten bij aansluiten van een flexibel? aarding drukschokken PBM torsie
+Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | druk
+welke 3 doelen kunnen kleppen en kranen hebben? leidingen afsluiten, debiet regelen, stroming verdelen over leidingnetwerk | afsluiten regelen verdelen
+wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
+wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
+welke 3 voorwaarden heeft de stroom van een plugkraan? lage druk lage temperatuur zuivere vloeistof
+waarvan worden de afdichtingen van een kogelkraan gemaakt? PTFE | teflon
+welke 2 risico's loopt men bij het gebruik van een kogelkraan als regelkraan? cavitatie & erosie | cavitatie erosie
+is een plugkraan geschikt als regelkraan? nee
+is de plugkraan outdated? ja
+is een kogelkraan geschikt als regelkraan? nee
+is de kogelkraan outdated? nee
 
+[symbool-blindflens.png] wat geeft het symbool weer? blindflens
+[symbool-brilflens.png] wat geeft het symbool weer? brilflens
+[symbool-slang.png] wat geeft het symbool weer? slang | flexibel
+[symbool-steekflens.png] wat geeft het symbool weer? steekflens
+[symbool-plugkraan.png] wat geeft het symbool weer? plugkraan
+[symbool-kogelkraan.png] wat geeft het symbool weer? kogelkraan
+[symbool-3-wegafsluiter.png] wat geeft het symbool weer? driewegkraan | driewegafsluiter
+[symbool-4-wegafsluiter.png] wat geeft het symbool weer? vierwegkraan | vierwegafsluiter
+[plugkraan.png] wat geeft 1 aan? bedieningshendel
+[plugkraan.png] wat geeft 2 aan? behuizing
+[plugkraan.png] wat geeft 3 aan? plug
+[plugkraan.png] wat geeft 4 aan? afdichting
+[plugkraan.png] wat geeft 5 aan? moer
+[kogelkraan.png] wat geeft 1 aan? bedieningsspindel
+[kogelkraan.png] wat geeft 2 aan? afdichtingen
+[kogelkraan.png] wat geeft 3 aan? kogel
+[kogelkraan.png] wat geeft 4 aan? behuizing
 
 
 

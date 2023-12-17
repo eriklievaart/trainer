@@ -211,7 +211,7 @@ Hoeveel kelvin is 0°C? 273.15 | 273.15C
 Hoeveel °F is 0 °C? 32
 Hoeveel °F is 100 °C? 212
 Hoeveel Pascal is 1 atm? 101325
-Hoeveel Pascal is 1 bar? 100000
+Hoeveel Pascal is 1 bar? 100000 | 1e5
 Hoeveel Torr / mmHg is 1 atm? 760
 Hoeveel Torr is 1 mmHg? 1
 Hoeveel mmHg is 1 Torr? 1
