@@ -216,6 +216,7 @@ wat ligt tussen homogene en heterogene mengsels in? colloïdale mengsels | collo
 colloïdale mengsels hebben deeltjes groottes van ____ to ____ ? 10⁻⁹m 10⁻⁷m | 10e-9 m 10e-7 m | 1 nm 100 nm
 welke subniveaus kan een elektronen schil hebben? spdf
 hoeveel elektronen zijn er maximaal per subniveau? s2 p6 d10 f14
+waaruit bestaat koningswater? zoutzuur en salpeterzuur | zoutzuur salpeterzuur | salpeterzuur en zoutzuur | salpeterzuur zoutzuur | HCl HNO₃ | HCl HNO3
 
 
 
