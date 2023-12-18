@@ -195,7 +195,7 @@ straling | radiatie = vorm van warmte uitwisseling, die niet door moleculen geda
 warmtestroom = hoeveelheid warmte die per tijdseenheid getransporteerd wordt
 laminaire stroming = trage stroming waarbij vloeistofdeeltjes zich evenwijdig in cilindrische schillen bewegen
 turbulente stroming = snelle stroming waarbij deeltjes onregelmatig door elkaar heen wervelen
-condenspot = afsluiter die condensaat zo snel mogelijk uit de warmtewisselaar evacueert
+condenspot = warmte: afsluiter die condensaat zo snel mogelijk uit de warmtewisselaar evacueert
 
 
 
@@ -250,6 +250,7 @@ putvormige corrosie = alternatieve naam voor pitting
 spleetcorrosie = corrosie in de buurt van klinknagels en flenzen en in spleten achter verf of isolatielagen
 Fe₂O₃ | Fe2O3 = formule voor hematiet
 Fe₃O₄ | Fe3O4 = formule voor magnetiet
+H₂O₂ | H2O2 = formule voor waterstof peroxide
 rood = kleur van hematiet
 zwart = kleur van magnetiet
 zink | Zn = heel onedel metaal wat vaak als opofferingsmetaal gebruikt wordt
@@ -287,9 +288,12 @@ pig afsluiter = variant op de kogelkraan die de pijpleiding kan reinigen
 pijpstop = andere naam voor een pig
 driewegkraan = variant op de plug- of kogelafsluiter die 3 aansluitingen heeft
 vierwegkraan = variant op de plug- of kogelafsluiter die 4 aansluitingen heeft
-L-poort = een plug of kogel met doorgangen in de vorm van een L
-T-poort = een plug of kogel met doorgangen in de vorm van een T
+L-poort | L poort = een plug of kogel met doorgangen in de vorm van een L
+T-poort | T poort = een plug of kogel met doorgangen in de vorm van een T
 duplex filters = toepassings voorbeeld voor 3-wegafsluiters
+plaatafsluiter = andere naam voor mesafsluiter
+mesafsluiter = andere naam voor plaatafsluiter
+mesafsluiter | plaatafsluiter = variant op de schuifafsluiter
 
 hoeveel koolstof bevat staal? <2%
 hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%n
@@ -301,7 +305,7 @@ welk staal is het meest gebruikt? ongelegeerd staal
 welke 2 positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
 Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
 welke eigenschap heeft chroom geleerd staal? corrosiebestendig
-onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur
+onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur | hoge lage temperatuur
 Naast ijzer en koolstof bevat hoog gelegeerd staal minimaal hoeveel procent andere stoffen? 5% | 5
 Wat zijn de hoofdlegeringselementen in rvs? chroom & nikkel | chroom nikkel | Cr & Ni | Cr Ni
 Wat duidt 18/8 aan in RVS18/8? 18% Cr 8% Ni
@@ -348,6 +352,8 @@ appendages: waar staat PN voor? pression nominale
 appendages: waar staat KV voor? klepvermogen | valve capacity
 appendages: waar staat pdt voor? pressure differential transmitter
 appendages: waar staat fc voor? flow controller
+appendages: waar staat ATO voor? air to open
+appendages: waar staat ATC voor? air to close
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
 wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
@@ -361,7 +367,7 @@ hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
 wat is de meest gebruikte pijpverbindingsmethode? lassen
 wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
 wat is het grote voordeel van gegroefde prenten? drukbestendig
-welke 4 belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch
+welke 4 belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch | beweging chemische druk thermische | beweging chemisch druk thermisch
 waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal | metalen ring & vulmateriaal | metalen ring vulmateriaal
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
 waar worden zachte dichtingen uit gemaakt? asbest grafiet PTFE | asbest grafiet teflon
@@ -377,13 +383,29 @@ Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | d
 welke 3 doelen kunnen kleppen en kranen hebben? leidingen afsluiten, debiet regelen, stroming verdelen over leidingnetwerk | afsluiten regelen verdelen
 wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
 wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
-welke 3 voorwaarden heeft de stroom van een plugkraan? lage druk lage temperatuur zuivere vloeistof
+welke 3 voorwaarden heeft de stroom van een plugkraan? lage druk, lage temperatuur, zuivere vloeistof | lage druk lage temperatuur zuivere vloeistof | lage druk lage temperatuur zuivere stof
 waarvan worden de afdichtingen van een kogelkraan gemaakt? PTFE | teflon
 welke 2 risico's loopt men bij het gebruik van een kogelkraan als regelkraan? cavitatie & erosie | cavitatie erosie
 is een plugkraan geschikt als regelkraan? nee
 is de plugkraan outdated? ja
 is een kogelkraan geschikt als regelkraan? nee
+is een kogelkraan geschikt als afsluiter? ja
 is de kogelkraan outdated? nee
+is een schuifafsluiter geschikt als regelkraan? nee
+is een schuifafsluiter geschikt als afsluiter? ja
+is de schuifafsluiter outdated? nee
+een schuifafsluiter met een schuif uit 1 stuk gebruiken we tot hoeveel bar? 25 bar | 25
+een schuifafsluiter met een schuif uit 2 stukken gebruiken we tot hoeveel bar? 100 bar | 100
+welke 2 producten zijn gevaarlijk als ze in de schuif vast komen te zitten? chloorbleekloog & waterstof peroxide | chloorbleekloog waterstof peroxide
+waarvoor worden plaatafsluiters vooral gebruikt? poeders | korrels | poeder | korrel
+klep die maar in 1 richting op de vloeistofstroom gezet mag worden? klepafsluiter
+is een klepafsluiter geschikt als regelkraan? ja
+is een klepafsluiter geschikt als afsluiter? nee
+is de klepafslutier outdated? nee
+Hoe heet een klep die bij wegvallen van de stuurdruk volledig dicht is? air to open | ATO
+Hoe heet een klep die bij wegvallen van de stuurdruk volledig open is? air to close | ATC
+welke 3 soorten klepvormen kan een klepafsluiter hebben? guided plug, parabolic plug & regulating plug | guided plug parabolic plug regulating plug  | guided parabolic regulating plug
+wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichting
 
 [symbool-blindflens.png] wat geeft het symbool weer? blindflens
 [symbool-brilflens.png] wat geeft het symbool weer? brilflens
@@ -391,17 +413,43 @@ is de kogelkraan outdated? nee
 [symbool-steekflens.png] wat geeft het symbool weer? steekflens
 [symbool-plugkraan.png] wat geeft het symbool weer? plugkraan
 [symbool-kogelkraan.png] wat geeft het symbool weer? kogelkraan
+[symbool-schuifafsluiter.png] wat geeft het symbool weer? schuifafsluiter
 [symbool-3-wegafsluiter.png] wat geeft het symbool weer? driewegkraan | driewegafsluiter
 [symbool-4-wegafsluiter.png] wat geeft het symbool weer? vierwegkraan | vierwegafsluiter
-[plugkraan.png] wat geeft 1 aan? bedieningshendel
+[symbool-klepafsluiter.png] wat geeft het symbool weer? klepafsluiter
+[plugkraan.png] wat geeft 1 aan? bedieningshendel | hendel
 [plugkraan.png] wat geeft 2 aan? behuizing
 [plugkraan.png] wat geeft 3 aan? plug
 [plugkraan.png] wat geeft 4 aan? afdichting
 [plugkraan.png] wat geeft 5 aan? moer
-[kogelkraan.png] wat geeft 1 aan? bedieningsspindel
-[kogelkraan.png] wat geeft 2 aan? afdichtingen
+[kogelkraan.png] wat geeft 1 aan? bedieningsspindel | spindel
+[kogelkraan.png] wat geeft 2 aan? afdichtingen | afdichting
 [kogelkraan.png] wat geeft 3 aan? kogel
 [kogelkraan.png] wat geeft 4 aan? behuizing
+[schuifafsluiter.png] wat geeft 1 aan? schroefdraad
+[schuifafsluiter.png] wat geeft 2 aan? afdichting
+[schuifafsluiter.png] wat geeft 3 aan? schuif
+[schuifafsluiter-inwendig.png] inwendige/uitwendige schuifafsluiter? inwendige | inwendig
+[schuifafsluiter-uitwendig.png] inwendige/uitwendige schuifafsluiter? uitwendige | uitwendig
+[klepafsluiter-perslucht.png] wat geeft a aan? behuizing
+[klepafsluiter-perslucht.png] wat geeft b aan? klep
+[klepafsluiter-perslucht.png] wat geeft c aan? standaanduiding
+[klepafsluiter-perslucht.png] wat geeft d aan? bedieningsorgaan
+[plug-parabolic.png] wat voor soort klepvorm is dit? parabolic plug
+[plug-regulating.png] wat voor soort klepvorm is dit? regulating plug
+[plug-guided.png] wat voor soort klepvorm is dit? guided plug
+[balgmembraanafsluiter.png] wat geeft 1 aan? behuizing
+[balgmembraanafsluiter.png] wat geeft 2 aan? bovendeel
+[balgmembraanafsluiter.png] wat geeft 3 aan? balgmembraan
+[balgmembraanafsluiter.png] wat geeft 4 aan? klep
+[balgmembraanafsluiter.png] wat geeft 5 aan? zitting
+[balgmembraanafsluiter.png] wat geeft 6 aan? spindel
+[magnetische-koppeling.png] wat geeft 1 aan? uitwendige magneten | externe magneten
+[magnetische-koppeling.png] wat geeft 2 aan? afdichtingsklok
+[magnetische-koppeling.png] wat geeft 3 aan? inwendige magneten | interne magneten
+[klepafsluiter.png] wat voor soort klep is dit? klepafsluiter
+[plugkraan.png] wat voor soort klep is dit? plugkraan
+[kogelkraan.png] wat voor soort klep is dit? kogelkraan
 
 
 
