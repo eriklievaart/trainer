@@ -28,7 +28,7 @@ public class Progress {
 		long now = System.currentTimeMillis();
 
 		if (lastWrong == 0) {
-			lastWrong = now - TimestampTool.ONE_MINUTE;
+			lastWrong = now - 5 * TimestampTool.ONE_MINUTE;
 		}
 		long timePassed = lastRight - lastWrong;
 		validUntil = lastRight + randomize(timePassed);

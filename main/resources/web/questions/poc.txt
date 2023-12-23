@@ -176,7 +176,7 @@ conductoren hebben een hogere/lagere k-waarde? hogere
 isolatoren hebben een hogere/lagere k-waarde? lagere
 laminaire stromingen hebben een goede/slechte warmtewisseling? slechte
 turbulente stromingen hebben een goede/slechte warmtewisseling? goede
-welke parameters spelen een rol in de aard van een stroming? v, η, ρ, D | stromingssnelheid, viscositeit, soortelijke massa, diameter | stromingssnelheid viscositeit soortelijke massa diameter | diameter dichtheid stromingssnelheid viscositeit | diameter soortelijke massa stromingssnelheid viscositeit
+welke 4 parameters spelen een rol in de aard van een stroming? v, η, ρ, D | stromingssnelheid, viscositeit, soortelijke massa, diameter | stromingssnelheid viscositeit soortelijke massa diameter | diameter dichtheid stromingssnelheid viscositeit | diameter soortelijke massa stromingssnelheid viscositeit
 wat zijn de 3 soorten warmtewisseling? convectie geleiding straling
 
 warmte = maat van kinetische energie van moleculen
@@ -295,14 +295,18 @@ duplex filters = toepassings voorbeeld voor 3-wegafsluiters
 plaatafsluiter = andere naam voor mesafsluiter
 mesafsluiter = andere naam voor plaatafsluiter
 mesafsluiter | plaatafsluiter = variant op de schuifafsluiter
+NC = alternatieve afkorting voor ATO
+NO = alternatieve afkorting voor ATC
+naaldafsluiter = soort klepafsluiter geschikt om kleine debieten bij hoge drukken zeer precies te regelen
+sandwichkoppeling = een vinderklep zonder eigen flenzen rechtstreeks tussen 2 leidingflenzen monteren
 
 hoeveel koolstof bevat staal? <2%
-hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%n
+hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%
 welke 4 voordelen heeft gietijzer? dempend, gietbaar, goedkoop, zuurbestand | dempend gietbaar goedkoop zuurbestand | dempend, gietbaar, goedkoop, zuurbestendig | dempend gietbaar goedkoop zuurbestendig
 welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onlasbaar | bros niet lasbaar
 Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5
 welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid | bros hard
-welk staal is het meest gebruikt? ongelegeerd staal
+welk staal is het meest gebruikt? ongelegeerd staal | ongelegeerd
 welke 2 positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
 Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
 welke eigenschap heeft chroom geleerd staal? corrosiebestendig
@@ -317,7 +321,7 @@ Is RVS magnetisch? nee
 Wat is de relatieve warmte-uitzettingscoëfficient van RVS t.o.v. ongelegeerd staal? 1.5
 Welk element wordt vaak aan het staal van gereedschap toegevoegd? vanadium | V
 Wat is het hoofdbestanddeel van legeringen gebruikt bij extreem hoge temperaturen? nikkel
-Welke voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding | corrosiebestendig & warmtegeleidend | corrosiebestendig warmtegeleidend | corrosiebestendig & geleidend | corrosiebestendig geleidend
+Welke 2 voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding | corrosiebestendig & warmtegeleidend | corrosiebestendig warmtegeleidend | corrosiebestendig & geleidend | corrosiebestendig geleidend
 welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen
 waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
 Wat is het grote voordeel van aluminium? licht (gewicht) | licht
@@ -327,7 +331,7 @@ wat is de belangrijkste eigenschap van titanium? corrosiebestendig
 wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten | duur
 welke niet-metalen zijn geschikt voor het vervoeren van zuren, alkaliën en zeewater? polyvinylchloride & polyetheen | PE & PVC | PE PVC | PVC & PE | PVC PE
 wat gebeurt er met PVC als je het in de zon laat? wordt bros | bros
-welke beperkingen hebben PVC en PE? sterkte & temperatuurgevoelig | sterkte temperatuurgevoelig
+welke beperkingen hebben PVC en PE? sterkte & temperatuurgevoelig | sterkte temperatuurgevoelig | sterkte temperatuur
 welk materiaal is zeer inert tegenover allerlei chemische media, is niet giftig en heeft een zeer lage vrijwingscoëfficient? teflon | poly tetra fluor etheen | PTFE
 welke beperking heeft teflon? temperatuurgevoelig
 vanaf hoevel graden heeft teflon kwaliteitsverlies? 260 graden | 260
@@ -355,6 +359,8 @@ appendages: waar staat pdt voor? pressure differential transmitter
 appendages: waar staat fc voor? flow controller
 appendages: waar staat ATO voor? air to open
 appendages: waar staat ATC voor? air to close
+appendages: waar staat NC voor? normally closed
+appendages: waar staat NO voor? normally open
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
 wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
@@ -384,7 +390,7 @@ Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | d
 welke 3 doelen kunnen kleppen en kranen hebben? leidingen afsluiten, debiet regelen, stroming verdelen over leidingnetwerk | afsluiten regelen verdelen
 wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
 wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
-welke 3 voorwaarden heeft de stroom van een plugkraan? lage druk, lage temperatuur, zuivere vloeistof | lage druk lage temperatuur zuivere vloeistof | lage druk lage temperatuur zuivere stof
+welke 3 voorwaarden heeft de stroom van een plugkraan? lage druk, lage temperatuur, zuivere vloeistof | lage druk lage temperatuur zuivere vloeistof | lage druk lage temperatuur zuivere stof | lage druk temperatuur zuivere vloeistof | lage druk temperatuur zuivere stof
 waarvan worden de afdichtingen van een kogelkraan gemaakt? PTFE | teflon
 welke 2 risico's loopt men bij het gebruik van een kogelkraan als regelkraan? cavitatie & erosie | cavitatie erosie
 is een plugkraan geschikt als regelkraan? nee
@@ -407,6 +413,9 @@ Hoe heet een klep die bij wegvallen van de stuurdruk volledig dicht is? air to o
 Hoe heet een klep die bij wegvallen van de stuurdruk volledig open is? air to close | ATC
 welke 3 soorten klepvormen kan een klepafsluiter hebben? guided plug, parabolic plug & regulating plug | guided plug parabolic plug regulating plug  | guided parabolic regulating plug
 wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichting
+is een membraanafsluiter geschikt als regelkraan? ja
+is een membraanafsluiter geschikt als afsluiter? ja
+wat zijn de 3 nadelen van de membraanafsluiter? lage druk, lage temperatuur & slijtage | lage druk lage temperatuur slijtage | lage druk temperatuur slijtage
 
 [symbool-blindflens.png] wat geeft het symbool weer? blindflens
 [symbool-brilflens.png] wat geeft het symbool weer? brilflens
@@ -418,6 +427,9 @@ wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichti
 [symbool-3-wegafsluiter.png] wat geeft het symbool weer? driewegkraan | driewegafsluiter
 [symbool-4-wegafsluiter.png] wat geeft het symbool weer? vierwegkraan | vierwegafsluiter
 [symbool-klepafsluiter.png] wat geeft het symbool weer? klepafsluiter
+[symbool-membraanafsluiter.png] wat geeft het symbool weer? membraanafsluiter
+[symbool-knevelafsluiter.png] wat geeft het symbool weer? knevelafsluiter
+[symbool-vlinderklep.png] wat geeft het symbool weer? vlinderklep
 [plugkraan.png] wat geeft 1 aan? bedieningshendel | hendel
 [plugkraan.png] wat geeft 2 aan? behuizing
 [plugkraan.png] wat geeft 3 aan? plug
@@ -451,6 +463,9 @@ wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichti
 [klepafsluiter.png] wat voor soort klep is dit? klepafsluiter
 [plugkraan.png] wat voor soort klep is dit? plugkraan
 [kogelkraan.png] wat voor soort klep is dit? kogelkraan
+[naaldafsluiter.png] wat voor soort klep is dit? naaldafsluiter
+[membraanafsluiter.png] wat voor soort klep is dit? membraanafsluiter
+[knevelafsluiter.png] wat voor soort klep is dit? knevelafsluiter
 
 
 
