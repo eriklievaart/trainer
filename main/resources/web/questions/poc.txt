@@ -209,6 +209,13 @@ rook = heterogeen mengsel van fijne vaste stofdeeltjes in een gas
 schuim = heterogeen mengsel van een gas in een vloeistof
 homogeen mengsel | homogeen = mengsel van deeltjes kleiner dan 10⁻⁹ m
 1s² 2s² 2p³ | 1s2 2s2 2p3 = sommerveld notatie van stikstof
+chloorgas = triviale naam van Cl₂
+witte forfor = triviale naam van P₄
+stikstofgas = triviale naam van N₂
+Cl₂ | Cl2 = formule van chloorgas
+P₄ | P4 = formule van witte fosfor
+N₂ | N2 = formule van stikstofgas
+NH₃ | NH3 = formule van ammoniak
 
 in een homogeen mengsel zijn deeltjes kleiner dan wat? 10⁻⁹ m | 10e-9 m | 1 nm
 in een heterogeen mengsel zijn deeltjes groter dan wat? 10⁻⁷ m | 10e-7 m | 100 nm
@@ -217,6 +224,12 @@ colloïdale mengsels hebben deeltjes groottes van ____ to ____ ? 10⁻⁹m 10⁻
 welke subniveaus kan een elektronen schil hebben? spdf
 hoeveel elektronen zijn er maximaal per subniveau? s2 p6 d10 f14
 waaruit bestaat koningswater? zoutzuur en salpeterzuur | zoutzuur salpeterzuur | salpeterzuur en zoutzuur | salpeterzuur zoutzuur | HCl HNO₃ | HCl HNO3
+een atoom met een hogere EN trekt sterker/zwakker elektronen aan? sterker
+een atoom met een lagere EN trekt sterker/zwakker elektronen aan? zwakker
+chemie: Wat betekent δ⁺? positieve ladingverschuiving
+chemie: Wat betekent δ⁻? negatieve ladingverschuiving
+wat is ΔEN bij een ionbinding? >= 1.7
+wat is ΔEN bij een covalente binding? < 1.7
 
 
 
