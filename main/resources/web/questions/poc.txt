@@ -217,6 +217,11 @@ Cl₂ | Cl2 = formule van chloorgas
 P₄ | P4 = formule van witte fosfor
 N₂ | N2 = formule van stikstofgas
 NH₃ | NH3 = formule van ammoniak
+NH₄⁺ | NH4+ = formule van ammonium
+enthalpie = warmte inhoud van een systeem
+entropie = mate van wanorde in een systeem
+activeringsenergie = energie die toegevoegd moet worden om een chemische reactie te laten verlopen
+effectieve botsing = botsing tussen twee deeltjes die een reactie veroorzaken
 
 in een homogeen mengsel zijn deeltjes kleiner dan wat? 10⁻⁹ m | 10e-9 m | 1 nm
 in een heterogeen mengsel zijn deeltjes groter dan wat? 10⁻⁷ m | 10e-7 m | 100 nm
@@ -231,6 +236,9 @@ chemie: Wat betekent δ⁺? positieve ladingverschuiving
 chemie: Wat betekent δ⁻? negatieve ladingverschuiving
 wat is ΔEN bij een ionbinding? >= 1.7
 wat is ΔEN bij een covalente binding? < 1.7
+een chemisch process verloopt volledig als de enthalpie daalt/stijgt en de entropie daalt/stijgt? daalt stijgt
+een chemisch process verloopt nit spontaan als de enthalpie daalt/stijgt en de entropie daalt/stijgt? stijgt daalt
+welke twee voorwaarden moet een botsing hebben om een chemische reactie te veroorzaken? krachtig richting
 
 
 
