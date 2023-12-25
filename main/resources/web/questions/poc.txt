@@ -18,6 +18,7 @@ b*h | bh                                 = oppervlakte van een parallellogram me
 hoeveel kg is 1 ton? 1000 | 1000 kg
 1 Pa in andere SI eenheden? 1N/m² | 1N/m2
 formule voor druk? p = F/A
+formule voor hydrostatiche druk van een vloeistofkolom? p = ρgh | p = rho gh
 1 bar in PSI? 14.4 PSI | 14.4
 1 atm in Pa? 101325 Pa | 101325
 
@@ -312,6 +313,18 @@ NC = alternatieve afkorting voor ATO
 NO = alternatieve afkorting voor ATC
 naaldafsluiter = soort klepafsluiter geschikt om kleine debieten bij hoge drukken zeer precies te regelen
 sandwichkoppeling = een vinderklep zonder eigen flenzen rechtstreeks tussen 2 leidingflenzen monteren
+terugslagklep = klep welke de vloeistof maar in 1 richting doorlaat
+ontluchting | ontluchter = zorgt ervoor dat overdruk aan de bovenkant van een drukreduceerventiel afgevoerd wordt
+deflector = zorgt ervoor dat een reduceerventiel bij openen meer stoom doorlaat
+vacuümbreker | vacuumbreker = aanwezig in een stoomgedreven warmtewisselaar om beschadiging door onderdruk tegen te gaan
+hysteresis = verschil tussen openings- en sluitingsdruk van een drukreduceerventiel
+set pressure = ingestelde druk van een drukreduceerventiel
+bolvorming | bol = vorm van een breekplaat
+breekplaat = overdukbeveiliging die maar 1x gebruikt kan worden
+vacuüm steunplaat | vacuum steunplaat = plaat die voorkomt dat een gebogen breekplaat ombuigt door onderdruk
+breukdetectie = systeem om het barsten van een breekplaat de detecteren
+weerstandsverlies = verlies van druk wanneer een vloeistof door een leiding stroomt
+inductieve naderingsschakelaar = sensor die het nabij zijn van een magneet detecteert
 
 hoeveel koolstof bevat staal? <2%
 hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%
@@ -374,6 +387,7 @@ appendages: waar staat ATO voor? air to open
 appendages: waar staat ATC voor? air to close
 appendages: waar staat NC voor? normally closed
 appendages: waar staat NO voor? normally open
+appendages: waar staat m.k.v. voor? meter vloeistof kolom
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
 wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
@@ -381,7 +395,7 @@ wat zijn de 4 nadelen van een te kleine leidingdiameter? capaciteit, drukverliez
 Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
 hoe heet de wanddikte van een appendage? het schedule | schedule
 wanneer gebruikt men fittings? bij lage druk | lage druk
-welke voordelen heeft een mofverbinding? goedkoop & kan onder een kleine hoek | goedkoop hoek mogelijk
+welke voordelen heeft een mofverbinding? goedkoop & kan onder een kleine hoek | goedkoop hoek mogelijk | goedkoop hoek
 welke beperkingen heeft een mofverbinding? lage druk & lage temperatuur | lage druk & temperatuur | lage druk en temperatuur | lage druk lage temperatuur | lage druk temperatuur
 hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
 wat is de meest gebruikte pijpverbindingsmethode? lassen
@@ -392,7 +406,7 @@ waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
 waar worden zachte dichtingen uit gemaakt? asbest grafiet PTFE | asbest grafiet teflon
 bij welke 3 omstandigheden gebruiken we slangen? rare hoeken lengteveranderingen regelmatig wisselen | hoeken lengteveranderingen wisselen | hoek lengteverandering wisselen
-welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen
+welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen | chemie druk temperatuur trilling
 welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? katoen nylon
 wat wordt er aan rubberen slangen toegevoegd om extra hoge mechanische belasting aan te kunnen? staaldraad
 wat is het grote voordeel van kunststof slangen? inertie | inert
@@ -429,6 +443,23 @@ wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichti
 is een membraanafsluiter geschikt als regelkraan? ja
 is een membraanafsluiter geschikt als afsluiter? ja
 wat zijn de 3 nadelen van de membraanafsluiter? lage druk, lage temperatuur & slijtage | lage druk lage temperatuur slijtage | lage druk temperatuur slijtage
+welk nadeel heeft een terugslagklep met lichtende klep/kogel? drukverlies | leidingverlies
+wanneer gebruiken we een rubberen terugslagklep? onzuiver medium | onzuiver
+wat is het voordeel van een membraanterugslagklep? lage leidingweerstand | weinig drukverlies | weinig leidingverlies
+wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? centrifugaalpompen & menginrichting | centrifugaalpompen mengen | centrifugaalpomp mengen
+wat is het nadeel van een drukreduceerventiel met membraan? lekgevoelig | lekken | lek
+wat is het voordeel van een drukreduceerventiel met membraan? nauwkeurig | gevoelig
+wat probeert men te voorkomen door een breekplaat bolvormig te maken? metaalmoeheid
+wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | lekken
+wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaalmoeheid
+waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
+waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
+wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? elektrisch inductie
+welke 5 zaken beinvloeden het weerstandsverlies in een leiding? diameter oppervlakteruwheid soortelijke massa stromingssnelheid viscositeit
+appendages: waarmee duiden we het totale leidingverlies aan? pw
+appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
+appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
+wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatische druk? exponentieel
 
 [symbool-blindflens.png] wat geeft het symbool weer? blindflens
 [symbool-brilflens.png] wat geeft het symbool weer? brilflens
@@ -443,6 +474,7 @@ wat zijn de 3 nadelen van de membraanafsluiter? lage druk, lage temperatuur & sl
 [symbool-membraanafsluiter.png] wat geeft het symbool weer? membraanafsluiter
 [symbool-knevelafsluiter.png] wat geeft het symbool weer? knevelafsluiter
 [symbool-vlinderklep.png] wat geeft het symbool weer? vlinderklep
+[symbool-terugslagklep.png] wat geeft het symbool weer? terugslagklep
 [plugkraan.png] wat geeft 1 aan? bedieningshendel | hendel
 [plugkraan.png] wat geeft 2 aan? behuizing
 [plugkraan.png] wat geeft 3 aan? plug
@@ -479,6 +511,13 @@ wat zijn de 3 nadelen van de membraanafsluiter? lage druk, lage temperatuur & sl
 [naaldafsluiter.png] wat voor soort klep is dit? naaldafsluiter
 [membraanafsluiter.png] wat voor soort klep is dit? membraanafsluiter
 [knevelafsluiter.png] wat voor soort klep is dit? knevelafsluiter
+[scharnierende-terugslagklep.png] wat voor soort klep is dit? scharnierende terugslagklep
+[vlinder-terugslagklep.png] wat voor soort klep is dit? vlinder terugslagklep
+[membraan-terugslagklep.png] wat voor soort klep is dit? membraan terugslagklep
+[drukreduceerventiel-gewicht.png] wat voor soort klep is dit? gewichtsgestuurd drukreduceerventiel
+[drukreduceerventiel-membraan.png] wat voor soort klep is dit? drukreduceerventiel met membraan | drukreduceerventiel membraan
+[drukreduceerventiel-veer.png] wat voor soort klep is dit? veergestuurd drukreduceerventiel
+[breekplaat.png] wat voor soort klep is dit? breekplaat
 
 
 
@@ -486,6 +525,7 @@ wat zijn de 3 nadelen van de membraanafsluiter? lage druk, lage temperatuur & sl
 
 
 @EOF@
+pagina 121
 
 
 
