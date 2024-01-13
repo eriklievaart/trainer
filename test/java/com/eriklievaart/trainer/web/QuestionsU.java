@@ -30,4 +30,26 @@ public class QuestionsU {
 		Check.isEqual(question.getImg(), "img.png");
 		Assertions.assertThat(question.getAnswers()).containsExactly("uh");
 	}
+
+	@Test
+	public void parseAnswerAnyInCollection() {
+		Question question = CollectionTool.getSingle(Questions.load(StreamTool.toInputStream("A of B? A | B")));
+		Check.isEqual(question.getQuery(), "A of B?");
+		Assertions.assertThat(question.getAnswers()).containsExactly("A", "B");
+	}
+
+	@Test
+	public void parseAnswerUnorderedList() {
+		Question question = CollectionTool.getSingle(Questions.load(StreamTool.toInputStream("A of B? ::A::B::")));
+		Check.isEqual(question.getQuery(), "A of B?");
+		Assertions.assertThat(question.getAnswers()).containsExactly(":: A ::", ":: B ::");
+	}
+
+	@Test
+	public void parseAnswerUnorderedListWithBar() {
+		Question question = CollectionTool.getSingle(Questions.load(StreamTool.toInputStream("has bar? ::a|b::")));
+		Check.isEqual(question.getQuery(), "has bar?");
+		Assertions.assertThat(question.getAnswers()).containsExactly(":: a|b ::");
+		Check.isTrue(question.isValidAnswer("a"));
+	}
 }

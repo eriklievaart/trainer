@@ -18,7 +18,7 @@ b*h | bh                                 = oppervlakte van een parallellogram me
 hoeveel kg is 1 ton? 1000 | 1000 kg
 1 Pa in andere SI eenheden? 1N/m² | 1N/m2
 formule voor druk? p = F/A
-formule voor hydrostatiche druk van een vloeistofkolom? p = ρgh | p = rho gh
+formule voor hydrostatische druk van een vloeistofkolom? p = ρgh | p = rho gh
 1 bar in PSI? 14.4 PSI | 14.4
 1 atm in Pa? 101325 Pa | 101325
 
@@ -47,7 +47,6 @@ stroomsterkte = de hoeveelheid lading die verplaatst wordt per seconde
 elektrische spanning | spanning | elektrisch potentiaalverschil  | potentiaalverschil = potentiële energie per eenheid van lading
 spanningsval = verlies van spanning tussen bron en verbruiker
 magnetiet =  moderne naam voor ijzererts
-Fe₃O₄ | Fe3O4 = chemische formule van magnetiet
 magnetisch veld = ruimte rond de magneet waarin de aantrekkingskracht nog voelbaar is
 magnetisch spectrum = zichtbaar maken van magnetisch veld d.m.v. ijzervijlsel
 magnetisch flux | flux = de sterkte van het magnetisch veld
@@ -100,7 +99,7 @@ eenheid voor weerstand (R)? Ohm
 grootheid voor A? doorsnede | oppervlakte
 grootheid voor F? kracht
 grootheid voor I? stroomsterkte
-grootheid voor J? stroomdichtheid
+elektriciteit: grootheid voor J? stroomdichtheid
 grootheid voor P? vermogen
 grootheid voor R? weerstand
 grootheid voor U? spanning | elektrische spanning
@@ -131,11 +130,11 @@ onveilige situatie = een situatie waar niet aan de voorwaarden voor veilig werke
 welke wetgeving heeft als aandachtspunten uitstoot en afvalverwerking? milieuwetgeving
 welke wetgeving stelt minimale rusttijden en maximale arbeidstijden vast? arbeidstijdenwetgeving
 waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk beschermingsmiddel
-wat zijn de 3 elementen van een arbeidsongeval? gebeurtenis, letsel, relatie
+wat zijn de 3 elementen van een arbeidsongeval? gebeurtenis, letsel, relatie | gebeurtenis letsel relatie
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
-wat te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies | meld chef neem maatregelen blijf af volg instructies
-wat te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef | neem oorzaak weg scherm af waarschuw meld chef | neem oorzaak weg, zet af, waarschuw, meld chef | neem oorzaak weg zet af waarschuw meld chef
+welke 4 dingen te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies | meld chef neem maatregelen blijf af volg instructies | meld chef blijf af neem maatregelen volg instructies
+welke 4 dingen te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef | neem oorzaak weg scherm af waarschuw meld chef | neem oorzaak weg, zet af, waarschuw, meld chef | neem oorzaak weg zet af waarschuw meld chef
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
 Onder invloed van alcohol of drugs is de kans op ongevallen ___ - ___ keer hoger? 2-4 | 2 4
@@ -151,11 +150,11 @@ formule voor de warmtestroom [definitie]? φ = Q/t | phi = Q/t
 formule voor de warmtestroom [oppervlakte]? Φ = kA ΔT | phi = kA delta T
 formule voor het Reynolds getal? re = ρvD/η | re = rho vD/eta
 
-How wordt de latente warmte aangeduid? L
+Hoe wordt de latente warmte aangeduid? L
 Hoe wordt specifieke smeltwarmte aangeduid? rₛ | rs
 Hoe wordt specifieke verdampingswarmte aangeduid? rᵥ | rv
-How wordt de warmtegeleidingscoëfficiënt aangeduid? λ | lambda
-How wordt "warmtestroom" aangeduid? φ | phi
+Hoe wordt de warmtegeleidingscoëfficiënt aangeduid? λ | lambda
+warmte: hoe wordt "warmtestroom" aangeduid? φ | phi
 Hoe wordt de warmtedoorgangscoëfficiënt aangeduid? k
 Hoe wordt de stromingssnelheid aangeduid? v
 Hoe wordt de viscositeit aangeduid? η | eta
@@ -185,10 +184,10 @@ voelbare warmte = warmte die een temperatuursverandering tot gevolg heeft
 latente warmte = verzamelnaam voor stollings-, smeltings-, condensatie en verdampingswarmte
 verdampen = van vloeibaar naar gas vorm gaan
 condenseren = van gas naar vloeibare vorm gaan
-vervluchten = van vast naar gas vorm gaan
-sublimeren = van gas naar vaste vorm gaan
-# smelten = van vast naar vloeibare vorm gaan
-# stollen = vab vloeibaar naar vaste vorm gaan
+sublimeren = van vaste vorm naar gas vorm gaan
+rijpen = van gas vorm naar vaste vorm gaan
+smelten = van vast naar vloeibare vorm gaan
+stollen = van vloeibaar naar vaste vorm gaan
 verdampingsenthalpie = hoeveelheid warmte benodigd om 1kg vloeistof te verdampen
 warmtegeleiding | geleiding = moleculen blijven op hun plaats en geven door botsingen de inwendige energie door
 convectie = verplaatsing van warmte door het stromen van vloeistoffen of gassen
@@ -211,7 +210,7 @@ schuim = heterogeen mengsel van een gas in een vloeistof
 homogeen mengsel | homogeen = mengsel van deeltjes kleiner dan 10⁻⁹ m
 1s² 2s² 2p³ | 1s2 2s2 2p3 = sommerveld notatie van stikstof
 chloorgas = triviale naam van Cl₂
-witte forfor = triviale naam van P₄
+witte fosfor = triviale naam van P₄
 stikstofgas = triviale naam van N₂
 Cl₂ | Cl2 = formule van chloorgas
 P₄ | P4 = formule van witte fosfor
@@ -222,6 +221,31 @@ enthalpie = warmte inhoud van een systeem
 entropie = mate van wanorde in een systeem
 activeringsenergie = energie die toegevoegd moet worden om een chemische reactie te laten verlopen
 effectieve botsing = botsing tussen twee deeltjes die een reactie veroorzaken
+zwavelzuur = benoem het zuur H₂SO₄
+zwaveligzuur = benoem het zuur H₂SO₃
+salpeterzuur = benoem het zuur HNO₃
+salpeterigzuur = benoem het zuur HNO₂
+koolzuur = benoem het zuur H₂CO₃
+fosforzuur = benoem het zuur H₃PO₄
+neutralisatie | neutraliseren = een zuur en een base elkaar op laten heffen
+0°C | 0 C = temperatuur onder normale condities
+25°C | 25 C = temperatuur onder standaard condities
+22.4 L = volume 1 mol gas onder normale condities
+24.5 L = volume 1 mol gas onder standaard condities
+mol/L = eenheid molariteit
+g/L = eenheid massaconcentratie
+ml/L = eenheid volumeconcentratie
+% = eenheid massaprocent
+% = eenheid volumeprocent
+substituent = atoomgroep die één of meer waterstof atomen kan vervangen aan een koolstof keten
+alkylgroep = substituent bestaande uit enkel C- en H- atomen
+functionele groep = substituent welke atomen bevat anders dan C en H
+isomeren | isomeer = stoffen met dezelfde chemische formule, maar een verschillende structuur
+ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
+plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
+optische isomeren | optische isomeer = stoffen met dezelfde chemische formule, welke mekaars spiegelbeeld zijn
+cis-trans isomeren | cis trans isomeer | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
+van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 
 in een homogeen mengsel zijn deeltjes kleiner dan wat? 10⁻⁹ m | 10e-9 m | 1 nm
 in een heterogeen mengsel zijn deeltjes groter dan wat? 10⁻⁷ m | 10e-7 m | 100 nm
@@ -232,14 +256,32 @@ hoeveel elektronen zijn er maximaal per subniveau? s2 p6 d10 f14
 waaruit bestaat koningswater? zoutzuur en salpeterzuur | zoutzuur salpeterzuur | salpeterzuur en zoutzuur | salpeterzuur zoutzuur | HCl HNO₃ | HCl HNO3
 een atoom met een hogere EN trekt sterker/zwakker elektronen aan? sterker
 een atoom met een lagere EN trekt sterker/zwakker elektronen aan? zwakker
-chemie: Wat betekent δ⁺? positieve ladingverschuiving
-chemie: Wat betekent δ⁻? negatieve ladingverschuiving
+chemie: Wat betekent δ⁺? positieve ladingverschuiving | positieve ladingsverschuiving
+chemie: Wat betekent δ⁻? negatieve ladingverschuiving | negatieve ladingsverschuiving
 wat is ΔEN bij een ionbinding? >= 1.7
 wat is ΔEN bij een covalente binding? < 1.7
 een chemisch process verloopt volledig als de enthalpie daalt/stijgt en de entropie daalt/stijgt? daalt stijgt
-een chemisch process verloopt nit spontaan als de enthalpie daalt/stijgt en de entropie daalt/stijgt? stijgt daalt
-welke twee voorwaarden moet een botsing hebben om een chemische reactie te veroorzaken? krachtig richting
+een chemisch process verloopt niet spontaan als de enthalpie daalt/stijgt en de entropie daalt/stijgt? stijgt daalt
+welke twee voorwaarden moet een botsing hebben om een chemische reactie te veroorzaken? krachtig richting | kracht richting
+wat is de formule van zwavelzuur? H₂SO₄ | H2SO4
+wat is de formule van zwaveligzuur? H₂SO₃ | H2SO3
+wat is de formule van salpeterzuur? HNO₃ | HNO3
+wat is de formule van salpeterigzuur? HNO₂ | HNO2
+wat is de formule van koolzuur? H₂CO₃ | H2CO3
+wat is de formule van fosforzuur? H₃PO₄ | H3PO4
+hoeveel graden is de bindingshoek van CH₄? 109.5 graden | 109.5
+hoeveel graden is de bindingshoek van CH₂CH₂? 120 graden | 120
+hoeveel graden is de bindingshoek van CHCH? 180 graden | 180
+Welke klasse koolwaterstoffen eindigt met -OH? alcoholen
+Welke klasse koolwaterstoffen eindigt met -NH₂? aminen
+Welke klasse koolwaterstoffen bevat -O- ? ethers
+met welke atomen kan een waterstof atoom een waterstofbrug vormen? :: F :: N :: O ::
 
+[esters.png]      chemie: welke klasse is dit? esters
+[amiden.png]      chemie: welke klasse is dit? amiden
+[ketonen.png]     chemie: welke klasse is dit? ketonen
+[aldehyden.png]   chemie: welke klasse is dit? aldehyden
+[carbonzuren.png] chemie: welke klasse is dit? carbonzuren
 
 
 
@@ -277,7 +319,7 @@ H₂O₂ | H2O2 = formule voor waterstof peroxide
 rood = kleur van hematiet
 zwart = kleur van magnetiet
 zink | Zn = heel onedel metaal wat vaak als opofferingsmetaal gebruikt wordt
-CL- RVS, O2 stoomketel | CL- RVS O2 stoomketel = 2 voorbeelden van pitting
+chloor RVS O2 stoomketel | Cl- RVS, O2 stoomketel | Cl- RVS O2 stoomketel | Cl RVS O2 stoomketel = 2 voorbeelden van pitting
 DN = ISO normering voor binnendiameter van een buis
 mm = eenheid van de DN
 inch = eenheid van de NPS
@@ -327,19 +369,25 @@ deflector = zorgt ervoor dat een reduceerventiel bij openen meer stoom doorlaat
 vacuümbreker | vacuumbreker = aanwezig in een stoomgedreven warmtewisselaar om beschadiging door onderdruk tegen te gaan
 hysteresis = verschil tussen openings- en sluitingsdruk van een drukreduceerventiel
 set pressure = ingestelde druk van een drukreduceerventiel
-bolvorming | bol = vorm van een breekplaat
+bolvormig | bol = vorm van een breekplaat
 breekplaat = overdukbeveiliging die maar 1x gebruikt kan worden
 vacuüm steunplaat | vacuum steunplaat = plaat die voorkomt dat een gebogen breekplaat ombuigt door onderdruk
 breukdetectie = systeem om het barsten van een breekplaat de detecteren
 weerstandsverlies = verlies van druk wanneer een vloeistof door een leiding stroomt
 inductieve naderingsschakelaar = sensor die het nabij zijn van een magneet detecteert
+revaporisatie = stoom gevormd uit gecondenseerd stoom onder invloed van drukverlaging
+stoomslag = condensaatprop die op hoge snelheden door stoom door een leiding heen gekatapulteerd wordt
+condenspot = afsluiter die condensaat doorlaten, maar stoom blokkeren
+expansiebocht = vorm van leiding die lengteverandering o.i.v. temperatuur op vangt
+compensator = kan met flenzen tussen 2 stukken leiding geplaatst worden om lengteverandering op te vangen
+vlamsper = leiding accessoire die vlammen kan uitdoven
 
 hoeveel koolstof bevat staal? <2%
 hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%
 welke 4 voordelen heeft gietijzer? dempend, gietbaar, goedkoop, zuurbestand | dempend gietbaar goedkoop zuurbestand | dempend, gietbaar, goedkoop, zuurbestendig | dempend gietbaar goedkoop zuurbestendig
 welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onlasbaar | bros niet lasbaar
-Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5
-welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid | bros hard
+Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5 | <1.5%
+welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid | bros hard | hard bros
 welk staal is het meest gebruikt? ongelegeerd staal | ongelegeerd
 welke 2 positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
 Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
@@ -356,7 +404,7 @@ Wat is de relatieve warmte-uitzettingscoëfficient van RVS t.o.v. ongelegeerd st
 Welk element wordt vaak aan het staal van gereedschap toegevoegd? vanadium | V
 Wat is het hoofdbestanddeel van legeringen gebruikt bij extreem hoge temperaturen? nikkel
 Welke 2 voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding | corrosiebestendig & warmtegeleidend | corrosiebestendig warmtegeleidend | corrosiebestendig & geleidend | corrosiebestendig geleidend
-welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen
+welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen | koperlegering
 waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
 Wat is het grote voordeel van aluminium? licht (gewicht) | licht
 wat zijn de 4 voordelen van een aluminiumlegering? corrosiebestendig slijtvast vonkloos vormbaar
@@ -367,8 +415,8 @@ welke niet-metalen zijn geschikt voor het vervoeren van zuren, alkaliën en zeew
 wat gebeurt er met PVC als je het in de zon laat? wordt bros | bros
 welke beperkingen hebben PVC en PE? sterkte & temperatuurgevoelig | sterkte temperatuurgevoelig | sterkte temperatuur
 welk materiaal is zeer inert tegenover allerlei chemische media, is niet giftig en heeft een zeer lage vrijwingscoëfficient? teflon | poly tetra fluor etheen | PTFE
-welke beperking heeft teflon? temperatuurgevoelig
-vanaf hoevel graden heeft teflon kwaliteitsverlies? 260 graden | 260
+welke beperking heeft teflon? temperatuurgevoelig | temperatuur
+vanaf hoeveel graden heeft teflon kwaliteitsverlies? 260 graden | 260
 Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? fluorelastomeren
 waarvoor worden fluorelastomeren vooral gebruikt? afdichtingen | afdichting
 wat zijn de 2 grote voordelen van fluorelastomeren? inertie & temperatuurbestendig | inertie temperatuurbestendig | inert & temperatuurbestendigheid | inert temperatuurbestendigheid | corrosiebestendig & temperatuurbestendigheid | inert temperatuurbestendig | inert & temperatuurbestendigheid | corrosiebestendig temperatuurbestendig
@@ -395,7 +443,7 @@ appendages: waar staat ATO voor? air to open
 appendages: waar staat ATC voor? air to close
 appendages: waar staat NC voor? normally closed
 appendages: waar staat NO voor? normally open
-appendages: waar staat m.k.v. voor? meter vloeistof kolom
+appendages: waar staat m.v.k. voor? meter vloeistof kolom
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
 wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
@@ -412,7 +460,7 @@ wat is het grote voordeel van gegroefde prenten? drukbestendig
 welke 4 belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch | beweging chemische druk thermische | beweging chemisch druk thermisch
 waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal | metalen ring & vulmateriaal | metalen ring vulmateriaal
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
-waar worden zachte dichtingen uit gemaakt? asbest grafiet PTFE | asbest grafiet teflon
+zachte dichtingen worden uit welke 3 materialen gemaakt? :: asbest :: grafiet :: PTFE|teflon ::
 bij welke 3 omstandigheden gebruiken we slangen? rare hoeken lengteveranderingen regelmatig wisselen | hoeken lengteveranderingen wisselen | hoek lengteverandering wisselen
 welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen | chemie druk temperatuur trilling
 welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? katoen nylon
@@ -425,7 +473,7 @@ Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | d
 welke 3 doelen kunnen kleppen en kranen hebben? leidingen afsluiten, debiet regelen, stroming verdelen over leidingnetwerk | afsluiten regelen verdelen
 wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
 wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
-welke 3 voorwaarden heeft de stroom van een plugkraan? lage druk, lage temperatuur, zuivere vloeistof | lage druk lage temperatuur zuivere vloeistof | lage druk lage temperatuur zuivere stof | lage druk temperatuur zuivere vloeistof | lage druk temperatuur zuivere stof
+welke 3 voorwaarden heeft de stroom van een plugkraan? :: lage druk | druk :: lage temperatuur | temperatuur :: zuivere vloeistof | zuivere stof | zuiver ::
 waarvan worden de afdichtingen van een kogelkraan gemaakt? PTFE | teflon
 welke 2 risico's loopt men bij het gebruik van een kogelkraan als regelkraan? cavitatie & erosie | cavitatie erosie
 is een plugkraan geschikt als regelkraan? nee
@@ -444,30 +492,40 @@ klep die maar in 1 richting op de vloeistofstroom gezet mag worden? klepafsluite
 is een klepafsluiter geschikt als regelkraan? ja
 is een klepafsluiter geschikt als afsluiter? nee
 is de klepafslutier outdated? nee
-Hoe heet een klep die bij wegvallen van de stuurdruk volledig dicht is? air to open | ATO
-Hoe heet een klep die bij wegvallen van de stuurdruk volledig open is? air to close | ATC
-welke 3 soorten klepvormen kan een klepafsluiter hebben? guided plug, parabolic plug & regulating plug | guided plug parabolic plug regulating plug  | guided parabolic regulating plug
+Hoe heet een klep die bij wegvallen van de stuurdruk volledig dicht is? air to open | ATO | NC
+Hoe heet een klep die bij wegvallen van de stuurdruk volledig open is? air to close | ATC | NO
+welke 3 soorten klepvormen kan een klepafsluiter hebben? guided plug, parabolic plug & regulating plug | guided plug parabolic plug regulating plug  | guided parabolic regulating plug | guided parabolic regulating
 wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichting
 is een membraanafsluiter geschikt als regelkraan? ja
 is een membraanafsluiter geschikt als afsluiter? ja
-wat zijn de 3 nadelen van de membraanafsluiter? lage druk, lage temperatuur & slijtage | lage druk lage temperatuur slijtage | lage druk temperatuur slijtage
+wat zijn de 3 nadelen van de membraanafsluiter? :: lage druk | druk :: lage temperatuur | temperatuur :: slijtage ::
 welk nadeel heeft een terugslagklep met lichtende klep/kogel? drukverlies | leidingverlies
 wanneer gebruiken we een rubberen terugslagklep? onzuiver medium | onzuiver
-wat is het voordeel van een membraanterugslagklep? lage leidingweerstand | weinig drukverlies | weinig leidingverlies
-wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? centrifugaalpompen & menginrichting | centrifugaalpompen mengen | centrifugaalpomp mengen
+wat is het voordeel van een membraanterugslagklep? lage leidingweerstand | weinig drukverlies | weinig leidingverlies | leidingverlies
+wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | centrifugaalpomp :: menginrichting | mengen ::
 wat is het nadeel van een drukreduceerventiel met membraan? lekgevoelig | lekken | lek
 wat is het voordeel van een drukreduceerventiel met membraan? nauwkeurig | gevoelig
 wat probeert men te voorkomen door een breekplaat bolvormig te maken? metaalmoeheid
-wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | lekken
-wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaalmoeheid
+wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | loskomen | lekken
+wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaalmoeheid | minder metaalmoeheid
 waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
 waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
-wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? elektrisch inductie
+wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? elektrisch, inductie | elektrisch inductie
 welke 5 zaken beinvloeden het weerstandsverlies in een leiding? diameter oppervlakteruwheid soortelijke massa stromingssnelheid viscositeit
 appendages: waarmee duiden we het totale leidingverlies aan? pw
 appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
 appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
 wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatische druk? exponentieel
+geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | condensatie | condens :: energiekosten | energie :: stollen/kristalliseren van media | kristalliseren :: spanningen door uitzetting | spanningen | spanning ::
+hoe voorkomt men convectie en geleiding? droge lucht | lucht
+hoe voorkomt men straling? aluminium folie | aluminium
+welke 5 eisen hebben we aan isolatie materiaal? :: brandvast :: buigzaam :: lage warmtegeleidingscoefficient | geleiding :: lage massadichtheid | massadichtheid :: vormvast ::
+welke 3 soorten isolatiematerialen hebben we? dierlijk mineralen kunststoffen | dierlijk mineraal kunststof
+Welk temperatuur bereik heeft dierlijk en plantaardig isolatie materiaal? 0 tot 100 graden | 0 100
+welke 4 soorten minerale isolatiematerialen kennen we? :: glaswol :: kieselgoer :: slakkenwol :: steenwol ::
+welke 3 soorten kunststof isolatiematerialen kennen we? :: geexpandeerd polystyreenschuim | EPS :: polystyreenschuim | XPS :: polyurethaan geextrudeerd | PUR ::
+waar moeten we voor uitkijken bij koude isolatie? ijsvorming
+welke 2 materialen kunnen er om de isolatie gewikkeld worden om ijsvorming tegen te gaan? gipsbandages kunststofbandages | gipsbandage kunststofbandage
 
 [symbool-blindflens.png] wat geeft het symbool weer? blindflens
 [symbool-brilflens.png] wat geeft het symbool weer? brilflens
@@ -483,6 +541,7 @@ wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatisc
 [symbool-knevelafsluiter.png] wat geeft het symbool weer? knevelafsluiter
 [symbool-vlinderklep.png] wat geeft het symbool weer? vlinderklep
 [symbool-terugslagklep.png] wat geeft het symbool weer? terugslagklep
+[symbool-condenspot.png] wat geeft het symbool weer? condenspot
 [plugkraan.png] wat geeft 1 aan? bedieningshendel | hendel
 [plugkraan.png] wat geeft 2 aan? behuizing
 [plugkraan.png] wat geeft 3 aan? plug

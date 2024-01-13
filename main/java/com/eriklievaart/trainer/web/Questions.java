@@ -5,9 +5,14 @@ import java.util.List;
 
 import com.eriklievaart.toolkit.io.api.LineFilter;
 import com.eriklievaart.toolkit.lang.api.AssertionException;
+import com.eriklievaart.toolkit.lang.api.check.Check;
 import com.eriklievaart.toolkit.lang.api.check.CheckStr;
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.lang.api.collection.NewCollection;
+import com.eriklievaart.toolkit.lang.api.str.Str;
+import com.eriklievaart.trainer.web.answer.AnswerValidator;
+import com.eriklievaart.trainer.web.answer.ExpectAnyInCollection;
+import com.eriklievaart.trainer.web.answer.ExpectUnorderedList;
 
 public class Questions {
 
@@ -31,7 +36,7 @@ public class Questions {
 		result.add(createQuestion(answersToQuestion[1], parseAnswers(answersToQuestion[0])));
 	}
 
-	private static Question createQuestion(String query, List<String> answers) {
+	private static Question createQuestion(String query, AnswerValidator answers) {
 		if (query.startsWith("[")) {
 			CheckStr.contains(query, "]");
 			String[] imgToQuestion = query.substring(1).split("]", 2);
@@ -51,7 +56,17 @@ public class Questions {
 		result.add(createQuestion(questionToAnswers[0] + "?", parseAnswers(questionToAnswers[1])));
 	}
 
-	private static List<String> parseAnswers(String answer) {
-		return ListTool.map(ListTool.of(answer.split("\\|")), s -> s.replaceAll("`", "|"));
+	private static AnswerValidator parseAnswers(String answer) {
+		Check.notNull(answer);
+		if (answer.trim().startsWith("::")) {
+			return parseUnorderedList(answer);
+		}
+		List<String> collection = ListTool.of(answer.split("\\s*+\\|\\s*+"));
+		return new ExpectAnyInCollection(ListTool.map(collection, s -> s.replaceAll("`", "|")));
+	}
+
+	private static AnswerValidator parseUnorderedList(String raw) {
+		String[] entries = raw.split("\\s*+::++\\s*+");
+		return new ExpectUnorderedList(ListTool.filter(entries, e -> Str.notBlank(e)));
 	}
 }

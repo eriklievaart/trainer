@@ -1,19 +1,19 @@
 package com.eriklievaart.trainer.web;
 
-import java.util.Collections;
 import java.util.List;
 
 import com.eriklievaart.toolkit.io.api.sha1.Sha1;
+import com.eriklievaart.trainer.web.answer.AnswerValidator;
 
 public class Question {
 
 	private String query;
 	private String img;
-	private List<String> answer;
+	private AnswerValidator expect;
 
-	public Question(String query, List<String> answer) {
+	public Question(String query, AnswerValidator expect) {
 		this.query = query;
-		this.answer = answer;
+		this.expect = expect;
 	}
 
 	public String getQuery() {
@@ -28,8 +28,12 @@ public class Question {
 		return img;
 	}
 
+	public boolean isValidAnswer(String answer) {
+		return expect.isValid(answer);
+	}
+
 	public List<String> getAnswers() {
-		return Collections.unmodifiableList(answer);
+		return expect.getAnswers();
 	}
 
 	public String getHash() {

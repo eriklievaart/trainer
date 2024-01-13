@@ -1,0 +1,7 @@
+
+200 = soul of a lost undead
+800 = soul of a nameless soldier
+
+name the soul of 200? lost undead
+name the soul of 800? nameless soldier
+

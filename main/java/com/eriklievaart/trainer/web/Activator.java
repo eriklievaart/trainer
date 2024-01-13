@@ -11,6 +11,7 @@ import com.eriklievaart.jl.core.api.page.PageSecurity;
 import com.eriklievaart.osgi.toolkit.api.ContextWrapper;
 import com.eriklievaart.toolkit.io.api.CheckFile;
 import com.eriklievaart.toolkit.io.api.ResourceTool;
+import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.logging.api.LogTemplate;
 import com.eriklievaart.trainer.web.loader.QuestionLoader;
 
@@ -30,7 +31,7 @@ public class Activator extends LightningActivator {
 		Optional<File> override = getOverride();
 
 		StateSuppliers states = new StateSuppliers(new QuestionLoader(override));
-		List<String> index = ResourceTool.getLines(getClass(), "/web/questions/index.txt");
+		List<String> index = createIndex(override);
 		addPageService(builder -> {
 			for (String course : index) {
 				builder.newRoute(course).mapGet(course, () -> new QuestionController(states.getSupplier(course)));
@@ -39,6 +40,18 @@ public class Activator extends LightningActivator {
 			builder.newRoute("root").mapGet("", () -> new IndexController(index));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));
 		});
+	}
+
+	private List<String> createIndex(Optional<File> override) {
+		if (override.isPresent()) {
+			List<String> list = ListTool.filterAndMap(override.get().listFiles(), f -> f.isFile(), this::getBaseName);
+			return ListTool.sortedCopy(list);
+		}
+		return ResourceTool.getLines(getClass(), "/web/questions/index.txt");
+	}
+
+	private String getBaseName(File file) {
+		return file.getName().replaceFirst("[.]txt$", "");
 	}
 
 	private Optional<File> getOverride() {

@@ -1,13 +1,11 @@
 package com.eriklievaart.trainer.web;
 
-import java.util.List;
 import java.util.function.Supplier;
 
 import com.eriklievaart.jl.core.api.Bean;
 import com.eriklievaart.jl.core.api.Parameters;
 import com.eriklievaart.jl.core.api.RequestContext;
 import com.eriklievaart.jl.core.api.page.AbstractTemplateController;
-import com.eriklievaart.toolkit.lang.api.str.Str;
 
 public class QuestionController extends AbstractTemplateController {
 
@@ -34,7 +32,7 @@ public class QuestionController extends AbstractTemplateController {
 
 			if (!query.getHash().equals(parameters.getString("hash"))) {
 				model.put("mismatch", true);
-			} else if (isValid(query.getAnswers(), answer)) {
+			} else if (query.isValidAnswer(answer)) {
 				state.get().correct();
 			} else {
 				state.get().incorrect();
@@ -54,18 +52,5 @@ public class QuestionController extends AbstractTemplateController {
 			model.put("question", state.get().current.get());
 			setTemplate("/web/freemarker/question.ftlh");
 		}
-	}
-
-	static boolean isValid(List<String> list, String answer) {
-		for (String expect : list) {
-			if (Str.isEqualIgnoreCase(strip(expect), strip(answer))) {
-				return true;
-			}
-		}
-		return false;
-	}
-
-	static String strip(String answer) {
-		return answer.replaceAll("[ _,]", "").replaceAll("\\s++$", "");
 	}
 }
