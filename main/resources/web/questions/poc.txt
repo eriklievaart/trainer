@@ -246,6 +246,21 @@ plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar me
 optische isomeren | optische isomeer = stoffen met dezelfde chemische formule, welke mekaars spiegelbeeld zijn
 cis-trans isomeren | cis trans isomeer | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
 van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
+additie = iets toevoegen aan een organische keten
+substitutie = een deel van een organische keten vervangen
+eliminatie = een deel van een organische keten verwijderen
+cracking = een organische keten in stukken hakken
+oxidatie = een organische keten verbranden
+polymerisatie = organische ketens samenvoegen tot een lange keten
+substraat = organische keten waar we we een reactie mee doen (additie, substitutie, eliminatie, etc.)
+reactieve plaatsen | reactieve plaats = deel van een organische molecule waar een reactie plaats vindt
+halogeenalkanen | halogeenalkaan = belangrijke organische molecule voor synthese van andere organische verbindingen; ondergaat vaak substitutie en eliminatie reacties
+alcoholen | alcohol = organische moleculen die zich zowel als zuur als als base kunnen gedragen; ondergaat gisting, additie, substitutie, eliminatie en oxidatie
+ethers | ether = organische moleculen die vaak als oplos- en extractie middel worden gebruikt; brandbaar
+aminen | amine = organische moleculen die basisch zijn en onaangenaam ruiken; gebruikt als kleurstoffen, in farmaceutische producten en in kunststoffen
+carbonzuren | carbonzuur = organische moleculen die zich als een zuur gedragen
+esters | ester = organische moleculen die ontstaan uit condensatie reacties tussen een carbonzuur en een alcohol; vaak gebruikt als geurstof en in de productie van kunststoffen
+amiden | amide = weinig reactieve organische moleculen die we terug vinden in vitamine B5 en in pijnstillers
 
 in een homogeen mengsel zijn deeltjes kleiner dan wat? 10⁻⁹ m | 10e-9 m | 1 nm
 in een heterogeen mengsel zijn deeltjes groter dan wat? 10⁻⁷ m | 10e-7 m | 100 nm
