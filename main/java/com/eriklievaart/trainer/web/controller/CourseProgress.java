@@ -87,4 +87,14 @@ public class CourseProgress {
 			}
 		}
 	}
+
+	public long getWaitTimestamp(List<Question> questions) {
+		long timestamp = Long.MAX_VALUE;
+		for (Question question : questions) {
+			if (question.getCourse().equals(course)) {
+				timestamp = Math.min(timestamp, progression.get(question.getHash()).validUntil);
+			}
+		}
+		return timestamp;
+	}
 }

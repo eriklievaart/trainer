@@ -46,11 +46,13 @@ public class PracticeController extends AbstractTemplateController {
 
 	protected void render(State state) {
 		model.putIfAbsent("mismatch", false);
+
 		if (state.current.isEmpty()) {
 			setTemplate("/web/freemarker/complete.ftlh");
+
 		} else {
-			model.put("remaining", "" + state.countRemaining());
 			model.put("question", state.current.get());
+			model.put("remaining", "" + state.countRemaining());
 			setTemplate("/web/freemarker/question.ftlh");
 		}
 	}

@@ -30,7 +30,7 @@ public class QuestionLoader {
 		return result;
 	}
 
-	List<Question> loadQuestions(String course) {
+	private List<Question> loadQuestions(String course) {
 		List<Question> questions = QuestionParser.parse(getInputStream(course));
 		questions.forEach(q -> q.setCourse(course));
 		return questions;

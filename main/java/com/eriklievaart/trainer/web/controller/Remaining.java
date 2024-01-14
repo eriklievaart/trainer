@@ -6,6 +6,7 @@ public class Remaining {
 
 	public long rehearse;
 	public long total;
+	public long timestamp;
 
 	@Override
 	public String toString() {

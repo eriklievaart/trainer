@@ -86,6 +86,14 @@ public class State {
 		return r;
 	}
 
+	public long getWaitTimestamp() {
+		long timestamp = Long.MAX_VALUE;
+		for (CourseProgress progress : courseToProgress.values()) {
+			timestamp = Math.min(timestamp, progress.getWaitTimestamp(Collections.unmodifiableList(questions)));
+		}
+		return timestamp;
+	}
+
 	public List<String> getCourses() {
 		return Collections.unmodifiableList(courses);
 	}

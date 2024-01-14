@@ -16,8 +16,9 @@ import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.logging.api.LogTemplate;
 import com.eriklievaart.trainer.web.controller.ImageController;
 import com.eriklievaart.trainer.web.controller.IndexController;
-import com.eriklievaart.trainer.web.controller.SelectQuestioneerController;
 import com.eriklievaart.trainer.web.controller.PracticeController;
+import com.eriklievaart.trainer.web.controller.SelectQuestioneerController;
+import com.eriklievaart.trainer.web.controller.TimestampController;
 import com.eriklievaart.trainer.web.io.CourseSelectionIO;
 import com.eriklievaart.trainer.web.io.QuestionLoader;
 
@@ -43,6 +44,7 @@ public class Activator extends LightningActivator {
 			builder.newRoute("root").mapGet("", () -> new SelectQuestioneerController(index, loader, io));
 			builder.newIdentityRouteGet("list", () -> new IndexController(index));
 			builder.newIdentityRouteGet("practice", () -> new PracticeController());
+			builder.newIdentityRouteGet("timestamp", () -> new TimestampController());
 			builder.newRoute("images").mapGet("images/*", () -> new ImageController(override));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));
 		});
