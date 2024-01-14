@@ -1,4 +1,4 @@
-package com.eriklievaart.trainer.web;
+package com.eriklievaart.trainer.web.controller;
 
 import com.eriklievaart.toolkit.lang.api.date.TimestampTool;
 import com.eriklievaart.toolkit.lang.api.str.Str;

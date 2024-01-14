@@ -1,4 +1,4 @@
-package com.eriklievaart.trainer.web;
+package com.eriklievaart.trainer.web.controller;
 
 import java.util.List;
 

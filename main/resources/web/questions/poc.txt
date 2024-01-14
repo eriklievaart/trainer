@@ -148,7 +148,7 @@ Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT 
 formule voor latente warmte? Q = Lm | L = Q/m
 formule voor de warmtestroom [definitie]? φ = Q/t | phi = Q/t
 formule voor de warmtestroom [oppervlakte]? Φ = kA ΔT | phi = kA delta T
-formule voor het Reynolds getal? re = ρvD/η | re = rho vD/eta
+formule voor het Reynolds getal? re = ρvD/η | re = rho vD/eta | re = rho Dv/eta
 
 Hoe wordt de latente warmte aangeduid? L
 Hoe wordt specifieke smeltwarmte aangeduid? rₛ | rs
@@ -244,8 +244,8 @@ isomeren | isomeer = stoffen met dezelfde chemische formule, maar een verschille
 ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
 optische isomeren | optische isomeer = stoffen met dezelfde chemische formule, welke mekaars spiegelbeeld zijn
-cis-trans isomeren | cis trans isomeer | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
-van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
+cis-trans isomeren | cis trans isomeren | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
+van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 additie = iets toevoegen aan een organische keten
 substitutie = een deel van een organische keten vervangen
 eliminatie = een deel van een organische keten verwijderen
@@ -277,7 +277,7 @@ wat is ΔEN bij een ionbinding? >= 1.7
 wat is ΔEN bij een covalente binding? < 1.7
 een chemisch process verloopt volledig als de enthalpie daalt/stijgt en de entropie daalt/stijgt? daalt stijgt
 een chemisch process verloopt niet spontaan als de enthalpie daalt/stijgt en de entropie daalt/stijgt? stijgt daalt
-welke twee voorwaarden moet een botsing hebben om een chemische reactie te veroorzaken? krachtig richting | kracht richting
+welke twee voorwaarden moet een botsing hebben om een chemische reactie te veroorzaken? :: krachtig | kracht :: richting ::
 wat is de formule van zwavelzuur? H₂SO₄ | H2SO4
 wat is de formule van zwaveligzuur? H₂SO₃ | H2SO3
 wat is de formule van salpeterzuur? HNO₃ | HNO3
@@ -287,16 +287,14 @@ wat is de formule van fosforzuur? H₃PO₄ | H3PO4
 hoeveel graden is de bindingshoek van CH₄? 109.5 graden | 109.5
 hoeveel graden is de bindingshoek van CH₂CH₂? 120 graden | 120
 hoeveel graden is de bindingshoek van CHCH? 180 graden | 180
-Welke klasse koolwaterstoffen eindigt met -OH? alcoholen
+Welke klasse koolwaterstoffen eindigt met -OH? alcoholen | alcohol
 Welke klasse koolwaterstoffen eindigt met -NH₂? aminen
-Welke klasse koolwaterstoffen bevat -O- ? ethers
+Welke klasse koolwaterstoffen bevat -O- ? ethers | ether
 met welke atomen kan een waterstof atoom een waterstofbrug vormen? :: F :: N :: O ::
 
-[esters.png]      chemie: welke klasse is dit? esters
+[esters.png]      chemie: welke klasse is dit? esters | ester
 [amiden.png]      chemie: welke klasse is dit? amiden
-[ketonen.png]     chemie: welke klasse is dit? ketonen
-[aldehyden.png]   chemie: welke klasse is dit? aldehyden
-[carbonzuren.png] chemie: welke klasse is dit? carbonzuren
+[carbonzuren.png] chemie: welke klasse is dit? carbonzuren | carbonzuur
 
 
 
@@ -396,6 +394,8 @@ condenspot = afsluiter die condensaat doorlaten, maar stoom blokkeren
 expansiebocht = vorm van leiding die lengteverandering o.i.v. temperatuur op vangt
 compensator = kan met flenzen tussen 2 stukken leiding geplaatst worden om lengteverandering op te vangen
 vlamsper = leiding accessoire die vlammen kan uitdoven
+condensaat = gecondenseerd stoom
+waterafscheider = vangt waterdruppels af die zich in het stoom bevinden
 
 hoeveel koolstof bevat staal? <2%
 hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%
@@ -422,7 +422,7 @@ Welke 2 voordelen hebben staallegeringen met veel koper? corrosieweerstand & gel
 welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen | koperlegering
 waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
 Wat is het grote voordeel van aluminium? licht (gewicht) | licht
-wat zijn de 4 voordelen van een aluminiumlegering? corrosiebestendig slijtvast vonkloos vormbaar
+wat zijn de 4 voordelen van een aluminiumlegering? :: corrosiebestendig :: slijtvast :: vonkloos :: vormbaar ::
 wanneer is aluminium ongeschikt? hoge temperaturen | hoge temperatuur
 wat is de belangrijkste eigenschap van titanium? corrosiebestendig
 wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten | duur
@@ -531,7 +531,7 @@ appendages: waarmee duiden we het totale leidingverlies aan? pw
 appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
 appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
 wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatische druk? exponentieel
-geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | condensatie | condens :: energiekosten | energie :: stollen/kristalliseren van media | kristalliseren :: spanningen door uitzetting | spanningen | spanning ::
+geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | condensatie | condens :: energiekosten | energie :: stollen/kristalliseren van media | kristalliseren | kristallisatie :: spanningen door uitzetting | spanningen | spanning ::
 hoe voorkomt men convectie en geleiding? droge lucht | lucht
 hoe voorkomt men straling? aluminium folie | aluminium
 welke 5 eisen hebben we aan isolatie materiaal? :: brandvast :: buigzaam :: lage warmtegeleidingscoefficient | geleiding :: lage massadichtheid | massadichtheid :: vormvast ::
@@ -541,6 +541,7 @@ welke 4 soorten minerale isolatiematerialen kennen we? :: glaswol :: kieselgoer 
 welke 3 soorten kunststof isolatiematerialen kennen we? :: geexpandeerd polystyreenschuim | EPS :: polystyreenschuim | XPS :: polyurethaan geextrudeerd | PUR ::
 waar moeten we voor uitkijken bij koude isolatie? ijsvorming
 welke 2 materialen kunnen er om de isolatie gewikkeld worden om ijsvorming tegen te gaan? gipsbandages kunststofbandages | gipsbandage kunststofbandage
+appendages: hoeveel meter water kolom is 1 bar? 10 meter | 10 m | 10
 
 [symbool-blindflens.png] wat geeft het symbool weer? blindflens
 [symbool-brilflens.png] wat geeft het symbool weer? brilflens
@@ -604,10 +605,16 @@ welke 2 materialen kunnen er om de isolatie gewikkeld worden om ijsvorming tegen
 
 
 
+# meet en regeltechniek
+positieve temperatuur's coëfficiënt | PTC = als bij een metaal de weerstand toeneemt bij stijgende temperatuur
+negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand afneemt bij stijgende temperatuur
+100 Ω | 100 ohm = weerstand van platina bij 0°C
+138.5 Ω | 138.5 ohm = weerstand van platina bij 100°C
+
+
 
 
 @EOF@
-pagina 121
 
 
 

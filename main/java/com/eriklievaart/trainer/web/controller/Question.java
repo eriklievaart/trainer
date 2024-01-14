@@ -1,4 +1,4 @@
-package com.eriklievaart.trainer.web;
+package com.eriklievaart.trainer.web.controller;
 
 import java.util.List;
 
@@ -7,6 +7,7 @@ import com.eriklievaart.trainer.web.answer.AnswerValidator;
 
 public class Question {
 
+	private String course;
 	private String query;
 	private String img;
 	private AnswerValidator expect;
@@ -14,6 +15,14 @@ public class Question {
 	public Question(String query, AnswerValidator expect) {
 		this.query = query;
 		this.expect = expect;
+	}
+
+	public String getCourse() {
+		return course;
+	}
+
+	public void setCourse(String course) {
+		this.course = course;
 	}
 
 	public String getQuery() {

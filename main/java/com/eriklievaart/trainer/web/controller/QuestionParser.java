@@ -1,4 +1,4 @@
-package com.eriklievaart.trainer.web;
+package com.eriklievaart.trainer.web.controller;
 
 import java.io.InputStream;
 import java.util.List;
@@ -14,9 +14,9 @@ import com.eriklievaart.trainer.web.answer.AnswerValidator;
 import com.eriklievaart.trainer.web.answer.ExpectAnyInCollection;
 import com.eriklievaart.trainer.web.answer.ExpectUnorderedList;
 
-public class Questions {
+public class QuestionParser {
 
-	public static List<Question> load(InputStream is) {
+	public static List<Question> parse(InputStream is) {
 		List<Question> result = NewCollection.list();
 
 		for (String line : new LineFilter(is).dropHash().dropBlank().eof().regexReplaceAll("\\s+", " ").trim().list()) {

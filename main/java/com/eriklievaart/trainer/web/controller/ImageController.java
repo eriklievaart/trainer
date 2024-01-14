@@ -1,4 +1,4 @@
-package com.eriklievaart.trainer.web;
+package com.eriklievaart.trainer.web.controller;
 
 import java.io.File;
 import java.io.InputStream;
@@ -11,7 +11,7 @@ import com.eriklievaart.jl.core.api.ResponseBuilder;
 import com.eriklievaart.jl.core.api.page.PageController;
 import com.eriklievaart.jl.core.api.render.InputStreamRenderer;
 import com.eriklievaart.toolkit.io.api.UrlTool;
-import com.eriklievaart.trainer.web.loader.ImageLoader;
+import com.eriklievaart.trainer.web.io.ImageLoader;
 
 public class ImageController implements PageController {
 
@@ -26,7 +26,7 @@ public class ImageController implements PageController {
 
 	@Override
 	public void invoke(ResponseBuilder response) throws Exception {
-		String resource = "_" + UrlTool.getTail(request.getRequestURI()).replaceAll("%20", " ");
+		String resource = "_" + UrlTool.getTail(UrlTool.getTail(request.getRequestURI())).replaceAll("%20", " ");
 		InputStream is = new ImageLoader(override).getInputStream(resource);
 		response.setRenderer(new InputStreamRenderer(is));
 	}

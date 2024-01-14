@@ -3,7 +3,7 @@
 <h1>question ${remaining}</h1>
 
 <#if question.img?has_content>
-	<img src="${lightning.getCurrentPath()}/${question.img}"></img>
+	<img src="/web/images/${question.course}/${question.img}"></img>
 </#if>
 
 ${question.query}<br/>

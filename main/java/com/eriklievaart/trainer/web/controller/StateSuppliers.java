@@ -1,9 +1,9 @@
-package com.eriklievaart.trainer.web;
+package com.eriklievaart.trainer.web.controller;
 
 import java.util.function.Supplier;
 
 import com.eriklievaart.toolkit.lang.api.collection.LazyMap;
-import com.eriklievaart.trainer.web.loader.QuestionLoader;
+import com.eriklievaart.trainer.web.io.QuestionLoader;
 
 public class StateSuppliers {
 

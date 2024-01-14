@@ -1,6 +1,7 @@
 package com.eriklievaart.trainer.web;
 
 import java.io.File;
+import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
@@ -13,7 +14,12 @@ import com.eriklievaart.toolkit.io.api.CheckFile;
 import com.eriklievaart.toolkit.io.api.ResourceTool;
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.logging.api.LogTemplate;
-import com.eriklievaart.trainer.web.loader.QuestionLoader;
+import com.eriklievaart.trainer.web.controller.ImageController;
+import com.eriklievaart.trainer.web.controller.IndexController;
+import com.eriklievaart.trainer.web.controller.SelectQuestioneerController;
+import com.eriklievaart.trainer.web.controller.PracticeController;
+import com.eriklievaart.trainer.web.io.CourseSelectionIO;
+import com.eriklievaart.trainer.web.io.QuestionLoader;
 
 public class Activator extends LightningActivator {
 
@@ -29,15 +35,15 @@ public class Activator extends LightningActivator {
 
 	private void createRoutes() {
 		Optional<File> override = getOverride();
+		QuestionLoader loader = new QuestionLoader(override);
+		CourseSelectionIO io = new CourseSelectionIO(getContextWrapper().getBundleParentDir());
+		List<String> index = Collections.unmodifiableList(createIndex(override));
 
-		StateSuppliers states = new StateSuppliers(new QuestionLoader(override));
-		List<String> index = createIndex(override);
 		addPageService(builder -> {
-			for (String course : index) {
-				builder.newRoute(course).mapGet(course, () -> new QuestionController(states.getSupplier(course)));
-				builder.newRoute(course + ".img").mapGet(course + "/*", () -> new ImageController(override));
-			}
-			builder.newRoute("root").mapGet("", () -> new IndexController(index));
+			builder.newRoute("root").mapGet("", () -> new SelectQuestioneerController(index, loader, io));
+			builder.newIdentityRouteGet("list", () -> new IndexController(index));
+			builder.newIdentityRouteGet("practice", () -> new PracticeController());
+			builder.newRoute("images").mapGet("images/*", () -> new ImageController(override));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));
 		});
 	}

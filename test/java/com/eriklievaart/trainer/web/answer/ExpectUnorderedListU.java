@@ -39,4 +39,16 @@ public class ExpectUnorderedListU {
 		Check.isFalse(validate.isValid("A B C"));
 		Check.isFalse(validate.isValid("A B"));
 	}
+
+	@Test
+	public void isValidOutOfOrder() {
+		ExpectUnorderedList validate = new ExpectUnorderedList(Arrays.asList("boeren|boerenkool", "sla"));
+
+		Check.isTrue(validate.isValid("boeren sla"));
+		Check.isTrue(validate.isValid("boerenkool sla"));
+		Check.isTrue(validate.isValid("sla boeren"));
+		Check.isTrue(validate.isValid("sla boerenkool"));
+
+		Check.isFalse(validate.isValid("sla kool boeren"));
+	}
 }

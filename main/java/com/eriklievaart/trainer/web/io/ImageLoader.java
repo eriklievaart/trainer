@@ -1,4 +1,4 @@
-package com.eriklievaart.trainer.web.loader;
+package com.eriklievaart.trainer.web.io;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -10,7 +10,7 @@ import com.eriklievaart.toolkit.io.api.ResourceTool;
 import com.eriklievaart.toolkit.io.api.RuntimeIOException;
 import com.eriklievaart.toolkit.io.api.UrlTool;
 import com.eriklievaart.toolkit.logging.api.LogTemplate;
-import com.eriklievaart.trainer.web.Questions;
+import com.eriklievaart.trainer.web.controller.QuestionParser;
 
 public class ImageLoader {
 	private LogTemplate log = new LogTemplate(getClass());
@@ -23,7 +23,7 @@ public class ImageLoader {
 
 	public InputStream getInputStream(String resource) {
 		if (!override.isPresent()) {
-			return ResourceTool.getInputStream(Questions.class, UrlTool.append("/web/questions/", resource));
+			return ResourceTool.getInputStream(QuestionParser.class, UrlTool.append("/web/questions/", resource));
 		}
 		try {
 			File file = new File(override.get(), resource);

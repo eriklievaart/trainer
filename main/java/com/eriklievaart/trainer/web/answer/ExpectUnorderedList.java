@@ -1,5 +1,6 @@
 package com.eriklievaart.trainer.web.answer;
 
+import java.util.Arrays;
 import java.util.List;
 
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
@@ -25,7 +26,7 @@ public class ExpectUnorderedList extends AbstractAnswerValidator {
 
 		outer: while (!expect.isEmpty()) {
 			for (int e = 0; e < expect.size(); e++) {
-				for (String alternative : expect.get(e).split("\\|")) {
+				for (String alternative : getAlternativesLongestFirst(expect.get(e))) {
 					if (remaining.startsWith(alternative)) {
 						expect.remove(e);
 						remaining = remaining.substring(alternative.length());
@@ -36,5 +37,9 @@ public class ExpectUnorderedList extends AbstractAnswerValidator {
 			return false;
 		}
 		return Str.isEmpty(strip(remaining));
+	}
+
+	private List<String> getAlternativesLongestFirst(String appel) {
+		return ListTool.sortedCopy(Arrays.asList(appel.split("\\|")), (a, b) -> b.length() - a.length());
 	}
 }
