@@ -14,24 +14,21 @@
 <br/>
 
 
-
-
-
 <script>
+var next = ${timestamp};
 document.getElementById('refresh').href = window.location.href.replace(/[?].*/, '');
 
 function timestamp() {
-	fetch('/web/timestamp').then(response => {
-		if(response.ok) {
-			return (response.text());
-		}
-	}).then(text => {
-		if(text === "refresh") {
-			document.getElementById("refresh").click();
-		} else {
-			document.getElementById('js').innerHTML = text;
-		}
-	});
+
+	var now = Date.now();
+	var diff = next - now;
+	var seconds = Math.ceil(diff / 1000);
+
+	if(diff < 0) {
+		document.getElementById("refresh").click();
+	} else {
+		document.getElementById("js").innerHTML = "next question in " + seconds + "s";
+	}
 }
 
 setInterval(timestamp, 1000);

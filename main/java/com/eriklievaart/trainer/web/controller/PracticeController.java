@@ -48,6 +48,7 @@ public class PracticeController extends AbstractTemplateController {
 		model.putIfAbsent("mismatch", false);
 
 		if (state.current.isEmpty()) {
+			model.put("timestamp", "" + state.getWaitTimestamp());
 			setTemplate("/web/freemarker/complete.ftlh");
 
 		} else {
