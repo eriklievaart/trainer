@@ -11,7 +11,11 @@ public class Progress {
 
 	public void correct() {
 		lastRight = System.currentTimeMillis();
-		calculateValidUntil();
+		if (lastWrong == 0) {
+			lastWrong = lastRight - 5 * TimestampTool.ONE_MINUTE;
+		}
+		long timePassed = lastRight - lastWrong;
+		validUntil = lastRight + randomize(timePassed);
 	}
 
 	public void incorrect() {
@@ -22,16 +26,6 @@ public class Progress {
 	private long randomize(long fixed) {
 		double random = (4 * Math.random() + 1) * fixed;
 		return (long) random;
-	}
-
-	private void calculateValidUntil() {
-		long now = System.currentTimeMillis();
-
-		if (lastWrong == 0) {
-			lastWrong = now - 5 * TimestampTool.ONE_MINUTE;
-		}
-		long timePassed = lastRight - lastWrong;
-		validUntil = lastRight + randomize(timePassed);
 	}
 
 	public boolean skip() {

@@ -293,7 +293,7 @@ Welke klasse koolwaterstoffen bevat -O- ? ethers | ether
 met welke atomen kan een waterstof atoom een waterstofbrug vormen? :: F :: N :: O ::
 
 [esters.png]      chemie: welke klasse is dit? esters | ester
-[amiden.png]      chemie: welke klasse is dit? amiden
+[amiden.png]      chemie: welke klasse is dit? amiden | amide
 [carbonzuren.png] chemie: welke klasse is dit? carbonzuren | carbonzuur
 
 
@@ -338,7 +338,7 @@ mm = eenheid van de DN
 inch = eenheid van de NPS
 mofverbinding = verbinding tussen appendages, waarbij een buiseinde om de ander heen schuift
 flensverbinding = verbinding tussen appendages, waarbij bouten en moeren gebruikt worden
-blindplaat = flens plaat die op een vrije flens wordt geplaatst om een leiding af te dichten
+blindplaat | blindflens = flens plaat die op een vrije flens wordt geplaatst om een leiding af te dichten
 steekflens = gesloten flens plaat met een uitstekende stang
 brilflens = flens plaat met een open kant en een dichte kant
 o-ringen | o ringen | o-ring | o ring = cirkelvormige afdichtingen vervaardigd uit een elastisch materiaal

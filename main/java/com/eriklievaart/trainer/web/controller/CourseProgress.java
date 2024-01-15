@@ -97,4 +97,8 @@ public class CourseProgress {
 		}
 		return timestamp;
 	}
+
+	public void addMissingFields(WhiteboxVO vo) {
+		vo.setValidUntil(progression.get(vo.getHash()).validUntil);
+	}
 }

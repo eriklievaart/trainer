@@ -1,5 +1,6 @@
 package com.eriklievaart.trainer.web.controller;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -96,5 +97,15 @@ public class State {
 
 	public List<String> getCourses() {
 		return Collections.unmodifiableList(courses);
+	}
+
+	public List<WhiteboxVO> createWhitebox() {
+		List<WhiteboxVO> result = new ArrayList<>();
+		for (Question question : questions) {
+			WhiteboxVO vo = new WhiteboxVO(question);
+			getProgress(question).addMissingFields(vo);
+			result.add(vo);
+		}
+		return ListTool.sortedCopy(result);
 	}
 }
