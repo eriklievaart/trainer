@@ -11,4 +11,6 @@
 
 <hr>
 
+<a href="${lightning.getRemotePath('web', 'whitebox')}">whitebox</a>
+
 <#include "footer.ftlh"/>

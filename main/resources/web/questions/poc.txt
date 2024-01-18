@@ -436,7 +436,7 @@ Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? 
 waarvoor worden fluorelastomeren vooral gebruikt? afdichtingen | afdichting
 wat zijn de 2 grote voordelen van fluorelastomeren? inertie & temperatuurbestendig | inertie temperatuurbestendig | inert & temperatuurbestendigheid | inert temperatuurbestendigheid | corrosiebestendig & temperatuurbestendigheid | inert temperatuurbestendig | inert & temperatuurbestendigheid | corrosiebestendig temperatuurbestendig
 Materiaal gevormd door verhitting en/of druk van minimaal 2 elementen, waarvan minimaal 1 niet metaal? keramisch materiaal | keramisch
-welke 3 positieve eigenschappen hebben keramische materialen? hard, hittebestendig & slijtvast | hard hittebestendig slijtvast | hard, warmtebestendig & slijtvast | hard warmtebestendig slijtvast | hard, temperatuurbestendig & slijtvast | hard temperatuurbestendig slijtvast | hard, slijtvast & temperatuurbestendig | hard slijtvast temperatuurbestendig
+welke 3 positieve eigenschappen hebben keramische materialen? :: hard :: hittebestendig|temperatuurbestendig|warmtebestendig :: slijtvast ::
 welk nadeel heeft keramisch materiaal? bros
 op welke 3 manieren kunnen we corrosiebescherming realiseren? beschermende laag, legering, kathodische bescherming | beschermende laag legering kathodische bescherming | laag legering kathodisch
 welke 3 soorten lagen kunnen corrosiebescherming geven? coating, metaallaag, oxidelaag | coating metaallaag oxidelaag | coating metaal oxide
@@ -610,6 +610,25 @@ positieve temperatuur's coëfficiënt | PTC = als bij een metaal de weerstand to
 negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand afneemt bij stijgende temperatuur
 100 Ω | 100 ohm = weerstand van platina bij 0°C
 138.5 Ω | 138.5 ohm = weerstand van platina bij 100°C
+storing | verstoring = m&r: iets wat het evenwicht in een geregeld systeem ontwricht
+gemeten waarde | process value = m&r: waarde die uit de sensor terug komt
+gewenste waarde | wanted value = m&r: waarde waarvan de gebruiker aangeeft dat het het doel is
+regelaar | controller = m&r: vergelijkt gemeten waarde met de gewenste waarde en stuurt bij indien nodig
+stuurwaarde | regelwaarde = m&r: waarde van het signaal van de regelaar naar het corrigerende orgaan
+corrigend orgaan = m&r: apparaat wat de waarde die door de sensor wordt gemeten kan beinvloeden
+regeltechniek = omvat alle technologie en wetenschap van de volledige regelkring
+proportionele band | PB = bereik rond de gewenste waarde waarbinnen een regelaar zich als continue regelaar gedraagt
+
+Is meettechniek een onderdeel van regeltechniek? ja
+Is regeltechniek een onderdeel van meettechniek? nee
+Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe process stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
+Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust ::
+welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
+welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
+welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen :: goedkoper | goedkoop ::
+welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
+welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
+welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
 
 
 
