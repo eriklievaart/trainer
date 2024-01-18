@@ -611,13 +611,17 @@ negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand af
 100 Ω | 100 ohm = weerstand van platina bij 0°C
 138.5 Ω | 138.5 ohm = weerstand van platina bij 100°C
 storing | verstoring = m&r: iets wat het evenwicht in een geregeld systeem ontwricht
-gemeten waarde | process value = m&r: waarde die uit de sensor terug komt
-gewenste waarde | wanted value = m&r: waarde waarvan de gebruiker aangeeft dat het het doel is
+gemeten waarde | werkelijke waarde | process value = m&r: waarde die uit de sensor terug komt
+gewenste waarde | instelwaarde | wanted value = m&r: waarde waarvan de gebruiker aangeeft dat het het doel is
 regelaar | controller = m&r: vergelijkt gemeten waarde met de gewenste waarde en stuurt bij indien nodig
 stuurwaarde | regelwaarde = m&r: waarde van het signaal van de regelaar naar het corrigerende orgaan
 corrigend orgaan = m&r: apparaat wat de waarde die door de sensor wordt gemeten kan beinvloeden
 regeltechniek = omvat alle technologie en wetenschap van de volledige regelkring
 proportionele band | PB = bereik rond de gewenste waarde waarbinnen een regelaar zich als continue regelaar gedraagt
+open regelsysteem = systeem welke niet de proceswaarde meet, maar wel de storing
+stuursysteem = systeem waar de stuurwaarde alleen op basis van de gewenste waarde wordt bepaald; er vindt geen terugkoppeling plaats
+gesloten regelkring | gesloten regelsysteem = systeem waar de stuurwaarde op basis van de gemeten waarde wordt bepaald; er vindt terugkoppeling plaats
+transmitter = dit apparaat zet de sensorwaarde om in een standaardsignaal
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -629,8 +633,13 @@ welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseise
 welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
 welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
-
-
+welke 2 voordelen heeft een stuursysteem? :: goedkoop :: eenvoudig | simpel | complexiteit ::
+welk nadeel heeft een stuursysteem? gebrek aan controle | controle
+welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: meting :: sturing ::
+welk nadeel heeft een gesloten regelkring? sturing begint pas nadat de fout zich voor doet | fouten | fout
+welke 2 voordelen heeft een gesloten regelkring? :: alle fouten worden weggeregeld | alle fouten :: kan complexe processen regelen | complexe processen | complex ::
+welke 2 voordelen heeft het gebruik van stroom t.o.v. spanning als stuursignaal? :: minder storingsgevoelig | storingsgevoeligheid :: ongevoelig voor spanningsval | spanningsval ::
+welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie :: de transmitter heeft stroom nodig | transmitter ::
 
 
 @EOF@
