@@ -439,7 +439,7 @@ Materiaal gevormd door verhitting en/of druk van minimaal 2 elementen, waarvan m
 welke 3 positieve eigenschappen hebben keramische materialen? :: hard :: hittebestendig|temperatuurbestendig|warmtebestendig :: slijtvast ::
 welk nadeel heeft keramisch materiaal? bros
 op welke 3 manieren kunnen we corrosiebescherming realiseren? beschermende laag, legering, kathodische bescherming | beschermende laag legering kathodische bescherming | laag legering kathodisch
-welke 3 soorten lagen kunnen corrosiebescherming geven? coating, metaallaag, oxidelaag | coating metaallaag oxidelaag | coating metaal oxide
+welke 3 soorten lagen kunnen corrosiebescherming geven? :: coating :: metaallaag|metaal :: oxidelaag|oxide ::
 noem 2 processen die een metaallaag op een ander metaal aanbrengen om corrosie tegen te gaan? verzinken & verchromen | galvaniseren & verchromen | verzinken verchromen | galvaniseren verchromen | verchromen verzinken
 welke 3 dingen zijn er benodigd voor corrosie? kathode anode elektrolyt | anode elektrolyt kathode
 wat is de formule voor het berekenen van de pH? pH = -log[H⁺] | pH = -log[H+]
@@ -615,7 +615,7 @@ gemeten waarde | werkelijke waarde | process value = m&r: waarde die uit de sens
 gewenste waarde | instelwaarde | wanted value = m&r: waarde waarvan de gebruiker aangeeft dat het het doel is
 regelaar | controller = m&r: vergelijkt gemeten waarde met de gewenste waarde en stuurt bij indien nodig
 stuurwaarde | regelwaarde = m&r: waarde van het signaal van de regelaar naar het corrigerende orgaan
-corrigend orgaan = m&r: apparaat wat de waarde die door de sensor wordt gemeten kan beinvloeden
+corrigerend orgaan = m&r: apparaat wat de waarde die door de sensor wordt gemeten kan beinvloeden
 regeltechniek = omvat alle technologie en wetenschap van de volledige regelkring
 proportionele band | PB = bereik rond de gewenste waarde waarbinnen een regelaar zich als continue regelaar gedraagt
 open regelsysteem = systeem welke niet de proceswaarde meet, maar wel de storing
@@ -625,21 +625,21 @@ transmitter = dit apparaat zet de sensorwaarde om in een standaardsignaal
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
-Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe process stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
+Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
 Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust ::
 welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
 welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
-welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen :: goedkoper | goedkoop ::
+welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
 welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
 welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
 welke 2 voordelen heeft een stuursysteem? :: goedkoop :: eenvoudig | simpel | complexiteit ::
 welk nadeel heeft een stuursysteem? gebrek aan controle | controle
-welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: meting :: sturing ::
+welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: gemeten waarde | meting :: stuurwaarde | sturende waarde | sturing ::
 welk nadeel heeft een gesloten regelkring? sturing begint pas nadat de fout zich voor doet | fouten | fout
 welke 2 voordelen heeft een gesloten regelkring? :: alle fouten worden weggeregeld | alle fouten :: kan complexe processen regelen | complexe processen | complex ::
-welke 2 voordelen heeft het gebruik van stroom t.o.v. spanning als stuursignaal? :: minder storingsgevoelig | storingsgevoeligheid :: ongevoelig voor spanningsval | spanningsval ::
-welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie :: de transmitter heeft stroom nodig | transmitter ::
+welke 2 voordelen heeft het gebruik van stroom t.o.v. spanning als stuursignaal? :: minder storingsgevoelig | storingsgevoeligheid | storingen | storing :: ongevoelig voor spanningsval | spanningsval ::
+welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie | fouten :: de transmitter heeft stroom nodig | transmitter ::
 
 
 @EOF@
