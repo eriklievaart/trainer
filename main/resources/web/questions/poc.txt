@@ -622,6 +622,16 @@ open regelsysteem = systeem welke niet de proceswaarde meet, maar wel de storing
 stuursysteem = systeem waar de stuurwaarde alleen op basis van de gewenste waarde wordt bepaald; er vindt geen terugkoppeling plaats
 gesloten regelkring | gesloten regelsysteem = systeem waar de stuurwaarde op basis van de gemeten waarde wordt bepaald; er vindt terugkoppeling plaats
 transmitter = dit apparaat zet de sensorwaarde om in een standaardsignaal
+omvormer = dit component zet de stuurwaarde om in een sterkere mechanische kracht
+actuator | positioner = krachtig corrigerend orgaan om een grote klep aan te sturen
+vesterkingsfactor = hoe sterk een kleine bijsturing op het corrigerend orgaan effect heeft op wat de sensor meet
+tijdsconstante = hoe snel een proces reageert op bijsturing
+dode tijd = hoe lang duurt het voordat een bijsturing een verandering bij de sensor veroorzaakt
+staaf thermometer = type thermometer welke de uitzetting van een stuk metaal gebruikt om de temperatuur te meten
+bimetaal thermometer = type thermometer welke het verschil in uitzetting tussen twee metalen gebruikt om de temperatuur te meten
+uizettingscoëfficiënt | uitzettingscoefficient = de mate waarin een metaal uitzet onder invloed van temperatuurswijzigingen
+capillair = glazen buis van een vloeistofthermometer met lineaire schaal voor het aflezen van de temperatuur
+
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -640,6 +650,18 @@ welk nadeel heeft een gesloten regelkring? sturing begint pas nadat de fout zich
 welke 2 voordelen heeft een gesloten regelkring? :: alle fouten worden weggeregeld | alle fouten :: kan complexe processen regelen | complexe processen | complex ::
 welke 2 voordelen heeft het gebruik van stroom t.o.v. spanning als stuursignaal? :: minder storingsgevoelig | storingsgevoeligheid | storingen | storing :: ongevoelig voor spanningsval | spanningsval ::
 welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie | fouten :: de transmitter heeft stroom nodig | transmitter ::
+is de instelwaarde x,y of w? w
+is de gewenste waarde x,y of w? w
+is de set point x,y of w? w
+is de werkelijke waarde x,y of w? x
+is de gemeten waarde x,y of w? x
+is de process value x,y of w? x
+is de regelwaarde x,y of w? y
+is de stuurwaarde x,y of w? y
+hoe noemen we x-w? de fout | fout
+waarin onderscheiden processen zich? :: type proces | type :: versterkingsfactor :: tijdsconstante :: dode tijd ::
+waar worden glazen vloeistofthermometers vooral gebruikt? laboratoria
+waar worden glazen vloeistofthermometers eigenlijk nooit gebruikt? industrie
 
 
 @EOF@
