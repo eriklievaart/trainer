@@ -662,7 +662,17 @@ hoe noemen we x-w? de fout | fout
 waarin onderscheiden processen zich? :: type proces | type :: versterkingsfactor :: tijdsconstante :: dode tijd ::
 waar worden glazen vloeistofthermometers vooral gebruikt? laboratoria
 waar worden glazen vloeistofthermometers eigenlijk nooit gebruikt? industrie
-
+wat voor metalen worden gebruikt bij weerstand thermometers? PTCs | PTC
+welke thermometer bestaat uit een dunne platina draad in een glasstaaf? weerstandsthermometer
+welke thermometer bestaat uit 2 aan elkaar gelaste metalen of legeringen? thermokoppel
+welke 2 voordelen heeft een platina thermometer? :: nauwkeurig :: stabiel ::
+welk nadeel heeft een platina thermometer? sterkte
+welk voordeel heeft een thermokoppel? hoge temperaturen | hoge temperatuur
+welk nadeel heeft een thermokoppel? slechte stabiliteit | stabiliteit
+welke thermometer werkt met een lens en een thermokoppel? stralingspyrometer
+welke thermometer vergelijkt de lichtstraling van een object met de lichtsterkte van een gloeidraad? optische pyrometer
+wat is een eenvoudige maar dure manier om temperatuur zichtbaar te maken? infrarood camera
+welk object wordt in een oven geplaatst ter indicatie van de temperatuur en hoe lang die behouden wordt? smeltlichaam | smeltkegel
 
 @EOF@
 
