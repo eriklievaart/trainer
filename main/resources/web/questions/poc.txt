@@ -176,7 +176,7 @@ conductoren hebben een hogere/lagere k-waarde? hogere
 isolatoren hebben een hogere/lagere k-waarde? lagere
 laminaire stromingen hebben een goede/slechte warmtewisseling? slechte
 turbulente stromingen hebben een goede/slechte warmtewisseling? goede
-welke 4 parameters spelen een rol in de aard van een stroming? v, η, ρ, D | stromingssnelheid, viscositeit, soortelijke massa, diameter | stromingssnelheid viscositeit soortelijke massa diameter | diameter dichtheid stromingssnelheid viscositeit | diameter soortelijke massa stromingssnelheid viscositeit
+welke 4 parameters spelen een rol in de aard van een stroming? :: stromingssnelheid :: viscositeit :: dichtheid | soortelijke massa :: diameter ::
 wat zijn de 3 soorten warmtewisseling? convectie geleiding straling
 
 warmte = maat van kinetische energie van moleculen
@@ -245,7 +245,6 @@ ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar ande
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
 optische isomeren | optische isomeer = stoffen met dezelfde chemische formule, welke mekaars spiegelbeeld zijn
 cis-trans isomeren | cis trans isomeren | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
-van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 additie = iets toevoegen aan een organische keten
 substitutie = een deel van een organische keten vervangen
 eliminatie = een deel van een organische keten verwijderen
@@ -404,7 +403,7 @@ welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onl
 Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5 | <1.5%
 welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid | bros hard | hard bros
 welk staal is het meest gebruikt? ongelegeerd staal | ongelegeerd
-welke 2 positive eigenschappen heeft ongelegeerd staal? bewerkbaar & goedkoop | bewerkbaar goedkoop
+welke 2 positive eigenschappen heeft ongelegeerd staal? :: bewerkbaar | vormbaar :: goedkoop ::
 Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
 welke eigenschap heeft chroom geleerd staal? corrosiebestendig
 onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur | hoge lage temperatuur
@@ -434,7 +433,7 @@ welke beperking heeft teflon? temperatuurgevoelig | temperatuur
 vanaf hoeveel graden heeft teflon kwaliteitsverlies? 260 graden | 260
 Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? fluorelastomeren
 waarvoor worden fluorelastomeren vooral gebruikt? afdichtingen | afdichting
-wat zijn de 2 grote voordelen van fluorelastomeren? inertie & temperatuurbestendig | inertie temperatuurbestendig | inert & temperatuurbestendigheid | inert temperatuurbestendigheid | corrosiebestendig & temperatuurbestendigheid | inert temperatuurbestendig | inert & temperatuurbestendigheid | corrosiebestendig temperatuurbestendig
+wat zijn de 2 grote voordelen van fluorelastomeren? :: corrosiebestendig | inertie | inert :: temperatuurbestendig | temperatuursbestendig | temperatuurbestendigheid | temperatuursbestendigheid ::
 Materiaal gevormd door verhitting en/of druk van minimaal 2 elementen, waarvan minimaal 1 niet metaal? keramisch materiaal | keramisch
 welke 3 positieve eigenschappen hebben keramische materialen? :: hard :: hittebestendig|temperatuurbestendig|warmtebestendig :: slijtvast ::
 welk nadeel heeft keramisch materiaal? bros
@@ -472,7 +471,7 @@ hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
 wat is de meest gebruikte pijpverbindingsmethode? lassen
 wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
 wat is het grote voordeel van gegroefde prenten? drukbestendig
-welke 4 belastingen moet men in acht nemen bij afdichting van appendages? beweging, chemische belasting, mechanische belasting, thermische belasting | beweging chemische belasting mechanische belasting thermische belasting | beweging chemische mechanische thermische | beweging chemisch mechanisch thermisch | beweging chemische druk thermische | beweging chemisch druk thermisch
+welke 4 belastingen moet men in acht nemen bij afdichting van appendages? :: beweging :: chemische | chemisch :: mechanische | mechanisch | druk :: thermische | thermisch ::
 waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal | metalen ring & vulmateriaal | metalen ring vulmateriaal
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
 zachte dichtingen worden uit welke 3 materialen gemaakt? :: asbest :: grafiet :: PTFE|teflon ::
@@ -481,7 +480,7 @@ welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk t
 welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? katoen nylon
 wat wordt er aan rubberen slangen toegevoegd om extra hoge mechanische belasting aan te kunnen? staaldraad
 wat is het grote voordeel van kunststof slangen? inertie | inert
-welke 2 soorten metalen slangen zijn er? gevlochten slangen & gewikkelde slangen | gevlochten slangen gewikkelde slangen | gevlochten gewikkeld
+welke 2 soorten metalen slangen zijn er? :: gevlochten :: gewikkeld ::
 Welke 3 aspecten van een flexibel moeten gecontroleerd worden voor gebruik? binnenkant buitenkant koppeling
 Welke 4 zaken moet men op letten bij aansluiten van een flexibel? aarding drukschokken PBM torsie
 Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | druk
@@ -635,7 +634,7 @@ welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om m
 welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
 welke 2 voordelen heeft een stuursysteem? :: goedkoop :: eenvoudig | simpel | complexiteit ::
 welk nadeel heeft een stuursysteem? gebrek aan controle | controle
-welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: gemeten waarde | meting :: stuurwaarde | sturende waarde | sturing ::
+welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: gemeten waarde | werkelijke waarde | meting :: stuurwaarde | sturende waarde | sturing ::
 welk nadeel heeft een gesloten regelkring? sturing begint pas nadat de fout zich voor doet | fouten | fout
 welke 2 voordelen heeft een gesloten regelkring? :: alle fouten worden weggeregeld | alle fouten :: kan complexe processen regelen | complexe processen | complex ::
 welke 2 voordelen heeft het gebruik van stroom t.o.v. spanning als stuursignaal? :: minder storingsgevoelig | storingsgevoeligheid | storingen | storing :: ongevoelig voor spanningsval | spanningsval ::
@@ -666,7 +665,8 @@ welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0
 
 
 
-
+# chemie
+van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 
 
 
