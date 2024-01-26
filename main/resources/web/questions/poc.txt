@@ -130,7 +130,7 @@ onveilige situatie = een situatie waar niet aan de voorwaarden voor veilig werke
 welke wetgeving heeft als aandachtspunten uitstoot en afvalverwerking? milieuwetgeving
 welke wetgeving stelt minimale rusttijden en maximale arbeidstijden vast? arbeidstijdenwetgeving
 waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk beschermingsmiddel
-wat zijn de 3 elementen van een arbeidsongeval? gebeurtenis, letsel, relatie | gebeurtenis letsel relatie
+wat zijn de 3 elementen van een arbeidsongeval? :: gebeurtenis :: letsel :: relatie ::
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
 welke 4 dingen te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies | meld chef neem maatregelen blijf af volg instructies | meld chef blijf af neem maatregelen volg instructies
@@ -534,8 +534,8 @@ geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | con
 hoe voorkomt men convectie en geleiding? droge lucht | lucht
 hoe voorkomt men straling? aluminium folie | aluminium
 welke 5 eisen hebben we aan isolatie materiaal? :: brandvast :: buigzaam :: lage warmtegeleidingscoefficient | geleiding :: lage massadichtheid | massadichtheid :: vormvast ::
-welke 3 soorten isolatiematerialen hebben we? dierlijk mineralen kunststoffen | dierlijk mineraal kunststof
-Welk temperatuur bereik heeft dierlijk en plantaardig isolatie materiaal? 0 tot 100 graden | 0 100
+welke 3 soorten isolatiematerialen hebben we? :: dierlijk :: mineralen|mineraal :: kunststoffen|kunststof ::
+Welk temperatuur bereik heeft dierlijk en plantaardig isolatie materiaal? 0 tot 100 graden | 0-100 C | 0 100 C | 0-100 | 0 100
 welke 4 soorten minerale isolatiematerialen kennen we? :: glaswol :: kieselgoer :: slakkenwol :: steenwol ::
 welke 3 soorten kunststof isolatiematerialen kennen we? :: geexpandeerd polystyreenschuim | EPS :: polystyreenschuim | XPS :: polyurethaan geextrudeerd | PUR ::
 waar moeten we voor uitkijken bij koude isolatie? ijsvorming
@@ -623,24 +623,25 @@ gesloten regelkring | gesloten regelsysteem = systeem waar de stuurwaarde op bas
 transmitter = dit apparaat zet de sensorwaarde om in een standaardsignaal
 omvormer = dit component zet de stuurwaarde om in een sterkere mechanische kracht
 actuator | positioner = krachtig corrigerend orgaan om een grote klep aan te sturen
-vesterkingsfactor = hoe sterk een kleine bijsturing op het corrigerend orgaan effect heeft op wat de sensor meet
+versterkingsfactor = hoe sterk een kleine bijsturing op het corrigerend orgaan effect heeft op wat de sensor meet
 tijdsconstante = hoe snel een proces reageert op bijsturing
 dode tijd = hoe lang duurt het voordat een bijsturing een verandering bij de sensor veroorzaakt
 staaf thermometer = type thermometer welke de uitzetting van een stuk metaal gebruikt om de temperatuur te meten
 bimetaal thermometer = type thermometer welke het verschil in uitzetting tussen twee metalen gebruikt om de temperatuur te meten
 uizettingscoëfficiënt | uitzettingscoefficient = de mate waarin een metaal uitzet onder invloed van temperatuurswijzigingen
 capillair = glazen buis van een vloeistofthermometer met lineaire schaal voor het aflezen van de temperatuur
-
+Kelvin | K = SI eenheid voor temperatuur
+-100 1000 = een staafthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-40 600 = een bimetaal thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-180 700 = een glazen vloeistof thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-200 800 = een weerstandsthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
-Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
-Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust ::
 welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
-welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
 welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
 welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
-welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
 welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
 welke 2 voordelen heeft een stuursysteem? :: goedkoop :: eenvoudig | simpel | complexiteit ::
 welk nadeel heeft een stuursysteem? gebrek aan controle | controle
@@ -672,6 +673,9 @@ welke thermometer werkt met een lens en een thermokoppel? stralingspyrometer
 welke thermometer vergelijkt de lichtstraling van een object met de lichtsterkte van een gloeidraad? optische pyrometer
 wat is een eenvoudige maar dure manier om temperatuur zichtbaar te maken? infrarood camera
 welk object wordt in een oven geplaatst ter indicatie van de temperatuur en hoe lang die behouden wordt? smeltlichaam | smeltkegel
+wat is de formule om celcius om te zetten in farenheit? F = 32 + 9/5 C
+waar staat PT100 voor? PTC thermometer 100 ohm
+
 
 @EOF@
 
@@ -702,6 +706,12 @@ van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool
 
 
 
+
+# M&R
+welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
+Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
+Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust ::
+welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
 
 
 

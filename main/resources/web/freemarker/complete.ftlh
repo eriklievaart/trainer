@@ -35,7 +35,8 @@ function timestamp() {
 	}
 
 	if(diff < 0) {
-		document.getElementById("refresh").click();
+		document.getElementById("js").innerHTML = "new question available";
+		document.getElementById("refresh").focus();
 	} else {
 		document.getElementById("js").innerHTML = "next question in " + label;
 	}
