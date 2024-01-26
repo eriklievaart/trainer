@@ -636,6 +636,10 @@ Kelvin | K = SI eenheid voor temperatuur
 -180 700 = een glazen vloeistof thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 -200 800 = een weerstandsthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 -270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+kleurstiften | kleurstift = apparaat waarmee kleurstof aangebracht kan worden die verkleurt bij een bepaalde temperatuur
+zero instelling | offset = signaal bij de laagste meetwaarde
+span | gain | range = verschil tussen de maximale en minimale gemeten waarden
+spaninstelling = signaal bij de hoogste meetwaarde
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -675,6 +679,9 @@ wat is een eenvoudige maar dure manier om temperatuur zichtbaar te maken? infrar
 welk object wordt in een oven geplaatst ter indicatie van de temperatuur en hoe lang die behouden wordt? smeltlichaam | smeltkegel
 wat is de formule om celcius om te zetten in farenheit? F = 32 + 9/5 C
 waar staat PT100 voor? PTC thermometer 100 ohm
+waar staat HART voor? highway adressable remote remote transducer
+wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen :: meetwaarden | meetwaarde | metingen | meting ::
+
 
 
 @EOF@
