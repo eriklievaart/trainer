@@ -533,7 +533,7 @@ wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatisc
 geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | condensatie | condens :: energiekosten | energie :: stollen/kristalliseren van media | kristalliseren | kristallisatie :: spanningen door uitzetting | spanningen | spanning ::
 hoe voorkomt men convectie en geleiding? droge lucht | lucht
 hoe voorkomt men straling? aluminium folie | aluminium
-welke 5 eisen hebben we aan isolatie materiaal? :: brandvast :: buigzaam :: lage warmtegeleidingscoefficient | geleiding :: lage massadichtheid | massadichtheid :: vormvast ::
+welke 5 eisen hebben we aan isolatie materiaal? :: brandvast :: buigzaam :: lage warmtegeleidingscoefficient | geleiding :: lage massadichtheid | massadichtheid | soortelijke massa :: vormvast ::
 welke 3 soorten isolatiematerialen hebben we? :: dierlijk :: mineralen|mineraal :: kunststoffen|kunststof ::
 Welk temperatuur bereik heeft dierlijk en plantaardig isolatie materiaal? 0 tot 100 graden | 0-100 C | 0 100 C | 0-100 | 0 100
 welke 4 soorten minerale isolatiematerialen kennen we? :: glaswol :: kieselgoer :: slakkenwol :: steenwol ::
@@ -625,7 +625,7 @@ omvormer = dit component zet de stuurwaarde om in een sterkere mechanische krach
 actuator | positioner = krachtig corrigerend orgaan om een grote klep aan te sturen
 versterkingsfactor = hoe sterk een kleine bijsturing op het corrigerend orgaan effect heeft op wat de sensor meet
 tijdsconstante = hoe snel een proces reageert op bijsturing
-dode tijd = hoe lang duurt het voordat een bijsturing een verandering bij de sensor veroorzaakt
+dode tijd = hoe lang het duurt voordat een bijsturing een verandering bij de sensor veroorzaakt
 staaf thermometer = type thermometer welke de uitzetting van een stuk metaal gebruikt om de temperatuur te meten
 bimetaal thermometer = type thermometer welke het verschil in uitzetting tussen twee metalen gebruikt om de temperatuur te meten
 uizettingscoëfficiënt | uitzettingscoefficient = de mate waarin een metaal uitzet onder invloed van temperatuurswijzigingen
@@ -638,7 +638,7 @@ Kelvin | K = SI eenheid voor temperatuur
 -270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 kleurstiften | kleurstift = apparaat waarmee kleurstof aangebracht kan worden die verkleurt bij een bepaalde temperatuur
 zero instelling | offset = signaal bij de laagste meetwaarde
-span | gain | range = verschil tussen de maximale en minimale gemeten waarden
+span | gain | range = verschil tussen de minimale en maximale gemeten waarden
 spaninstelling = signaal bij de hoogste meetwaarde
 
 Is meettechniek een onderdeel van regeltechniek? ja
@@ -679,7 +679,7 @@ wat is een eenvoudige maar dure manier om temperatuur zichtbaar te maken? infrar
 welk object wordt in een oven geplaatst ter indicatie van de temperatuur en hoe lang die behouden wordt? smeltlichaam | smeltkegel
 wat is de formule om celcius om te zetten in farenheit? F = 32 + 9/5 C
 waar staat PT100 voor? PTC thermometer 100 ohm
-waar staat HART voor? highway adressable remote remote transducer
+waar staat HART voor? highway adressable remote transducer
 wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen :: meetwaarden | meetwaarde | metingen | meting ::
 
 
