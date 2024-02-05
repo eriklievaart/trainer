@@ -776,6 +776,27 @@ waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde v
 
 
 
+# scheidingstechnieken
+cohesie = algemene naam voor de aantrekkingskracht tussen deeltjes van een stof
+zeer groot = cohesie van een vaste stof
+groot = cohesie van een vloeistof
+geen = cohesie van een gas
+kritisch punt = de hoogste druk waarbij nog een gas van een bepaaldestof voor kan komen
+enkelvoudige stof = stof die uit één element bestaat
+samengestelde stof = stof die uit verschillende elementen bestaat
+zuivere stoffen | zuivere stof = stof die vaste (getabelleerde) fysische constanten bezit
+:: bloed :: melk :: plantensap :: = 3 voorbeelden van colloïdale mengsels
+emulgatoren| emulgator = soort stof die emulsies stabiel maakt
+absorptie = oplossen van een gas in een vloeistof
+
+welke eigenschap heeft een homogeen mengsel? helder
+welke eigenschap heeft een heterogeen mengsel? troebel
+wat is de deeltjes grootte van suspensies en emulsies? 10⁻⁷ tot en met 10⁻⁶ m | 100 nm tot en met 1000 nm | 100 nm 1000 nm
+wat is de deeltjes grootte van grove mensels? > 1 μm | > 1 micrometer | > 1000 nm
+welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: twee vloeistoffen | vloeistofmengsel :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | vaste stof vloeistof ::
+hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopisch homogeen
+hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
+
 
 
 
