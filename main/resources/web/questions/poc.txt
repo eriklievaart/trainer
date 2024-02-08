@@ -134,7 +134,7 @@ wat zijn de 3 elementen van een arbeidsongeval? :: gebeurtenis :: letsel :: rela
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
 welke 4 dingen te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies | meld chef neem maatregelen blijf af volg instructies | meld chef blijf af neem maatregelen volg instructies
-welke 4 dingen te doen bij een onveilige situatie? neem oorzaak weg, scherm af, waarschuw, meld chef | neem oorzaak weg scherm af waarschuw meld chef | neem oorzaak weg, zet af, waarschuw, meld chef | neem oorzaak weg zet af waarschuw meld chef
+welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg :: scherm af | zet af :: waarschuw :: meld chef ::
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
 Onder invloed van alcohol of drugs is de kans op ongevallen ___ - ___ keer hoger? 2-4 | 2 4
@@ -317,7 +317,6 @@ poly tetra fluor etheen | PTFE = technische naam van teflon
 corrosie = chemische oxidatiereactie tussen zuurstof en metaal
 kathodische bescherming = geleidend contact met onedeler metaal om corrosie tegen te gaan
 oppervlaktecorrosie = corrosie verspreid over het gehele metaaloppervlakte
-corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
 spanningscorrosie = corrosie die ontstaat als twee metalen van verschillende edelheid met elkaar verbonden zijn
 putvormige corrosie | pitting = corrosie die zich uit in de vorm van putjes die snel dieper en breder worden
 pitting = alternatieve naam voor putvormige corrosie
@@ -458,8 +457,8 @@ appendages: waar staat NO voor? normally open
 appendages: waar staat m.v.k. voor? meter vloeistof kolom
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
-wat zijn de 3 nadelen van een te grote leidingdiameter? duur, onbestuurbaar, warmteverlies | duur onbestuurbaar warmteverlies
-wat zijn de 4 nadelen van een te kleine leidingdiameter? capaciteit, drukverliezen, slijtage, trillingen | capaciteit drukverliezen slijtage trillingen | capaciteit drukverlies slijtage trillingen | capaciteit drukverlies slijtage trilling
+wat zijn de 3 nadelen van een te grote leidingdiameter? :: duur :: onbestuurbaar :: warmteverlies ::
+wat zijn de 4 nadelen van een te kleine leidingdiameter? :: capaciteit :: drukverliezen | drukverlies :: slijtage :: trillingen ::
 Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
 hoe heet de wanddikte van een appendage? het schedule | schedule
 wanneer gebruikt men fittings? bij lage druk | lage druk
@@ -470,17 +469,17 @@ wat is de meest gebruikte pijpverbindingsmethode? lassen
 wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
 wat is het grote voordeel van gegroefde prenten? drukbestendig | druk
 welke 4 belastingen moet men in acht nemen bij afdichting van appendages? :: beweging :: chemische | chemisch :: mechanische | mechanisch | druk :: thermische | thermisch ::
-waaruit bestaan samengestelde dichtingen? metalen strip & vulmateriaal | metalen strip vulmateriaal | metalen ring & vulmateriaal | metalen ring vulmateriaal
+waaruit bestaan samengestelde dichtingen? :: metalen strip | metalen ring :: vulmateriaal | vulling ::
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
 zachte dichtingen worden uit welke 3 materialen gemaakt? :: asbest :: grafiet :: PTFE|teflon ::
 bij welke 3 omstandigheden gebruiken we slangen? rare hoeken lengteveranderingen regelmatig wisselen | hoeken lengteveranderingen wisselen | hoek lengteverandering wisselen
 welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen | chemie druk temperatuur trilling
-welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? katoen nylon
+welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? :: katoen :: nylon ::
 wat wordt er aan rubberen slangen toegevoegd om extra hoge mechanische belasting aan te kunnen? staaldraad
 wat is het grote voordeel van kunststof slangen? inertie | inert
 welke 2 soorten metalen slangen zijn er? :: gevlochten :: gewikkeld ::
 Welke 3 aspecten van een flexibel moeten gecontroleerd worden voor gebruik? binnenkant buitenkant koppeling
-Welke 4 zaken moet men op letten bij aansluiten van een flexibel? aarding drukschokken PBM torsie
+Welke 4 zaken moet men op letten bij aansluiten van een flexibel? :: aarding :: drukschokken :: PBM :: torsie ::
 Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | druk
 welke 3 doelen kunnen kleppen en kranen hebben? leidingen afsluiten, debiet regelen, stroming verdelen over leidingnetwerk | afsluiten regelen verdelen
 wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
@@ -521,7 +520,7 @@ wat probeert men te voorkomen door een breekplaat bolvormig te maken? metaalmoeh
 wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | loskomen | lekken
 waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
 waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
-wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? elektrisch, inductie | elektrisch inductie
+wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? :: elektrisch :: inductie ::
 welke 5 zaken beinvloeden het weerstandsverlies in een leiding? diameter oppervlakteruwheid soortelijke massa stromingssnelheid viscositeit
 appendages: waarmee duiden we het totale leidingverlies aan? pw
 appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
@@ -647,7 +646,6 @@ Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
 welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
 welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
-welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
 welke 2 voordelen heeft een stuursysteem? :: goedkoop :: eenvoudig | simpel | complexiteit ::
 welk nadeel heeft een stuursysteem? gebrek aan controle | controle
@@ -682,7 +680,7 @@ welk object wordt in een oven geplaatst ter indicatie van de temperatuur en hoe 
 wat is de formule om celcius om te zetten in farenheit? F = 32 + 9/5 C
 waar staat PT100 voor? PTC thermometer 100 ohm
 waar staat HART voor? highway adressable remote transducer
-wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen :: meetwaarden | meetwaarde | metingen | meting ::
+wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen | fouten :: meetwaarden | meetwaarde | metingen | meting ::
 hoe bereken je het drukverschil in een U-manometer? Δp = Δhρg | delta p = delta h rho g
 waarvoor wordt een U-manometer vooral gebruikt? ijking
 wat zijn de 2 nadelen van een U-buismanometer? :: breekbaar | kwetsbaar :: groot ::
@@ -741,10 +739,10 @@ welke 2 soorten energie kan een vloeistof bevatten? :: potentieel | potentiele :
 wat is de formule voor snelheid van een vloeistof uit een centrifugaalpomp? v = πDn/60 | v = pi Dn/60
 welke 2 factoren bepalen de opvoerhoogte van een centrifugaalpomp? :: toerental :: diameter ::
 wat zijn 5 voordelen van een centrifugaalpomp? :: gewicht :: klein | ruimte | volume :: constante vloeistofstroom :: bedrijfszekerheid | bedrijfszeker | betrouwbaar :: regelbaar ::
-wat zijn 3 nadelen van een centrifugaalpomp? :: afslaan bij lucht of gas | afslaan :: laag rendement | rendement :: niet zelfaanzuigend ::
+wat zijn 3 nadelen van een centrifugaalpomp? :: afslaan bij lucht of gas | afslaan :: laag rendement | rendement :: niet zelfaanzuigend | geen aanzuigende werking ::
 Wat is het rendement van een kleine centrifugaalpomp? 50 tot 60% | 50-60%
 Wat is het rendement van een grote centrifugaalpomp? 85 tot 90% | 85-90%
-waarvoor gebruiken we verdringerpompen met roterende beweging? stroperige vloeistoffen | stroperige vloeistof
+waarvoor gebruiken we verdringerpompen met roterende beweging? stroperige vloeistoffen | stroperige vloeistof | visceuze vloeistoffen | visceuze vloeistof
 waar worden lobbenpompen veel gebruikt? de voedingsindustrie | voedingsindustrie
 waar worden slangepompen voornamelijk gebruikt? waterzuiveringsinstallaties | waterzuivering
 hoe wordt een wormpomp ook wel genoemd? schroefpomp | schroefspindelpomp
@@ -753,9 +751,9 @@ hoe wordt een schroefspindelpomp ook wel genoemd? wormpomp | schroefpomp
 hoe noemen we de richting van het midden naar buiten toe gericht? radiaal | radial
 hoe noemen we de richting die de as volgt? axiaal | axial
 welke 2 omstandigheden zijn typisch voor het gebruik van schroefpompen en schroefcentrifugaalpompen? :: grote volumestromen | grote volumes | groot volume :: lage opvoerhoogten | lage opvoerhoogtes | lage opvoerhoogte ::
-welke 3 toepassingen wordt de wervelstroompomp veel voor gebruikt? :: riool :: papier :: levensmiddelen ::
+welke 3 toepassingen wordt de wervelstroompomp veel voor gebruikt? :: riool :: papier :: levensmiddelen | voeding ::
 welke 2 toepassingen wordt de straalpomp veel voor gebruikt? :: vacuüm | vacuum :: agressieve stoffen ::
-waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde vloeistoffen of gassen | verontreinigde vloeistoffen | verontreinigde gassen
+waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde vloeistoffen of gassen | verontreinigde vloeistoffen | verontreinigde gassen | vervuilde vloeistoffen | vervuilde gassen
 
 [pomp-zuiger.png] welke pomp is dit? zuigerpomp
 [pomp-plunjer.png] welke pomp is dit? plunjerpomp
@@ -778,10 +776,10 @@ waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde v
 
 # scheidingstechnieken
 cohesie = algemene naam voor de aantrekkingskracht tussen deeltjes van een stof
-zeer groot = cohesie van een vaste stof
-groot = cohesie van een vloeistof
+zeer groot | zeer hoog = cohesie van een vaste stof
+groot | hoog = cohesie van een vloeistof
 geen = cohesie van een gas
-kritisch punt = de hoogste druk waarbij nog een gas van een bepaaldestof voor kan komen
+kritisch punt = de hoogste druk waarbij nog een gas van een bepaalde stof voor kan komen
 enkelvoudige stof = stof die uit één element bestaat
 samengestelde stof = stof die uit verschillende elementen bestaat
 zuivere stoffen | zuivere stof = stof die vaste (getabelleerde) fysische constanten bezit
@@ -818,12 +816,14 @@ hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben
 @EOF@
 # appendages
 wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaalmoeheid | minder metaalmoeheid
+corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
 # chemie
 van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 % = eenheid massaprocent
 % = eenheid volumeprocent
 # M&R
 welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
+welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
 Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust ::
 welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
