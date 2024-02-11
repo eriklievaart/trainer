@@ -197,8 +197,8 @@ Wat is de naam van HBrO₃? broomzuur | waterstofbroomaat | bromic acid
 Wat is de naam van HClO₃? chloorzuur | chloric acid
 Wat is de naam van H₂SO₄? zwavelzuur | sulfuric acid
 
-Wat geeft electronen af? reductans | reducing agent
-Wat neemt electronen op? oxidans | oxidizing agent
+Wat geeft electronen af? reductans | reducing agent | reductor
+Wat neemt electronen op? oxidans | oxidizing agent | oxidator
 Als een stof reduceert dan krijgt het meer/minder electronen? meer
 Als een stof oxideert dan krijgt het meer/minder electronen? minder
 2-5 in liganden? bis tris tetrakis pentakis
