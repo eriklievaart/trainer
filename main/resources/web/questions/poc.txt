@@ -108,7 +108,7 @@ grootheid voor ρ (electriciteit)? soortelijke weerstand
 
 
 
-## VBA ##
+## VCA ##
 welzijnswet = belangrijkste wet voor veiligheid, gezondheid & welzijn
 ARAB = algemeen reglement voor arbeids bescherming
 IDPB = interne dienst voor preventie en bescherming
@@ -124,7 +124,20 @@ arbeidsongeval = ongewenste plotse gebeurtenis op het werk met lichamelijk letse
 bijna ongeval | bijna-ongeval = ongewenste plotse gebeurtenis die had kunnen leiden tot schade en of lichamelijk letsel
 onveilige handeling = een handeling die niet volgens de juiste werkwijze wordt uitgevoerd en tot ongeval kan leiden
 onveilige situatie = een situatie waar niet aan de voorwaarden voor veilig werken is voldaan
+veiligstellen = voorkomen dat installaties en machines onbedoeld in beweging komen
+algemene vergunning = vergunning die voor alle werkzaamheden wordt opgelegd, ook degene die niet risicovol zijn
+specifieke vergunning = vergunning die gericht een risico adresseren
+houder = veiligheid: de leidinggevende van de operationele werkzaamheden
+verbod = type bord dat rood en rond is
+gebod = type bord dat blauw en rond is
+opgelet | gevaar = type bord dat driehoekig en geel is
+brandbestrijding = type bord dat rechthoekig en rood is
+reddingstoestellen = type bord dat rechthoekig en groen is
+aanwijzing | voorlichting = type bord dat rechthoekig en blauw is
+linten | lint = bakent een zone af, maar is geen afscherming
 
+waar staat CPBW voor? comite voor preventie en bescherming
+welke 4 groepen afgevaardigden vinden we in het bestaat het CPBW? :: voorzitter :: leidinggevenden | leidinggevende :: werknemers | werknemer :: deskundigen ::
 welke wetgeving heeft als aandachtspunten uitstoot en afvalverwerking? milieuwetgeving
 welke wetgeving stelt minimale rusttijden en maximale arbeidstijden vast? arbeidstijdenwetgeving
 waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk beschermingsmiddel
@@ -137,6 +150,12 @@ wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, r
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
 Onder invloed van alcohol of drugs is de kans op ongevallen ___ - ___ keer hoger? 2-4 | 2 4
 Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van alcohol? 15%-30% | 15-30% | 15-30 | 15 30
+hoe noemen we informele vergaderingen over de veiligheid? toolboxmeetings | VGA-bijeenkomsten | VGA bijeenkomsten | VGA bijeenkomst
+Wat zijn de 4 stappen om een installatie veilig te stellen op volgorde? uitschakelen vergrendelen markeren meten | uitschakelen vergrendelen markeren verifieren
+welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrokkenen | overleg :: maken van bindende afspraken | bindende afspraken :: vastleggen van de voorwaarden en maatregelen | vastleggen :: verlenen van toestemming voor de werkzaamheden | toestemming ::
+welke (minimaal) 5 elementen staan in de vergunning? :: uit te voeren werkzaamheden | werkzaamheden :: werkverdeling :: geldigheidsduur :: maatregelen voorgeschreven door de verstrekker :: maatregelen voor operationele medewerkers :: maatregelen na beeindiging werkzaamheden :: voorwaarden verlenging | verlenging :: bekrachtiging | ondertekening ::
+wie is de verstrekker? de opdrachtgever | opdrachtgever
+welke 2 kleurcombinaties kunnen linten hebben? :: rood/wit | wit/rood | root wit | wit rood :: geel/zwart | zwart/geel | geel zwart | zwart geel ::
 
 
 
