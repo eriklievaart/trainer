@@ -462,7 +462,7 @@ wat zijn de 4 nadelen van een te kleine leidingdiameter? :: capaciteit :: drukve
 Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
 hoe heet de wanddikte van een appendage? het schedule | schedule
 wanneer gebruikt men fittings? bij lage druk | lage druk
-welke voordelen heeft een mofverbinding? goedkoop & kan onder een kleine hoek | goedkoop hoek mogelijk | goedkoop hoek
+welke 2 voordelen heeft een mofverbinding? :: goedkoop :: kan onder een kleine hoek | hoek mogelijk | hoek ::
 welke beperkingen heeft een mofverbinding? lage druk & lage temperatuur | lage druk & temperatuur | lage druk en temperatuur | lage druk lage temperatuur | lage druk temperatuur
 hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
 wat is de meest gebruikte pijpverbindingsmethode? lassen
@@ -558,7 +558,7 @@ appendages: hoeveel meter water kolom is 1 bar? 10 meter | 10 m | 10
 [plugkraan.png] wat geeft 3 aan? plug
 [plugkraan.png] wat geeft 4 aan? afdichting
 [plugkraan.png] wat geeft 5 aan? moer
-[kogelkraan.png] wat geeft 1 aan? bedieningsspindel | spindel
+[kogelkraan.png] wat geeft 1 aan? bedieningsspindel | spindel | bedieningsorgaan
 [kogelkraan.png] wat geeft 2 aan? afdichtingen | afdichting
 [kogelkraan.png] wat geeft 3 aan? kogel
 [kogelkraan.png] wat geeft 4 aan? behuizing
@@ -641,6 +641,8 @@ effectieve druk = druk gemeten t.o.v. atmosferische druk
 onderdruk = druk lager dan 1 atm
 overdruk = druk hoger dan 1 atm
 balgmanometer = variant op de membraandrukmeter die je ook kunt gebruiken als verschildrukmeter
+verschildruk = minimaal verschil met gewenste waarde waarbij pomp aanslaat
+farad = eenheid van elektrische capaciteit
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -691,6 +693,21 @@ bij hoeveel bar gebruik je een membraandrukmeter? 0-30 bar | 0-30 | 0 30
 wat is het nadeel van een membraandrukmeter? nauwkeurigheid | onnauwkeurig | nauwkeurig
 wat is het voordeel van een membraandrukmeter? bruikbaar voor agressieve stoffen | agressieve stoffen | afscheiding | afsluiting
 bij hoeveel bar gebruik je een bourdonbuisdrukmeter? 0 - 10.000 bar |0-10000 bar | 0-10000 | 0 10000
+wat is de formule voor de capaciteit van een condensator? C = Aε/d | C = A epsilon/d | C = epsilon A/d
+bij hoeveel bar gebruik je een capacitieve drukmeter? 0 - 300 bar | 0-300 bar | 0-300 | 0 300
+welk type drukmeter werkt als een condensator waarbij de afstand tussen de platen varieert? capacitieve drukmeter
+bij hoeveel bar gebruik je rekstrookjes? 0 - 6000 bar | 0-6000 bar | 0-6000 | 0 6000
+welk type drukmeter werkt op basis van de wet van Pouillet (R = ρl/A)? rekstrookjes | rekstrookje
+wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje :: metaalfolie rekstrookjes | metaalfolie rekstrookje :: halfgeleiderrekstrookjes | halfgeleider rekstrookje ::
+bij hoeveel bar gebruik je piëzo elektrische kristallen? 0.1 - 500 bar | 0.1 - 500 bar | 0.1 - 500 | 0.1 500
+Wat wordt er tussen de leiding en de drukmeter geplaatst om de drukmeter te beschermen tegen hoge temperaturen? een krul | krul
+hoe voorkom je snelle uitwijkingen in drukmeters? dempingsvloeistof | vloeistof
+welke stof wordt vaak als dempingsmiddel voor drukmeters gebruikt? glycerine
+hoe noem je de ijking van een drukmeter die gedaan wordt om te compenseren voor de hoogte van de vloeistof in de leiding boven de manometer? zero afstelling | nulpunt afstelling
+welke 2 zaken beinvloeden de atmosferische druk? :: temperatuur :: locatie | plaats ::
+welke 3 drukmeters zijn elektrisch? :: rekstrookjes | rekstrookje :: capacitieve drukmeter | capacitieve manometer :: piezo kristallen | piezo kristal | piezo elektrische drukopmeter ::
+welke 2 drukmeters gebruiken we voor het meten van een druk van 6000 bar? :: bourdonbuis manometer | bourdonbuis drukmeter :: rekstrookjes | rekstrookje ::
+welke 2 nadelen hebben piëzo elementen? :: temperatuursgevoelig | temperatuurgevoelig | temperatuur :: alleen verschildrukken | verschildrukken | verschillen | verschil ::
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -699,6 +716,9 @@ bij hoeveel bar gebruik je een bourdonbuisdrukmeter? 0 - 10.000 bar |0-10000 bar
 [druk-membraan.png] hoe heet deze drukmeter? membraandrukmeter | membraan manometer
 [druk-balg.png] hoe heet deze drukmeter? balgmanometer
 [druk-bourdon.png] hoe heet deze drukmeter? bourdonbuisdrukmeter | bourdonbuis manometer
+[druk-capacitief.png] hoe heet deze drukmeter? capacitieve drukmeter | capacitieve manometer
+[druk-rekstrookje.png] hoe heet deze drukmeter? rekstrookjes | rekstrookje
+[druk-piezo.png] hoe heet deze drukmeter? piëzo elektrische drukopmeter | piezo elektrische drukopmeter
 
 
 
