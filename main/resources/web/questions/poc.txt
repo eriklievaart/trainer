@@ -643,6 +643,17 @@ overdruk = druk hoger dan 1 atm
 balgmanometer = variant op de membraandrukmeter die je ook kunt gebruiken als verschildrukmeter
 verschildruk = minimaal verschil met gewenste waarde waarbij pomp aanslaat
 farad = eenheid van elektrische capaciteit
+reflectiepeilglas = soort glas wat alleen licht weerkaatst als er vloeistof achter zit
+beleggingsdruk = de druk die het gas boven een tank op de vloeistof uitoefent
+inborreling = drukmeting in een vat waarbij er een slang onder druk gezet wordt totdat er bellen ontsnappen
+verdringer = niveaumeting in een vat die gebruik maakt van de fysische eigenschap dat een vloeistof een ondergedompeld lichaam omhoog duwt
+resistieve niveaumeting | resistieve | resistief = niveaumeting met een spanningsdraad en goed geleidende vloeistof, die gebruik maakt van het feit dat de weerstand verminderd als er een dikkere kabel (vloeistof) is
+capacitieve niveaumeting | capacitieve | capacitief = niveaumeting die met een probe in de tank een condensator maakt. De effectiviteit van de condensator hangt af van de vulling (lucht/vloeistof)
+radioactieve niveaumeting | radioactieve | radioactief = niveaumeting die meet hoeveel gamma straling wordt geabsorbeerd door de vloeistof
+echoniveaumeting | echo = niveaumeting die meet hoe lang het duurt voordat een geluidsgold op de vloeistof teruggekaatst wordt
+trilvorkniveaudetectie | trilvork = niveaumeting die gebruik maakt van het feit dat resonantie verstoort wordt door onderdompeling in een vloeistof
+332 m/s = snelheid van geluid bij 0°C
+3e8 m/s = snelheid van licht/radar
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -708,6 +719,15 @@ welke 2 zaken beinvloeden de atmosferische druk? :: temperatuur :: locatie | pla
 welke 3 drukmeters zijn elektrisch? :: rekstrookjes | rekstrookje :: capacitieve drukmeter | capacitieve manometer :: piezo kristallen | piezo kristal | piezo elektrische drukopmeter ::
 welke 2 drukmeters gebruiken we voor het meten van een druk van 6000 bar? :: bourdonbuis manometer | bourdonbuis drukmeter :: rekstrookjes | rekstrookje ::
 welke 2 nadelen hebben piëzo elementen? :: temperatuursgevoelig | temperatuurgevoelig | temperatuur :: alleen verschildrukken | verschildrukken | verschillen | verschil ::
+welke 2 nadelen heeft peilglas? :: gevoelig voor glasbreuk | glasbreuk | breekbaar :: gevoelig voor vervuiling | vervuiling ::
+welke 3 oorzaken kunnen breuken veroorzaken bij peilglazen? :: mechanische beschadigingen | mechanisch :: te hoge druk | hoge druk | druk:: trillingen | trilling ::
+wat is de oplossing als de druk te hoog is om peilglas te gebruiken? reflectiepeilglas
+welke 3 oplossingen hebben we om een drukmeter van een tank met een extra been voor de beleggingsdruk condensvrij te houden? :: spoelen met gas | spoeling | spoelen :: het been verwarmen | verwarmen :: het been vullen met vloeistof | vloeistof | nat been ::
+wat is het nadeel van een systeem van een vlotter? veel onderhoud nodig | onderhoud
+waarvoor gebruik je scharnierende vlotters vooral? niveaudetectie
+welke 2 soorten echoniveaumetingen kennen we? :: ultrasoon :: radar ::
+welke echoniveaumeting mag je niet direct boven de vloeistof plaatsen? ultrasoon
+welke echoniveaumeting mag je wel direct boven de vloeistof plaatsen? radar
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
