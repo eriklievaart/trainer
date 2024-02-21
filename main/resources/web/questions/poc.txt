@@ -109,6 +109,9 @@ grootheid voor ρ (electriciteit)? soortelijke weerstand
 
 
 ## VCA ##
+# todo: pictogrammen p36-38, p46-47
+# todo: vragen blusmiddelen p72 tabel rij voor rij
+# todo: pictogram p18
 welzijnswet = belangrijkste wet voor veiligheid, gezondheid & welzijn
 ARAB = algemeen reglement voor arbeids bescherming
 IDPB = interne dienst voor preventie en bescherming
@@ -135,6 +138,30 @@ brandbestrijding = type bord dat rechthoekig en rood is
 reddingstoestellen = type bord dat rechthoekig en groen is
 aanwijzing | voorlichting = type bord dat rechthoekig en blauw is
 linten | lint = bakent een zone af, maar is geen afscherming
+vlampunt = temperatuurgrens waarop een stof brandbaar wordt met ontsteking
+zelfontbrandingstemperatuur = temperatuurgrens waarop een spontaan in brand vliegt zonder enig hulpmiddel
+explosie = snel lopende verbranding met vrijkomende drukgolf
+explosiegrenzen | explosiegrens = limieten waarbinnen zuurstof en een brandstof moeten liggen om een explosie te kunnen veroorzaken
+explosiegebied = bandbreedte van verhoudingen brandstof/zuurstof waarbinnen explosiegevaar is
+onderste explosiegrens | lower explosion limit | LEL = minimale hoeveelheid gas/damp die een explosie kan veroorzaken
+bovenste explosiegrens | upper explosion limit | UEL = minimale hoeveelheid gas/damp die een explosie kan veroorzaken
+lower explosion limit = engelse term voor onderste explosiegrens
+upper explosion limit = engelse term voor bovenste explosiegrens
+onderste explosiegrens = nederlandse term voor lower explosion limit
+bovenste explosiegrens = nederlandse term voor upper explosion limit
+arm mengsel = mengsel van stoffen die niet genoeg brandstof bevat om te kunnen exploderen
+rijk mengsel = mengsel van stoffen die teveel brandstof bevat om te kunnen exploderen
+dodemansknop = aangedreven gereedschap werkt alleen als deze ingedrukt is
+nullastschakelaar = voorkomt bij stroomuitval dat een machine terug opstart als er weer stroom is
+hijstoebehoren = hulpmaterialen voor het hijsen van lassen; zoals kabels, kettingen, enz.
+handtakel = hijstoestel zonder eigen aandrijving
+elektrisch lassen = lassen met een vlamboog
+autogeen lassen = lassen op basis van gasverbranding
+steigerkaart | scafftag = geeft aan of de steiger klaar is voor gebruik en tot wanneer hij gekeurd is
+veiligheidswacht | buitenwacht = persoon die toezicht houdt op werken in een besloten ruimte
+differentieelschakelaar = andere naam voor de aardlekschakelaar
+zekeringen | zekering = doelbewustzwak punt in een stroomkring dat elektrische apparaten beschermt tegen overbelasting
+equipotentiaalverbinding = alle geleidende delen van een systeem worden met elkaar verbonden en gemeenschappelijk geaard
 
 waar staat CPBW voor? comite voor preventie en bescherming
 welke 4 groepen afgevaardigden vinden we in het bestaat het CPBW? :: voorzitter :: leidinggevenden | leidinggevende :: werknemers | werknemer :: deskundigen ::
@@ -156,6 +183,62 @@ welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrok
 welke (minimaal) 5 elementen staan in de vergunning? :: uit te voeren werkzaamheden | werkzaamheden :: werkverdeling :: geldigheidsduur :: maatregelen voorgeschreven door de verstrekker :: maatregelen voor operationele medewerkers :: maatregelen na beeindiging werkzaamheden :: voorwaarden verlenging | verlenging :: bekrachtiging | ondertekening ::
 wie is de verstrekker? de opdrachtgever | opdrachtgever
 welke 2 kleurcombinaties kunnen linten hebben? :: rood/wit | wit/rood | root wit | wit rood :: geel/zwart | zwart/geel | geel zwart | zwart geel ::
+welke 3 fasen heeft de bestrijding van een noodsituatie? :: eerste melding | melding :: handelingen of maatregelen | handelingen | maatregelen :: beëindiging | beeindiging | afsluiting ::
+welke 3 elementen zijn van belang bij de eerste melding van een noodsituatie? :: wie waarschuwen? :: hoe waarschuwen? :: welke informatie doorgeven? | welke informatie? ::
+welke 4 handelingen/maatregelen worden verricht bij een noodsituatie? :: evacuatie :: interventie; blussen, opruimen, etc. | interventie :: reddingsoperaties | redding :: hulpverlening ::
+welke 2 elementen zijn van belang voor het beëindigen van een noodsituatie? :: wie is gemachtigd om de noodsituatie te beëindigen? | wie beeindigd? :: hoe wordt iedereeen geinformeerd over het beëindigen? | hoe geinformeerd? | informering ::
+welke 3 soorten informatie hoor je te ontvangen over evacuatie? :: verzamelplaatsen | verzamelplaats | verzamelen :: evacuatiemogelijkheden | vluchtwegen | vluchtweg :: specifieke instructies van de opdrachtgever | specifieke instructies | instructies ::
+wat te doen bij alarm? :: onderbreek het werk | stop met werken :: stop externe communicatie | zet GSM uit | zet GSM af :: volg aanwijzingen evacuatieverantwoordelijken | volg instructies :: ga naar verzamelplaats | verzamelen | verzamel :: gebruik lift niet | vermijd lift :: evacueer dwars op windrichting | vlucht dwars op windrichting :: meld je aan bij verantwoordlijke op verzamelplaats | meld je aan | meld aan ::
+langs welke 4 wegen kunnen gevaarlijke stoffen het lichaam binnendringen? :: neus :: mond :: huid :: wond | bloed ::
+welke 3 maatregelen kunnen we aan de bron treffen om het binnen krijgen van gevaarlijke stoffen tegen te gaan? :: geen gevaarlijke stoffen gebruiken | eliminatie :: minder gevaarlijk product gebruiken | vervangen | vervanging :: het product aanpassen | tabletten i.p.v. poeder | aanpassen ::
+welke 3 maatregelen kunnen we treffen om de blootstelling aan gevaarlijke stoffen te verminderen of te beperken? :: plaatselijke afzuiging | afzuiging :: scheiden van mens of bron | scheiden | isolatie :: ventilatie ::
+welke 4 persoonlijke maatregelen treffen we om besmetting met gevaarlijke stoffen te voorkomen? :: handen wassen voor eten of drinken | handen wassen :: eet uitsluitend in de refter | refter | kantine :: werkkleding uittrekken in refter | werkkleding uittrekken | werkkleding uit | omkleden :: wonde schoonmaken | pleister | verband ::
+hoe noemen we de maximale hoeveelheid van een bepaalde stof die in de lucht voor mag komen? grenswaarde voor beroepsmatige blootstelling | grenswaarde beroepsmatige blootstelling
+waar staat GWBB voor? grenswaarde voor beroepsmatige blootstelling
+wat voor statistisch gegeven is de grenswaarde voor beroepsmatige blootstelling? tijdsgewogen gemiddelde over een referentieperiode
+onder welke 3 voorwaarden is het tijdsgewogen gemiddelde gedefinieerd? :: gezond :: volwassen :: normale lichaamsinspanning  | normale inspanning ::
+Welke 5 zaken zijn verplicht op het etiket van een gevaarlijke stof? :: naam van het product | naam | product :: gevarensymbolen :: gevaren | risico's | H-zinnen | h zinnen :: veiligheidsaanbevelingen | aanbevelingen | P-zinnen | p zinnen :: fabrikant | distribiteur | invoerder ::
+hoeveel procent zuurstof zit er normaal in de lucht? 21% | 21
+hoeveel procent zuurstof moet er in de lucht zitten om ergens te mogen werken zonder ademhalingsbescherming? 19% | 19
+bij hoeveel procent zuurstof in de lucht ga je dood? 14% | 14
+wat zijn 4 mogelijke oorzaken van een zuurstof tekort in een ruimte? :: gebrek aan ventilatie | ventilatie :: corrosieprocessen | corrosie :: vuur | brand :: gassen | verdringing | verdringen ::
+welke 3 PBM's gebruik je in de buurt van biologische agentia? :: huidsbescherming | huidbescherming :: oogbescherming :: ademhalingsbescherming | ademhalingbescherming ::
+welke 2 zaken bekijk je om zeker te zijn dat je de juiste gasfles hebt? :: kleur van gasfles | kleur :: etiket ::
+welke 3 ziektes veroorzaakt asbest? :: asbestose :: asbestlongkanker | longkanker :: mesothelioom ::
+welke 3 elementen zijn nodig voordat brand ontstaat? :: brandbare stof | bandstof :: zuurstof :: ontstekingsenergie | ontstekingsbron | ontsteking ::
+welke 2 maatregelen nemen we in explosiegevaarlijke zones? :: explosieveilig gereedschap :: antistatische veiligheidsschoenen | antistatische schoenen ::
+welke 5 klassen branden onderscheiden we? :: A vaste stoffenbrand | A vaste stoffen | A vaste stof :: B vloeistoffenbrand | B vloeistoffen | B vloeistof :: C gassenbrand | C gassen | C gas :: D metalenbrand | D metalen | D metaal :: niet-geklassificeerde branden | niet geklassificeerd | ongeklassificeerd ::
+waar refereert "vette vuurhaard" aan? vloeistoffenbranden | vloeistoffenbrand | vloeistofbrand
+in welke klasse plaatsen we branden aan elektrische apparatuur? niet geklassificeerde branden | niet gekwalificeerd | ongekwalificeerd
+welke 4 blusmiddellen worden bij vaste stof branden gebruikt? :: water :: bluspoeder | poeder :: blusdeken | deken :: schuim ::
+welke 3 blusmiddelen worden bij vloeistofbranden gebruikt? :: bluspoeder | poeder :: zand :: schuim ::
+welke 3 blusmiddelen gebruiken we bij gasbranden? :: gastoevoer :: bluspoeder | poeder :: water ::
+welke 2 blusmiddelen gebruiken we bij metaalbranden? :: bluspoeder | poeder :: zand ::
+welke brand klassen mag je niet met water blussen? :: klasse B | B | vloeistofbranden | vloeistof :: klasse D | D | metalen | metaal | metaalbranden :: E | niet geklassificeerd | ongeklassificeerd ::
+welke 2 blusmiddelen gebruiken we bij niet-geklassificeerde branden? :: schuim :: CO₂ | CO2 ::
+welke 5 acties neem je bij het ontdekken van brand? :: breng jezelf in veiligheid | verlaat de brandende omgeving | jezelf | verlaten :: meld de brand | melden :: breng de omgeving op de hoogte | informeren :: sluit ramen en deuren | afsluiten :: blus de brand | blussen ::
+hoe lang moet je een brandwond minimaal afspoelen met water? 15 minuten | 15 min | 15 m
+welke risico's heeft werken met elektriciteit? :: elektrocutie :: brandwonden door vonkoverslag door kortsluiting | brandwonden :: brand of explosie doorvonkoverslag of oververhitting | brand | explosie ::
+welke eisen zijn er aan arbeidsmiddelen? :: CE-markering | CE markering :: jaarlijkse keuring :: goede staat en onderhouden | goede staat | onderhouden :: voorschriften en instructies in taal van gebruiker | voorschriften | instructies | handleiding :: noodstop of noodinrichting voor vaste machines | noodstop | noodinrichting :: dodemansknop voor aangedreven handgereedschap | dodemansknop ::
+welke veiligheidsmaatregelen dient men te nemen bij opstellingen van machines? :: opgeruimde vloer | opgeruimd | opruimen :: bewegingsruimte :: stofafzuiging | afzuiging ::
+welke veiligheidsmaatregelen nemen we bij (kolom)boormachines? :: afschermen | afscherming :: werkstuk vastzetten | vastzetten :: boorsel vegen met krullenkwast of krullenhaak | krullenkwast | krullenhaak :: boormachine uit bij verstellen | uit bij verstellen | uit verstellen ::
+welke 3 eisen stellen we bij het gebruik van hijswerkteugen? :: CR-markering | CE markering :: keuring | gekeurd :: opgeleide bediening | opgeleid | opleiding ::
+welke 3 documenten dienen bij een hijswerktuig aanwezig te zijn? :: keuringsverslagen :: hijstabellen en hijsgrafieken | hijstabellen | hijsgrafieken :: historiek van het hijswerktuig | het kraanboek | kraanboek ::
+vanaf hoeveel meter spreken we van werken op hoogte? 2 meter | 2m | 2
+welke 2 risico's zijn er bij werken op hoogte? :: vallende personen | personen | persoon :: vallende voorwerpen | vallend voorwerp | voorwerpen | voorwerp ::
+hoeveel uur mag je maximaal op een ladder werken? 4 uur | 4u | 4
+welke voorwaarden gelden er voor het werken op een ladder? :: tot 7.5m | 7.5m :: korte duur | 4 uur | 4u :: lichte werkzaamheden | 10 kg | 100 N :: niet leunen | armlengte ::
+vanaf hoeveel sporen dient een ladder aan de bovenkant vast gemaakt te worden? 26
+hoe worden steigers in België genoemd? stellingen
+wat voor soorten steigers zijn er? :: staande stijgers | staande | staand :: hangsteigers | hang :: rolsteigers | rol ::
+welke risico's zijn er in besloten ruimtes? :: zuurstoftekort | verstikken :: brandgevaar | explosiegevaar | brand | explosie :: vergiftigingsgevaar | vergiftiging :: electrocutie :: knellen, vallen en uitglijden | knellen | vallen ::
+welke 5 taken heeft een veiligheidswacht? :: toezicht houden | toezicht :: communicatie met personen in besloten ruimte | communicatie :: controle ventilatie | ventilatie :: hulpdiensten waarschuwen bij gevaar | hulpdiensten waarschuwen | hulpdiensten :: hulp bieden aan persoon in besloten ruimte | hulp bieden | hulp ::
+welke 5 veiligheidsmaatregelen nemen we bij het werken met elektriciteit? :: fysieke afscherming | afscherming :: isolatie :: aarding :: aardlekbeveiliging | aardlek :: lage spanning | laagspanning ::
+wat is een differentieelschakelaar? een aardlekschakelaar | aardlekschakelaar
+welke bescherming geven de (max) 3 cijfers van een IP-classificatie weerop volgorde? stof water mechanisch
+op hoeveel dB zit de pijngrens? 120
+
+
 
 
 
@@ -857,6 +940,7 @@ zuivere stoffen | zuivere stof = stof die vaste (getabelleerde) fysische constan
 :: bloed :: melk :: plantensap :: = 3 voorbeelden van colloïdale mengsels
 emulgatoren| emulgator = soort stof die emulsies stabiel maakt
 absorptie = oplossen van een gas in een vloeistof
+zeefmedium = deel van een zeef met mazen met een bepaalde maasweidte
 
 welke eigenschap heeft een homogeen mengsel? helder
 welke eigenschap heeft een heterogeen mengsel? troebel
@@ -865,6 +949,10 @@ wat is de deeltjes grootte van grove mensels? > 1 μm | > 1 micrometer | > 1000 
 welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: twee vloeistoffen | vloeistofmengsel :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | vaste stof vloeistof ::
 hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopisch homogeen
 hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
+op welke 2 manieren laten we een zeefproces sneller verlopen? :: roteren :: pulseren ::
+welke 4 eisen hebben we aan een zeefmedium? :: sterkte | sterk :: corrosiebestendig :: geschikte maasvorm | maasvorm :: geschikte constructie | constructie ::
+welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid :: klonteren | vochtgehalte :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | gewicht | kracht :: vorm goed | vorm mazen | vorm ::
+wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef :: roterende zeef :: trilzeef :: zeefbocht :: cascadezeef ::
 
 
 
