@@ -20,6 +20,7 @@
 	#whitebox li{display: inline; list-style-type: none;}
 	#whitebox table{border-collapse: collapse;}
 	#whitebox td, #whitebox th {text-align: left; border: 1px dotted #888; margin: 0px; padding: 5px;}
+	#whitebox tr *:last-of-type {display:none;}
 
 	.nohl:visited{color: #777}
 

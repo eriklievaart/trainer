@@ -12,10 +12,10 @@
 
 	<#if whitebox?has_content>
 		<table>
-			<thead><tr><th>wait</th><th>query</th></tr></thead>
+			<thead><tr><th>wait</th><th>query</th><th>hash</th></tr></thead>
 			<tbody>
 				<#list whitebox as vo>
-					<tr><td>${vo.remainingTime}</td><td>${vo.query}</td></tr>
+					<tr><td>${vo.remainingTime}</td><td>${vo.query}</td><td>${vo.hash}</td></tr>
 				</#list>
 			</tobody>
 		</table>

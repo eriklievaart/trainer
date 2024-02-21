@@ -6,11 +6,11 @@ import java.util.List;
 import com.eriklievaart.toolkit.lang.api.check.CheckCollection;
 import com.eriklievaart.toolkit.lang.api.str.Str;
 
-public class ExpectAnyInCollection extends AbstractAnswerValidator {
+public class ExpectExactWithOr extends AbstractAnswerValidator {
 
 	private List<String> list;
 
-	public ExpectAnyInCollection(List<String> list) {
+	public ExpectExactWithOr(List<String> list) {
 		CheckCollection.notEmpty(list);
 		this.list = list;
 	}

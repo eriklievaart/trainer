@@ -174,6 +174,7 @@ wat telt het massa getal? protonen + neutronen
 Wie zei dat bases OH⁻ ionen afstaan? Arhenius
 Wie zei dat bases protonen accepteren? Bronsted
 Hoe drukt men 1 pascal uit in andere SI eenheden? 1 Kg/m/s2
+Wat is de formule om de energie van een quantum te berekenen? E = hv | E = vh
 
 Wat is de formule van chloorzuur? HClO3
 Wat is de formule van salpeterzuur? HNO3
@@ -221,8 +222,8 @@ Wat is de lading van een electron? 1.6022·10⁻¹⁹ | 1.6022e-19 C
 Wat is de snelheid van het licht in vacuum? 3.0e8 m/s
 Wat is het bereik van zichtbaar licht ___-___ nm? 390-760 | 390 760
 Wat is de constante van planck? 6.626e-34 Js
-Wat is de gasconstante [R] (atmosfeer)? 0.082057 atm L / K mol
-Wat is de gasconstante [R] (pascal)?    8.3145   KPa L / K mol
+Wat is de gasconstante [R] (atmosfeer)? 0.082057 atm L / K mol | 0.082057 atm L / mol K
+Wat is de gasconstante [R] (pascal)?    8.3145   KPa L / K mol | 8.3145   KPa L / mol K
 Wat is de Bohr radius [a₀] ? 52.92 pm
 Wat is de Rydberg constante? 2.179e-18 J
 Wat is [OH⁻] (== [H₃O⁺]) bij 25°C? 1.0e-7 | 1e-7
@@ -244,7 +245,6 @@ Wat is de formule om de molariteit te berekenen? M = n/V
 Wat is de formule om de druk van een gas te berekenen? p = F/A
 Wat is de formule om de druk van een vloeistof te berekenen? p = g*h*d
 Wat is de formule om de snelheid van een golf te berekenen? c = v*lambda
-Wat is de formule om de energie van een quantum te berekenen? E = hv
 Wat is de formule om het energie verschil tussen 2 energie banen te berekenen? E = R/m2 - R/n2
 Wat is de formule van de balmer reeks? lambda = Bm2/(m2 - n2)
 Wat is de formule voor deeltjes momentum? p = mu | h = p * lambda | h = mu * lambda
