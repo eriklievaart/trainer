@@ -51,4 +51,23 @@ public class ExpectUnorderedListU {
 
 		Check.isFalse(validate.isValid("sla kool boeren"));
 	}
+
+	@Test
+	public void isValidMax5() {
+		ExpectUnorderedList validate = new ExpectUnorderedList(Arrays.asList("1", "2", "3", "4", "5", "6"));
+
+		Check.isTrue(validate.isValid("1 2 3 4 5 6"));
+		Check.isTrue(validate.isValid("1 2 3 4 5"));
+		Check.isFalse(validate.isValid("1 2 3 4"));
+		Check.isFalse(validate.isValid("1 2 3"));
+		Check.isFalse(validate.isValid("1 2"));
+		Check.isFalse(validate.isValid("1"));
+
+		Check.isTrue(validate.isValid("1 2 3 4 5"));
+		Check.isTrue(validate.isValid("1 2 3 4 6"));
+		Check.isTrue(validate.isValid("1 2 3 5 6"));
+		Check.isTrue(validate.isValid("1 2 4 5 6"));
+		Check.isTrue(validate.isValid("1 3 4 5 6"));
+		Check.isTrue(validate.isValid("2 3 4 5 6"));
+	}
 }

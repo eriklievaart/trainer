@@ -62,11 +62,8 @@ magnetisch veld = onstaat wanneer je stroom door een geleider voert
 spoel = draad met meerdere opeenvolgende lussen
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
-Hoe noemen we de lading van een elektron? eenheidslading
 Hoeveel elektronen is 1 Coulomb? 6.3 * 10¹⁸ | 6.3e18
 1 V in andere eenheden? 1 J/C
-Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? zwak
-Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? sterk
 Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan trekken ze mekaar aan? ja
 Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan trekken ze mekaar aan? nee
 Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan stoten ze mekaar af? nee
@@ -171,7 +168,7 @@ waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk bescherming
 wat zijn de 3 elementen van een arbeidsongeval? :: gebeurtenis :: letsel :: relatie ::
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
-welke 4 dingen te doen bij een incident? meld chef, neem maatregelen, blijf af, volg instructies | meld chef neem maatregelen blijf af volg instructies | meld chef blijf af neem maatregelen volg instructies
+welke 4 dingen te doen bij een incident? :: meld chef :: neem maatregelen :: blijf af :: volg instructies ::
 welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg :: scherm af | zet af :: waarschuw :: meld chef ::
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
@@ -328,8 +325,8 @@ salpeterigzuur = benoem het zuur HNO₂
 koolzuur = benoem het zuur H₂CO₃
 fosforzuur = benoem het zuur H₃PO₄
 neutralisatie | neutraliseren = een zuur en een base elkaar op laten heffen
-0°C | 0 C = temperatuur onder normale condities
-25°C | 25 C = temperatuur onder standaard condities
+0°C | 0 C | 0 graden = temperatuur onder normale condities
+25°C | 25 C | 25 graden = temperatuur onder standaard condities
 22.4 L = volume 1 mol gas onder normale condities
 24.5 L = volume 1 mol gas onder standaard condities
 mol/L = eenheid molariteit
@@ -347,7 +344,6 @@ additie = iets toevoegen aan een organische keten
 substitutie = een deel van een organische keten vervangen
 eliminatie = een deel van een organische keten verwijderen
 cracking = een organische keten in stukken hakken
-oxidatie = een organische keten verbranden
 polymerisatie = organische ketens samenvoegen tot een lange keten
 substraat = organische keten waar we we een reactie mee doen (additie, substitutie, eliminatie, etc.)
 reactieve plaatsen | reactieve plaats = deel van een organische molecule waar een reactie plaats vindt
@@ -514,7 +510,7 @@ Is RVS magnetisch? nee
 Wat is de relatieve warmte-uitzettingscoëfficient van RVS t.o.v. ongelegeerd staal? 1.5
 Welk element wordt vaak aan het staal van gereedschap toegevoegd? vanadium | V
 Wat is het hoofdbestanddeel van legeringen gebruikt bij extreem hoge temperaturen? nikkel
-Welke 2 voordelen hebben staallegeringen met veel koper? corrosieweerstand & geleiding | corrosieweerstand geleiding | corrosiebestendig & geleiding | corrosiebestendig geleiding | corrosiebestendig & warmtegeleidend | corrosiebestendig warmtegeleidend | corrosiebestendig & geleidend | corrosiebestendig geleidend
+Welke 2 voordelen hebben staallegeringen met veel koper? :: corrosieweerstand | corrosiebestendig :: geleiding | warmtegeleidend | geleidend ::
 welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen | koperlegering
 waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
 Wat is het grote voordeel van aluminium? licht (gewicht) | licht
@@ -568,7 +564,7 @@ hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
 wat is de meest gebruikte pijpverbindingsmethode? lassen
 wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
 wat is het grote voordeel van gegroefde prenten? drukbestendig | druk
-welke 4 belastingen moet men in acht nemen bij afdichting van appendages? :: beweging :: chemische | chemisch :: mechanische | mechanisch | druk :: thermische | thermisch ::
+welke 4 belastingen moet men in acht nemen bij afdichting van appendages? :: beweging :: chemische | chemisch :: mechanische | mechanisch | druk :: thermische | thermisch | temperatuur ::
 waaruit bestaan samengestelde dichtingen? :: metalen strip | metalen ring :: vulmateriaal | vulling ::
 welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
 zachte dichtingen worden uit welke 3 materialen gemaakt? :: asbest :: grafiet :: PTFE|teflon ::
@@ -581,7 +577,7 @@ welke 2 soorten metalen slangen zijn er? :: gevlochten :: gewikkeld ::
 Welke 3 aspecten van een flexibel moeten gecontroleerd worden voor gebruik? binnenkant buitenkant koppeling
 Welke 4 zaken moet men op letten bij aansluiten van een flexibel? :: aarding :: drukschokken :: PBM :: torsie ::
 Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | druk
-welke 3 doelen kunnen kleppen en kranen hebben? leidingen afsluiten, debiet regelen, stroming verdelen over leidingnetwerk | afsluiten regelen verdelen
+welke 3 doelen kunnen kleppen en kranen hebben? :: leidingen afsluiten | afsluiten :: debiet regelen | regelen :: verdelen ::
 wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
 wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
 welke 3 voorwaarden heeft de stroom van een plugkraan? :: lage druk | druk :: lage temperatuur | temperatuur :: zuivere vloeistof | zuivere stof | zuiver ::
@@ -597,19 +593,19 @@ is een schuifafsluiter geschikt als afsluiter? ja
 is de schuifafsluiter outdated? nee
 een schuifafsluiter met een schuif uit 1 stuk gebruiken we tot hoeveel bar? 25 bar | 25
 een schuifafsluiter met een schuif uit 2 stukken gebruiken we tot hoeveel bar? 100 bar | 100
-welke 2 producten zijn gevaarlijk als ze in de schuif vast komen te zitten? chloorbleekloog & waterstof peroxide | chloorbleekloog waterstof peroxide
+welke 2 producten zijn gevaarlijk als ze in de schuif van een schuifafsluiter vast komen te zitten? :: chloorbleekloog :: waterstof peroxide | H₂O₂ | H2O2 ::
 waarvoor worden plaatafsluiters vooral gebruikt? poeders | korrels | poeder | korrel
 klep die maar in 1 richting op de vloeistofstroom gezet mag worden? klepafsluiter
 is een klepafsluiter geschikt als regelkraan? ja
 is een klepafsluiter geschikt als afsluiter? nee
-is de klepafslutier outdated? nee
+is de klepafsluiter outdated? nee
 Hoe heet een klep die bij wegvallen van de stuurdruk volledig dicht is? air to open | ATO | NC
 Hoe heet een klep die bij wegvallen van de stuurdruk volledig open is? air to close | ATC | NO
-welke 3 soorten klepvormen kan een klepafsluiter hebben? guided plug, parabolic plug & regulating plug | guided plug parabolic plug regulating plug  | guided parabolic regulating plug | guided parabolic regulating
+welke 3 soorten klepvormen kan een klepafsluiter hebben? :: parabolic plug | parabolic :: guided plug | guided :: regulating plug | regulating ::
 wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichting
 is een membraanafsluiter geschikt als regelkraan? ja
 is een membraanafsluiter geschikt als afsluiter? ja
-wat zijn de 3 nadelen van de membraanafsluiter? :: lage druk | druk :: lage temperatuur | temperatuur :: slijtage ::
+wat zijn de 3 nadelen van de membraanafsluiter? :: lage druk | druk :: lage temperatuur | temperatuur :: slijtage | lekken ::
 welk nadeel heeft een terugslagklep met lichtende klep/kogel? drukverlies | leidingverlies
 wanneer gebruiken we een rubberen terugslagklep? onzuiver medium | onzuiver
 wat is het voordeel van een membraanterugslagklep? lage leidingweerstand | weinig drukverlies | weinig leidingverlies | leidingverlies | weinig weerstand | weerstand
@@ -737,8 +733,8 @@ span | gain | range = verschil tussen de minimale en maximale gemeten waarden
 spaninstelling = instelling signaal bij de hoogste meetwaarde
 absolute druk = druk gemeten t.o.v. vacuüm
 effectieve druk = druk gemeten t.o.v. atmosferische druk
-onderdruk = druk lager dan 1 atm
-overdruk = druk hoger dan 1 atm
+onderdruk = als de druk lager is dan 1 atm
+overdruk = als de druk hoger is dan 1 atm
 balgmanometer = variant op de membraandrukmeter die je ook kunt gebruiken als verschildrukmeter
 verschildruk = minimaal verschil met gewenste waarde waarbij pomp aanslaat
 farad = eenheid van elektrische capaciteit
@@ -779,7 +775,7 @@ waarin onderscheiden processen zich? :: type proces | type :: versterkingsfactor
 waar worden glazen vloeistofthermometers vooral gebruikt? laboratoria
 waar worden glazen vloeistofthermometers eigenlijk nooit gebruikt? industrie
 wat voor metalen worden gebruikt bij weerstand thermometers? PTCs | PTC
-welke thermometer bestaat uit een dunne platina draad in een glasstaaf? weerstandsthermometer
+welke thermometer bestaat uit een dunne platina draad in een glasstaaf? weerstandsthermometer | weerstandthermometer
 welke thermometer bestaat uit 2 aan elkaar gelaste metalen of legeringen? thermokoppel
 welke 2 voordelen heeft een platina thermometer? :: nauwkeurig :: stabiel | stabiliteit ::
 welk nadeel heeft een platina thermometer? sterkte | kwetsbaar
@@ -808,28 +804,28 @@ bij hoeveel bar gebruik je een capacitieve drukmeter? 0 - 300 bar | 0-300 bar | 
 welk type drukmeter werkt als een condensator waarbij de afstand tussen de platen varieert? capacitieve drukmeter
 bij hoeveel bar gebruik je rekstrookjes? 0 - 6000 bar | 0-6000 bar | 0-6000 | 0 6000
 welk type drukmeter werkt op basis van de wet van Pouillet (R = ρl/A)? rekstrookjes | rekstrookje
-wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider ::
+wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie ::
 bij hoeveel bar gebruik je piëzo elektrische kristallen? 0.1 - 500 bar | 0.1 - 500 bar | 0.1 - 500 | 0.1 500
 Wat wordt er tussen de leiding en de drukmeter geplaatst om de drukmeter te beschermen tegen hoge temperaturen? een krul | krul
 hoe voorkom je snelle uitwijkingen in drukmeters? dempingsvloeistof | vloeistof
 welke stof wordt vaak als dempingsmiddel voor drukmeters gebruikt? glycerine
 hoe noem je de ijking van een drukmeter die gedaan wordt om te compenseren voor de hoogte van de vloeistof in de leiding boven de manometer? zero afstelling | nulpunt afstelling
 welke 2 zaken beinvloeden de atmosferische druk? :: temperatuur :: locatie | plaats ::
-welke 3 drukmeters zijn elektrisch? :: rekstrookjes | rekstrookje :: capacitieve drukmeter | capacitieve manometer :: piezo kristallen | piezo kristal | piezo elektrische drukopmeter ::
+welke 3 drukmeters zijn elektrisch? :: rekstrookjes | rekstrookje :: capacitieve drukmeter | capacitieve manometer | capacitieve :: piezo kristallen | piezo kristal | piezo elektrische drukopmeter ::
 welke 2 drukmeters gebruiken we voor het meten van een druk van 6000 bar? :: bourdonbuis manometer | bourdonbuis drukmeter :: rekstrookjes | rekstrookje ::
 welke 2 nadelen hebben piëzo elementen? :: temperatuursgevoelig | temperatuurgevoelig | temperatuur :: alleen verschildrukken | verschildrukken | verschillen | verschil ::
 welke 2 nadelen heeft peilglas? :: gevoelig voor glasbreuk | glasbreuk | breekbaar :: gevoelig voor vervuiling | vervuiling ::
 welke 3 oorzaken kunnen breuken veroorzaken bij peilglazen? :: mechanische beschadigingen | mechanisch :: te hoge druk | hoge druk | druk:: trillingen | trilling ::
 wat is de oplossing als de druk te hoog is om peilglas te gebruiken? reflectiepeilglas
-welke 3 oplossingen hebben we om een drukmeter van een tank met een extra been voor de beleggingsdruk condensvrij te houden? :: spoelen met gas | spoeling | spoelen :: het been verwarmen | verwarmen :: het been vullen met vloeistof | vloeistof | nat been ::
+welke 3 oplossingen hebben we om een drukmeter van een tank met een extra been voor de beleggingsdruk condensvrij te houden? :: spoelen met gas | spoeling | spoelen | gas :: het been verwarmen | verwarmen :: het been vullen met vloeistof | vloeistof | nat been ::
 wat is het nadeel van een systeem van een vlotter? veel onderhoud nodig | onderhoud
 waarvoor gebruik je scharnierende vlotters vooral? niveaudetectie
 welke 2 soorten echoniveaumetingen kennen we? :: ultrasoon :: radar ::
 welke echoniveaumeting mag je niet direct boven de vloeistof plaatsen? ultrasoon
 welke echoniveaumeting mag je wel direct boven de vloeistof plaatsen? radar
 welke 2 isotopen worden veel gebruikt voor radioactieve niveaumeting? :: Co-60 | Co 60 :: Cs-137 | Cs 137 ::
-wat zijn de 2 grote voordelen van radioactieve niveaumeting? :: ongevaarlijk voor het product | ongevaarlijk product :: hygiëne | hygiene ::
-welke 3 factoren bepalen de resonantiefrequentie van een trilvork? :: vorm :: samenstelling :: medium ::
+wat zijn de 2 grote voordelen van radioactieve niveaumeting? :: ongevaarlijk voor het product | ongevaarlijk product | onschadelijk product | product veilig | product onbeschadigd :: hygiëne | hygiene ::
+welke 3 factoren bepalen de resonantiefrequentie van een trilvork? :: vorm :: samenstelling | materiaal :: medium ::
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -878,7 +874,7 @@ middelpuntvliedende kracht = ander woord voor centrifugaal kracht
 wat zijn de 3 hoofdgroepen van pompen? :: verdringerpompen | verdringerpomp | verdringer :: centrifugaalpompen | centrifugaalpomp | centrifugaal :: straalpompen | straalpomp | straal ::
 wat zijn de 2 groepen verdringerpompen? :: pulserende | pulserend :: roterende | roterend ::
 wat zijn de 3 types pulserende verdringerpompen? :: zuigerpompen | zuigerpomp ::  plunjerpompen | plunjerpomp :: membraanpompen |  membraanpomp ::
-wat zijn de 5 types roterende verdringerpompen? :: tandwielpompen | tandwielpomp :: schottenpompen | schottenpomp :: monopompen | monopomp :: wormpompen | wormpomp :: slangepompen | slangepomp ::
+wat zijn de 5 types roterende verdringerpompen? :: tandwielpompen | tandwielpomp :: schottenpompen | schottenpomp :: monopompen | monopomp :: wormpompen | wormpomp | schroefpompen | schroefpomp :: slangepompen | slangepomp ::
 transport: hoe wordt volumestroom ook wel genoemd? debiet | capaciteit | opbrengst
 transport: hoe wordt debiet ook wel genoemd? opbrengst | capaciteit | volumestroom
 transport: hoe wordt capaciteit ook wel genoemd? debiet | opbrengst | volumestroom
@@ -890,9 +886,9 @@ voor welke 2 toepassingen worden plunjerpompen vaak gebruikt? :: kleine volumest
 welke hoofdgroep van pompen moet geheel met vloeistof gevuld zijn? centrifugaalpompen | centrifugaalpomp
 welke hoofdgroep van pompen heeft aanzuigende werking? verdringerpompen | verdringerpomp
 welke 2 soorten energie kan een vloeistof bevatten? :: potentieel | potentiele :: kinetisch | kinetische ::
-wat is de formule voor snelheid van een vloeistof uit een centrifugaalpomp? v = πDn/60 | v = pi Dn/60
+wat is de formule voor snelheid van een vloeistof uit een centrifugaalpomp? v = πDn/60 | v = pi Dn/60 | v = pi nD/60
 welke 2 factoren bepalen de opvoerhoogte van een centrifugaalpomp? :: toerental :: diameter ::
-wat zijn 5 voordelen van een centrifugaalpomp? :: gewicht :: klein | ruimte | volume :: constante vloeistofstroom :: bedrijfszekerheid | bedrijfszeker | betrouwbaar :: regelbaar ::
+wat zijn 5 voordelen van een centrifugaalpomp? :: gewicht :: klein | ruimte | volume :: constante vloeistofstroom | gelijkmatige vloeistofstroom :: bedrijfszekerheid | bedrijfszeker | betrouwbaar :: regelbaar ::
 wat zijn 3 nadelen van een centrifugaalpomp? :: afslaan bij lucht of gas | afslaan :: laag rendement | rendement :: niet zelfaanzuigend | geen aanzuigende werking ::
 Wat is het rendement van een kleine centrifugaalpomp? 50 tot 60% | 50-60% | 50 60%
 Wat is het rendement van een grote centrifugaalpomp? 85 tot 90% | 85-90% | 85 90%
@@ -905,13 +901,13 @@ hoe wordt een schroefspindelpomp ook wel genoemd? wormpomp | schroefpomp
 hoe noemen we de richting van het midden naar buiten toe gericht? radiaal | radial
 hoe noemen we de richting die de as volgt? axiaal | axial
 welke 2 omstandigheden zijn typisch voor het gebruik van schroefpompen en schroefcentrifugaalpompen? :: grote volumestromen | grote volumes | groot volume | hoog debiet :: lage opvoerhoogten | lage opvoerhoogtes | lage opvoerhoogte ::
+welke 2 pompen gebruiken we vaak bij grote volumestromen en lage opvoerhoogtes? :: schroefpompen | schroefpomp :: schroefcentrifugaalpompen | schroefcentrifugaalpomp ::
 welke 3 toepassingen wordt de wervelstroompomp veel voor gebruikt? :: riool :: papier :: levensmiddelen | voeding ::
 welke 2 toepassingen wordt de straalpomp veel voor gebruikt? :: vacuüm | vacuum :: agressieve stoffen ::
 waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde vloeistoffen of gassen | verontreinigde vloeistoffen | verontreinigde gassen | vervuilde vloeistoffen | vervuilde gassen
 
 [pomp-zuiger.png] welke pomp is dit? zuigerpomp
 [pomp-plunjer.png] welke pomp is dit? plunjerpomp
-[pomp-centrifugaal.png] welke pomp is dit? centrifugaalpomp
 [pomp-tandwiel.png] welke pomp is dit? tandwielpomp
 [pomp-lobben.png] welke pomp is dit? lobbenpomp
 [pomp-schotten.png] welke pomp is dit? schottenpomp
@@ -942,8 +938,8 @@ emulgatoren| emulgator = soort stof die emulsies stabiel maakt
 absorptie = oplossen van een gas in een vloeistof
 zeefmedium = deel van een zeef met mazen met een bepaalde maasweidte
 
-welke eigenschap heeft een homogeen mengsel? helder
-welke eigenschap heeft een heterogeen mengsel? troebel
+hoe ziet een homogeen mengsel er uit? helder
+hoe ziet een heterogeen mengsel er uit? troebel
 wat is de deeltjes grootte van suspensies en emulsies? 10⁻⁷ tot en met 10⁻⁶ m | 100 nm tot en met 1000 nm | 100 nm 1000 nm | 100 1000 nm
 wat is de deeltjes grootte van grove mensels? > 1 μm | > 1 micrometer | > 1000 nm
 welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: twee vloeistoffen | vloeistofmengsel :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | vaste stof vloeistof ::
@@ -979,18 +975,23 @@ corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder
 wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | centrifugaalpomp :: menginrichting | mengen ::
 # chemie
 van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
+oxidatie | oxideren = een organische keten verbranden
 % = eenheid massaprocent
 % = eenheid volumeprocent
 # elektriciteit
 formule voor de stroomwet van Kirchhoff? ΣI = 0 | sigma I = 0
 formule voor de spanningswet van Kirchhoff? U[bron] = U₁ + U₂ + ... | Ub = U1+U2 | ΣU = 0 | sigma U = 0
+Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? zwak
+Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? sterk
+Hoe noemen we de lading van een elektron? eenheidslading
 # M&R
 welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
 welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
 Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust ::
 welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
-
+# transport van stoffen
+[pomp-centrifugaal.png] welke pomp is dit? centrifugaalpomp
 
 
 

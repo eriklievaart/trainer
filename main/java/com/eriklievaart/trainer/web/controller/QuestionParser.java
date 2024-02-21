@@ -11,7 +11,7 @@ import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.toolkit.lang.api.collection.NewCollection;
 import com.eriklievaart.toolkit.lang.api.str.Str;
 import com.eriklievaart.trainer.web.answer.AnswerValidator;
-import com.eriklievaart.trainer.web.answer.ExpectAnyInCollection;
+import com.eriklievaart.trainer.web.answer.ExpectExactWithOr;
 import com.eriklievaart.trainer.web.answer.ExpectUnorderedList;
 
 public class QuestionParser {
@@ -62,7 +62,7 @@ public class QuestionParser {
 			return parseUnorderedList(answer);
 		}
 		List<String> collection = ListTool.of(answer.split("\\s*+\\|\\s*+"));
-		return new ExpectAnyInCollection(ListTool.map(collection, s -> s.replaceAll("`", "|")));
+		return new ExpectExactWithOr(ListTool.map(collection, s -> s.replaceAll("`", "|")));
 	}
 
 	private static AnswerValidator parseUnorderedList(String raw) {
