@@ -11,7 +11,7 @@ EDPB = externe dienst voor preventie en bescherming
 EDTC = externe dienst voor technische controle
 CPBW = comité voor preventie en bescherming
 CE markering | CE-markering = maakt het vrij verkeer van veilige goederen mogelijk over de gehele EU
-PBM = persoonlijke beschermingsmiddelen
+PBM = afkorting voor persoonlijke beschermingsmiddelen
 LMRA = last minute risico analyse
 incident = ongewenste gebeurtenis met of zonder schade of letsel
 ongeval = ongewenste plotse gebeurtenis met schade en of lichamelijk letsel tot gevolg
@@ -94,10 +94,10 @@ hoeveel procent zuurstof zit er normaal in de lucht? 21% | 21
 hoeveel procent zuurstof moet er in de lucht zitten om ergens te mogen werken zonder ademhalingsbescherming? 19% | 19
 bij hoeveel procent zuurstof in de lucht ga je dood? 14% | 14
 wat zijn 4 mogelijke oorzaken van een zuurstof tekort in een ruimte? :: gebrek aan ventilatie | ventilatie :: corrosieprocessen | corrosie :: vuur | brand :: gassen | verdringing | verdringen ::
-welke 3 PBM's gebruik je in de buurt van biologische agentia? :: huidsbescherming | huidbescherming :: oogbescherming :: ademhalingsbescherming | ademhalingbescherming ::
+welke 3 PBM's gebruik je in de buurt van biologische agentia? :: huidsbescherming | huidbescherming :: oogbescherming | veiligheidsbril :: ademhalingsbescherming | ademhalingbescherming ::
 welke 2 zaken bekijk je om zeker te zijn dat je de juiste gasfles hebt? :: kleur van gasfles | kleur :: etiket ::
 welke 3 ziektes veroorzaakt asbest? :: asbestose :: asbestlongkanker | longkanker :: mesothelioom ::
-welke 3 elementen zijn nodig voordat brand ontstaat? :: brandbare stof | bandstof :: zuurstof :: ontstekingsenergie | ontstekingsbron | ontsteking ::
+welke 3 elementen zijn nodig voordat brand ontstaat? :: brandbare stof | brandstof :: zuurstof :: ontstekingsenergie | ontstekingsbron | ontsteking ::
 welke 2 maatregelen nemen we in explosiegevaarlijke zones? :: explosieveilig gereedschap :: antistatische veiligheidsschoenen | antistatische schoenen ::
 welke 5 klassen branden onderscheiden we? :: A vaste stoffenbrand | A vaste stoffen | A vaste stof :: B vloeistoffenbrand | B vloeistoffen | B vloeistof :: C gassenbrand | C gassen | C gas :: D metalenbrand | D metalen | D metaal :: niet-geklassificeerde branden | niet geklassificeerd | ongeklassificeerd ::
 waar refereert "vette vuurhaard" aan? vloeistoffenbranden | vloeistoffenbrand | vloeistofbrand
@@ -106,13 +106,13 @@ welke 4 blusmiddellen worden bij vaste stof branden gebruikt? :: water :: bluspo
 welke 3 blusmiddelen worden bij vloeistofbranden gebruikt? :: bluspoeder | poeder :: zand :: schuim ::
 welke 3 blusmiddelen gebruiken we bij gasbranden? :: gastoevoer :: bluspoeder | poeder :: water ::
 welke 2 blusmiddelen gebruiken we bij metaalbranden? :: bluspoeder | poeder :: zand ::
-welke brand klassen mag je niet met water blussen? :: klasse B | B | vloeistofbranden | vloeistof :: klasse D | D | metalen | metaal | metaalbranden :: E | niet geklassificeerd | ongeklassificeerd ::
+welke brand klassen mag je niet met water blussen? :: klasse B | B | vloeistofbranden | vloeistofbrand | vloeistof :: klasse D | D | metalen | metaal | metaalbrand | metaalbranden :: E | niet geklassificeerd | ongeklassificeerd ::
 welke 2 blusmiddelen gebruiken we bij niet-geklassificeerde branden? :: schuim :: CO₂ | CO2 ::
 welke 5 acties neem je bij het ontdekken van brand? :: breng jezelf in veiligheid | verlaat de brandende omgeving | jezelf | verlaten :: meld de brand | melden :: breng de omgeving op de hoogte | informeren :: sluit ramen en deuren | afsluiten :: blus de brand | blussen ::
 hoe lang moet je een brandwond minimaal afspoelen met water? 15 minuten | 15 min | 15 m
 welke risico's heeft werken met elektriciteit? :: elektrocutie :: brandwonden door vonkoverslag door kortsluiting | brandwonden :: brand of explosie doorvonkoverslag of oververhitting | brand | explosie ::
-welke eisen zijn er aan arbeidsmiddelen? :: CE-markering | CE markering :: jaarlijkse keuring :: goede staat en onderhouden | goede staat | onderhouden :: voorschriften en instructies in taal van gebruiker | voorschriften | instructies | handleiding :: noodstop of noodinrichting voor vaste machines | noodstop | noodinrichting :: dodemansknop voor aangedreven handgereedschap | dodemansknop ::
-welke veiligheidsmaatregelen dient men te nemen bij opstellingen van machines? :: opgeruimde vloer | opgeruimd | opruimen :: bewegingsruimte :: stofafzuiging | afzuiging ::
+welke 5 eisen zijn er aan arbeidsmiddelen? :: CE-markering | CE markering :: jaarlijkse keuring :: goede staat en onderhouden | goede staat | onderhouden :: voorschriften en instructies in taal van gebruiker | voorschriften | instructies | handleiding :: noodstop of noodinrichting voor vaste machines | noodstop | noodinrichting :: dodemansknop voor aangedreven handgereedschap | dodemansknop ::
+welke veiligheidsmaatregelen dient men te nemen bij opstellingen van machines? :: opgeruimde vloer | opgeruimd | opruimen :: stofafzuiging | afzuiging | afzuigen :: bewegingsruimte ::
 welke veiligheidsmaatregelen nemen we bij (kolom)boormachines? :: afschermen | afscherming :: werkstuk vastzetten | vastzetten :: boorsel vegen met krullenkwast of krullenhaak | krullenkwast | krullenhaak :: boormachine uit bij verstellen | uit bij verstellen | uit verstellen ::
 welke 3 eisen stellen we bij het gebruik van hijswerkteugen? :: CR-markering | CE markering :: keuring | gekeurd :: opgeleide bediening | opgeleid | opleiding ::
 welke 3 documenten dienen bij een hijswerktuig aanwezig te zijn? :: keuringsverslagen :: hijstabellen en hijsgrafieken | hijstabellen | hijsgrafieken :: historiek van het hijswerktuig | het kraanboek | kraanboek ::
