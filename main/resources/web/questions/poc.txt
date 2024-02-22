@@ -617,7 +617,6 @@ trilvorkniveaudetectie | trilvork = niveaumeting die gebruik maakt van het feit 
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
-welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
 welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
 welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
 welke 2 voordelen heeft een stuursysteem? :: goedkoop :: eenvoudig | simpel | complexiteit ::
@@ -811,8 +810,8 @@ welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: gas opgelost in vloe
 hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopisch homogeen
 hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
 op welke 2 manieren laten we een zeefproces sneller verlopen? :: roteren :: pulseren ::
-welke 4 eisen hebben we aan een zeefmedium? :: sterkte | sterk :: corrosiebestendig :: geschikte maasvorm | maasvorm :: geschikte constructie | constructie ::
-welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid :: klonteren | vochtgehalte :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | gewicht | kracht :: vorm goed | vorm mazen | vorm ::
+welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig :: sterkte | sterk :: geschikte constructie | constructie :: geschikte maasvorm | maasvorm ::
+welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid :: klonteren | vochtgehalte :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | gewicht | kracht :: vorm goed | vorm mazen | vorm ::
 wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef :: roterende zeef :: trilzeef :: zeefbocht :: cascadezeef ::
 
 
@@ -850,6 +849,7 @@ Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschapp
 Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? sterk
 Hoe noemen we de lading van een elektron? eenheidslading
 # M&R
+welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
 welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
 welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
