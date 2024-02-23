@@ -1,7 +1,5 @@
 
 # todo: pictogrammen p36-38, p46-47
-# todo: vragen blusmiddelen p72 tabel rij voor rij
-# todo: pictogram p18
 
 
 welzijnswet = belangrijkste wet voor veiligheid, gezondheid & welzijn
@@ -108,6 +106,13 @@ welke 3 blusmiddelen gebruiken we bij gasbranden? :: gastoevoer :: bluspoeder | 
 welke 2 blusmiddelen gebruiken we bij metaalbranden? :: bluspoeder | poeder :: zand ::
 welke brand klassen mag je niet met water blussen? :: klasse B | B | vloeistofbranden | vloeistofbrand | vloeistof :: klasse D | D | metalen | metaal | metaalbrand | metaalbranden :: E | niet geklassificeerd | ongeklassificeerd ::
 welke 2 blusmiddelen gebruiken we bij niet-geklassificeerde branden? :: schuim :: CO₂ | CO2 ::
+welke soort branden blus je met water? vaste stoffen | vaste stoffenbrand | vaste stoffen branden
+welke soort branden blus je met een blusdeken? vaste stoffen | vaste stoffenbrand | vaste stoffen branden
+voor welke 3 soorten branden is bluspoeder een geschikt blusmiddel? :: vaste stoffen | vaste stoffenbrand | vaste stoffen branden :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gas ::
+voor welke soort branden wordt een speciaal poeder gemaakt? metaalbranden | metaalbrand | metaal
+voor welke 3 soorten branden is CO₂ een geschikt blusmiddel? :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gas :: niet geclassificeerd | ongeklassificeerd ::
+voor welke 3 soorten branden is schuim een geschikt blusmiddel? :: vaste stoffen | vaste stoffenbrand | vaste stoffen branden :: vloeistof branden | vloeistofbrand | vloeistof :: niet geclassificeerd | ongeklassificeerd ::
+voor welke 2 soorten branden is zand een geschikt blusmiddel? :: vloeistof branden | vloeistofbrand | vloeistof :: metaalbranden | metaalbrand | metaal ::
 welke 5 acties neem je bij het ontdekken van brand? :: breng jezelf in veiligheid | verlaat de brandende omgeving | jezelf | verlaten :: meld de brand | melden :: breng de omgeving op de hoogte | informeren :: sluit ramen en deuren | afsluiten :: blus de brand | blussen ::
 hoe lang moet je een brandwond minimaal afspoelen met water? 15 minuten | 15 min | 15 m
 welke risico's heeft werken met elektriciteit? :: elektrocutie :: brandwonden door vonkoverslag door kortsluiting | brandwonden :: brand of explosie doorvonkoverslag of oververhitting | brand | explosie ::
