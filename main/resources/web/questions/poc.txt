@@ -561,6 +561,8 @@ appendages: hoeveel meter water kolom is 1 bar? 10 meter | 10 m | 10
 
 
 # meet en regeltechniek
+# todo: toevoegen plaatjes debietmeters
+
 positieve temperatuur's coëfficiënt | PTC = als bij een metaal de weerstand toeneemt bij stijgende temperatuur
 negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand afneemt bij stijgende temperatuur
 100 Ω | 100 ohm = weerstand van platina bij 0°C
@@ -614,6 +616,19 @@ echoniveaumeting | echo = niveaumeting die meet hoe lang het duurt voordat een g
 trilvorkniveaudetectie | trilvork = niveaumeting die gebruik maakt van het feit dat resonantie verstoort wordt door onderdompeling in een vloeistof
 332 m/s = snelheid van geluid bij 0°C
 3e8 m/s = snelheid van licht/radar
+vadometer | zweeftolmeter = andere naam voor rotameter
+rotameter | zweeftolmeter = andere naam voor vadometer
+rotameter | vadometer = andere naam voor zweeftolmeter
+bluff body = onderdeel van een vortex wat voor wervelstroompjes zorgt
+de-swirler | de swirler = wordt achter de bluff body van een vortex geplaatst om de onregelmatigheden in het flowprofiel weg te werken
+wat zijn de 2 nadelen van een vortex? :: beperkt in diameter | diameter | straal :: lang recht stuk leiding nodig | lengte ::
+ovaalradteller = variant op de rotorvolumestroommeter die voor vloeistoffen wordt gebruikt
+rotorvolumestroommeter = variant op de ovaalradteller die voor vloeistoffen wordt gebruikt
+turbine radmeter = debietmeter die werkt met een propellorvormig of turbinevormig lichaam
+looptijdmeting | looptijdmeter = debietmeting waarbij de frequentieverschuiving van een ultrasone golf gebruikt wordt om de stromingssnelheid te bepalen
+dopplereffect = het terugkomen van een geluidsgolf met een andere frequentie, nadat het afgekaatst wordt op een bewegend object
+coriolisdebietmeter = de meest gebruikte debietmeter
+coriolisdebietmeter = debietmeter die een vloeistof door trillende buizen stuurt en de weerstand van die vloeistof tegen de beweging meet
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -690,6 +705,14 @@ welke echoniveaumeting mag je wel direct boven de vloeistof plaatsen? radar
 welke 2 isotopen worden veel gebruikt voor radioactieve niveaumeting? :: Co-60 | Co 60 :: Cs-137 | Cs 137 ::
 wat zijn de 2 grote voordelen van radioactieve niveaumeting? :: ongevaarlijk voor het product | ongevaarlijk product | onschadelijk product | product veilig | product onbeschadigd :: hygiëne | hygiene ::
 welke 3 factoren bepalen de resonantiefrequentie van een trilvork? :: vorm :: samenstelling | materiaal :: medium ::
+welke 2 soorten debieten kennen we? :: massadebiet | massa :: volumedebiet | volume ::
+welke formule gebruiken we voor het berekenen van een debiet bij een meetschijf? Q = cΔp | Q = c delta p | Q = delta p c
+welke nadelen heeft een meetschijf? :: drukverlies | leidingverlies :: ongeschikt voor suspensies | ongeschikt suspensies | geen suspensies | geen vaste delen :: onnauwkeurig in het lage meetgebied | onnauwkeurig :: gevoelig voor onregelmatigheden | overgevoelig :: meetbereik beperkt :: duur in onderhoud | duur :: slijtage ::
+wat is het drukverlies van een venturi? 10-20% | 10 20%
+wat zijn de 3 voordelen van de venturi t.o.v. de meetschijf? :: geen erosie | minder erosie | erosie :: er blijft niets achter hangen | onderhoud :: kleiner drukverlies | drukverlies | leidingverlies ::
+welke 2 voordelen heeft een swirl t.o.v. een vortex? :: minder beperkt in diameter | diameter | straal :: minder lang stuk leiding nodig | lengte ::
+waar is de rotorvolumestroommeter uitstekend geschikt voor? grote volumes gas
+welke debietmeter kan alleen bij geleidende vloeistoffen gebruikt worden? inductieve debietmeting
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
