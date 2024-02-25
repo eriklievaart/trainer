@@ -82,7 +82,7 @@ welke 5 dingen te doen bij alarm? :: onderbreek het werk | stop met werken | ond
 langs welke 4 wegen kunnen gevaarlijke stoffen het lichaam binnendringen? :: neus :: mond :: huid :: wond | bloed ::
 welke 3 maatregelen kunnen we aan de bron treffen om het binnen krijgen van gevaarlijke stoffen tegen te gaan? :: geen gevaarlijke stoffen gebruiken | eliminatie :: minder gevaarlijk product gebruiken | vervangen | vervanging :: het product aanpassen | tabletten i.p.v. poeder | aanpassen ::
 welke 3 maatregelen kunnen we treffen om de blootstelling aan gevaarlijke stoffen te verminderen of te beperken? :: plaatselijke afzuiging | afzuiging | afzuigen :: scheiden van mens of bron | scheiden | isolatie | isoleren :: ventilatie | ventileren ::
-welke 4 persoonlijke maatregelen treffen we om besmetting met gevaarlijke stoffen te voorkomen? :: handen wassen voor eten of drinken | handen wassen :: eet uitsluitend in de refter | refter | kantine :: werkkleding uittrekken in refter | werkkleding uittrekken | werkkleding uit | omkleden :: wonde schoonmaken | pleister | verband ::
+welke 4 persoonlijke maatregelen treffen we om besmetting met gevaarlijke stoffen te voorkomen? :: handen wassen voor eten of drinken | handen wassen :: eet uitsluitend in de refter | refter | kantine :: werkkleding uittrekken in refter | werkkleding uittrekken | werkkleding uit | kleren uit | omkleden :: wonde schoonmaken | pleister | verband ::
 hoe noemen we de maximale hoeveelheid van een bepaalde stof die in de lucht voor mag komen? grenswaarde voor beroepsmatige blootstelling | grenswaarde beroepsmatige blootstelling
 waar staat GWBB voor? grenswaarde voor beroepsmatige blootstelling
 wat voor statistisch gegeven is de grenswaarde voor beroepsmatige blootstelling? tijdsgewogen gemiddelde over een referentieperiode
@@ -120,7 +120,7 @@ welke 5 eisen zijn er aan arbeidsmiddelen? :: CE-markering | CE markering :: jaa
 welke veiligheidsmaatregelen dient men te nemen bij opstellingen van machines? :: opgeruimde vloer | opgeruimd | opruimen :: stofafzuiging | afzuiging | afzuigen :: bewegingsruimte ::
 welke veiligheidsmaatregelen nemen we bij (kolom)boormachines? :: afschermen | afscherming :: werkstuk vastzetten | vastzetten :: boorsel vegen met krullenkwast of krullenhaak | krullenkwast | krullenhaak :: boormachine uit bij verstellen | uit bij verstellen | uit verstellen ::
 welke 3 eisen stellen we bij het gebruik van hijswerkteugen? :: CR-markering | CE markering :: keuring | gekeurd :: opgeleide bediening | opgeleid | opleiding ::
-welke 3 documenten dienen bij een hijswerktuig aanwezig te zijn? :: keuringsverslagen :: hijstabellen en hijsgrafieken | hijstabellen | hijsgrafieken :: historiek van het hijswerktuig | het kraanboek | kraanboek ::
+welke 3 documenten dienen bij een hijswerktuig aanwezig te zijn? :: keuringsverslagen | keuringsrapporten :: hijstabellen en hijsgrafieken | hijstabellen | hijsgrafieken :: historiek van het hijswerktuig | het kraanboek | kraanboek ::
 vanaf hoeveel meter spreken we van werken op hoogte? 2 meter | 2m | 2
 welke 2 risico's zijn er bij werken op hoogte? :: vallende personen | personen | persoon :: vallende voorwerpen | vallend voorwerp | voorwerpen | voorwerp ::
 hoeveel uur mag je maximaal op een ladder werken? 4 uur | 4u | 4
@@ -129,8 +129,8 @@ vanaf hoeveel sporen dient een ladder aan de bovenkant vast gemaakt te worden? 2
 hoe worden steigers in België genoemd? stellingen
 wat voor soorten steigers zijn er? :: staande stijgers | staande | staand :: hangsteigers | hang :: rolsteigers | rol ::
 welke risico's zijn er in besloten ruimtes? :: zuurstoftekort | verstikken :: brandgevaar | explosiegevaar | brand | explosie :: vergiftigingsgevaar | vergiftiging :: electrocutie :: knellen, vallen en uitglijden | knellen | vallen ::
-welke 5 taken heeft een veiligheidswacht? :: toezicht houden | toezicht :: communicatie met personen in besloten ruimte | communicatie :: controle ventilatie | ventilatie :: hulpdiensten waarschuwen bij gevaar | hulpdiensten waarschuwen | hulpdiensten :: hulp bieden aan persoon in besloten ruimte | hulp bieden | hulp ::
-welke 5 veiligheidsmaatregelen nemen we bij het werken met elektriciteit? :: fysieke afscherming | afscherming :: isolatie :: aarding :: aardlekbeveiliging | aardlek :: lage spanning | laagspanning ::
+welke 5 taken heeft een veiligheidswacht? :: toezicht houden | toezicht :: controle ventilatie | ventilatie :: communicatie met personen in besloten ruimte | communicatie | communiceren :: hulpdiensten waarschuwen bij gevaar | hulpdiensten waarschuwen | hulpdiensten :: hulp bieden aan persoon in besloten ruimte | hulp bieden | hulp ::
+welke 5 veiligheidsmaatregelen nemen we bij het werken met elektriciteit? :: fysieke afscherming | afscherming :: isolatie :: aarding :: aardlekschakelaar | aardlekbeveiliging | aardlek :: lage spanning | laagspanning ::
 wat is een differentieelschakelaar? een aardlekschakelaar | aardlekschakelaar
 welke bescherming geven de (max) 3 cijfers van een IP-classificatie weerop volgorde? stof water mechanisch
 op hoeveel dB zit de pijngrens? 120

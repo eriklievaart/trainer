@@ -13,7 +13,7 @@ b*h | bh                                 = oppervlakte van een parallellogram me
 ⅓Gh | Gh/3 | 1/3 GH                      = inhoud piramide met grondvlak "G" en hoogte "h"
 ⅓Gh | Gh/3 | 1/3 GH                      = inhoud kegel met grondvlak "G" en hoogte "h"
 ½bc sin(A) | 1/2 bc sin(A) | bc sin(A)/2 | 1/2 bc sin A | bc sin A / 2    = oppervlakte van een driehoek vaarbij je zijdes b en c kent en de hoek A daartussen
-2πr² + 2πrh | 2πr(r+h) | 2 pi r2 + 2 pi rh | 2 pi (r2 + rh) | 2 pi r(r+h) = oppervlakte van een cilinder
+2πr² + 2πrh | 2πr(r+h) | 2 pi r2 + 2 pi rh | 2 pi (r2 + rh) | 2 pi r(h+r)  | 2 pi r(r+h) = oppervlakte van een cilinder
 
 hoeveel kg is 1 ton? 1000 | 1000 kg
 1 Pa in andere SI eenheden? 1N/m² | 1N/m2
@@ -226,7 +226,7 @@ wat ligt tussen homogene en heterogene mengsels in? colloïdale mengsels | collo
 colloïdale mengsels hebben deeltjes groottes van ____ to ____ ? 10⁻⁹m 10⁻⁷m | 10e-9 m 10e-7 m | 1 nm 100 nm
 welke subniveaus kan een elektronen schil hebben? spdf
 hoeveel elektronen zijn er maximaal per subniveau? s2 p6 d10 f14
-waaruit bestaat koningswater? zoutzuur en salpeterzuur | zoutzuur salpeterzuur | salpeterzuur en zoutzuur | salpeterzuur zoutzuur | HCl HNO₃ | HCl HNO3
+waaruit bestaat koningswater? :: zoutzuur | HCl :: salpeterzuur | HNO₃ | HNO3 ::
 een atoom met een hogere EN trekt sterker/zwakker elektronen aan? sterker
 een atoom met een lagere EN trekt sterker/zwakker elektronen aan? zwakker
 chemie: Wat betekent δ⁺? positieve ladingverschuiving | positieve ladingsverschuiving
@@ -403,7 +403,7 @@ wat is de formule voor het berekenen van de pH? pH = -log[H⁺] | pH = -log[H+]
 appendages: waar staat NBN voor? bureau voor normalisatie
 appendages: waar staat DIN voor? Deutsches institut fur normung
 appendages: waar staat ANSI voor? american national standards institute
-appendages: waar staat API voor? american petroleum institute
+appendages: wat is de volledige naam van de instantie genaamd API? american petroleum institute
 appendages: waar staat ISO voor? international organization for standardization
 appendages: waar staat DN voor? diametre nominal
 appendages: waar staat NPS voor? nominal pipe size
@@ -692,7 +692,7 @@ hoe noem je de ijking van een drukmeter die gedaan wordt om te compenseren voor 
 welke 2 zaken beinvloeden de atmosferische druk? :: temperatuur :: locatie | plaats ::
 welke 3 drukmeters zijn elektrisch? :: rekstrookjes | rekstrookje :: capacitieve drukmeter | capacitieve manometer | capacitieve :: piezo kristallen | piezo kristal | piezo elektrische drukopmeter ::
 welke 2 drukmeters gebruiken we voor het meten van een druk van 6000 bar? :: bourdonbuis manometer | bourdonbuis drukmeter :: rekstrookjes | rekstrookje ::
-welke 2 nadelen hebben piëzo elementen? :: temperatuursgevoelig | temperatuurgevoelig | temperatuur :: alleen verschildrukken | verschildrukken | verschillen | verschil ::
+welke 2 nadelen hebben piëzo elementen? :: temperatuursgevoelig | temperatuurgevoelig | temperatuur :: alleen verschildrukken | verschildrukken | verschildruk | verschillen | verschil ::
 welke 2 nadelen heeft peilglas? :: gevoelig voor glasbreuk | glasbreuk | breekbaar :: gevoelig voor vervuiling | vervuiling ::
 welke 3 oorzaken kunnen breuken veroorzaken bij peilglazen? :: mechanische beschadigingen | mechanisch :: te hoge druk | hoge druk | druk:: trillingen | trilling ::
 wat is de oplossing als de druk te hoog is om peilglas te gebruiken? reflectiepeilglas
@@ -707,12 +707,12 @@ wat zijn de 2 grote voordelen van radioactieve niveaumeting? :: ongevaarlijk voo
 welke 3 factoren bepalen de resonantiefrequentie van een trilvork? :: vorm :: samenstelling | materiaal :: medium ::
 welke 2 soorten debieten kennen we? :: massadebiet | massa :: volumedebiet | volume ::
 welke formule gebruiken we voor het berekenen van een debiet bij een meetschijf? Q = cΔp | Q = c delta p | Q = delta p c
-welke nadelen heeft een meetschijf? :: drukverlies | leidingverlies :: ongeschikt voor suspensies | ongeschikt suspensies | geen suspensies | geen vaste delen :: onnauwkeurig in het lage meetgebied | onnauwkeurig :: gevoelig voor onregelmatigheden | overgevoelig :: meetbereik beperkt :: duur in onderhoud | duur :: slijtage ::
+welke 5 nadelen heeft een meetschijf? :: drukverlies | leidingverlies :: ongeschikt voor suspensies | ongeschikt suspensies | geen suspensies | geen vaste delen :: onnauwkeurig in het lage meetgebied | onnauwkeurig :: gevoelig voor onregelmatigheden | overgevoelig :: meetbereik beperkt | meetbereik :: duur in onderhoud | duur | onderhoud :: slijtage | erosie ::
 wat is het drukverlies van een venturi? 10-20% | 10 20%
 wat zijn de 3 voordelen van de venturi t.o.v. de meetschijf? :: geen erosie | minder erosie | erosie :: er blijft niets achter hangen | onderhoud :: kleiner drukverlies | drukverlies | leidingverlies ::
 welke 2 voordelen heeft een swirl t.o.v. een vortex? :: minder beperkt in diameter | diameter | straal :: minder lang stuk leiding nodig | lengte ::
-waar is de rotorvolumestroommeter uitstekend geschikt voor? grote volumes gas
-welke debietmeter kan alleen bij geleidende vloeistoffen gebruikt worden? inductieve debietmeting
+waar is de rotorvolumestroommeter uitstekend geschikt voor? grote volumes gas | gassen | gas
+welke debietmeter kan alleen bij geleidende vloeistoffen gebruikt worden? inductieve debietmeting | inductieve debietmeter
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -832,9 +832,9 @@ wat is de deeltjes grootte van grove mensels? > 1 μm | > 1 micrometer | > 1000 
 welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: twee vloeistoffen | vloeistofmengsel :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | vaste stof vloeistof ::
 hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopisch homogeen
 hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
-op welke 2 manieren laten we een zeefproces sneller verlopen? :: roteren :: pulseren ::
-welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig :: sterkte | sterk :: geschikte constructie | constructie :: geschikte maasvorm | maasvorm ::
-welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid :: klonteren | vochtgehalte :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | gewicht | kracht :: vorm goed | vorm mazen | vorm ::
+welke 2 technieken laten een zeefproces sneller verlopen? :: roteren :: pulseren ::
+welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig | corrosie :: sterkte | sterk :: geschikte constructie | constructie :: geschikte maasvorm | maasvorm | vorm ::
+welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid :: klonteren | vochtgehalte | vochtigheid :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | dichtheid | gewicht | kracht :: vorm goed | vorm mazen | maasvorm | vorm ::
 wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef :: roterende zeef :: trilzeef :: zeefbocht :: cascadezeef ::
 
 
