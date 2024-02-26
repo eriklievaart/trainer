@@ -481,7 +481,7 @@ wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van d
 waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
 waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
 wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? :: elektrisch :: inductie ::
-welke 5 zaken beinvloeden het weerstandsverlies in een leiding? diameter oppervlakteruwheid soortelijke massa stromingssnelheid viscositeit
+welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: oppervlakteruwheid :: soortelijke :: massa :: stromingssnelheid :: viscositeit ::
 appendages: waarmee duiden we het totale leidingverlies aan? pw
 appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
 appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
@@ -707,7 +707,7 @@ wat zijn de 2 grote voordelen van radioactieve niveaumeting? :: ongevaarlijk voo
 welke 3 factoren bepalen de resonantiefrequentie van een trilvork? :: vorm :: samenstelling | materiaal :: medium ::
 welke 2 soorten debieten kennen we? :: massadebiet | massa :: volumedebiet | volume ::
 welke formule gebruiken we voor het berekenen van een debiet bij een meetschijf? Q = cΔp | Q = c delta p | Q = delta p c
-welke 5 nadelen heeft een meetschijf? :: drukverlies | leidingverlies :: ongeschikt voor suspensies | ongeschikt suspensies | geen suspensies | geen vaste delen :: onnauwkeurig in het lage meetgebied | onnauwkeurig :: gevoelig voor onregelmatigheden | overgevoelig :: meetbereik beperkt | meetbereik :: duur in onderhoud | duur | onderhoud :: slijtage | erosie ::
+welke 5 nadelen heeft een meetschijf? :: drukverlies | leidingverlies :: ongeschikt voor suspensies | ongeschikt suspensies | geen suspensies | geen vaste delen :: onnauwkeurig in het lage meetgebied | onnauwkeurig | nauwkeurigheid :: gevoelig voor onregelmatigheden | overgevoelig :: meetbereik beperkt | meetbereik :: duur in onderhoud | duur | onderhoud :: slijtage | erosie ::
 wat is het drukverlies van een venturi? 10-20% | 10 20%
 wat zijn de 3 voordelen van de venturi t.o.v. de meetschijf? :: geen erosie | minder erosie | erosie :: er blijft niets achter hangen | onderhoud :: kleiner drukverlies | drukverlies | leidingverlies ::
 welke 2 voordelen heeft een swirl t.o.v. een vortex? :: minder beperkt in diameter | diameter | straal :: minder lang stuk leiding nodig | lengte ::
@@ -834,7 +834,7 @@ hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopi
 hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
 welke 2 technieken laten een zeefproces sneller verlopen? :: roteren :: pulseren ::
 welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig | corrosie :: sterkte | sterk :: geschikte constructie | constructie :: geschikte maasvorm | maasvorm | vorm ::
-welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid :: klonteren | vochtgehalte | vochtigheid :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | dichtheid | gewicht | kracht :: vorm goed | vorm mazen | maasvorm | vorm ::
+welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid | volume :: klonteren | vochtgehalte | vochtigheid :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | dichtheid | gewicht | kracht :: vorm goed | vorm mazen | maasvorm | vorm ::
 wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef :: roterende zeef :: trilzeef :: zeefbocht :: cascadezeef ::
 
 

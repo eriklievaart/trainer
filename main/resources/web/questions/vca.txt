@@ -67,10 +67,10 @@ wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, r
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
 Onder invloed van alcohol of drugs is de kans op ongevallen ___ - ___ keer hoger? 2-4 | 2 4
 Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van alcohol? 15%-30% | 15-30% | 15-30 | 15 30
-hoe noemen we informele vergaderingen over de veiligheid? toolboxmeetings | VGA-bijeenkomsten | VGA bijeenkomsten | VGA bijeenkomst
+hoe noemen we informele vergaderingen over de veiligheid? toolboxmeetings | toolboxmeeting | VGA-bijeenkomsten | VGA bijeenkomsten | VGA bijeenkomst
 Wat zijn de 4 stappen om een installatie veilig te stellen op volgorde? uitschakelen vergrendelen markeren meten | uitschakelen vergrendelen markeren verifieren | uitzetten vergrendelen markeren meten | uitzetten vergrendelen markeren verifieren
-welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrokkenen | overleg :: maken van bindende afspraken | bindende afspraken :: vastleggen van de voorwaarden en maatregelen | vastleggen :: verlenen van toestemming voor de werkzaamheden | toestemming ::
-welke (minimaal) 5 elementen staan in de vergunning? :: uit te voeren werkzaamheden | werkzaamheden :: werkverdeling :: geldigheidsduur :: maatregelen voorgeschreven door de verstrekker :: maatregelen voor operationele medewerkers :: maatregelen na beeindiging werkzaamheden :: voorwaarden verlenging | verlenging :: bekrachtiging | ondertekening ::
+welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrokkenen | overleg :: maken van bindende afspraken | bindende afspraken | binden :: vastleggen van de voorwaarden en maatregelen | vastleggen :: verlenen van toestemming voor de werkzaamheden | toestemming ::
+welke 5 elementen staan in de vergunning? :: uit te voeren werkzaamheden | werkzaamheden :: werkverdeling | taakverdeling :: geldigheidsduur :: maatregelen voorgeschreven door de verstrekker :: maatregelen voor operationele medewerkers :: maatregelen na beeindiging werkzaamheden :: voorwaarden verlenging | verlenging :: bekrachtiging | ondertekening ::
 wie is de verstrekker? de opdrachtgever | opdrachtgever
 welke 2 kleurcombinaties kunnen linten hebben? :: rood/wit | wit/rood | root wit | wit rood :: geel/zwart | zwart/geel | geel zwart | zwart geel ::
 welke 3 fasen heeft de bestrijding van een noodsituatie? :: eerste melding | melding :: handelingen of maatregelen | handelingen | maatregelen :: beëindiging | beeindiging | afsluiting ::
@@ -78,15 +78,15 @@ welke 3 elementen zijn van belang bij de eerste melding van een noodsituatie? ::
 welke 4 handelingen/maatregelen worden verricht bij een noodsituatie? :: evacuatie :: interventie; blussen, opruimen, etc. | interventie :: reddingsoperaties | redding :: hulpverlening ::
 welke 2 elementen zijn van belang voor het beëindigen van een noodsituatie? :: wie is gemachtigd om de noodsituatie te beëindigen? | wie beeindigd? :: hoe wordt iedereeen geinformeerd over het beëindigen? | hoe geinformeerd? | informering ::
 welke 3 soorten informatie hoor je te ontvangen over evacuatie? :: verzamelplaatsen | verzamelplaats | verzamelen :: evacuatiemogelijkheden | vluchtwegen | vluchtweg :: specifieke instructies van de opdrachtgever | specifieke instructies | instructies ::
-welke 5 dingen te doen bij alarm? :: onderbreek het werk | stop met werken | onderbreken | stoppen :: stop externe communicatie | zet GSM uit | zet GSM af | GSM uit | GSM af :: volg aanwijzingen evacuatieverantwoordelijken | volg instructies :: ga naar verzamelplaats | verzamelen | verzamel :: gebruik lift niet | lift vermijden | vermijd lift :: evacueer dwars op windrichting | vlucht dwars op windrichting :: meld je aan bij verantwoordlijke op verzamelplaats | meld je aan | meld aan ::
+welke 5 dingen te doen bij alarm? :: onderbreek het werk | stop met werken | onderbreken | stoppen :: stop externe communicatie | zet GSM uit | zet GSM af | GSM uit | GSM af :: volg aanwijzingen evacuatieverantwoordelijken | volg instructies :: ga naar verzamelplaats | verzamelen | verzamel :: gebruik lift niet | lift vermijden | vermijd lift :: evacueer dwars op windrichting | vlucht dwars op windrichting :: meld je aan bij verantwoordlijke op verzamelplaats | meld je aan | meld je | meld aan | melden | aanmelden ::
 langs welke 4 wegen kunnen gevaarlijke stoffen het lichaam binnendringen? :: neus :: mond :: huid :: wond | bloed ::
 welke 3 maatregelen kunnen we aan de bron treffen om het binnen krijgen van gevaarlijke stoffen tegen te gaan? :: geen gevaarlijke stoffen gebruiken | eliminatie :: minder gevaarlijk product gebruiken | vervangen | vervanging :: het product aanpassen | tabletten i.p.v. poeder | aanpassen ::
 welke 3 maatregelen kunnen we treffen om de blootstelling aan gevaarlijke stoffen te verminderen of te beperken? :: plaatselijke afzuiging | afzuiging | afzuigen :: scheiden van mens of bron | scheiden | isolatie | isoleren :: ventilatie | ventileren ::
 welke 4 persoonlijke maatregelen treffen we om besmetting met gevaarlijke stoffen te voorkomen? :: handen wassen voor eten of drinken | handen wassen :: eet uitsluitend in de refter | refter | kantine :: werkkleding uittrekken in refter | werkkleding uittrekken | werkkleding uit | kleren uit | omkleden :: wonde schoonmaken | pleister | verband ::
 hoe noemen we de maximale hoeveelheid van een bepaalde stof die in de lucht voor mag komen? grenswaarde voor beroepsmatige blootstelling | grenswaarde beroepsmatige blootstelling
 waar staat GWBB voor? grenswaarde voor beroepsmatige blootstelling
-wat voor statistisch gegeven is de grenswaarde voor beroepsmatige blootstelling? tijdsgewogen gemiddelde over een referentieperiode
-onder welke 3 voorwaarden is het tijdsgewogen gemiddelde gedefinieerd? :: gezond :: volwassen :: normale lichaamsinspanning  | normale inspanning ::
+wat voor statistisch gegeven is de grenswaarde voor beroepsmatige blootstelling? tijdsgewogen gemiddelde over een referentieperiode | tijdsgewogen gemiddelde
+onder welke 3 voorwaarden is het tijdsgewogen gemiddelde gedefinieerd? :: gezond | gezond persoon :: volwassen :: normale lichaamsinspanning  | normale inspanning ::
 Welke 5 zaken zijn verplicht op het etiket van een gevaarlijke stof? :: naam van het product | naam | product :: gevarensymbolen :: gevaren | risico's | H-zinnen | h zinnen :: veiligheidsaanbevelingen | aanbevelingen | P-zinnen | p zinnen :: fabrikant | distribiteur | invoerder ::
 hoeveel procent zuurstof zit er normaal in de lucht? 21% | 21
 hoeveel procent zuurstof moet er in de lucht zitten om ergens te mogen werken zonder ademhalingsbescherming? 19% | 19
@@ -95,10 +95,10 @@ wat zijn 4 mogelijke oorzaken van een zuurstof tekort in een ruimte? :: gebrek a
 welke 3 PBM's gebruik je in de buurt van biologische agentia? :: huidsbescherming | huidbescherming :: oogbescherming | veiligheidsbril :: ademhalingsbescherming | ademhalingbescherming ::
 welke 2 zaken bekijk je om zeker te zijn dat je de juiste gasfles hebt? :: kleur van gasfles | kleur :: etiket ::
 welke 3 ziektes veroorzaakt asbest? :: asbestose :: asbestlongkanker | longkanker :: mesothelioom ::
-welke 3 elementen zijn nodig voordat brand ontstaat? :: brandbare stof | brandstof :: zuurstof :: ontstekingsenergie | ontstekingsbron | ontsteking ::
+welke 3 elementen zijn nodig voordat brand ontstaat? :: brandbare stof | brandstof :: zuurstof :: ontstekingsenergie | ontstekingsbron | ontsteking  | vonk ::
 welke 2 maatregelen nemen we in explosiegevaarlijke zones? :: explosieveilig gereedschap :: antistatische veiligheidsschoenen | antistatische schoenen ::
 welke 5 klassen branden onderscheiden we? :: A vaste stoffenbrand | A vaste stoffen | A vaste stof :: B vloeistoffenbrand | B vloeistoffen | B vloeistof :: C gassenbrand | C gassen | C gas :: D metalenbrand | D metalen | D metaal :: niet-geklassificeerde branden | niet geklassificeerd | ongeklassificeerd ::
-waar refereert "vette vuurhaard" aan? vloeistoffenbranden | vloeistoffenbrand | vloeistofbrand
+waar refereert "vette vuurhaard" aan? vloeistoffenbranden | vloeistoffenbrand | vloeistofbranden | vloeistofbrand
 in welke klasse plaatsen we branden aan elektrische apparatuur? niet geklassificeerde branden | niet gekwalificeerd | ongekwalificeerd
 welke 4 blusmiddellen worden bij vaste stof branden gebruikt? :: water :: bluspoeder | poeder :: blusdeken | deken :: schuim ::
 welke 3 blusmiddelen worden bij vloeistofbranden gebruikt? :: bluspoeder | poeder :: zand :: schuim ::
@@ -110,19 +110,19 @@ welke soort branden blus je met water? vaste stoffen | vaste stoffenbrand | vast
 welke soort branden blus je met een blusdeken? vaste stoffen | vaste stoffenbrand | vaste stoffen branden | vastestof
 voor welke 3 soorten branden is bluspoeder een geschikt blusmiddel? :: vaste stof | vaste stoffen | vaste stoffenbrand | vaste stoffen branden :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gas ::
 voor welke soort branden wordt een speciaal poeder gemaakt? metaalbranden | metaalbrand | metaal
-voor welke 3 soorten branden is CO₂ een geschikt blusmiddel? :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gas :: niet geclassificeerd | ongeklassificeerd ::
+voor welke 3 soorten branden is CO₂ een geschikt blusmiddel? :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gassen | gas :: niet geclassificeerd | ongeklassificeerd ::
 voor welke 3 soorten branden is schuim een geschikt blusmiddel? :: vaste stoffen | vaste stoffenbrand | vaste stoffen branden | vaste stof :: vloeistof branden | vloeistofbrand | vloeistof :: niet geclassificeerd | ongeklassificeerd ::
 voor welke 2 soorten branden is zand een geschikt blusmiddel? :: vloeistof branden | vloeistofbrand | vloeistof :: metaalbranden | metaalbrand | metaal ::
 welke 5 acties neem je bij het ontdekken van brand? :: breng jezelf in veiligheid | verlaat de brandende omgeving | jezelf | verlaten :: meld de brand | melden :: breng de omgeving op de hoogte | informeren :: sluit ramen en deuren | afsluiten :: blus de brand | blussen ::
 hoe lang moet je een brandwond minimaal afspoelen met water? 15 minuten | 15 min | 15 m
 welke risico's heeft werken met elektriciteit? :: elektrocutie :: brandwonden door vonkoverslag door kortsluiting | brandwonden :: brand of explosie doorvonkoverslag of oververhitting | brand | explosie ::
-welke 5 eisen zijn er aan arbeidsmiddelen? :: CE-markering | CE markering :: jaarlijkse keuring :: goede staat en onderhouden | goede staat | onderhouden :: voorschriften en instructies in taal van gebruiker | voorschriften | instructies | handleiding :: noodstop of noodinrichting voor vaste machines | noodstop | noodinrichting :: dodemansknop voor aangedreven handgereedschap | dodemansknop ::
-welke veiligheidsmaatregelen dient men te nemen bij opstellingen van machines? :: opgeruimde vloer | opgeruimd | opruimen :: stofafzuiging | afzuiging | afzuigen :: bewegingsruimte ::
+welke 5 eisen zijn er aan arbeidsmiddelen? :: CE-markering | CE markering :: jaarlijkse keuring | keuring | gekeurd :: goede staat en onderhouden | goede staat | onderhouden :: voorschriften en instructies in taal van gebruiker | voorschriften | instructies | handleiding :: noodstop of noodinrichting voor vaste machines | noodstop | noodinrichting :: dodemansknop voor aangedreven handgereedschap | dodemansknop ::
+welke 3 veiligheidsmaatregelen dient men te nemen bij opstellingen van machines? :: opgeruimde vloer | opgeruimd | opruimen :: stofafzuiging | afzuiging | afzuigen :: bewegingsruimte ::
 welke veiligheidsmaatregelen nemen we bij (kolom)boormachines? :: afschermen | afscherming :: werkstuk vastzetten | vastzetten :: boorsel vegen met krullenkwast of krullenhaak | krullenkwast | krullenhaak :: boormachine uit bij verstellen | uit bij verstellen | uit verstellen ::
-welke 3 eisen stellen we bij het gebruik van hijswerkteugen? :: CR-markering | CE markering :: keuring | gekeurd :: opgeleide bediening | opgeleid | opleiding ::
+welke 3 eisen stellen we bij het gebruik van hijswerktuigen? :: CR-markering | CE markering :: jaarlijks gekeurd | keuring | gekeurd :: opgeleide bediening | opgeleid | opleiding ::
 welke 3 documenten dienen bij een hijswerktuig aanwezig te zijn? :: keuringsverslagen | keuringsrapporten :: hijstabellen en hijsgrafieken | hijstabellen | hijsgrafieken :: historiek van het hijswerktuig | het kraanboek | kraanboek ::
 vanaf hoeveel meter spreken we van werken op hoogte? 2 meter | 2m | 2
-welke 2 risico's zijn er bij werken op hoogte? :: vallende personen | personen | persoon :: vallende voorwerpen | vallend voorwerp | voorwerpen | voorwerp ::
+welke 2 risico's zijn er bij werken op hoogte? :: vallende personen | personen | persoon :: vallende voorwerpen | vallend voorwerp | voorwerpen | voorwerp | vallende objecten | vallend object | objecten | object ::
 hoeveel uur mag je maximaal op een ladder werken? 4 uur | 4u | 4
 welke 4 voorwaarden gelden er voor het werken op een ladder? :: tot 7.5m | 7.5m :: korte duur | 4 uur | 4u :: lichte werkzaamheden | 10 kg | 100 N :: niet leunen | armlengte ::
 vanaf hoeveel sporen dient een ladder aan de bovenkant vast gemaakt te worden? 26
@@ -130,7 +130,7 @@ hoe worden steigers in België genoemd? stellingen
 wat voor soorten steigers zijn er? :: staande stijgers | staande | staand :: hangsteigers | hang :: rolsteigers | rol ::
 welke risico's zijn er in besloten ruimtes? :: zuurstoftekort | verstikken :: brandgevaar | explosiegevaar | brand | explosie :: vergiftigingsgevaar | vergiftiging :: electrocutie :: knellen, vallen en uitglijden | knellen | vallen ::
 welke 5 taken heeft een veiligheidswacht? :: toezicht houden | toezicht :: controle ventilatie | ventilatie :: communicatie met personen in besloten ruimte | communicatie | communiceren :: hulpdiensten waarschuwen bij gevaar | hulpdiensten waarschuwen | hulpdiensten :: hulp bieden aan persoon in besloten ruimte | hulp bieden | hulp ::
-welke 5 veiligheidsmaatregelen nemen we bij het werken met elektriciteit? :: fysieke afscherming | afscherming :: isolatie :: aarding :: aardlekschakelaar | aardlekbeveiliging | aardlek :: lage spanning | laagspanning ::
+welke 5 veiligheidsmaatregelen nemen we bij het werken met elektriciteit? :: fysieke afscherming | afscherming | afschermen :: isolatie | isoleren :: aarding :: aardlekschakelaar | aardlekbeveiliging | aardlek :: lage spanning | laagspanning ::
 wat is een differentieelschakelaar? een aardlekschakelaar | aardlekschakelaar
 welke bescherming geven de (max) 3 cijfers van een IP-classificatie weerop volgorde? stof water mechanisch
 op hoeveel dB zit de pijngrens? 120
