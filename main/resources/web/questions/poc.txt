@@ -812,6 +812,7 @@ waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde v
 
 
 # scheidingstechnieken
+# todo: plaatjes van bezinken/sedimenteren
 cohesie = algemene naam voor de aantrekkingskracht tussen deeltjes van een stof
 zeer groot | zeer hoog = cohesie van een vaste stof
 groot | hoog = cohesie van een vloeistof
@@ -824,6 +825,15 @@ zuivere stoffen | zuivere stof = stof die vaste (getabelleerde) fysische constan
 emulgatoren| emulgator = soort stof die emulsies stabiel maakt
 absorptie = oplossen van een gas in een vloeistof
 zeefmedium = deel van een zeef met mazen met een bepaalde maasweidte
+stroomgoot = apparaat met achter elkaar geplaatste bakken met toenemende trechtergrootte, die steeds fijnere deeltjes afvoeren
+kegelclassificeerder = Apparaat dat een opwaartste vloeistofstroom gebruikt om fijne deeltjes af te voeren. Grove delen zakken naar de bodem.
+windzifter = Apparaat dat een opwaartste luchtstroom gebruikt om fijne deeltjes af te voeren. Grove delen zakken naar de bodem.
+filtreren = vaste stof van een gas of vloeistof scheiden doormidden van een permeabel medium
+filtermedium = filterdoek of papier met zeer fijne mazen
+filterdrager = rooster ter bescherming van filterdoek
+filtraat = heldere vloeistof die resulteert uit een filtratie
+neerslag | residu = suspensie die gefiltert moet worden
+capaciteit = hoeveelheid filtraat die per tijdseenheid en per oppervlakte eenheid van een filter gewonnen wordt
 
 hoe ziet een homogeen mengsel er uit? helder
 hoe ziet een heterogeen mengsel er uit? troebel
@@ -836,6 +846,17 @@ welke 2 technieken laten een zeefproces sneller verlopen? :: roteren :: pulseren
 welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig | corrosie :: sterkte | sterk :: geschikte constructie | constructie :: geschikte maasvorm | maasvorm | vorm ::
 welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid | volume :: klonteren | vochtgehalte | vochtigheid :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | dichtheid | gewicht | kracht :: vorm goed | vorm mazen | maasvorm | vorm ::
 wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef :: roterende zeef :: trilzeef :: zeefbocht :: cascadezeef ::
+welke 4 bezinkingsmethoden kennen we? :: indikken :: klaren :: scheiden :: floteren ::
+welke 4 zaken beinvloeden de bezinkingssnelheid? :: soortelijke massa :: fractionering | deeltjesgrootte :: uitvlokkingsmiddel :: viscositeit ::
+hoe heet het aftappen van de vloeistof boven een bezinkingslaag? decanteren
+hoe heet het scheiden van vloeistoffen met verschillende dichtheden d.m.v. bezinking? separeren
+welke apparatuur gebruiken we voor het scheiden van vast-vloeistof mengsels? :: discontinue bezinktank :: bezinktank van Dorr ::
+welke apparatuur gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: discontinue separator :: continu separator ::
+welke apparatuur gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: kegelclassificeerder :: windzifter ::
+welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vast-gas | vast gas :: vast-vloeistof | vast vloeistof ::
+welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: mechanische sterkte | sterkte :: corrosiebestendig :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
+welke 3 factoren beinvloeden een filtratieproces? :: capciteit :: drijvende kracht :: filterweerstand ::
+
 
 
 
