@@ -830,8 +830,9 @@ filtreren = vaste stof van een gas of vloeistof scheiden doormidden van een perm
 filtermedium = filterdoek of papier met zeer fijne mazen
 filterdrager = rooster ter bescherming van filterdoek
 filtraat = heldere vloeistof die resulteert uit een filtratie
-neerslag | residu = suspensie die gefiltert moet worden
+neerslag | residu = suspensie die bij filtratie in het filter achter blijft
 capaciteit = hoeveelheid filtraat die per tijdseenheid en per oppervlakte eenheid van een filter gewonnen wordt
+separator = apparaat wat vloeistof-vloeistof mengsels scheidt
 
 hoe ziet een homogeen mengsel er uit? helder
 hoe ziet een heterogeen mengsel er uit? troebel
