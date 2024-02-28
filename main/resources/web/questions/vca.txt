@@ -62,14 +62,14 @@ wat zijn de 3 elementen van een arbeidsongeval? :: gebeurtenis :: letsel :: rela
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
 welke 4 dingen te doen bij een incident? :: meld chef :: neem maatregelen :: blijf af :: volg instructies | instructies volgen ::
-welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg :: scherm af | zet af :: waarschuw :: meld chef ::
+welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg | neem maatregelen :: scherm af | zet af :: waarschuw :: meld chef ::
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
 Onder invloed van alcohol of drugs is de kans op ongevallen ___ - ___ keer hoger? 2-4 | 2 4
 Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van alcohol? 15%-30% | 15-30% | 15-30 | 15 30
 hoe noemen we informele vergaderingen over de veiligheid? toolboxmeetings | toolboxmeeting | VGA-bijeenkomsten | VGA bijeenkomsten | VGA bijeenkomst
 Wat zijn de 4 stappen om een installatie veilig te stellen op volgorde? uitschakelen vergrendelen markeren meten | uitschakelen vergrendelen markeren verifieren | uitzetten vergrendelen markeren meten | uitzetten vergrendelen markeren verifieren
-welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrokkenen | overleg :: maken van bindende afspraken | bindende afspraken | binden :: vastleggen van de voorwaarden en maatregelen | vastleggen :: verlenen van toestemming voor de werkzaamheden | toestemming ::
+welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrokkenen | communicatie  | overleg:: maken van bindende afspraken | bindende afspraken | binden | binding :: vastleggen van de voorwaarden en maatregelen | vastleggen :: verlenen van toestemming voor de werkzaamheden | toestemming ::
 welke 5 elementen staan in de vergunning? :: uit te voeren werkzaamheden | werkzaamheden :: werkverdeling | taakverdeling :: geldigheidsduur :: maatregelen voorgeschreven door de verstrekker :: maatregelen voor operationele medewerkers :: maatregelen na beeindiging werkzaamheden :: voorwaarden verlenging | verlenging :: bekrachtiging | ondertekening ::
 wie is de verstrekker? de opdrachtgever | opdrachtgever
 welke 2 kleurcombinaties kunnen linten hebben? :: rood/wit | wit/rood | root wit | wit rood :: geel/zwart | zwart/geel | geel zwart | zwart geel ::
@@ -87,7 +87,7 @@ hoe noemen we de maximale hoeveelheid van een bepaalde stof die in de lucht voor
 waar staat GWBB voor? grenswaarde voor beroepsmatige blootstelling
 wat voor statistisch gegeven is de grenswaarde voor beroepsmatige blootstelling? tijdsgewogen gemiddelde over een referentieperiode | tijdsgewogen gemiddelde
 onder welke 3 voorwaarden is het tijdsgewogen gemiddelde gedefinieerd? :: gezond | gezond persoon :: volwassen :: normale lichaamsinspanning  | normale inspanning ::
-Welke 5 zaken zijn verplicht op het etiket van een gevaarlijke stof? :: naam van het product | naam | product :: gevarensymbolen :: gevaren | risico's | H-zinnen | h zinnen :: veiligheidsaanbevelingen | aanbevelingen | P-zinnen | p zinnen :: fabrikant | distribiteur | invoerder ::
+Welke 5 zaken zijn verplicht op het etiket van een gevaarlijke stof? :: naam van het product | naam | product :: gevarensymbolen | icoontjes | iconen :: gevaren | risico's | H-zinnen | h zinnen :: veiligheidsaanbevelingen | aanbevelingen | P-zinnen | p zinnen :: fabrikant | distribiteur | invoerder ::
 hoeveel procent zuurstof zit er normaal in de lucht? 21% | 21
 hoeveel procent zuurstof moet er in de lucht zitten om ergens te mogen werken zonder ademhalingsbescherming? 19% | 19
 bij hoeveel procent zuurstof in de lucht ga je dood? 14% | 14
@@ -128,10 +128,66 @@ welke 4 voorwaarden gelden er voor het werken op een ladder? :: tot 7.5m | 7.5m 
 vanaf hoeveel sporen dient een ladder aan de bovenkant vast gemaakt te worden? 26
 hoe worden steigers in België genoemd? stellingen
 wat voor soorten steigers zijn er? :: staande stijgers | staande | staand :: hangsteigers | hang :: rolsteigers | rol ::
-welke risico's zijn er in besloten ruimtes? :: zuurstoftekort | verstikken :: brandgevaar | explosiegevaar | brand | explosie :: vergiftigingsgevaar | vergiftiging :: electrocutie :: knellen, vallen en uitglijden | knellen | vallen ::
+welke 5 risico's zijn er in besloten ruimtes? :: zuurstoftekort | verstikken :: brandgevaar | explosiegevaar | brand | explosie :: vergiftigingsgevaar | vergiftiging :: electrocutie :: knellen, vallen en uitglijden | knellen | vallen ::
 welke 5 taken heeft een veiligheidswacht? :: toezicht houden | toezicht :: controle ventilatie | ventilatie :: communicatie met personen in besloten ruimte | communicatie | communiceren :: hulpdiensten waarschuwen bij gevaar | hulpdiensten waarschuwen | hulpdiensten :: hulp bieden aan persoon in besloten ruimte | hulp bieden | hulp ::
 welke 5 veiligheidsmaatregelen nemen we bij het werken met elektriciteit? :: fysieke afscherming | afscherming | afschermen :: isolatie | isoleren :: aarding :: aardlekschakelaar | aardlekbeveiliging | aardlek :: lage spanning | laagspanning ::
 wat is een differentieelschakelaar? een aardlekschakelaar | aardlekschakelaar
 welke bescherming geven de (max) 3 cijfers van een IP-classificatie weerop volgorde? stof water mechanisch
 op hoeveel dB zit de pijngrens? 120
+
+[b_blusdeken.png]                          wat geeft dit pictogram aan? blusdeken
+[b_brandblusser.png]                       wat geeft dit pictogram aan? brandblusser
+[b_brandmelder.png]                        wat geeft dit pictogram aan? brandmelder
+[b_brandslang.png]                         wat geeft dit pictogram aan? brandslang
+[b_ladder.png]                             wat geeft dit pictogram aan? ladder
+[b_telefoon-voor-brandbestrijding.png]     wat geeft dit pictogram aan? telefoon voor brandbestrijding
+[b_te-volgen-richting.png]                 wat geeft dit pictogram aan? te volgen richting
+[g_bijtend.png]                            wat geeft dit pictogram aan? bijtend
+[g_doelorgaanschade.png]                   wat geeft dit pictogram aan? doelorgaanschade
+[g_explosief.png]                          wat geeft dit pictogram aan? explosief
+[g_giftig.png]                             wat geeft dit pictogram aan? giftig
+[g_houder-onder-druk.png]                  wat geeft dit pictogram aan? houder onder druk
+[g_licht-ontvlambaar.png]                  wat geeft dit pictogram aan? licht ontvlambaar
+[g_milieugevaarlijk.png]                   wat geeft dit pictogram aan? milieugevaarlijk
+[g_oxiderend.png]                          wat geeft dit pictogram aan? oxiderend
+[g_schadelijk.png]                         wat geeft dit pictogram aan? schadelijk
+[m_gehoorbescherming.png]                  wat geeft dit pictogram aan? gehoorbescherming
+[m_gelaatscherm.png]                       wat geeft dit pictogram aan? gelaatscherm
+[m_handschoenen.png]                       wat geeft dit pictogram aan? handschoenen
+[m_oogbescherming.png]                     wat geeft dit pictogram aan? oogbescherming
+[m_valbeveiliging.png]                     wat geeft dit pictogram aan? valbeveiliging
+[m_veiligheidshelm.png]                    wat geeft dit pictogram aan? veiligheidshelm
+[m_veiligheidskleding.png]                 wat geeft dit pictogram aan? veiligheidskleding
+[m_veiligheidsschoenen.png]                wat geeft dit pictogram aan? veiligheidsschoenen
+[s_brancard.png]                           wat geeft dit pictogram aan? brancard
+[s_ehbo.png]                               wat geeft dit pictogram aan? ehbo
+[s_noodtelefoon.png]                       wat geeft dit pictogram aan? noodtelefoon
+[s_oogdouche.png]                          wat geeft dit pictogram aan? oogdouche
+[s_veiligheidsdouche.png]                  wat geeft dit pictogram aan? veiligheidsdouche
+[s_verzamelplaats.png]                     wat geeft dit pictogram aan? verzamelplaats
+[v_aanraken.png]                           wat geeft dit pictogram aan? aanraken
+[v_geen-drinkwater.png]                    wat geeft dit pictogram aan? geen drinkwater
+[v_onbevoegden.png]                        wat geeft dit pictogram aan? onbevoegden
+[v_roken.png]                              wat geeft dit pictogram aan? roken
+[v_voetgangers.png]                        wat geeft dit pictogram aan? voetgangers
+[v_vuur-en-roken.png]                      wat geeft dit pictogram aan? vuur en roken
+[v_water-blussen.png]                      wat geeft dit pictogram aan? water blussen
+[w_algemeen.png]                           wat geeft dit pictogram aan? algemeen
+[w_bijtende-stoffen.png]                   wat geeft dit pictogram aan? bijtende stoffen
+[w_biologisch-gevaar.png]                  wat geeft dit pictogram aan? biologisch gevaar
+[w_elektrische-spanning.png]               wat geeft dit pictogram aan? elektrische spanning
+[w_explosieve-omgeving.png]                wat geeft dit pictogram aan? explosieve omgeving
+[w_explosieve-stoffen.png]                 wat geeft dit pictogram aan? explosieve stoffen
+[w_giftige-stoffen.png]                    wat geeft dit pictogram aan? giftige stoffen
+[w_hangende-lasten.png]                    wat geeft dit pictogram aan? hangende lasten
+[w_hete-oppervlakken.png]                  wat geeft dit pictogram aan? hete oppervlakken
+[w_lage-temperaturen.png]                  wat geeft dit pictogram aan? lage temperaturen
+[w_laserstraal.png]                        wat geeft dit pictogram aan? laserstraal
+[w_magnetisch-veld.png]                    wat geeft dit pictogram aan? magnetisch veld
+[w_niet-ioniserende-straling.png]          wat geeft dit pictogram aan? niet ioniserende straling
+[w_ontvlambare-stoffen.png]                wat geeft dit pictogram aan? ontvlambare stoffen
+[w_oxiderende-stoffen.png]                 wat geeft dit pictogram aan? oxiderende stoffen
+[w_radioactieve-stoffen.png]               wat geeft dit pictogram aan? radioactieve stoffen
+[w_struikelen.png]                         wat geeft dit pictogram aan? struikelen
+[w_transport-voertuigen.png]               wat geeft dit pictogram aan? transport voertuigen
 

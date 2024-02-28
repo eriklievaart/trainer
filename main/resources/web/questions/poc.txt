@@ -138,7 +138,7 @@ conductoren hebben een hogere/lagere k-waarde? hogere
 isolatoren hebben een hogere/lagere k-waarde? lagere
 laminaire stromingen hebben een goede/slechte warmtewisseling? slechte
 turbulente stromingen hebben een goede/slechte warmtewisseling? goede
-welke 4 parameters spelen een rol in de aard van een stroming? :: stromingssnelheid :: viscositeit :: dichtheid | soortelijke massa :: diameter ::
+welke 4 parameters spelen een rol in de aard van een stroming? :: stromingssnelheid | stroomsnelheid :: viscositeit :: dichtheid | soortelijke massa :: diameter ::
 wat zijn de 3 soorten warmtewisseling? convectie geleiding straling
 
 warmte = maat van kinetische energie van moleculen
@@ -247,7 +247,6 @@ hoeveel graden is de bindingshoek van CH₂CH₂? 120 graden | 120
 hoeveel graden is de bindingshoek van CHCH? 180 graden | 180
 Welke klasse koolwaterstoffen eindigt met -OH? alcoholen | alcohol
 Welke klasse koolwaterstoffen eindigt met -NH₂? aminen
-Welke klasse koolwaterstoffen bevat -O- ? ethers | ether
 met welke atomen kan een waterstof atoom een waterstofbrug vormen? :: F :: N :: O ::
 
 [esters.png]      chemie: welke klasse is dit? esters | ester
@@ -431,7 +430,7 @@ wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
 wat is het grote voordeel van gegroefde prenten? drukbestendig | druk
 welke 4 belastingen moet men in acht nemen bij afdichting van appendages? :: beweging :: chemische | chemisch :: mechanische | mechanisch | druk :: thermische | thermisch | temperatuur ::
 waaruit bestaan samengestelde dichtingen? :: metalen strip | metalen ring :: vulmateriaal | vulling ::
-welke 4 zaken moet men op letten bij het monteren van plaatpakking? dun, geen hergebruik, passen, schoon | dun geen hergebruik passen schoon
+welke 4 zaken moet men op letten bij het monteren van plaatpakking? :: dun :: schoon :: passen :: geen hergebruik ::
 zachte dichtingen worden uit welke 3 materialen gemaakt? :: asbest :: grafiet :: PTFE|teflon ::
 bij welke 3 omstandigheden gebruiken we slangen? rare hoeken lengteveranderingen regelmatig wisselen | hoeken lengteveranderingen wisselen | hoek lengteverandering wisselen
 welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen | chemie druk temperatuur trilling
@@ -481,7 +480,7 @@ wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van d
 waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
 waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
 wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? :: elektrisch :: inductie ::
-welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: oppervlakteruwheid :: soortelijke :: massa :: stromingssnelheid :: viscositeit ::
+welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: oppervlakteruwheid :: soortelijke :: massa :: stromingssnelheid | stroomsnelheid :: viscositeit ::
 appendages: waarmee duiden we het totale leidingverlies aan? pw
 appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
 appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
@@ -812,7 +811,6 @@ waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde v
 
 
 # scheidingstechnieken
-# todo: plaatjes van bezinken/sedimenteren
 cohesie = algemene naam voor de aantrekkingskracht tussen deeltjes van een stof
 zeer groot | zeer hoog = cohesie van een vaste stof
 groot | hoog = cohesie van een vloeistof
@@ -839,7 +837,7 @@ hoe ziet een homogeen mengsel er uit? helder
 hoe ziet een heterogeen mengsel er uit? troebel
 wat is de deeltjes grootte van suspensies en emulsies? 10⁻⁷ tot en met 10⁻⁶ m | 100 nm tot en met 1000 nm | 100 nm 1000 nm | 100 1000 nm
 wat is de deeltjes grootte van grove mensels? > 1 μm | > 1 micrometer | > 1000 nm
-welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: twee vloeistoffen | vloeistofmengsel :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | vaste stof vloeistof ::
+welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: twee vloeistoffen | vloeistofmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | opgeloste vaste stof | vaste stof vloeistof | vast in vloeistof ::
 hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopisch homogeen
 hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
 welke 2 technieken laten een zeefproces sneller verlopen? :: roteren :: pulseren ::
@@ -850,12 +848,20 @@ welke 4 bezinkingsmethoden kennen we? :: indikken :: klaren :: scheiden :: flote
 welke 4 zaken beinvloeden de bezinkingssnelheid? :: soortelijke massa :: fractionering | deeltjesgrootte :: uitvlokkingsmiddel :: viscositeit ::
 hoe heet het aftappen van de vloeistof boven een bezinkingslaag? decanteren
 hoe heet het scheiden van vloeistoffen met verschillende dichtheden d.m.v. bezinking? separeren
-welke apparatuur gebruiken we voor het scheiden van vast-vloeistof mengsels? :: discontinue bezinktank :: bezinktank van Dorr ::
-welke apparatuur gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: discontinue separator :: continu separator ::
-welke apparatuur gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: kegelclassificeerder :: windzifter ::
+welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vast-vloeistof mengsels? :: bezinktank van Dorr :: discontinue bezinktank ::
+welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: continu separator :: discontinue separator ::
+welke 3 bezinkingsapparaten gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: kegelclassificeerder :: windzifter ::
 welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vast-gas | vast gas :: vast-vloeistof | vast vloeistof ::
-welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: mechanische sterkte | sterkte :: corrosiebestendig :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
-welke 3 factoren beinvloeden een filtratieproces? :: capciteit :: drijvende kracht :: filterweerstand ::
+welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: corrosiebestendig :: mechanische sterkte | sterkte :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
+welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
+
+[scheiding-continuseparator.png]      welk apparaat is dit? continu separator
+[scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank
+[scheiding-discontinueseparator.png]  welk apparaat is dit? discontinue separator
+[scheiding-dorr.png]                  welk apparaat is dit? bezinktank van Dorr | Dorr bezinktank
+[scheiding-kegelclassificeerder.png]  welk apparaat is dit? kegelclassificeerder
+[scheiding-stroomgoot.png]            welk apparaat is dit? stroomgoot
+[scheiding-windzifter.png]            welk apparaat is dit? windzifter
 
 
 
@@ -882,6 +888,7 @@ wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaa
 corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
 wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | centrifugaalpomp :: menginrichting | mengen ::
 # chemie
+Welke klasse koolwaterstoffen bevat -O- ? ethers | ether
 van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 oxidatie | oxideren = een organische keten verbranden
 % = eenheid massaprocent

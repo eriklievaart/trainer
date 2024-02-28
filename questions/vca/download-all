@@ -1,0 +1,13 @@
+#!/bin/dash
+
+wgetc https://www.veiligheidsbord.nl/officieel/veiligheidspictogram-overzicht/ /tmp/a/index.html
+
+mkdir /tmp/a/img
+for url in $(cat /tmp/a/index.html | grep 'https://images.trafficsupply.nl/imgsrc' | grep 'src=' | sed 's/[^"]*"//;s/".*//')
+do
+	echo "@ $url @"
+	wgetc "$url" /tmp/a/img
+done
+
+
+
