@@ -68,7 +68,6 @@ Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde ri
 Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan trekken ze mekaar aan? nee
 Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan stoten ze mekaar af? nee
 Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan stoten ze mekaar af? ja
-welke 2 factoren bepalen de sterkte van het magnetisch veld in een spoel? aantal windingen, stroomsterkte | aantal windingen stroomsterkte | aantal lussen, stroomsterkte | aantal lussen stroomsterkte
 
 formule voor arbeid? W = Fs
 formule voor elektrische spanning? U = P/I | U = W/Q | U = E/q
@@ -131,7 +130,7 @@ Waar staat φ voor in de warmteleer? warmtestroom
 Waar staat k voor in de warmteleer? warmtedoorgangscoëfficiënt | warmtedoorgangscoefficient
 Waar staat v voor in de warmteleer? stromingssnelheid
 Waar staat η voor in de warmteleer? viscositeit
-Waar staat ρ voor in de warmteleer? soortelijke massa
+Waar staat ρ voor in de warmteleer? soortelijke massa | dichtheid
 Waar staat D voor in de warmteleer? diameter
 
 conductoren hebben een hogere/lagere k-waarde? hogere
@@ -342,7 +341,7 @@ bolvormig | bol = vorm van een breekplaat
 breekplaat = overdukbeveiliging die maar 1x gebruikt kan worden
 vacuüm steunplaat | vacuum steunplaat = plaat die voorkomt dat een gebogen breekplaat ombuigt door onderdruk
 breukdetectie = systeem om het barsten van een breekplaat de detecteren
-weerstandsverlies = verlies van druk wanneer een vloeistof door een leiding stroomt
+weerstandsverlies | leidingverlies = verlies van druk wanneer een vloeistof door een leiding stroomt
 inductieve naderingsschakelaar = sensor die het nabij zijn van een magneet detecteert
 revaporisatie = stoom gevormd uit gecondenseerd stoom onder invloed van drukverlaging
 stoomslag = condensaatprop die op hoge snelheden door stoom door een leiding heen gekatapulteerd wordt
@@ -417,7 +416,7 @@ appendages: waar staat NO voor? normally open
 appendages: waar staat m.v.k. voor? meter vloeistof kolom
 appendages: wat is de eenheid van PN? bar
 appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
-wat zijn de 3 nadelen van een te grote leidingdiameter? :: duur :: onbestuurbaar :: warmteverlies ::
+wat zijn de 3 nadelen van een te grote leidingdiameter? :: duur :: onbestuurbaar :: warmteverlies | energieverlies | energie ::
 wat zijn de 4 nadelen van een te kleine leidingdiameter? :: capaciteit :: drukverliezen | drukverlies :: slijtage :: trillingen ::
 Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
 hoe heet de wanddikte van een appendage? het schedule | schedule
@@ -560,8 +559,6 @@ appendages: hoeveel meter water kolom is 1 bar? 10 meter | 10 m | 10
 
 
 # meet en regeltechniek
-# todo: toevoegen plaatjes debietmeters
-
 positieve temperatuur's coëfficiënt | PTC = als bij een metaal de weerstand toeneemt bij stijgende temperatuur
 negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand afneemt bij stijgende temperatuur
 100 Ω | 100 ohm = weerstand van platina bij 0°C
@@ -601,7 +598,6 @@ absolute druk = druk gemeten t.o.v. vacuüm
 effectieve druk = druk gemeten t.o.v. atmosferische druk
 onderdruk = als de druk lager is dan 1 atm
 overdruk = als de druk hoger is dan 1 atm
-balgmanometer = variant op de membraandrukmeter die je ook kunt gebruiken als verschildrukmeter
 verschildruk = minimaal verschil met gewenste waarde waarbij pomp aanslaat
 farad = eenheid van elektrische capaciteit
 reflectiepeilglas = soort glas wat alleen licht weerkaatst als er vloeistof achter zit
@@ -682,7 +678,6 @@ bij hoeveel bar gebruik je een capacitieve drukmeter? 0 - 300 bar | 0-300 bar | 
 welk type drukmeter werkt als een condensator waarbij de afstand tussen de platen varieert? capacitieve drukmeter
 bij hoeveel bar gebruik je rekstrookjes? 0 - 6000 bar | 0-6000 bar | 0-6000 | 0 6000
 welk type drukmeter werkt op basis van de wet van Pouillet (R = ρl/A)? rekstrookjes | rekstrookje
-wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie ::
 bij hoeveel bar gebruik je piëzo elektrische kristallen? 0.1 - 500 bar | 0.1 - 500 bar | 0.1 - 500 | 0.1 500
 Wat wordt er tussen de leiding en de drukmeter geplaatst om de drukmeter te beschermen tegen hoge temperaturen? een krul | krul
 hoe voorkom je snelle uitwijkingen in drukmeters? dempingsvloeistof | vloeistof
@@ -824,7 +819,6 @@ emulgatoren| emulgator = soort stof die emulsies stabiel maakt
 absorptie = oplossen van een gas in een vloeistof
 zeefmedium = deel van een zeef met mazen met een bepaalde maasweidte
 stroomgoot = apparaat met achter elkaar geplaatste bakken met toenemende trechtergrootte, die steeds fijnere deeltjes afvoeren
-kegelclassificeerder = Apparaat dat een opwaartste vloeistofstroom gebruikt om fijne deeltjes af te voeren. Grove delen zakken naar de bodem.
 windzifter = Apparaat dat een opwaartste luchtstroom gebruikt om fijne deeltjes af te voeren. Grove delen zakken naar de bodem.
 filtreren = vaste stof van een gas of vloeistof scheiden doormidden van een permeabel medium
 filtermedium = filterdoek of papier met zeer fijne mazen
@@ -850,17 +844,16 @@ welke 4 zaken beinvloeden de bezinkingssnelheid? :: soortelijke massa :: fractio
 hoe heet het aftappen van de vloeistof boven een bezinkingslaag? decanteren
 hoe heet het scheiden van vloeistoffen met verschillende dichtheden d.m.v. bezinking? separeren
 welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vast-vloeistof mengsels? :: bezinktank van Dorr :: discontinue bezinktank ::
-welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: continu separator :: discontinue separator ::
-welke 3 bezinkingsapparaten gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: kegelclassificeerder :: windzifter ::
+welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: continu separator | continue separator :: discontinue separator | discontinu separator ::
+welke 3 bezinkingsapparaten gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: lamellenfilter :: windzifter ::
 welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vast-gas | vast gas :: vast-vloeistof | vast vloeistof ::
 welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: corrosiebestendig :: mechanische sterkte | sterkte :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
 welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
 
-[scheiding-continuseparator.png]      welk apparaat is dit? continu separator
+[scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
 [scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank
-[scheiding-discontinueseparator.png]  welk apparaat is dit? discontinue separator
+[scheiding-discontinueseparator.png]  welk apparaat is dit? discontinue separator | discontinu separator
 [scheiding-dorr.png]                  welk apparaat is dit? bezinktank van Dorr | Dorr bezinktank
-[scheiding-kegelclassificeerder.png]  welk apparaat is dit? kegelclassificeerder
 [scheiding-stroomgoot.png]            welk apparaat is dit? stroomgoot
 [scheiding-windzifter.png]            welk apparaat is dit? windzifter
 
@@ -900,8 +893,10 @@ formule voor de spanningswet van Kirchhoff? U[bron] = U₁ + U₂ + ... | Ub = U
 Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? zwak
 Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? sterk
 Hoe noemen we de lading van een elektron? eenheidslading
+welke 2 factoren bepalen de sterkte van het magnetisch veld in een spoel? aantal windingen, stroomsterkte | aantal windingen stroomsterkte | aantal lussen, stroomsterkte | aantal lussen stroomsterkte
 # M&R
 welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
+wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie ::
 welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
 welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
