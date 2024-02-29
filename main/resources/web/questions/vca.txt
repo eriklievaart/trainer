@@ -61,7 +61,7 @@ waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk bescherming
 wat zijn de 3 elementen van een arbeidsongeval? :: gebeurtenis :: letsel :: relatie ::
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
-welke 4 dingen te doen bij een incident? :: meld chef :: neem maatregelen :: blijf af :: volg instructies | instructies volgen ::
+welke 4 dingen te doen bij een incident? :: meld chef :: neem maatregelen | neem oorzaak weg :: blijf af :: volg instructies | instructies volgen ::
 welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg | neem maatregelen :: scherm af | zet af :: waarschuw :: meld chef ::
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
