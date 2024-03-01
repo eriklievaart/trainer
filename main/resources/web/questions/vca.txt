@@ -75,7 +75,7 @@ wie is de verstrekker? de opdrachtgever | opdrachtgever
 welke 2 kleurcombinaties kunnen linten hebben? :: rood/wit | wit/rood | root wit | wit rood :: geel/zwart | zwart/geel | geel zwart | zwart geel ::
 welke 3 fasen heeft de bestrijding van een noodsituatie? :: eerste melding | melding :: handelingen of maatregelen | handelingen | maatregelen :: beëindiging | beeindiging | afsluiting ::
 welke 3 elementen zijn van belang bij de eerste melding van een noodsituatie? :: wie waarschuwen? :: hoe waarschuwen? :: welke informatie doorgeven? | welke informatie? ::
-welke 4 handelingen/maatregelen worden verricht bij een noodsituatie? :: evacuatie :: interventie; blussen, opruimen, etc. | interventie :: reddingsoperaties | redding :: hulpverlening ::
+welke 4 handelingen/maatregelen worden verricht bij een noodsituatie? :: evacuatie :: interventie; blussen, opruimen, etc. | interventie :: reddingsoperaties | redding :: hulpverlening | hulp ::
 welke 2 elementen zijn van belang voor het beëindigen van een noodsituatie? :: wie is gemachtigd om de noodsituatie te beëindigen? | wie beeindigd? :: hoe wordt iedereeen geinformeerd over het beëindigen? | hoe geinformeerd? | hoe informeren? | informering ::
 welke 3 soorten informatie hoor je te ontvangen over evacuatie? :: verzamelplaatsen | verzamelplaats | verzamelpunt | verzamelen :: evacuatiemogelijkheden | vluchtplan | vluchtwegen | vluchtweg :: specifieke instructies van de opdrachtgever | specifieke instructies | instructies ::
 welke 5 dingen te doen bij alarm? :: onderbreek het werk | stop met werken | onderbreken | stoppen :: stop externe communicatie | zet GSM uit | zet GSM af | GSM uit | GSM af :: volg aanwijzingen evacuatieverantwoordelijken | volg instructies :: ga naar verzamelplaats | verzamelen | verzamel :: gebruik lift niet | lift vermijden | vermijd lift :: evacueer dwars op windrichting | vlucht dwars op windrichting :: meld je aan bij verantwoordlijke op verzamelplaats | meld je aan | meld je | meld aan | melden | aanmelden ::
@@ -99,7 +99,7 @@ welke 3 elementen zijn nodig voordat brand ontstaat? :: brandbare stof | brandst
 welke 2 maatregelen nemen we in explosiegevaarlijke zones? :: explosieveilig gereedschap :: antistatische veiligheidsschoenen | antistatische schoenen ::
 welke 5 klassen branden onderscheiden we? :: A vaste stoffenbrand | A vaste stoffen | A vaste stof | vaste stof | vast :: B vloeistoffenbrand | B vloeistoffen | B vloeistof | vloeistof :: C gassenbrand | C gassen | C gas | gassen | gas :: D metalenbrand | D metalen | D metaal | metalen | metaal :: niet-geklassificeerde branden | niet geklassificeerd | ongeklassificeerd ::
 waar refereert "vette vuurhaard" aan? vloeistoffenbranden | vloeistoffenbrand | vloeistofbranden | vloeistofbrand
-in welke klasse plaatsen we branden aan elektrische apparatuur? niet geklassificeerde branden | niet gekwalificeerd | ongekwalificeerd
+in welke klasse plaatsen we branden aan elektrische apparatuur? niet geklassificeerde branden | niet geklassificeerd | ongeklassificeerd
 welke 4 blusmiddellen worden bij vaste stof branden gebruikt? :: water :: bluspoeder | poeder :: blusdeken | branddeken | deken :: schuim ::
 welke 3 blusmiddelen worden bij vloeistofbranden gebruikt? :: bluspoeder | poeder :: zand :: schuim ::
 welke 3 blusmiddelen gebruiken we bij gasbranden? :: gastoevoer :: bluspoeder | poeder :: water ::
@@ -107,15 +107,15 @@ welke 2 blusmiddelen gebruiken we bij metaalbranden? :: bluspoeder | poeder :: z
 welke 3 brand klassen mag je niet met water blussen? :: klasse B | B | vloeistofbranden | vloeistofbrand | vloeistof :: klasse D | D | metalen | metaal | metaalbrand | metaalbranden :: E | niet geklassificeerd | ongeklassificeerd ::
 welke 2 blusmiddelen gebruiken we bij niet-geklassificeerde branden? :: schuim :: CO₂ | CO2 ::
 welke soort branden blus je met water? vaste stoffen | vaste stoffenbrand | vaste stoffen branden | vaste  stof
-welke soort branden blus je met een blusdeken? vaste stoffen | vaste stoffenbrand | vaste stoffen branden | vastestof
-voor welke 3 soorten branden is bluspoeder een geschikt blusmiddel? :: vaste stof | vaste stoffen | vaste stoffenbrand | vaste stoffen branden :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gas ::
+welke soort branden blus je met een blusdeken? vaste stoffen | vaste stoffenbrand | vaste stoffen branden | vastestof | vast
+voor welke 3 soorten branden is bluspoeder een geschikt blusmiddel? :: vaste stof | vaste stoffen | vaste stoffenbrand | vaste stoffen branden | vast :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gas ::
 voor welke soort branden wordt een speciaal poeder gemaakt? metaalbranden | metaalbrand | metaal
 voor welke 3 soorten branden is CO₂ een geschikt blusmiddel? :: vloeistof branden | vloeistofbrand | vloeistof :: gasbranden | gasbrand | gassen | gas :: niet geclassificeerd | ongeklassificeerd ::
 voor welke 3 soorten branden is schuim een geschikt blusmiddel? :: vaste stoffen | vaste stoffenbrand | vaste stoffen branden | vaste stof | vast :: vloeistof branden | vloeistofbrand | vloeistof :: niet geclassificeerd | ongeklassificeerd ::
 voor welke 2 soorten branden is zand een geschikt blusmiddel? :: vloeistof branden | vloeistofbrand | vloeistof :: metaalbranden | metaalbrand | metaal ::
 welke 5 acties neem je bij het ontdekken van brand? :: breng jezelf in veiligheid | verlaat de brandende omgeving | jezelf | verlaten :: meld de brand | melden :: breng de omgeving op de hoogte | informeren :: sluit ramen en deuren | afsluiten :: blus de brand | blussen ::
 hoe lang moet je een brandwond minimaal afspoelen met water? 15 minuten | 15 min | 15 m
-welke risico's heeft werken met elektriciteit? :: elektrocutie :: brandwonden door vonkoverslag door kortsluiting | brandwonden :: brand of explosie doorvonkoverslag of oververhitting | brand | explosie ::
+welke 3 risico's heeft werken met elektriciteit? :: elektrocutie :: brandwonden door vonkoverslag door kortsluiting | brandwonden :: brand of explosie doorvonkoverslag of oververhitting | brand | explosie ::
 welke 5 eisen zijn er aan arbeidsmiddelen? :: CE-markering | CE markering :: jaarlijkse keuring | keuring | gekeurd :: goede staat en onderhouden | goede staat | onderhouden :: voorschriften en instructies in taal van gebruiker | voorschriften | instructies | handleiding :: noodstop of noodinrichting voor vaste machines | noodstop | noodinrichting :: dodemansknop voor aangedreven handgereedschap | dodemansknop ::
 welke 3 veiligheidsmaatregelen dient men te nemen bij opstellingen van machines? :: opgeruimde vloer | opgeruimd | opruimen :: stofafzuiging | afzuiging | afzuigen :: bewegingsruimte ::
 welke veiligheidsmaatregelen nemen we bij (kolom)boormachines? :: afschermen | afscherming :: werkstuk vastzetten | vastzetten :: boorsel vegen met krullenkwast of krullenhaak | krullenkwast | krullenhaak :: boormachine uit bij verstellen | uit bij verstellen | uit verstellen ::
@@ -146,7 +146,7 @@ op hoeveel dB zit de pijngrens? 120
 [g_doelorgaanschade.png]                   wat geeft dit pictogram aan? doelorgaanschade
 [g_explosief.png]                          wat geeft dit pictogram aan? explosief | explosiegevaar
 [g_giftig.png]                             wat geeft dit pictogram aan? giftig
-[g_houder-onder-druk.png]                  wat geeft dit pictogram aan? houder onder druk
+[g_houder-onder-druk.png]                  wat geeft dit pictogram aan? houder onder druk | cylinder onder druk
 [g_licht-ontvlambaar.png]                  wat geeft dit pictogram aan? licht ontvlambaar
 [g_milieugevaarlijk.png]                   wat geeft dit pictogram aan? milieugevaarlijk
 [g_oxiderend.png]                          wat geeft dit pictogram aan? oxiderend
@@ -154,7 +154,7 @@ op hoeveel dB zit de pijngrens? 120
 [m_gehoorbescherming.png]                  wat geeft dit pictogram aan? gehoorbescherming
 [m_gelaatscherm.png]                       wat geeft dit pictogram aan? gelaatscherm
 [m_handschoenen.png]                       wat geeft dit pictogram aan? handschoenen
-[m_oogbescherming.png]                     wat geeft dit pictogram aan? oogbescherming
+[m_oogbescherming.png]                     wat geeft dit pictogram aan? oogbescherming | veiligheidsbril
 [m_valbeveiliging.png]                     wat geeft dit pictogram aan? valbeveiliging
 [m_veiligheidshelm.png]                    wat geeft dit pictogram aan? veiligheidshelm
 [m_veiligheidskleding.png]                 wat geeft dit pictogram aan? veiligheidskleding
@@ -165,14 +165,14 @@ op hoeveel dB zit de pijngrens? 120
 [s_oogdouche.png]                          wat geeft dit pictogram aan? oogdouche
 [s_veiligheidsdouche.png]                  wat geeft dit pictogram aan? veiligheidsdouche
 [s_verzamelplaats.png]                     wat geeft dit pictogram aan? verzamelplaats | verzamelpunt
-[v_aanraken.png]                           wat geeft dit pictogram aan? aanraken
+[v_aanraken.png]                           wat geeft dit pictogram aan? niet aanraken | afblijven
 [v_geen-drinkwater.png]                    wat geeft dit pictogram aan? geen drinkwater
 [v_onbevoegden.png]                        wat geeft dit pictogram aan? verboden voor onbevoegden
 [v_roken.png]                              wat geeft dit pictogram aan? verboden te roken | rookverbod
 [v_voetgangers.png]                        wat geeft dit pictogram aan? verboden voor voetgangers | voetgangers
 [v_vuur-en-roken.png]                      wat geeft dit pictogram aan? vuur en roken | vuur | roken | vuurverbod | rookverbod
-[v_water-blussen.png]                      wat geeft dit pictogram aan? niet met water blussen
-[w_algemeen.png]                           wat geeft dit pictogram aan? algemeen
+[v_water-blussen.png]                      wat geeft dit pictogram aan? niet met water blussen | niet blussen met water
+[w_algemeen.png]                           wat geeft dit pictogram aan? algemeen gevaar | gevaar
 [w_bijtende-stoffen.png]                   wat geeft dit pictogram aan? bijtende stoffen | bijtend
 [w_biologisch-gevaar.png]                  wat geeft dit pictogram aan? biologisch gevaar | infectueuze stoffen
 [w_elektrische-spanning.png]               wat geeft dit pictogram aan? elektrische spanning | gevaarlijke spanning
