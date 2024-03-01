@@ -25,7 +25,7 @@ verbod = type bord dat rood en rond is
 gebod = type bord dat blauw en rond is
 opgelet | gevaar | waarschuwing | waarschuwings | waarschuwingsbord = type bord dat driehoekig en geel is
 brandbestrijding = type bord dat rechthoekig en rood is
-reddingstoestellen = type bord dat rechthoekig en groen is
+reddingstoestellen | reddingtoestel | reddingsmiddelen | reddingsmiddel = type bord dat rechthoekig en groen is
 aanwijzing | voorlichting = type bord dat rechthoekig en blauw is
 linten | lint = bakent een zone af, maar is geen afscherming
 vlampunt = temperatuurgrens waarop een stof brandbaar wordt met ontsteking
@@ -61,7 +61,7 @@ waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk bescherming
 wat zijn de 3 elementen van een arbeidsongeval? :: gebeurtenis :: letsel :: relatie ::
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
-welke 4 dingen te doen bij een incident? :: meld chef :: neem maatregelen | neem oorzaak weg :: blijf af :: volg instructies | instructies volgen ::
+welke 4 dingen te doen bij een incident? :: meld chef :: neem maatregelen | neem oorzaak weg :: blijf af | afbliven :: volg instructies | instructies volgen ::
 welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg | neem maatregelen :: scherm af | zet af :: waarschuw :: meld chef ::
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
 welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
@@ -77,7 +77,7 @@ welke 3 fasen heeft de bestrijding van een noodsituatie? :: eerste melding | mel
 welke 3 elementen zijn van belang bij de eerste melding van een noodsituatie? :: wie waarschuwen? :: hoe waarschuwen? :: welke informatie doorgeven? | welke informatie? ::
 welke 4 handelingen/maatregelen worden verricht bij een noodsituatie? :: evacuatie :: interventie; blussen, opruimen, etc. | interventie :: reddingsoperaties | redding :: hulpverlening | hulp ::
 welke 2 elementen zijn van belang voor het beëindigen van een noodsituatie? :: wie is gemachtigd om de noodsituatie te beëindigen? | wie beeindigd? :: hoe wordt iedereeen geinformeerd over het beëindigen? | hoe geinformeerd? | hoe informeren? | informering ::
-welke 3 soorten informatie hoor je te ontvangen over evacuatie? :: verzamelplaatsen | verzamelplaats | verzamelpunt | verzamelen :: evacuatiemogelijkheden | vluchtplan | vluchtwegen | vluchtweg :: specifieke instructies van de opdrachtgever | specifieke instructies | instructies ::
+welke 3 soorten informatie hoor je te ontvangen over evacuatie? :: verzamelplaatsen | verzamelplaats | verzamelpunt | verzamelen :: evacuatiemogelijkheden | evacuatieplan | vluchtplan | vluchtwegen | vluchtweg :: specifieke instructies van de opdrachtgever | specifieke instructies | instructies ::
 welke 5 dingen te doen bij alarm? :: onderbreek het werk | stop met werken | onderbreken | stoppen :: stop externe communicatie | zet GSM uit | zet GSM af | GSM uit | GSM af :: volg aanwijzingen evacuatieverantwoordelijken | volg instructies :: ga naar verzamelplaats | verzamelen | verzamel :: gebruik lift niet | lift vermijden | vermijd lift :: evacueer dwars op windrichting | vlucht dwars op windrichting :: meld je aan bij verantwoordlijke op verzamelplaats | meld je aan | meld je | meld aan | melden | aanmelden ::
 langs welke 4 wegen kunnen gevaarlijke stoffen het lichaam binnendringen? :: neus :: mond :: huid :: wond | bloed ::
 welke 3 maatregelen kunnen we aan de bron treffen om het binnen krijgen van gevaarlijke stoffen tegen te gaan? :: geen gevaarlijke stoffen gebruiken | eliminatie :: minder gevaarlijk product gebruiken | vervangen | vervanging :: het product aanpassen | tabletten i.p.v. poeder | aanpassen ::
@@ -137,7 +137,7 @@ op hoeveel dB zit de pijngrens? 120
 
 [b_blusdeken.png]                          wat geeft dit pictogram aan? blusdeken | branddeken
 [b_brandblusser.png]                       wat geeft dit pictogram aan? brandblusser
-[b_brandmelder.png]                        wat geeft dit pictogram aan? brandmelder
+[b_brandmelder.png]                        wat geeft dit pictogram aan? brandmelder | brandalarm
 [b_brandslang.png]                         wat geeft dit pictogram aan? brandslang | brandhaspel
 [b_ladder.png]                             wat geeft dit pictogram aan? brandladder | ladder
 [b_telefoon-voor-brandbestrijding.png]     wat geeft dit pictogram aan? telefoon voor brandbestrijding | telefoon
@@ -153,9 +153,9 @@ op hoeveel dB zit de pijngrens? 120
 [g_schadelijk.png]                         wat geeft dit pictogram aan? schadelijk
 [m_gehoorbescherming.png]                  wat geeft dit pictogram aan? gehoorbescherming
 [m_gelaatscherm.png]                       wat geeft dit pictogram aan? gelaatscherm
-[m_handschoenen.png]                       wat geeft dit pictogram aan? handschoenen
+[m_handschoenen.png]                       wat geeft dit pictogram aan? veiligheidshandschoenen | handschoenen
 [m_oogbescherming.png]                     wat geeft dit pictogram aan? oogbescherming | veiligheidsbril
-[m_valbeveiliging.png]                     wat geeft dit pictogram aan? valbeveiliging
+[m_valbeveiliging.png]                     wat geeft dit pictogram aan? valbeveiliging | veiligheidsharnas
 [m_veiligheidshelm.png]                    wat geeft dit pictogram aan? veiligheidshelm
 [m_veiligheidskleding.png]                 wat geeft dit pictogram aan? veiligheidskleding
 [m_veiligheidsschoenen.png]                wat geeft dit pictogram aan? veiligheidsschoenen
@@ -182,7 +182,7 @@ op hoeveel dB zit de pijngrens? 120
 [w_hangende-lasten.png]                    wat geeft dit pictogram aan? hangende lasten
 [w_hete-oppervlakken.png]                  wat geeft dit pictogram aan? hete oppervlakken | heet oppervlak
 [w_lage-temperaturen.png]                  wat geeft dit pictogram aan? lage temperaturen | kou
-[w_laserstraal.png]                        wat geeft dit pictogram aan? laserstraal
+[w_laserstraal.png]                        wat geeft dit pictogram aan? laserstraal | laser
 [w_magnetisch-veld.png]                    wat geeft dit pictogram aan? magnetisch veld
 [w_niet-ioniserende-straling.png]          wat geeft dit pictogram aan? niet ioniserende straling
 [w_ontvlambare-stoffen.png]                wat geeft dit pictogram aan? ontvlambare stoffen
