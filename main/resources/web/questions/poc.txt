@@ -617,6 +617,7 @@ looptijdmeting | looptijdmeter = debietmeting waarbij de frequentieverschuiving 
 dopplereffect = het terugkomen van een geluidsgolf met een andere frequentie, nadat het afgekaatst wordt op een bewegend object
 coriolisdebietmeter = de meest gebruikte debietmeter
 coriolisdebietmeter = debietmeter die een vloeistof door trillende buizen stuurt en de weerstand van die vloeistof tegen de beweging meet
+statische offset fout = het niet bereiken van de ingestelde waarde met een p-regelaar, doordat proportioneel bijsturen het verbruik niet matcht
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -698,6 +699,54 @@ wat zijn de 3 voordelen van de venturi t.o.v. de meetschijf? :: geen erosie | mi
 welke 2 voordelen heeft een swirl t.o.v. een vortex? :: minder beperkt in diameter | diameter | straal :: minder lang stuk leiding nodig | lengte ::
 waar is de rotorvolumestroommeter uitstekend geschikt voor? grote volumes gas | gassen | gas
 welke debietmeter kan alleen bij geleidende vloeistoffen gebruikt worden? inductieve debietmeting | inductieve debietmeter
+waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in lokaal paneel weer? dubbele lijn | twee lijnen
+waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in centraal paneel weer? enkele lijn | een lijn
+waarmee geven we in een "plan and instrumentation diagram" een stuurleiding weer? een stippellijn | stippellijn
+waarmee geven we in een "plan and instrumentation diagram" "flow" weer? F
+waarmee geven we in een "plan and instrumentation diagram" "level" weer? L
+waarmee geven we in een "plan and instrumentation diagram" "pressure" weer? p
+waarmee geven we in een "plan and instrumentation diagram" "temperature" weer? T
+waarmee geven we in een "plan and instrumentation diagram" "weight" weer? W
+waarmee geven we in een "plan and instrumentation diagram" "density" weer? D
+waarmee geven we in een "plan and instrumentation diagram" "moisture" weer? M
+waarmee geven we in een "plan and instrumentation diagram" "speed" weer? S
+waarmee geven we in een "plan and instrumentation diagram" "electricity" weer? E
+waarmee geven we in een "plan and instrumentation diagram" "quality" weer? Q
+waarmee geven we in een "plan and instrumentation diagram" een verschil weer? d
+waarmee geven we in een "plan and instrumentation diagram" een fractie weer? f
+waarmee geven we in een "plan and instrumentation diagram" een indicator weer? I
+waarmee geven we in een "plan and instrumentation diagram" een recorder weer? R
+waarmee geven we in een "plan and instrumentation diagram" een controller weer? C
+waarmee geven we in een "plan and instrumentation diagram" een switch weer? S
+waarmee geven we in een "plan and instrumentation diagram" een alarm weer? A
+waarmee geven we in een "plan and instrumentation diagram" een laag alarm weer? A-
+waarmee geven we in een "plan and instrumentation diagram" een hoog alarm weer? A+
+wat betekent in een "plan and instrumentation diagram" A+? hoog alarm
+wat betekent in een "plan and instrumentation diagram" A-? laag alarm
+wat betekent in een "plan and instrumentation diagram" F? flow
+wat betekent in een "plan and instrumentation diagram" L? level
+wat betekent in een "plan and instrumentation diagram" P? pressure
+wat betekent in een "plan and instrumentation diagram" T? temperature
+wat betekent in een "plan and instrumentation diagram" W? weight
+wat betekent in een "plan and instrumentation diagram" D? density
+wat betekent in een "plan and instrumentation diagram" M? moisture
+wat betekent in een "plan and instrumentation diagram" S? speed
+wat betekent in een "plan and instrumentation diagram" E? electricity
+wat betekent in een "plan and instrumentation diagram" Q? quality
+wat betekent in een "plan and instrumentation diagram" d? difference
+wat betekent in een "plan and instrumentation diagram" f? fraction
+wat betekent in een "plan and instrumentation diagram" I? indicating| indicator
+wat betekent in een "plan and instrumentation diagram" R? recording | recorder
+wat betekent in een "plan and instrumentation diagram" C? controlling | controller
+wat betekent in een "plan and instrumentation diagram" T? transmitting | transmitter
+wat betekent in een "plan and instrumentation diagram" S? switching | switch
+wat betekent in een "plan and instrumentation diagram" A? alarming | alarm
+wat betekent in een "plan and instrumentation diagram" H? manual
+In welke 2 hoofdgroepen delen we processen in? :: zelfregelende processen | zelfregelend proces :: niet zelfregelende processen | niet zelfregelend proces ::
+hoe noemen we een proces wat vanzelf stabiliseert nadat een verandering aan de input van het proces plaats vindt? zelfregelend proces | zelfregelend
+hoe noemen we een grafiek met de stuurwaarde uitgezet tegen de resulterende meetwaarde? proceskarakteristiek
+hoe noemen we een regelaar met 2 standen? aan-uit regelaar | aan uit regelaar
+hoe noemen we een regelaar die een stuursignaal stuurt naar rato van de fout? proportionele regelaar | p-regelaar | p regelaar
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
