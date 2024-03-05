@@ -200,8 +200,6 @@ substituent = atoomgroep die één of meer waterstof atomen kan vervangen aan ee
 alkylgroep = substituent bestaande uit enkel C- en H- atomen
 functionele groep = substituent welke atomen bevat anders dan C en H
 isomeren | isomeer = stoffen met dezelfde chemische formule, maar een verschillende structuur
-ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
-plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
 optische isomeren | optische isomeer = stoffen met dezelfde chemische formule, welke mekaars spiegelbeeld zijn
 cis-trans isomeren | cis trans isomeren | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
 additie = iets toevoegen aan een organische keten
@@ -585,11 +583,6 @@ bimetaal thermometer = type thermometer welke het verschil in uitzetting tussen 
 uizettingscoëfficiënt | uitzettingscoefficient = de mate waarin een metaal uitzet onder invloed van temperatuurswijzigingen
 capillair = glazen buis van een vloeistofthermometer met lineaire schaal voor het aflezen van de temperatuur
 Kelvin | K = SI eenheid voor temperatuur
--100 1000 = een staafthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--40 600 = een bimetaal thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--180 700 = een glazen vloeistof thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--200 800 = een weerstandsthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 kleurstiften | kleurstift = apparaat waarmee kleurstof aangebracht kan worden die verkleurt bij een bepaalde temperatuur
 zero instelling | offset = instelling signaal bij de laagste meetwaarde
 span | gain | range = verschil tussen de minimale en maximale gemeten waarden
@@ -635,7 +628,6 @@ welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: gemeten 
 welk nadeel heeft een gesloten regelkring? sturing begint pas nadat de fout zich voor doet | fouten | fout
 welke 2 voordelen heeft een gesloten regelkring? :: alle fouten worden weggeregeld | alle fouten | elke fout :: kan complexe processen regelen | complexe processen | complex ::
 welke 2 voordelen heeft het gebruik van stroom t.o.v. spanning als stuursignaal? :: minder storingsgevoelig | storingsgevoeligheid | storingen | storing :: ongevoelig voor spanningsval | spanningsval ::
-welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie | fouten :: de transmitter heeft stroom nodig | transmitter ::
 is de instelwaarde x,y of w? w
 is de gewenste waarde x,y of w? w
 is de set point x,y of w? w
@@ -665,7 +657,6 @@ waar staat HART voor? highway adressable remote transducer
 wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen | fouten :: meetwaarden | meetwaarde | metingen | meting ::
 hoe bereken je het drukverschil in een U-manometer? Δp = Δhρg | delta p = delta h rho g
 waarvoor wordt een U-manometer vooral gebruikt? ijking
-wat zijn de 2 nadelen van een U-buismanometer? :: breekbaar | kwetsbaar :: groot ::
 wat is het voordeel van een U-buismanometer? nauwkeurig
 wat is het voordeel van een J-buismanometer t.o.v. een U-buismanometer? afleesbaarheid | afleesbaar | aflezen
 Wat is het voordeel als we een J-buismanometer een schuin been geven? nauwkeuriger | nauwkeurigheid | nauwkeurig | precisie
@@ -882,6 +873,8 @@ wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaa
 corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
 wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | centrifugaalpomp :: menginrichting | mengen ::
 # chemie
+ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
+plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
 Welke klasse koolwaterstoffen bevat -O- ? ethers | ether
 van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 oxidatie | oxideren = een organische keten verbranden
@@ -895,6 +888,13 @@ Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigensc
 Hoe noemen we de lading van een elektron? eenheidslading
 welke 2 factoren bepalen de sterkte van het magnetisch veld in een spoel? aantal windingen, stroomsterkte | aantal windingen stroomsterkte | aantal lussen, stroomsterkte | aantal lussen stroomsterkte
 # M&R
+-100 1000 = een staafthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-40 600 = een bimetaal thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-180 700 = een glazen vloeistof thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-200 800 = een weerstandsthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie | fouten :: de transmitter heeft stroom nodig | transmitter ::
+wat zijn de 2 nadelen van een U-buismanometer? :: breekbaar | kwetsbaar :: groot ::
 welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
 wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie ::
 welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
