@@ -5,7 +5,9 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Hashtable;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 
 import com.eriklievaart.toolkit.io.api.ResourceTool;
@@ -33,7 +35,20 @@ public class QuestionLoader {
 	private List<Question> loadQuestions(String course) {
 		List<Question> questions = QuestionParser.parse(getInputStream(course));
 		questions.forEach(q -> q.setCourse(course));
+		findDuplicates(questions);
 		return questions;
+	}
+
+	static void findDuplicates(List<Question> questions) {
+		Map<String, Question> entries = new Hashtable<>();
+
+		for (Question q : questions) {
+			String hash = q.getHash();
+			if (entries.containsKey(hash)) {
+				throw new RuntimeIOException("duplicate hash:\n\t$\n\t$", q, entries.get(hash));
+			}
+			entries.put(hash, q);
+		}
 	}
 
 	private InputStream getInputStream(String course) {

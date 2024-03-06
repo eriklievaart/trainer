@@ -10,8 +10,6 @@ Hoe noemen we een voertuig dat gestopt is niet langer dan nodig voor in- of uits
 Hoe noemen we een voertuig dat gestopt is langer dan nodig voor laden en lossen? geparkeerd voertuig | geparkeerd
 Hoe noemen we een voertuig dat gestopt is langer dan nodig voor in- of uitstappen van personen? geparkeerd voertuig |geparkeerd
 Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
-Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
-Hoe noemen we een voertuig dat gestopt is voor een rood verkeerslicht? gestopt voertuig | gestopt
 Motorvoertuigen waarvoor rijbewijs C of D vereisd is? groep 2
 elk voertuig met een eigen motor, dat bestemd is om op eigen kracht te rijden? motorvoertuig
 MTM van een auto? <= 3500 kg | <= 3.5 ton
@@ -346,7 +344,6 @@ welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de latte
 welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de boordwanden van een huifopbouw minstens tegen bestand zijn volgens EN12642L? 24 procent | 24%
 welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de rongen voor ronde of cylindrische ladingen minstens tegen bestand zijn volgens EN12642L? 50 procent | 50%
 welk deel van de evenredig verdeelde kracht van het laadvermogen moeten de rongen voor NIET ronde of cylindrische ladingen minstens tegen bestand zijn volgens EN12642L? 30 procent | 30%
-welk deel van de evenredig verdeelde kracht van het laadvermogen moet de zijwanden minstens tegen bestand zijn volgens EN12642L? 30 procent | 30%
 wat is het maximaal evenredig deel van de kracht waarvoor de lading zijwaarts gezekerd moet zijn? 50%
 wat is het maximaal evenredig deel van de kracht waarvoor de lading voorwaarts gezekerd moet zijn? 80%
 wat is het maximaal evenredig deel van de kracht waarvoor de lading achterwaarts gezekerd moet zijn? 50%

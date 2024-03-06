@@ -28,6 +28,7 @@ public class WhiteboxController extends AbstractTemplateController {
 		parameters.getString("c", course -> {
 			State state = new State(loader, course);
 			model.put("whitebox", state.createWhitebox());
+			model.put("redundant", state.countRedundantProgress());
 		});
 	}
 }

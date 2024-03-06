@@ -745,6 +745,10 @@ hoe noemen we een proces wat vanzelf stabiliseert nadat een verandering aan de i
 hoe noemen we een grafiek met de stuurwaarde uitgezet tegen de resulterende meetwaarde? proceskarakteristiek
 hoe noemen we een regelaar met 2 standen? aan-uit regelaar | aan uit regelaar
 hoe noemen we een regelaar die een stuursignaal stuurt naar rato van de fout? proportionele regelaar | p-regelaar | p regelaar
+M&R: waar staat Ks voor? versterkingsfactor
+M&R: welke afkorting gebruiken we voor de versterkingsfactor? Ks
+M&R: waar staat Td voor? dode tijd
+M&R: welke afkorting gebruiken we voor de dode tijd? Td
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
