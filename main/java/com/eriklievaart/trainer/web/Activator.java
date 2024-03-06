@@ -17,6 +17,7 @@ import com.eriklievaart.toolkit.logging.api.LogTemplate;
 import com.eriklievaart.trainer.web.controller.ImageController;
 import com.eriklievaart.trainer.web.controller.IndexController;
 import com.eriklievaart.trainer.web.controller.PracticeController;
+import com.eriklievaart.trainer.web.controller.RedundantController;
 import com.eriklievaart.trainer.web.controller.SelectQuestioneerController;
 import com.eriklievaart.trainer.web.controller.WhiteboxController;
 import com.eriklievaart.trainer.web.io.CourseSelectionIO;
@@ -45,6 +46,7 @@ public class Activator extends LightningActivator {
 			builder.newIdentityRouteGet("list", () -> new IndexController(index));
 			builder.newIdentityRouteGet("practice", () -> new PracticeController());
 			builder.newIdentityRouteGet("whitebox", () -> new WhiteboxController(index, loader));
+			builder.newRoute("redundant").mapPost("whitebox/redundant", () -> new RedundantController(loader));
 			builder.newRoute("images").mapGet("images/*", () -> new ImageController(override));
 			builder.setSecurity(new PageSecurity((route, ctx) -> true));
 		});

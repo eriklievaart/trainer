@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
+import com.eriklievaart.toolkit.lang.api.collection.CollectionTool;
 import com.eriklievaart.toolkit.lang.api.collection.LazyMap;
 import com.eriklievaart.toolkit.lang.api.collection.ListTool;
 import com.eriklievaart.trainer.web.io.QuestionLoader;
@@ -107,5 +108,17 @@ public class State {
 			result.add(vo);
 		}
 		return ListTool.sortedCopy(result);
+	}
+
+	public int countRedundantProgress() {
+		String course = CollectionTool.getSingle(courses);
+		CourseProgress cp = courseToProgress.get(course);
+		return cp.countRedundantProgress(questions);
+	}
+
+	public void deleteRedundantProgress() {
+		String course = CollectionTool.getSingle(courses);
+		CourseProgress cp = courseToProgress.get(course);
+		cp.deleteRedundantProgress(questions);
 	}
 }

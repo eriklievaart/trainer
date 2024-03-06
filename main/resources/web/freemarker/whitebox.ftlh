@@ -10,6 +10,13 @@
 
 	<hr/>
 
+	<#if redundant?? && redundant gt 0>
+		<form action="whitebox/redundant" method="POST">
+			<input type="hidden" name="course" value="${parameter.get('c')}" />
+			<input type="submit" value="remove redundant (${redundant})" />
+		</form>
+	</#if>
+
 	<#if whitebox?has_content>
 		<table>
 			<thead><tr><th>wait</th><th>query</th><th>hash</th></tr></thead>
