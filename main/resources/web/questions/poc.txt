@@ -268,7 +268,6 @@ thermoplasten | thermoplast = kunststof die smelt bij opwarming
 thermoharders | thermoharder = kunststof die ontbindt bij opwarming
 elastomeren | elastomeer = synthetische rubbersoort met grote elasticiteit en stugheid
 PTFE = afkorting van poly tetra fluor etheen
-PTFE = afkorting van de volledige naam van teflon
 poly tetra fluor etheen = volledige naam van PTFE
 poly tetra fluor etheen | PTFE = technische naam van teflon
 corrosie = chemische oxidatiereactie tussen zuurstof en metaal
@@ -597,7 +596,7 @@ reflectiepeilglas = soort glas wat alleen licht weerkaatst als er vloeistof acht
 beleggingsdruk = de druk die het gas boven een tank op de vloeistof uitoefent
 inborreling = drukmeting in een vat waarbij er een slang onder druk gezet wordt totdat er bellen ontsnappen
 verdringer = niveaumeting in een vat die gebruik maakt van de fysische eigenschap dat een vloeistof een ondergedompeld lichaam omhoog duwt
-resistieve niveaumeting | resistieve | resistief = niveaumeting met een spanningsdraad en goed geleidende vloeistof, die gebruik maakt van het feit dat de weerstand verminderd als er een dikkere kabel (vloeistof) is
+resistieve niveaumeting | resistieve niveaumeter | resistieve | resistief = niveaumeting met een spanningsdraad en goed geleidende vloeistof, die gebruik maakt van het feit dat de weerstand verminderd als er een dikkere kabel (vloeistof) is
 capacitieve niveaumeting | capacitieve | capacitief = niveaumeting die met een probe in de tank een condensator maakt. De effectiviteit van de condensator hangt af van de vulling (lucht/vloeistof)
 radioactieve niveaumeting | radioactieve | radioactief = niveaumeting die meet hoeveel gamma straling wordt geabsorbeerd door de vloeistof
 echoniveaumeting | echo = niveaumeting die meet hoe lang het duurt voordat een geluidsgold op de vloeistof teruggekaatst wordt
@@ -699,8 +698,8 @@ wat zijn de 3 voordelen van de venturi t.o.v. de meetschijf? :: geen erosie | mi
 welke 2 voordelen heeft een swirl t.o.v. een vortex? :: minder beperkt in diameter | diameter | straal :: minder lang stuk leiding nodig | lengte ::
 waar is de rotorvolumestroommeter uitstekend geschikt voor? grote volumes gas | gassen | gas
 welke debietmeter kan alleen bij geleidende vloeistoffen gebruikt worden? inductieve debietmeting | inductieve debietmeter
-waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in lokaal paneel weer? dubbele lijn | twee lijnen
-waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in centraal paneel weer? enkele lijn | een lijn
+waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in lokaal paneel weer? dubbele lijn | twee lijnen | dubbele streep | twee strepen
+waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in centraal paneel weer? enkele lijn | een lijn | enkele streep | een streep
 waarmee geven we in een "plan and instrumentation diagram" een stuurleiding weer? een stippellijn | stippellijn
 waarmee geven we in een "plan and instrumentation diagram" "flow" weer? F
 waarmee geven we in een "plan and instrumentation diagram" "level" weer? L
@@ -730,7 +729,7 @@ wat betekent in een "plan and instrumentation diagram" T? temperature
 wat betekent in een "plan and instrumentation diagram" W? weight
 wat betekent in een "plan and instrumentation diagram" D? density
 wat betekent in een "plan and instrumentation diagram" M? moisture
-wat betekent in een "plan and instrumentation diagram" S? speed
+wat betekent in een "plan and instrumentation diagram" S? speed | switching | switch
 wat betekent in een "plan and instrumentation diagram" E? electricity
 wat betekent in een "plan and instrumentation diagram" Q? quality
 wat betekent in een "plan and instrumentation diagram" d? difference
@@ -739,10 +738,9 @@ wat betekent in een "plan and instrumentation diagram" I? indicating| indicator
 wat betekent in een "plan and instrumentation diagram" R? recording | recorder
 wat betekent in een "plan and instrumentation diagram" C? controlling | controller
 wat betekent in een "plan and instrumentation diagram" T? transmitting | transmitter
-wat betekent in een "plan and instrumentation diagram" S? switching | switch
 wat betekent in een "plan and instrumentation diagram" A? alarming | alarm
 wat betekent in een "plan and instrumentation diagram" H? manual
-In welke 2 hoofdgroepen delen we processen in? :: zelfregelende processen | zelfregelend proces :: niet zelfregelende processen | niet zelfregelend proces ::
+In welke 2 hoofdgroepen delen we processen in? :: zelfregelende processen | zelfregelend proces | zelfregelend :: niet zelfregelende processen | niet zelfregelend proces | niet zelfregelend ::
 hoe noemen we een proces wat vanzelf stabiliseert nadat een verandering aan de input van het proces plaats vindt? zelfregelend proces | zelfregelend
 hoe noemen we een grafiek met de stuurwaarde uitgezet tegen de resulterende meetwaarde? proceskarakteristiek
 hoe noemen we een regelaar met 2 standen? aan-uit regelaar | aan uit regelaar
@@ -824,7 +822,7 @@ hoe noemen we de richting die de as volgt? axiaal | axial
 welke 2 omstandigheden zijn typisch voor het gebruik van schroefpompen en schroefcentrifugaalpompen? :: grote volumestromen | grote volumes | groot volume | hoog debiet :: lage opvoerhoogten | lage opvoerhoogtes | lage opvoerhoogte ::
 welke 2 pompen gebruiken we vaak bij grote volumestromen en lage opvoerhoogtes? :: schroefpompen | schroefpomp :: schroefcentrifugaalpompen | schroefcentrifugaalpomp ::
 welke 3 toepassingen wordt de wervelstroompomp veel voor gebruikt? :: riool :: papier :: levensmiddelen | voeding ::
-welke 2 toepassingen wordt de straalpomp veel voor gebruikt? :: vacuüm | vacuum :: agressieve stoffen ::
+welke 2 toepassingen wordt de straalpomp veel voor gebruikt? :: vacuüm | vacuum :: agressieve stoffen | agressieve vloeistoffen::
 waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde vloeistoffen of gassen | verontreinigde vloeistoffen | verontreinigde gassen | vervuilde vloeistoffen | vervuilde gassen
 
 [pomp-zuiger.png] welke pomp is dit? zuigerpomp
@@ -921,6 +919,7 @@ welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kra
 wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaalmoeheid | minder metaalmoeheid
 corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
 wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | centrifugaalpomp :: menginrichting | mengen ::
+PTFE = afkorting van de volledige naam van teflon
 # chemie
 ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
