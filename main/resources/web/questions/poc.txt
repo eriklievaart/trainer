@@ -195,7 +195,6 @@ neutralisatie | neutraliseren = een zuur en een base elkaar op laten heffen
 24.5 L = volume 1 mol gas onder standaard condities
 mol/L = eenheid molariteit
 g/L = eenheid massaconcentratie
-ml/L = eenheid volumeconcentratie
 substituent = atoomgroep die één of meer waterstof atomen kan vervangen aan een koolstof keten
 alkylgroep = substituent bestaande uit enkel C- en H- atomen
 functionele groep = substituent welke atomen bevat anders dan C en H
@@ -208,7 +207,6 @@ eliminatie = een deel van een organische keten verwijderen
 cracking = een organische keten in stukken hakken
 polymerisatie = organische ketens samenvoegen tot een lange keten
 substraat = organische keten waar we we een reactie mee doen (additie, substitutie, eliminatie, etc.)
-reactieve plaatsen | reactieve plaats = deel van een organische molecule waar een reactie plaats vindt
 halogeenalkanen | halogeenalkaan = belangrijke organische molecule voor synthese van andere organische verbindingen; ondergaat vaak substitutie en eliminatie reacties
 alcoholen | alcohol = organische moleculen die zich zowel als zuur als als base kunnen gedragen; ondergaat gisting, additie, substitutie, eliminatie en oxidatie
 ethers | ether = organische moleculen die vaak als oplos- en extractie middel worden gebruikt; brandbaar
@@ -617,6 +615,8 @@ dopplereffect = het terugkomen van een geluidsgolf met een andere frequentie, na
 coriolisdebietmeter = de meest gebruikte debietmeter
 coriolisdebietmeter = debietmeter die een vloeistof door trillende buizen stuurt en de weerstand van die vloeistof tegen de beweging meet
 statische offset fout = het niet bereiken van de ingestelde waarde met een p-regelaar, doordat proportioneel bijsturen het verbruik niet matcht
+1 poise | poise = andere benaming voor 1 Pa·s
+1 Pa·s | 1 Pa s = 1 poise in andere eenheden
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -698,48 +698,47 @@ wat zijn de 3 voordelen van de venturi t.o.v. de meetschijf? :: geen erosie | mi
 welke 2 voordelen heeft een swirl t.o.v. een vortex? :: minder beperkt in diameter | diameter | straal :: minder lang stuk leiding nodig | lengte ::
 waar is de rotorvolumestroommeter uitstekend geschikt voor? grote volumes gas | gassen | gas
 welke debietmeter kan alleen bij geleidende vloeistoffen gebruikt worden? inductieve debietmeting | inductieve debietmeter
-waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in lokaal paneel weer? dubbele lijn | twee lijnen | dubbele streep | twee strepen
-waarmee geven we in een "plan and instrumentation diagram" een meetinstrument in centraal paneel weer? enkele lijn | een lijn | enkele streep | een streep
-waarmee geven we in een "plan and instrumentation diagram" een stuurleiding weer? een stippellijn | stippellijn
-waarmee geven we in een "plan and instrumentation diagram" "flow" weer? F
-waarmee geven we in een "plan and instrumentation diagram" "level" weer? L
-waarmee geven we in een "plan and instrumentation diagram" "pressure" weer? p
-waarmee geven we in een "plan and instrumentation diagram" "temperature" weer? T
-waarmee geven we in een "plan and instrumentation diagram" "weight" weer? W
-waarmee geven we in een "plan and instrumentation diagram" "density" weer? D
-waarmee geven we in een "plan and instrumentation diagram" "moisture" weer? M
-waarmee geven we in een "plan and instrumentation diagram" "speed" weer? S
-waarmee geven we in een "plan and instrumentation diagram" "electricity" weer? E
-waarmee geven we in een "plan and instrumentation diagram" "quality" weer? Q
-waarmee geven we in een "plan and instrumentation diagram" een verschil weer? d
-waarmee geven we in een "plan and instrumentation diagram" een fractie weer? f
-waarmee geven we in een "plan and instrumentation diagram" een indicator weer? I
-waarmee geven we in een "plan and instrumentation diagram" een recorder weer? R
-waarmee geven we in een "plan and instrumentation diagram" een controller weer? C
-waarmee geven we in een "plan and instrumentation diagram" een switch weer? S
-waarmee geven we in een "plan and instrumentation diagram" een alarm weer? A
-waarmee geven we in een "plan and instrumentation diagram" een laag alarm weer? A-
-waarmee geven we in een "plan and instrumentation diagram" een hoog alarm weer? A+
-wat betekent in een "plan and instrumentation diagram" A+? hoog alarm
-wat betekent in een "plan and instrumentation diagram" A-? laag alarm
-wat betekent in een "plan and instrumentation diagram" F? flow
-wat betekent in een "plan and instrumentation diagram" L? level
-wat betekent in een "plan and instrumentation diagram" P? pressure
-wat betekent in een "plan and instrumentation diagram" T? temperature
-wat betekent in een "plan and instrumentation diagram" W? weight
-wat betekent in een "plan and instrumentation diagram" D? density
-wat betekent in een "plan and instrumentation diagram" M? moisture
-wat betekent in een "plan and instrumentation diagram" S? speed | switching | switch
-wat betekent in een "plan and instrumentation diagram" E? electricity
-wat betekent in een "plan and instrumentation diagram" Q? quality
-wat betekent in een "plan and instrumentation diagram" d? difference
-wat betekent in een "plan and instrumentation diagram" f? fraction
-wat betekent in een "plan and instrumentation diagram" I? indicating| indicator
-wat betekent in een "plan and instrumentation diagram" R? recording | recorder
-wat betekent in een "plan and instrumentation diagram" C? controlling | controller
-wat betekent in een "plan and instrumentation diagram" T? transmitting | transmitter
-wat betekent in een "plan and instrumentation diagram" A? alarming | alarm
-wat betekent in een "plan and instrumentation diagram" H? manual
+waarmee geven we in een plan and instrumentation diagram een meetinstrument in lokaal paneel weer? dubbele lijn | twee lijnen | dubbele streep | twee strepen
+waarmee geven we in een plan and instrumentation diagram een meetinstrument in centraal paneel weer? enkele lijn | een lijn | enkele streep | een streep
+waarmee geven we in een plan and instrumentation diagram een stuurleiding weer? een stippellijn | stippellijn
+waarmee geven we in een plan and instrumentation diagram "flow" weer? F
+waarmee geven we in een plan and instrumentation diagram "level" weer? L
+waarmee geven we in een plan and instrumentation diagram "pressure" weer? p
+waarmee geven we in een plan and instrumentation diagram "temperature" weer? T
+waarmee geven we in een plan and instrumentation diagram "weight" weer? W
+waarmee geven we in een plan and instrumentation diagram "density" weer? D
+waarmee geven we in een plan and instrumentation diagram "moisture" weer? M
+waarmee geven we in een plan and instrumentation diagram "speed" weer? S
+waarmee geven we in een plan and instrumentation diagram "electricity" weer? E
+waarmee geven we in een plan and instrumentation diagram "quality" weer? Q
+waarmee geven we in een plan and instrumentation diagram een verschil weer? d
+waarmee geven we in een plan and instrumentation diagram een fractie weer? f
+waarmee geven we in een plan and instrumentation diagram een indicator weer? I
+waarmee geven we in een plan and instrumentation diagram een recorder weer? R
+waarmee geven we in een plan and instrumentation diagram een controller weer? C
+waarmee geven we in een plan and instrumentation diagram een switch weer? S
+waarmee geven we in een plan and instrumentation diagram een alarm weer? A
+waarmee geven we in een plan and instrumentation diagram een laag alarm weer? A-
+waarmee geven we in een plan and instrumentation diagram een hoog alarm weer? A+
+wat betekent in een plan and instrumentation diagram A+? hoog alarm
+wat betekent in een plan and instrumentation diagram A-? laag alarm
+wat betekent in een plan and instrumentation diagram F? flow
+wat betekent in een plan and instrumentation diagram L? level
+wat betekent in een plan and instrumentation diagram P? pressure
+wat betekent in een plan and instrumentation diagram T? temperature | transmitting | transmitter
+wat betekent in een plan and instrumentation diagram W? weight
+wat betekent in een plan and instrumentation diagram D? density
+wat betekent in een plan and instrumentation diagram M? moisture
+wat betekent in een plan and instrumentation diagram S? speed | switching | switch
+wat betekent in een plan and instrumentation diagram E? electricity | elektriciteit
+wat betekent in een plan and instrumentation diagram Q? quality
+wat betekent in een plan and instrumentation diagram d? difference
+wat betekent in een plan and instrumentation diagram f? fraction
+wat betekent in een plan and instrumentation diagram I? indicating| indicator
+wat betekent in een plan and instrumentation diagram R? recording | recorder
+wat betekent in een plan and instrumentation diagram C? controlling | controller
+wat betekent in een plan and instrumentation diagram A? alarming | alarm
+wat betekent in een plan and instrumentation diagram H? manual
 In welke 2 hoofdgroepen delen we processen in? :: zelfregelende processen | zelfregelend proces | zelfregelend :: niet zelfregelende processen | niet zelfregelend proces | niet zelfregelend ::
 hoe noemen we een proces wat vanzelf stabiliseert nadat een verandering aan de input van het proces plaats vindt? zelfregelend proces | zelfregelend
 hoe noemen we een grafiek met de stuurwaarde uitgezet tegen de resulterende meetwaarde? proceskarakteristiek
@@ -749,6 +748,7 @@ M&R: waar staat Ks voor? versterkingsfactor
 M&R: welke afkorting gebruiken we voor de versterkingsfactor? Ks
 M&R: waar staat Td voor? dode tijd
 M&R: welke afkorting gebruiken we voor de dode tijd? Td
+noem 3 redenen waarom een regelaar bij moet sturen? :: proces opstarten | opstarten :: fout :: wijziging gemeten waarde | wijziging | gemeten waarde ::
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -797,7 +797,7 @@ middelpuntvliedende kracht = ander woord voor centrifugaal kracht
 wat zijn de 3 hoofdgroepen van pompen? :: verdringerpompen | verdringerpomp | verdringer :: centrifugaalpompen | centrifugaalpomp | centrifugaal :: straalpompen | straalpomp | straal ::
 wat zijn de 2 groepen verdringerpompen? :: pulserende | pulserend :: roterende | roterend ::
 wat zijn de 3 types pulserende verdringerpompen? :: zuigerpompen | zuigerpomp ::  plunjerpompen | plunjerpomp :: membraanpompen |  membraanpomp ::
-wat zijn de 5 types roterende verdringerpompen? :: tandwielpompen | tandwielpomp :: schottenpompen | schottenpomp :: monopompen | monopomp :: wormpompen | wormpomp | schroefpompen | schroefpomp :: slangepompen | slangepomp ::
+wat zijn de 5 types roterende verdringerpompen? :: tandwielpompen | tandwielpomp :: schottenpompen | schottenpomp :: monopompen | monopomp :: wormpompen | wormpomp | schroefpompen | schroefpomp :: slangenpompen | slangenpomp ::
 transport: hoe wordt volumestroom ook wel genoemd? debiet | capaciteit | opbrengst
 transport: hoe wordt debiet ook wel genoemd? opbrengst | capaciteit | volumestroom
 transport: hoe wordt capaciteit ook wel genoemd? debiet | opbrengst | volumestroom
@@ -817,7 +817,7 @@ Wat is het rendement van een kleine centrifugaalpomp? 50 tot 60% | 50-60% | 50 6
 Wat is het rendement van een grote centrifugaalpomp? 85 tot 90% | 85-90% | 85 90%
 waarvoor gebruiken we verdringerpompen met roterende beweging? stroperige vloeistoffen | stroperige vloeistof | visceuze vloeistoffen | visceuze vloeistof
 waar worden lobbenpompen veel gebruikt? de voedingsindustrie | voedingsindustrie
-waar worden slangepompen voornamelijk gebruikt? waterzuiveringsinstallaties | waterzuivering
+waar worden slangenpompen voornamelijk gebruikt? waterzuiveringsinstallaties | waterzuivering
 hoe wordt een wormpomp ook wel genoemd? schroefpomp | schroefspindelpomp
 hoe wordt een schroefpomp ook wel genoemd? wormpomp | schroefspindelpomp
 hoe wordt een schroefspindelpomp ook wel genoemd? wormpomp | schroefpomp
@@ -834,7 +834,7 @@ waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde v
 [pomp-tandwiel.png] welke pomp is dit? tandwielpomp
 [pomp-lobben.png] welke pomp is dit? lobbenpomp
 [pomp-schotten.png] welke pomp is dit? schottenpomp
-[pomp-slange.png] welke pomp is dit? slangepomp
+[pomp-slange.png] welke pomp is dit? slangenpomp
 [pomp-worm.png] welke pomp is dit? wormpomp
 [pomp-mono.png] welke pomp is dit? monopomp
 [pomp-membraan.png] welke pomp is dit? membraanpomp
@@ -882,7 +882,7 @@ welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig | corrosie :: s
 welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid | volume :: klonteren | vochtgehalte | vochtigheid :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | dichtheid | gewicht | kracht :: vorm goed | vorm mazen | maasvorm | vorm ::
 wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef :: roterende zeef :: trilzeef :: zeefbocht :: cascadezeef ::
 welke 4 bezinkingsmethoden kennen we? :: indikken :: klaren :: scheiden :: floteren ::
-welke 4 zaken beinvloeden de bezinkingssnelheid? :: soortelijke massa :: fractionering | deeltjesgrootte :: uitvlokkingsmiddel :: viscositeit ::
+welke 4 zaken beinvloeden de bezinkingssnelheid? :: soortelijke massa :: fractionering | deeltjesgrootte | oppervlakte :: uitvlokkingsmiddel :: viscositeit ::
 hoe heet het aftappen van de vloeistof boven een bezinkingslaag? decanteren
 hoe heet het scheiden van vloeistoffen met verschillende dichtheden d.m.v. bezinking? separeren
 welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vast-vloeistof mengsels? :: bezinktank van Dorr :: discontinue bezinktank ::
@@ -893,7 +893,7 @@ welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: cor
 welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
 
 [scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
-[scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank
+[scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank | discontinu bezinktank
 [scheiding-discontinueseparator.png]  welk apparaat is dit? discontinue separator | discontinu separator
 [scheiding-dorr.png]                  welk apparaat is dit? bezinktank van Dorr | Dorr bezinktank
 [scheiding-stroomgoot.png]            welk apparaat is dit? stroomgoot
@@ -927,11 +927,13 @@ PTFE = afkorting van de volledige naam van teflon
 # chemie
 ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
+reactieve plaatsen | reactieve plaats = deel van een organische molecule waar een reactie plaats vindt
 Welke klasse koolwaterstoffen bevat -O- ? ethers | ether
 van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 oxidatie | oxideren = een organische keten verbranden
 % = eenheid massaprocent
 % = eenheid volumeprocent
+ml/L = eenheid volumeconcentratie
 # elektriciteit
 formule voor de stroomwet van Kirchhoff? ΣI = 0 | sigma I = 0
 formule voor de spanningswet van Kirchhoff? U[bron] = U₁ + U₂ + ... | Ub = U1+U2 | ΣU = 0 | sigma U = 0
