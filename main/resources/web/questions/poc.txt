@@ -869,6 +869,20 @@ filtraat = heldere vloeistof die resulteert uit een filtratie
 neerslag | residu = suspensie die bij filtratie in het filter achter blijft
 capaciteit = hoeveelheid filtraat die per tijdseenheid en per oppervlakte eenheid van een filter gewonnen wordt
 separator = apparaat wat vloeistof-vloeistof mengsels scheidt
+centrifuge = apparaat met ronddraaiende trommel die een centrifugaalkracht gebruikt om scheidingen uit te voeren
+cyclonen | cycloon = apparaat wat een stof rond laat draaien om het te scheiden
+kritisch toerental = bij een bepaalde snelheid zullen de imperfecties in de trommel van een centrifuge leiden tot gevaarlijke amplitudes
+onderkritisch = snelheid lager dan het kritisch toerental
+bovenkritisch = snelheid hoger dan het kritisch toerental
+vaste stof vloeistof = filtreercentrifuges gebruiken we voor het agscheiden van een vaste stof/vloeistof/gas uit een vaste stof/vloeistof/gas
+zwaartepunt-pendelcentrifuge | zwaartepunt pendelcentrifuge = verticale centrifuge waarbij de vaste stof discontinu verwijderd wordt
+verticale schroef centrifuge = verticale centrifuge waarbij de vaste stof continu verwijderd wordt
+welke 2 type mengels kunnen we scheiden met dichte wand centrifuges? :: vloeistof mengsels | vloeistof mengsel | vloeistof vloeistof :: vloeistof vaste stof | vloeistof vast | vaste stof vloeistof ::
+overloopcentrifuges | overloopcentrifuge = centrifuges waarbij vloeistof over de rand loopt en wordt afgevoerd
+decanteercentrifuge = andere naam voor schroefcentrifuge
+schroefcentrifuge = andere naam voor decanteercentrifuge
+buiscentrifuge = continue centrifuge gebruikt voor het scheiden van vloeistof-vloeistof mengsels
+cycloonbatterij = in serie geschakelde hydrocyclonen die vaste deeltjes van een paar micrometer kunnen afscheiden
 
 hoe ziet een homogeen mengsel er uit? helder
 hoe ziet een heterogeen mengsel er uit? troebel
@@ -891,6 +905,22 @@ welke 3 bezinkingsapparaten gebruiken we voor het scheiden van vast-vast mengsel
 welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vast-gas | vast gas :: vast-vloeistof | vast vloeistof ::
 welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: corrosiebestendig :: mechanische sterkte | sterkte :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
 welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
+welke 2 soorten centrifuges onderscheiden we? :: doorlopende trommel | zeeftrommels | zeeftrommel :: niet-doorlatende trommel | overloopcentrifuges | overloopcentrifuge ::
+wat voor omtreksnelheden bereiken we bij grote centrifugaalseparatoren? 100 m/s
+welke 3 soorten centrifuges hebben een horizontale as? :: centrifuges met uitsnijmes | centrifuge met uitsnijmes :: schuifcentrifuges | schuifcentrifuge :: meertrap schuifcentrifuges | meertrap schuifcentrifuge ::
+welke stappen zitten er in de cyclus van een centrifuge met uitsnijmes? vullen centrifugeren wassen drogen uitsnijden
+welk soort centrifuge doorloopt de stappen vullen, centrifugeren, wassen, drogen, uitsnijden? centrifuge met uitsnijmes
+welk soort centrifuge gebruikt een meedraaiende trechter om de suspensie op de trommelbodem te storten? schuifcentrifuge
+welke 2 soorten dichte wand centrifuges kennen we? :: centrifuges met horizontale as | horizontale as :: centrifuges met verticale as | verticale as ::
+welke 3 soorten dichtewand centrifuges kennen we met verticale as? :: tolcentrifuge :: dichtwandige filtreercentrifuge :: verticale schilpijpcentrifuge ::
+welke 2 soorten dichtewand centrifuges kennen we met horizontale as? :: horizontale overloopcentrifuge met uitsnijmes :: schroefcentrifuge ::
+hoeveel G haalt een buiscentrifuge? 10e6 G | 10e6
+een cycloon verwijdert ____ uit een gasstroom of vloeistofstroom? vaste stofdeeltjes | een vaste stof | vaste stof
+een cycloon verwijdert vaste stofdeeltjes uit ____ en uit ____? :: gasstromen | gassen | gas :: vloeistofstromen | vloeistoffen | vloeistof ::
+welke 3 industrieën gebruiken cyclonen? :: cacao industrie | cacao :: zetmeelproducerende instrustrie | zetmeelproductie | zetmeel :: houtverwerkende industrie | houtverwerking | hout ::
+wat voor scheidingsmethode is kristallisatie? fysisch
+hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er minder zout aanwezig is dan op de verzadigingslijn? onverzadigd gebied
+hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout aanwezig is dan op de verzadigingslijn? overzadiginggebied
 
 [scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
 [scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank | discontinu bezinktank
