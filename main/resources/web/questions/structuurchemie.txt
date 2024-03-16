@@ -27,7 +27,7 @@ Wat is de naam van het element B? boron
 Wat is de naam van het element C? carbon
 Wat is de naam van het element N? nitrogen
 Wat is de naam van het element O? oxygen
-Wat is de naam van het element F? fluorine
+Wat is de naam van het element F? fluorine | fluor
 Wat is de naam van het element Ne? neon
 Wat is de naam van het element Na? sodium
 Wat is de naam van het element Mg? magnesium

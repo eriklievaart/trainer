@@ -207,7 +207,6 @@ eliminatie = een deel van een organische keten verwijderen
 cracking = een organische keten in stukken hakken
 polymerisatie = organische ketens samenvoegen tot een lange keten
 substraat = organische keten waar we we een reactie mee doen (additie, substitutie, eliminatie, etc.)
-halogeenalkanen | halogeenalkaan = belangrijke organische molecule voor synthese van andere organische verbindingen; ondergaat vaak substitutie en eliminatie reacties
 alcoholen | alcohol = organische moleculen die zich zowel als zuur als als base kunnen gedragen; ondergaat gisting, additie, substitutie, eliminatie en oxidatie
 ethers | ether = organische moleculen die vaak als oplos- en extractie middel worden gebruikt; brandbaar
 aminen | amine = organische moleculen die basisch zijn en onaangenaam ruiken; gebruikt als kleurstoffen, in farmaceutische producten en in kunststoffen
@@ -433,7 +432,6 @@ wat wordt er aan rubberen slangen toegevoegd om extra hoge mechanische belasting
 wat is het grote voordeel van kunststof slangen? inertie | inert
 welke 2 soorten metalen slangen zijn er? :: gevlochten :: gewikkeld ::
 Welke 3 aspecten van een flexibel moeten gecontroleerd worden voor gebruik? binnenkant buitenkant koppeling
-Welke 4 zaken moet men op letten bij aansluiten van een flexibel? :: aarding :: drukschokken :: PBM :: torsie ::
 Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | druk
 welke 3 doelen kunnen kleppen en kranen hebben? :: leidingen afsluiten | afsluiten :: debiet regelen | regelen :: verdelen ::
 wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
@@ -478,7 +476,6 @@ welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: o
 appendages: waarmee duiden we het totale leidingverlies aan? pw
 appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
 appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
-wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatische druk? exponentieel
 geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | condensatie | condens :: energiekosten | energie :: stollen/kristalliseren van media | kristalliseren | kristallisatie :: spanningen door uitzetting | spanningen | spanning ::
 hoe voorkomt men convectie en geleiding? droge lucht | lucht
 hoe voorkomt men straling? aluminium folie | aluminium
@@ -559,7 +556,7 @@ negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand af
 100 Ω | 100 ohm = weerstand van platina bij 0°C
 138.5 Ω | 138.5 ohm = weerstand van platina bij 100°C
 storing | verstoring = m&r: iets wat het evenwicht in een geregeld systeem ontwricht
-gemeten waarde | werkelijke waarde | process value = m&r: waarde die uit de sensor terug komt
+gemeten waarde | meetwaarde | werkelijke waarde | process value = m&r: waarde die uit de sensor terug komt
 gewenste waarde | instelwaarde | wanted value = m&r: waarde waarvan de gebruiker aangeeft dat het het doel is
 regelaar | controller = m&r: vergelijkt gemeten waarde met de gewenste waarde en stuurt bij indien nodig
 stuurwaarde | regelwaarde = m&r: waarde van het signaal van de regelaar naar het corrigerende orgaan
@@ -620,11 +617,9 @@ statische offset fout = het niet bereiken van de ingestelde waarde met een p-reg
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
-welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
 welke 2 milieu redenen zijn er om automatisch te regelen? :: energieverbruik | energie :: minder afvalstoffen | afvalstoffen | afval ::
 welke 2 voordelen heeft een stuursysteem? :: goedkoop :: eenvoudig | simpel | complexiteit ::
-welk nadeel heeft een stuursysteem? gebrek aan controle | controle
-welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: gemeten waarde | werkelijke waarde | meting :: stuurwaarde | sturende waarde | sturing ::
+welke 2 variabelen zijn gerelateerd als terugkoppeling plaats vindt? :: gemeten waarde | werkelijke waarde | meting | x :: stuurwaarde | sturende waarde | sturing | y ::
 welk nadeel heeft een gesloten regelkring? sturing begint pas nadat de fout zich voor doet | fouten | fout
 welke 2 voordelen heeft een gesloten regelkring? :: alle fouten worden weggeregeld | alle fouten | elke fout :: kan complexe processen regelen | complexe processen | complex ::
 welke 2 voordelen heeft het gebruik van stroom t.o.v. spanning als stuursignaal? :: minder storingsgevoelig | storingsgevoeligheid | storingen | storing :: ongevoelig voor spanningsval | spanningsval ::
@@ -657,7 +652,6 @@ waar staat HART voor? highway adressable remote transducer
 wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen | fouten :: meetwaarden | meetwaarde | metingen | meting ::
 hoe bereken je het drukverschil in een U-manometer? Δp = Δhρg | delta p = delta h rho g
 waarvoor wordt een U-manometer vooral gebruikt? ijking
-wat is het voordeel van een U-buismanometer? nauwkeurig
 wat is het voordeel van een J-buismanometer t.o.v. een U-buismanometer? afleesbaarheid | afleesbaar | aflezen
 Wat is het voordeel als we een J-buismanometer een schuin been geven? nauwkeuriger | nauwkeurigheid | nauwkeurig | precisie
 bij hoeveel bar gebruik je een membraandrukmeter? 0-30 bar | 0-30 | 0 30
@@ -678,7 +672,7 @@ welke 2 zaken beinvloeden de atmosferische druk? :: temperatuur :: locatie | pla
 welke 3 drukmeters zijn elektrisch? :: rekstrookjes | rekstrookje :: capacitieve drukmeter | capacitieve manometer | capacitieve :: piezo kristallen | piezo kristal | piezo elektrische drukopmeter ::
 welke 2 drukmeters gebruiken we voor het meten van een druk van 6000 bar? :: bourdonbuis manometer | bourdonbuis drukmeter :: rekstrookjes | rekstrookje ::
 welke 2 nadelen hebben piëzo elementen? :: temperatuursgevoelig | temperatuurgevoelig | temperatuur :: alleen verschildrukken | verschildrukken | verschildruk | verschillen | verschil ::
-welke 2 nadelen heeft peilglas? :: gevoelig voor glasbreuk | glasbreuk | breekbaar :: gevoelig voor vervuiling | vervuiling ::
+welke 2 nadelen heeft peilglas? :: gevoelig voor glasbreuk | glasbreuk | breekbaar | kwetsbaar :: gevoelig voor vervuiling | vervuiling ::
 welke 3 oorzaken kunnen breuken veroorzaken bij peilglazen? :: mechanische beschadigingen | mechanisch :: te hoge druk | hoge druk | druk:: trillingen | trilling ::
 wat is de oplossing als de druk te hoog is om peilglas te gebruiken? reflectiepeilglas
 welke 3 oplossingen hebben we om een drukmeter van een tank met een extra been voor de beleggingsdruk condensvrij te houden? :: spoelen met gas | spoeling | spoelen | gas :: het been verwarmen | verwarmen :: het been vullen met vloeistof | vloeistof | nat been ::
@@ -748,7 +742,7 @@ M&R: waar staat Ks voor? versterkingsfactor
 M&R: welke afkorting gebruiken we voor de versterkingsfactor? Ks
 M&R: waar staat Td voor? dode tijd
 M&R: welke afkorting gebruiken we voor de dode tijd? Td
-noem 3 redenen waarom een regelaar bij moet sturen? :: proces opstarten | opstarten :: fout :: wijziging gemeten waarde | wijziging | gemeten waarde ::
+noem 3 redenen waarom een regelaar bij moet sturen? :: proces opstarten | opstarten | opstart :: fout :: wijziging gemeten waarde | wijziging | wijzigen | gemeten waarde ::
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -876,8 +870,8 @@ onderkritisch = snelheid lager dan het kritisch toerental
 bovenkritisch = snelheid hoger dan het kritisch toerental
 vaste stof vloeistof = filtreercentrifuges gebruiken we voor het agscheiden van een vaste stof/vloeistof/gas uit een vaste stof/vloeistof/gas
 zwaartepunt-pendelcentrifuge | zwaartepunt pendelcentrifuge = verticale centrifuge waarbij de vaste stof discontinu verwijderd wordt
-verticale schroef centrifuge = verticale centrifuge waarbij de vaste stof continu verwijderd wordt
-welke 2 type mengels kunnen we scheiden met dichte wand centrifuges? :: vloeistof mengsels | vloeistof mengsel | vloeistof vloeistof :: vloeistof vaste stof | vloeistof vast | vaste stof vloeistof ::
+verticale schroef centrifuge | schroef centrifuge = verticale centrifuge waarbij de vaste stof continu verwijderd wordt
+welke 2 type mengels kunnen we scheiden met dichte wand centrifuges? :: vloeistof mengsels | vloeistof mengsel | vloeistof vloeistof :: vloeistof vaste stof | vloeistof vast | vaste stof vloeistof | vast vloeistof ::
 overloopcentrifuges | overloopcentrifuge = centrifuges waarbij vloeistof over de rand loopt en wordt afgevoerd
 decanteercentrifuge = andere naam voor schroefcentrifuge
 schroefcentrifuge = andere naam voor decanteercentrifuge
@@ -902,25 +896,25 @@ hoe heet het scheiden van vloeistoffen met verschillende dichtheden d.m.v. bezin
 welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vast-vloeistof mengsels? :: bezinktank van Dorr :: discontinue bezinktank ::
 welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: continu separator | continue separator :: discontinue separator | discontinu separator ::
 welke 3 bezinkingsapparaten gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: lamellenfilter :: windzifter ::
-welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vast-gas | vast gas :: vast-vloeistof | vast vloeistof ::
-welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: corrosiebestendig :: mechanische sterkte | sterkte :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
+welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vaste stof gast | vast-gas | vast gas | gas vast :: vaste stof vloeistof | vast-vloeistof | vast vloeistof | vloeistof vast ::
+welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: corrosiebestendigheid | corrosiebestendig :: mechanische sterkte | sterkte :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
 welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
-welke 2 soorten centrifuges onderscheiden we? :: doorlopende trommel | zeeftrommels | zeeftrommel :: niet-doorlatende trommel | overloopcentrifuges | overloopcentrifuge ::
+welke 2 soorten centrifuges onderscheiden we? :: doorlatende trommel | zeeftrommels | zeeftrommel :: niet-doorlatende trommel | niet doorlatende trommel | overloopcentrifuges | overloopcentrifuge ::
 wat voor omtreksnelheden bereiken we bij grote centrifugaalseparatoren? 100 m/s
 welke 3 soorten centrifuges hebben een horizontale as? :: centrifuges met uitsnijmes | centrifuge met uitsnijmes :: schuifcentrifuges | schuifcentrifuge :: meertrap schuifcentrifuges | meertrap schuifcentrifuge ::
 welke stappen zitten er in de cyclus van een centrifuge met uitsnijmes? vullen centrifugeren wassen drogen uitsnijden
-welk soort centrifuge doorloopt de stappen vullen, centrifugeren, wassen, drogen, uitsnijden? centrifuge met uitsnijmes
+welk soort centrifuge doorloopt de stappen vullen, centrifugeren, wassen, drogen, uitsnijden? horizontale overloopcentrifuge met uitsnijmes | horizontale centrifuge met uitsnijmes | centrifuge met uitsnijmes
 welk soort centrifuge gebruikt een meedraaiende trechter om de suspensie op de trommelbodem te storten? schuifcentrifuge
 welke 2 soorten dichte wand centrifuges kennen we? :: centrifuges met horizontale as | horizontale as :: centrifuges met verticale as | verticale as ::
-welke 3 soorten dichtewand centrifuges kennen we met verticale as? :: tolcentrifuge :: dichtwandige filtreercentrifuge :: verticale schilpijpcentrifuge ::
-welke 2 soorten dichtewand centrifuges kennen we met horizontale as? :: horizontale overloopcentrifuge met uitsnijmes :: schroefcentrifuge ::
+welke 3 soorten dichtewand centrifuges kennen we met verticale as? :: tolcentrifuge | tol :: dichtwandige filtreercentrifuge | filtereercentrifuge | filtreer :: verticale schilpijpcentrifuge | schilpijpcentrifuge | schilpijp ::
+welke 2 soorten dichtewand centrifuges kennen we met horizontale as? :: horizontale overloopcentrifuge met uitsnijmes | overloopcentrifuge met uitsnijmes :: schroefcentrifuge | decanteercentrifuge ::
 hoeveel G haalt een buiscentrifuge? 10e6 G | 10e6
-een cycloon verwijdert ____ uit een gasstroom of vloeistofstroom? vaste stofdeeltjes | een vaste stof | vaste stof
+een cycloon verwijdert ____ uit een gasstroom of vloeistofstroom? vaste stofdeeltjes | een vaste stof | vaste stof | vaste stoffen
 een cycloon verwijdert vaste stofdeeltjes uit ____ en uit ____? :: gasstromen | gassen | gas :: vloeistofstromen | vloeistoffen | vloeistof ::
-welke 3 industrieën gebruiken cyclonen? :: cacao industrie | cacao :: zetmeelproducerende instrustrie | zetmeelproductie | zetmeel :: houtverwerkende industrie | houtverwerking | hout ::
+welke 3 industrieën gebruiken cyclonen? :: cacao industrie | cacao :: houtverwerkende industrie | houtverwerking | hout :: zetmeelproducerende instrustrie | zetmeelproductie | zetmeel ::
 wat voor scheidingsmethode is kristallisatie? fysisch
 hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er minder zout aanwezig is dan op de verzadigingslijn? onverzadigd gebied
-hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout aanwezig is dan op de verzadigingslijn? overzadiginggebied
+hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout aanwezig is dan op de verzadigingslijn? oververzadiginggebied | oververzadigingsgebied
 
 [scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
 [scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank | discontinu bezinktank
@@ -950,14 +944,17 @@ hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout 
 
 @EOF@
 # appendages
+Welke 4 zaken moet men op letten bij aansluiten van een flexibel? :: aarding :: drukschokken :: PBM :: torsie ::
 wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaalmoeheid | minder metaalmoeheid
 corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
 wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | centrifugaalpomp :: menginrichting | mengen ::
 PTFE = afkorting van de volledige naam van teflon
+wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatische druk? exponentieel
 # chemie
 ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
 reactieve plaatsen | reactieve plaats = deel van een organische molecule waar een reactie plaats vindt
+halogeenalkanen | halogeenalkaan = belangrijke organische molecule voor synthese van andere organische verbindingen; ondergaat vaak substitutie en eliminatie reacties
 Welke klasse koolwaterstoffen bevat -O- ? ethers | ether
 van der waals, dipool, waterstofbrug, ion-dipool, ion-ion | van der waals dipool waterstofbrug ion dipool ion ion  | van der waals dipool waterstofbrug dipool ion ion ion = de 5 mogelijke krachten tussen deeltjes van zwak naar sterk
 oxidatie | oxideren = een organische keten verbranden
@@ -977,6 +974,9 @@ welke 2 factoren bepalen de sterkte van het magnetisch veld in een spoel? aantal
 -180 700 = een glazen vloeistof thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 -200 800 = een weerstandsthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 -270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+wat is het voordeel van een U-buismanometer? nauwkeurigheid | nauwkeurig
+welk nadeel heeft een stuursysteem? gebrek aan controle | controle
+welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
 welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie | fouten :: de transmitter heeft stroom nodig | transmitter ::
 wat zijn de 2 nadelen van een U-buismanometer? :: breekbaar | kwetsbaar :: groot ::
 welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
