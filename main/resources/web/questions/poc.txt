@@ -884,6 +884,7 @@ cycloonbatterij = in serie geschakelde hydrocyclonen die vaste deeltjes van een 
 yA = symbool voor de molfractie van A in de gasfase
 azeotroop = mengsel van twee of meer componenten waarvan de dampfase dezelfde samenstelling heeft als de vloeistoffase
 reflux = condensaat uit een destilatieopstelling terug vloeien naar de opstelling
+tx-diagram | tx diagram = grafiek met samenstelling van binair mengsel uitgezet tegen kooktemperatuur (met eventueel damplijn)
 
 hoe ziet een homogeen mengsel er uit? helder
 hoe ziet een heterogeen mengsel er uit? troebel
@@ -922,6 +923,10 @@ welke 3 industrieën gebruiken cyclonen? :: cacao industrie | cacao :: houtverwe
 wat voor scheidingsmethode is kristallisatie? fysisch
 hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er minder zout aanwezig is dan op de verzadigingslijn? onverzadigd gebied
 hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout aanwezig is dan op de verzadigingslijn? oververzadiginggebied | oververzadigingsgebied
+wat is de formule van de wet van Raoult? p = pA + pB
+wat is de formule van de wet van Dalton? pA = yA p
+wat zegt de wet van Raoult? partieeldrukkeen optellen
+wat zegt de wet van Dalton? partieeldruk = molfractie | molfractie = partieeldruk
 
 [scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
 [scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank | discontinu bezinktank
