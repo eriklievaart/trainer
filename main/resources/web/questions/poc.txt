@@ -70,7 +70,6 @@ Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde ri
 Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan stoten ze mekaar af? ja
 
 formule voor arbeid? W = Fs
-formule voor elektrische spanning? U = P/I | U = W/Q | U = E/q
 formule voor lading / wet van Faraday? Q = It
 formule voor soortelijke weerstand / wet van pouillet? R = ρl/A | R = rho * l/A | R = rho l/A | RA = lrho | RA = rho * l | RA = rho l
 formule voor spanningval? U = 2IR
@@ -274,7 +273,6 @@ spanningscorrosie = corrosie die ontstaat als twee metalen van verschillende ede
 putvormige corrosie | pitting = corrosie die zich uit in de vorm van putjes die snel dieper en breder worden
 pitting = alternatieve naam voor putvormige corrosie
 putvormige corrosie = alternatieve naam voor pitting
-spleetcorrosie = corrosie in de buurt van klinknagels en flenzen en in spleten achter verf of isolatielagen
 Fe₂O₃ | Fe2O3 = formule voor hematiet
 Fe₃O₄ | Fe3O4 = formule voor magnetiet
 H₂O₂ | H2O2 = formule voor waterstof peroxide
@@ -465,7 +463,6 @@ wat zijn de 3 nadelen van de membraanafsluiter? :: lage druk | druk :: lage temp
 welk nadeel heeft een terugslagklep met lichtende klep/kogel? drukverlies | leidingverlies
 wanneer gebruiken we een rubberen terugslagklep? onzuiver medium | onzuiver
 wat is het voordeel van een membraanterugslagklep? lage leidingweerstand | weinig drukverlies | weinig leidingverlies | leidingverlies | weinig weerstand | weerstand
-wat is het nadeel van een drukreduceerventiel met membraan? lekgevoelig | lekken | lek
 wat is het voordeel van een drukreduceerventiel met membraan? nauwkeurig | gevoelig
 wat probeert men te voorkomen door een breekplaat bolvormig te maken? metaalmoeheid
 wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | loskomen | lekken
@@ -742,12 +739,12 @@ M&R: waar staat Ks voor? versterkingsfactor
 M&R: welke afkorting gebruiken we voor de versterkingsfactor? Ks
 M&R: waar staat Td voor? dode tijd
 M&R: welke afkorting gebruiken we voor de dode tijd? Td
-noem 3 redenen waarom een regelaar bij moet sturen? :: proces opstarten | opstarten | opstart :: fout :: wijziging gemeten waarde | wijziging | wijzigen | gemeten waarde ::
+noem 3 redenen waarom een regelaar bij moet sturen? :: proces opstarten | opstarten | opstart :: fout :: wijziging gemeten waarde | wijziging | wijzigen | gemeten waarde | bijsturen ::
 wat is de formule voor een p-regelaar? y = y0 + kp(x-w)
 wat is de formule voor een i-regelaar? yt = yt-1 + ki(x-w)t
 wat is de formule voor een d-regelaar? yt = yt-1 + kd d(x-w)/dt
 welke 5 eisen hebben we aan een regelaar? :: snel ingrijpen | snel :: gewenste waarde instelbaar | instelbaar :: stabiel op gewenste waarde blijven | stabiliteit | stabiel :: keuzeknop automatisch/handmatig | automatisch handmatig | handmatig :: eenvoudige bediening | eenvoudig | eenvoud ::
-Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
+Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid | instelbaar :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
 Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust | robuust | betrouwbaarheid ::
 welk type regelaars zijn P, I en D regelaars? continue regelaars | continue regelaar | continu regelaars | continu regelaar
 
@@ -960,6 +957,8 @@ corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder
 wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | centrifugaalpomp :: menginrichting | mengen ::
 PTFE = afkorting van de volledige naam van teflon
 wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatische druk? exponentieel
+spleetcorrosie = corrosie in de buurt van klinknagels en flenzen en in spleten achter verf of isolatielagen
+wat is het nadeel van een drukreduceerventiel met membraan? lekgevoelig | lekken | lek
 # chemie
 ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
@@ -978,6 +977,7 @@ Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschapp
 Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? sterk
 Hoe noemen we de lading van een elektron? eenheidslading
 welke 2 factoren bepalen de sterkte van het magnetisch veld in een spoel? aantal windingen, stroomsterkte | aantal windingen stroomsterkte | aantal lussen, stroomsterkte | aantal lussen stroomsterkte
+formule voor elektrische spanning? U = P/I | U = W/Q | U = E/q
 # M&R
 -100 1000 = een staafthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
 -40 600 = een bimetaal thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
