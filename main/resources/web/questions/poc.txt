@@ -566,6 +566,11 @@ coriolisdebietmeter = debietmeter die een vloeistof door trillende buizen stuurt
 statische offset fout = het niet bereiken van de ingestelde waarde met een p-regelaar, doordat proportioneel bijsturen het verbruik niet matcht
 1 poise | poise = andere benaming voor 1 Pa·s
 1 Pa·s | 1 Pa s = 1 poise in andere eenheden
+overshoot = de kracht waarmee de proceswaarde boven de gemeten waarde uitkomt als zich een storing voordoet
+settling time = de tijd die de regelaar en het proces nodig hebben om na een storing weer te herstellen
+master slave regeling = alternatieve naam voor cascadeschakeling
+cascadeschakeling = alternatieve naam voor master slave regeling
+split range schakeling = regelkring met 1 regelaar en 1 sensor, maar 2 corrigerende organen
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -700,6 +705,10 @@ welke 5 eisen hebben we aan een regelaar? :: snel ingrijpen | snel :: gewenste w
 Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid | instelbaar :: nauwkeurig en stabiel | nauwkeurig | stabiel | stabiliteit ::
 Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust | robuust | betrouwbaarheid ::
 welk type regelaars zijn P, I en D regelaars? continue regelaars | continue regelaar | continu regelaars | continu regelaar | continue | continu
+waar staat Tn voor bij PI regelaars? nasteltijd
+waar staat r voor bij PI regelaars? reset rate
+waar staat Ti voor bij PI regelaars? integratietijd
+waar staat Td voor bij PD regelaars? differentiatietijd
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -838,6 +847,8 @@ yA = symbool voor de molfractie van A in de gasfase
 azeotroop = mengsel van twee of meer componenten waarvan de dampfase dezelfde samenstelling heeft als de vloeistoffase
 reflux = condensaat uit een destilatieopstelling terug vloeien naar de opstelling
 tx-diagram | tx diagram = grafiek met samenstelling van binair mengsel uitgezet tegen kooktemperatuur (met eventueel damplijn)
+minimale refluxverhouding = hoeveelheid reflux waarbij de gewenste samenstelling nog net bereikt wordt in een destillatiekolom
+werklijn = lijn die het verband weergeeft tussen de samenstelling van opstijgende damp en de vloeistof op de volgende schotel in een destillatietoren
 
 hoe ziet een homogeen mengsel er uit? helder
 hoe ziet een heterogeen mengsel er uit? troebel
@@ -880,6 +891,8 @@ wat is de formule van de wet van Raoult? p = pA + pB
 wat is de formule van de wet van Dalton? pA = yA p
 wat zegt de wet van Raoult? partieeldrukken optellen
 wat zegt de wet van Dalton? partieeldruk = molfractie | molfractie = partieeldruk
+waar staat x voor in een t-x,y grafiek? vloeistof samenstelling
+waar staat y voor in een t-x,y grafiek? dampsamenstelling
 
 [scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
 [scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank | discontinu bezinktank
