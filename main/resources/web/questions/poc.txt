@@ -434,7 +434,6 @@ Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | d
 welke 3 doelen kunnen kleppen en kranen hebben? :: leidingen afsluiten | afsluiten :: debiet regelen | regelen :: verdelen ::
 wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
 wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
-welke 3 voorwaarden heeft de stroom van een plugkraan? :: lage druk | druk :: lage temperatuur | temperatuur :: zuivere vloeistof | zuivere stof | zuiver ::
 waarvan worden de afdichtingen van een kogelkraan gemaakt? PTFE | teflon
 welke 2 risico's loopt men bij het gebruik van een kogelkraan als regelkraan? cavitatie & erosie | cavitatie erosie
 is een plugkraan geschikt als regelkraan? nee
@@ -468,8 +467,7 @@ wat probeert men te voorkomen door een breekplaat bolvormig te maken? metaalmoeh
 wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | loskomen | lekken
 waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
 waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
-wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? :: elektrisch :: inductie ::
-welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: oppervlakteruwheid :: soortelijke :: massa :: stromingssnelheid | stroomsnelheid :: viscositeit ::
+welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: oppervlakteruwheid :: soortelijke massa | dichtheid :: stromingssnelheid | stroomsnelheid :: viscositeit ::
 appendages: waarmee duiden we het totale leidingverlies aan? pw
 appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
 appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
@@ -500,49 +498,6 @@ appendages: hoeveel meter water kolom is 1 bar? 10 meter | 10 m | 10
 [symbool-vlinderklep.png] wat geeft het symbool weer? vlinderklep
 [symbool-terugslagklep.png] wat geeft het symbool weer? terugslagklep
 [symbool-condenspot.png] wat geeft het symbool weer? condenspot
-[plugkraan.png] wat geeft 1 aan? bedieningshendel | hendel
-[plugkraan.png] wat geeft 2 aan? behuizing
-[plugkraan.png] wat geeft 3 aan? plug
-[plugkraan.png] wat geeft 4 aan? afdichting
-[plugkraan.png] wat geeft 5 aan? moer
-[kogelkraan.png] wat geeft 1 aan? bedieningsspindel | spindel | bedieningsorgaan
-[kogelkraan.png] wat geeft 2 aan? afdichtingen | afdichting
-[kogelkraan.png] wat geeft 3 aan? kogel
-[kogelkraan.png] wat geeft 4 aan? behuizing
-[schuifafsluiter.png] wat geeft 1 aan? schroefdraad
-[schuifafsluiter.png] wat geeft 2 aan? afdichting
-[schuifafsluiter.png] wat geeft 3 aan? schuif
-[schuifafsluiter-inwendig.png] inwendige/uitwendige schuifafsluiter? inwendige | inwendig
-[schuifafsluiter-uitwendig.png] inwendige/uitwendige schuifafsluiter? uitwendige | uitwendig
-[klepafsluiter-perslucht.png] wat geeft a aan? behuizing
-[klepafsluiter-perslucht.png] wat geeft b aan? klep
-[klepafsluiter-perslucht.png] wat geeft c aan? standaanduiding
-[klepafsluiter-perslucht.png] wat geeft d aan? bedieningsorgaan
-[plug-parabolic.png] wat voor soort klepvorm is dit? parabolic plug
-[plug-regulating.png] wat voor soort klepvorm is dit? regulating plug
-[plug-guided.png] wat voor soort klepvorm is dit? guided plug
-[balgmembraanafsluiter.png] wat geeft 1 aan? behuizing
-[balgmembraanafsluiter.png] wat geeft 2 aan? bovendeel
-[balgmembraanafsluiter.png] wat geeft 3 aan? balgmembraan | membraan
-[balgmembraanafsluiter.png] wat geeft 4 aan? klep
-[balgmembraanafsluiter.png] wat geeft 5 aan? zitting
-[balgmembraanafsluiter.png] wat geeft 6 aan? spindel
-[magnetische-koppeling.png] wat geeft 1 aan? uitwendige magneten | externe magneten
-[magnetische-koppeling.png] wat geeft 2 aan? afdichtingsklok
-[magnetische-koppeling.png] wat geeft 3 aan? inwendige magneten | interne magneten
-[klepafsluiter.png] wat voor soort klep is dit? klepafsluiter
-[plugkraan.png] wat voor soort klep is dit? plugkraan
-[kogelkraan.png] wat voor soort klep is dit? kogelkraan
-[naaldafsluiter.png] wat voor soort klep is dit? naaldafsluiter
-[membraanafsluiter.png] wat voor soort klep is dit? membraanafsluiter
-[knevelafsluiter.png] wat voor soort klep is dit? knevelafsluiter
-[scharnierende-terugslagklep.png] wat voor soort klep is dit? scharnierende terugslagklep
-[vlinder-terugslagklep.png] wat voor soort klep is dit? vlinder terugslagklep
-[membraan-terugslagklep.png] wat voor soort klep is dit? membraan terugslagklep
-[drukreduceerventiel-gewicht.png] wat voor soort klep is dit? gewichtsgestuurd drukreduceerventiel
-[drukreduceerventiel-membraan.png] wat voor soort klep is dit? drukreduceerventiel met membraan | drukreduceerventiel membraan
-[drukreduceerventiel-veer.png] wat voor soort klep is dit? veergestuurd drukreduceerventiel
-[breekplaat.png] wat voor soort klep is dit? breekplaat
 
 
 
@@ -643,10 +598,9 @@ welke thermometer werkt met een lens en een thermokoppel? stralingspyrometer
 welke thermometer vergelijkt de lichtstraling van een object met de lichtsterkte van een gloeidraad? optische pyrometer
 wat is een eenvoudige maar dure manier om temperatuur zichtbaar te maken? infrarood camera
 welk object wordt in een oven geplaatst ter indicatie van de temperatuur en hoe lang die behouden wordt? smeltlichaam | smeltkegel
-wat is de formule om celcius om te zetten in farenheit? F = 32 + 9/5 C
+wat is de formule om celcius om te zetten in farenheit? F = 32 + 9/5 C | F = 9/5 C + 32
 waar staat PT100 voor? PTC thermometer 100 ohm
 waar staat HART voor? highway adressable remote transducer
-wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen | fouten :: meetwaarden | meetwaarde | metingen | meting ::
 hoe bereken je het drukverschil in een U-manometer? Δp = Δhρg | delta p = delta h rho g
 waarvoor wordt een U-manometer vooral gebruikt? ijking
 wat is het voordeel van een J-buismanometer t.o.v. een U-buismanometer? afleesbaarheid | afleesbaar | aflezen
@@ -679,10 +633,9 @@ welke 2 soorten echoniveaumetingen kennen we? :: ultrasoon :: radar ::
 welke echoniveaumeting mag je niet direct boven de vloeistof plaatsen? ultrasoon
 welke echoniveaumeting mag je wel direct boven de vloeistof plaatsen? radar
 welke 2 isotopen worden veel gebruikt voor radioactieve niveaumeting? :: Co-60 | Co 60 :: Cs-137 | Cs 137 ::
-wat zijn de 2 grote voordelen van radioactieve niveaumeting? :: ongevaarlijk voor het product | ongevaarlijk product | onschadelijk product | product veilig | product onbeschadigd :: hygiëne | hygiene ::
+wat zijn de 2 grote voordelen van radioactieve niveaumeting? :: ongevaarlijk voor het product | ongevaarlijk product | onschadelijk product | product veilig | product onbeschadigd | onschadelijk :: hygiëne | hygiene ::
 welke 3 factoren bepalen de resonantiefrequentie van een trilvork? :: vorm :: samenstelling | materiaal :: medium ::
 welke 2 soorten debieten kennen we? :: massadebiet | massa :: volumedebiet | volume ::
-welke formule gebruiken we voor het berekenen van een debiet bij een meetschijf? Q = cΔp | Q = c delta p | Q = delta p c
 welke 5 nadelen heeft een meetschijf? :: drukverlies | leidingverlies :: ongeschikt voor suspensies | ongeschikt suspensies | geen suspensies | geen vaste delen :: onnauwkeurig in het lage meetgebied | onnauwkeurig | nauwkeurigheid :: gevoelig voor onregelmatigheden | overgevoelig :: meetbereik beperkt | meetbereik :: duur in onderhoud | duur | onderhoud :: slijtage | erosie ::
 wat is het drukverlies van een venturi? 10-20% | 10 20%
 wat zijn de 3 voordelen van de venturi t.o.v. de meetschijf? :: geen erosie | minder erosie | erosie :: er blijft niets achter hangen | onderhoud :: kleiner drukverlies | drukverlies | leidingverlies ::
@@ -744,9 +697,9 @@ wat is de formule voor een p-regelaar? y = y0 + kp(x-w)
 wat is de formule voor een i-regelaar? yt = yt-1 + ki(x-w)t
 wat is de formule voor een d-regelaar? yt = yt-1 + kd d(x-w)/dt
 welke 5 eisen hebben we aan een regelaar? :: snel ingrijpen | snel :: gewenste waarde instelbaar | instelbaar :: stabiel op gewenste waarde blijven | stabiliteit | stabiel :: keuzeknop automatisch/handmatig | automatisch handmatig | handmatig :: eenvoudige bediening | eenvoudig | eenvoud ::
-Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid | instelbaar :: nauwkeurig en stabiel | nauwkeurig | stabiel ::
+Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid | instelbaar :: nauwkeurig en stabiel | nauwkeurig | stabiel | stabiliteit ::
 Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust | robuust | betrouwbaarheid ::
-welk type regelaars zijn P, I en D regelaars? continue regelaars | continue regelaar | continu regelaars | continu regelaar
+welk type regelaars zijn P, I en D regelaars? continue regelaars | continue regelaar | continu regelaars | continu regelaar | continue | continu
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -909,7 +862,7 @@ welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: cor
 welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
 welke 2 soorten centrifuges onderscheiden we? :: doorlatende trommel | zeeftrommels | zeeftrommel :: niet-doorlatende trommel | niet doorlatende trommel | overloopcentrifuges | overloopcentrifuge ::
 wat voor omtreksnelheden bereiken we bij grote centrifugaalseparatoren? 100 m/s
-welke 3 soorten centrifuges hebben een horizontale as? :: centrifuges met uitsnijmes | centrifuge met uitsnijmes :: schuifcentrifuges | schuifcentrifuge :: meertrap schuifcentrifuges | meertrap schuifcentrifuge ::
+welke 3 soorten centrifuges hebben een horizontale as? :: horizontale overloopcentrifuge met uitsnijmes | centrifuges met uitsnijmes | centrifuge met uitsnijmes :: schuifcentrifuges | schuifcentrifuge :: meertrap schuifcentrifuges | meertraps schuifcentrifuge | meertrap schuifcentrifuge ::
 welke stappen zitten er in de cyclus van een centrifuge met uitsnijmes? vullen centrifugeren wassen drogen uitsnijden
 welk soort centrifuge doorloopt de stappen vullen, centrifugeren, wassen, drogen, uitsnijden? horizontale overloopcentrifuge met uitsnijmes | horizontale centrifuge met uitsnijmes | centrifuge met uitsnijmes
 welk soort centrifuge gebruikt een meedraaiende trechter om de suspensie op de trommelbodem te storten? schuifcentrifuge
@@ -925,7 +878,7 @@ hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er minder zou
 hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout aanwezig is dan op de verzadigingslijn? oververzadiginggebied | oververzadigingsgebied
 wat is de formule van de wet van Raoult? p = pA + pB
 wat is de formule van de wet van Dalton? pA = yA p
-wat zegt de wet van Raoult? partieeldrukkeen optellen
+wat zegt de wet van Raoult? partieeldrukken optellen
 wat zegt de wet van Dalton? partieeldruk = molfractie | molfractie = partieeldruk
 
 [scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
@@ -963,7 +916,52 @@ wat zijn 2 gebruiksvoorbeelden van terugslagkleppen? :: centrifugaalpompen | cen
 PTFE = afkorting van de volledige naam van teflon
 wat voor verloop heeft de grafiek van het leidingsverlies t.o.v. de hydrostatische druk? exponentieel
 spleetcorrosie = corrosie in de buurt van klinknagels en flenzen en in spleten achter verf of isolatielagen
+wat zijn 2 manieren om breukdetectie in te richten op een breukplaat? :: elektrisch :: inductie ::
 wat is het nadeel van een drukreduceerventiel met membraan? lekgevoelig | lekken | lek
+welke 3 voorwaarden heeft de stroom van een plugkraan? :: lage druk | druk :: lage temperatuur | temperatuur :: zuivere vloeistof | zuivere stof | zuiver ::
+[plugkraan.png] wat geeft 1 aan? bedieningshendel | hendel
+[plugkraan.png] wat geeft 2 aan? behuizing
+[plugkraan.png] wat geeft 3 aan? plug
+[plugkraan.png] wat geeft 4 aan? afdichting
+[plugkraan.png] wat geeft 5 aan? moer
+[kogelkraan.png] wat geeft 1 aan? bedieningsspindel | spindel | bedieningsorgaan
+[kogelkraan.png] wat geeft 2 aan? afdichtingen | afdichting
+[kogelkraan.png] wat geeft 3 aan? kogel
+[kogelkraan.png] wat geeft 4 aan? behuizing
+[schuifafsluiter.png] wat geeft 1 aan? schroefdraad
+[schuifafsluiter.png] wat geeft 2 aan? afdichting
+[schuifafsluiter.png] wat geeft 3 aan? schuif
+[schuifafsluiter-inwendig.png] inwendige/uitwendige schuifafsluiter? inwendige | inwendig
+[schuifafsluiter-uitwendig.png] inwendige/uitwendige schuifafsluiter? uitwendige | uitwendig
+[klepafsluiter-perslucht.png] wat geeft a aan? behuizing
+[klepafsluiter-perslucht.png] wat geeft b aan? klep
+[klepafsluiter-perslucht.png] wat geeft c aan? standaanduiding
+[klepafsluiter-perslucht.png] wat geeft d aan? bedieningsorgaan
+[plug-parabolic.png] wat voor soort klepvorm is dit? parabolic plug
+[plug-regulating.png] wat voor soort klepvorm is dit? regulating plug
+[plug-guided.png] wat voor soort klepvorm is dit? guided plug
+[balgmembraanafsluiter.png] wat geeft 1 aan? behuizing
+[balgmembraanafsluiter.png] wat geeft 2 aan? bovendeel
+[balgmembraanafsluiter.png] wat geeft 3 aan? balgmembraan | membraan
+[balgmembraanafsluiter.png] wat geeft 4 aan? klep
+[balgmembraanafsluiter.png] wat geeft 5 aan? zitting
+[balgmembraanafsluiter.png] wat geeft 6 aan? spindel
+[magnetische-koppeling.png] wat geeft 1 aan? uitwendige magneten | externe magneten
+[magnetische-koppeling.png] wat geeft 2 aan? afdichtingsklok
+[magnetische-koppeling.png] wat geeft 3 aan? inwendige magneten | interne magneten
+[klepafsluiter.png] wat voor soort klep is dit? klepafsluiter
+[plugkraan.png] wat voor soort klep is dit? plugkraan
+[kogelkraan.png] wat voor soort klep is dit? kogelkraan
+[naaldafsluiter.png] wat voor soort klep is dit? naaldafsluiter
+[membraanafsluiter.png] wat voor soort klep is dit? membraanafsluiter
+[knevelafsluiter.png] wat voor soort klep is dit? knevelafsluiter
+[scharnierende-terugslagklep.png] wat voor soort klep is dit? scharnierende terugslagklep
+[vlinder-terugslagklep.png] wat voor soort klep is dit? vlinder terugslagklep
+[membraan-terugslagklep.png] wat voor soort klep is dit? membraan terugslagklep
+[drukreduceerventiel-gewicht.png] wat voor soort klep is dit? gewichtsgestuurd drukreduceerventiel
+[drukreduceerventiel-membraan.png] wat voor soort klep is dit? drukreduceerventiel met membraan | drukreduceerventiel membraan
+[drukreduceerventiel-veer.png] wat voor soort klep is dit? veergestuurd drukreduceerventiel
+[breekplaat.png] wat voor soort klep is dit? breekplaat
 # chemie
 ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
@@ -996,9 +994,11 @@ welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0
 wat zijn de 2 nadelen van een U-buismanometer? :: breekbaar | kwetsbaar :: groot ::
 welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
 wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie ::
+wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen | fouten :: meetwaarden | meetwaarde | metingen | meting ::
 welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
 welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
 welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
+welke formule gebruiken we voor het berekenen van een debiet bij een meetschijf? Q = cΔp | Q = c delta p | Q = delta p c
 # transport van stoffen
 [pomp-centrifugaal.png] welke pomp is dit? centrifugaalpomp
 
