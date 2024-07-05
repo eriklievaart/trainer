@@ -141,6 +141,13 @@ valence shell electron pair repulsion = full name of VSEPR
 VSEPR = theory predicting molecule geometry based on the idea that electron groups repel each other
 104.5° | 104.5 = angle between bonds in H₂O
 linear combination of atomic orbitals | linear combination atomic orbitals = full name of LCAO
+molecular orbital theory = parent theory containing the term "linear combination of atomic orbitals"
+pi2p sigma2p pi2p* sigma2p* = list the 2nd period molecular orbitals for the element B
+pi2p sigma2p pi2p* sigma2p* = list the 2nd period molecular orbitals for the element C
+pi2p sigma2p pi2p* sigma2p* = list the 2nd period molecular orbitals for the element N
+sigma2p pi2p pi2p* sigma2p* = list the 2nd period molecular orbitals for the element O
+sigma2p pi2p pi2p* sigma2p* = list the 2nd period molecular orbitals for the element F
+sigma2p pi2p pi2p* sigma2p* = list the 2nd period molecular orbitals for the element Ne
 valence bond theory | valence bond = theory that models atomic geometry using hybridization (e.g. sp²)
 amorphous = the property of a solid substance, where the atoms or molecules have no fixed structure
 dispersion forces | dispersion force | london forces | london force | dispersion | london = weakest type of intermolecular force
@@ -730,10 +737,17 @@ number of affix deca? 10
 [molecular-geometry-linear.png]              what is the molecular geometry? linear
 [molecular-geometry-seesaw.png]              what is the molecular geometry? seesaw
 [molecular-geometry-square-planar.png]       what is the molecular geometry? square planar
-[molecular-geometry-square-pyramidal.png]    what is the molecular geometry? square pyramidal
+[molecular-geometry-square-pyramidal.png]    what is the molecular geometry? square pyramidal | square pyramid
 [molecular-geometry-t.png]                   what is the molecular geometry? t-shaped | t shaped | t
-[molecular-geometry-trigonal-pyramidal.png]  what is the molecular geometry? trigonal pyramidal
+[molecular-geometry-trigonal-pyramidal.png]  what is the molecular geometry? trigonal pyramidal | trigonal pyramid
 
+[mot-sigma1s.png]         what is the name of combination of orbitals? σ1s | sigma 1s
+[mot-sigma1sstar.png]     what is the name of combination of orbitals? σ1s* | sigma 1s star | sigma *1s | sigma 1s*
+[mot-moed.png]            what type of diagram is this? molecular orbital energy diagram
+[mot-moed-lower.png]      which elements in the 2nd period use this molecular orbital energy diagram structure? :: B :: C :: N ::
+[mot-moed-upper.png]      which elements in the 2nd period use this molecular orbital energy diagram structure? :: O :: F :: Ne ::
+[mot-moed-lower.png]      element numbers for which we order the molecular orbitals like this? <=7 | <8
+[mot-moed-upper.png]      element numbers for which we order the molecular orbitals like this? >7 | >=8
 
 [structure-amine.png]     name of the organic family? amines         | amine
 [structure-ester.png]     name of the organic family? esters         | ester
