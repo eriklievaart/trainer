@@ -61,34 +61,34 @@ NEN1010 = norm waaraan een laagspanningsinstallatie moet voldoen
 NEN3140 = voorschriften voor bedienings- en onderhoudswerkzaamheden aan een laagspanningsinstallatie
 
 waar staat CPBW voor? comite voor preventie en bescherming
-welke 4 groepen afgevaardigden vinden we in het CPBW? :: voorzitter :: leidinggevenden | leidinggevende :: werknemers | werknemer :: deskundigen ::
+welke 4 groepen afgevaardigden vinden we in het CPBW? :: voorzitter :: leidinggevenden | leidinggevende :: werknemers | werknemer | personeel :: deskundigen | specialisten ::
 welke wetgeving heeft als aandachtspunten uitstoot en afvalverwerking? milieuwetgeving
 welke wetgeving stelt minimale rusttijden en maximale arbeidstijden vast? arbeidstijdenwetgeving
 waar staat PBM voor? persoonlijke beschermingsmiddelen | persoonlijk beschermingsmiddel
 wat zijn de 3 elementen van een arbeidsongeval? :: gebeurtenis :: letsel :: relatie ::
 bij wat voor soort incident moet je altijd een aangifte invullen? arbeidsongeval
 wat te doen bij ernstig letsel? hulpdiensten bellen en opwachten | hulpdiensten opbellen en opwachten
-welke 4 dingen te doen bij een incident? :: meld chef :: neem maatregelen | neem oorzaak weg :: blijf af | afbliven :: volg instructies | instructies volgen ::
-welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg | neem maatregelen :: scherm af | zet af :: waarschuw :: meld chef ::
+welke 4 dingen te doen bij een incident? :: meld chef | melden | chef :: neem maatregelen | neem oorzaak weg | oorzaak wegnemen :: blijf af | afblijven :: volg instructies | instructies volgen | instructies ::
+welke 4 dingen te doen bij een onveilige situatie? :: neem oorzaak weg | oorzaak wegnemen | neem maatregelen :: scherm af | zet af | afzetten :: waarschuwen | waarschuw :: meld chef | melden ::
 wat zijn de types maatregelen in de preventie hierarchie? gevaar uitschakelen, risico verminderen, PBM | uitschakelen, verminderen, PBM | uitschakelen verminderen PBM | uitsluiten verminderen PBM
-welke soorten risico analyses zijn er? algemene risicoanalyse, taakrisicoanalyse, LMRA | algemeen, taak, LMRA | algemeen taak LMRA
+welke soorten risico analyses zijn er? :: algemene risicoanalyse | algemene | algemeen :: taakrisicoanalyse | taak :: LMRA ::
 Onder invloed van alcohol of drugs is de kans op ongevallen ___ - ___ keer hoger? 2-4 | 2 4
 Van alle ongevallen die plaats vinden, gebeurt ___% tot ___% onder invloed van alcohol? 15%-30% | 15-30% | 15-30 | 15 30
 hoe noemen we informele vergaderingen over de veiligheid? toolboxmeetings | toolboxmeeting | VGA-bijeenkomsten | VGA bijeenkomsten | VGA bijeenkomst
 Wat zijn de 4 stappen om een installatie veilig te stellen op volgorde? uitschakelen vergrendelen markeren meten | uitschakelen vergrendelen markeren verifieren | uitzetten vergrendelen markeren meten | uitzetten vergrendelen markeren verifieren
-welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrokkenen | communicatie  | overleg:: maken van bindende afspraken | bindende afspraken | binden | binding :: vastleggen van de voorwaarden en maatregelen | vastleggen :: verlenen van toestemming voor de werkzaamheden | toestemming ::
+welke 4 functies dient een vergunning? :: zorgen voor overleg tussen alle betrokkenen | communicatie | communiceren | overleg:: maken van bindende afspraken | bindende afspraken | binden | binding :: vastleggen van de voorwaarden en maatregelen | vastleggen :: verlenen van toestemming voor de werkzaamheden | toestemming ::
 welke 5 elementen staan in de vergunning? :: uit te voeren werkzaamheden | werkzaamheden :: werkverdeling | taakverdeling :: geldigheidsduur :: maatregelen voorgeschreven door de verstrekker :: maatregelen voor operationele medewerkers :: maatregelen na beeindiging werkzaamheden :: voorwaarden verlenging | verlenging :: bekrachtiging | ondertekening ::
 wie is de verstrekker? de opdrachtgever | opdrachtgever
 welke 2 kleurcombinaties kunnen linten hebben? :: rood/wit | wit/rood | rood wit | wit rood :: geel/zwart | zwart/geel | geel zwart | zwart geel ::
 welke 3 fasen heeft de bestrijding van een noodsituatie? :: eerste melding | melding :: handelingen of maatregelen | handelingen | maatregelen :: beëindiging | beeindiging | afsluiting ::
 welke 3 elementen zijn van belang bij de eerste melding van een noodsituatie? :: wie waarschuwen? :: hoe waarschuwen? :: welke informatie doorgeven? | welke informatie? ::
-welke 4 handelingen/maatregelen worden verricht bij een noodsituatie? :: evacuatie :: interventie; blussen, opruimen, etc. | interventie :: reddingsoperaties | redding :: hulpverlening | hulp ::
+welke 4 handelingen/maatregelen worden verricht bij een noodsituatie? :: evacuatie | evacueren :: interventie; blussen, opruimen, etc. | interventie :: reddingsoperaties | redding | redden :: hulpverlening | hulp ::
 welke 2 elementen zijn van belang voor het beëindigen van een noodsituatie? :: wie is gemachtigd om de noodsituatie te beëindigen? | wie beeindigd? :: hoe wordt iedereeen geinformeerd over het beëindigen? | hoe geinformeerd? | hoe informeren? | informering ::
 welke 3 soorten informatie hoor je te ontvangen over evacuatie? :: verzamelplaatsen | verzamelplaats | verzamelpunt | verzamelen :: evacuatiemogelijkheden | evacuatieplan | vluchtplan | vluchtwegen | vluchtweg | vluchtroute :: specifieke instructies van de opdrachtgever | specifieke instructies | instructies ::
 welke 5 dingen te doen bij alarm? :: onderbreek het werk | stop met werken | onderbreken | stoppen :: stop externe communicatie | zet GSM uit | zet GSM af | GSM uit | GSM af :: volg aanwijzingen evacuatieverantwoordelijken | volg instructies | instructies :: ga naar verzamelplaats | verzamelen | verzamel :: gebruik lift niet | lift vermijden | vermijd lift :: evacueer dwars op windrichting | vlucht dwars op windrichting :: meld je aan bij verantwoordlijke op verzamelplaats | meld je aan | meld je | meld aan | melden | aanmelden ::
 langs welke 4 wegen kunnen gevaarlijke stoffen het lichaam binnendringen? :: neus :: mond :: huid :: wond | bloed ::
-welke 3 maatregelen kunnen we aan de bron treffen om het binnen krijgen van gevaarlijke stoffen tegen te gaan? :: geen gevaarlijke stoffen gebruiken | eliminatie | elimineren :: minder gevaarlijk product gebruiken | vervangen | vervanging :: het product aanpassen | tabletten i.p.v. poeder | aanpassen | veranderen ::
-welke 3 maatregelen kunnen we treffen om de blootstelling aan gevaarlijke stoffen te verminderen of te beperken? :: plaatselijke afzuiging | afzuiging | afzuigen :: scheiden van mens of bron | scheiden | isolatie | isoleren :: ventilatie | ventileren ::
+welke 3 maatregelen kunnen we aan de bron treffen om het binnen krijgen van gevaarlijke stoffen tegen te gaan? :: geen gevaarlijke stoffen gebruiken | eliminatie | elimineren :: minder gevaarlijk product gebruiken | vervanging | vervangen :: het product aanpassen | tabletten i.p.v. poeder | aanpassen | veranderen ::
+welke 3 maatregelen kunnen we treffen om de blootstelling aan gevaarlijke stoffen te verminderen of te beperken? :: plaatselijke afzuiging | afzuiging | afzuigen :: scheiden van mens of bron | afschermen | afscheiden | scheiden | isolatie | isoleren :: ventilatie | ventileren ::
 welke 4 persoonlijke maatregelen treffen we om besmetting met gevaarlijke stoffen te voorkomen? :: handen wassen voor eten of drinken | handen wassen :: eet uitsluitend in de refter | refter | kantine :: werkkleding uittrekken in refter | werkkleding uittrekken | werkkleding uit | kleren uit | omkleden :: wonde schoonmaken | pleister | verband ::
 hoe noemen we de maximale hoeveelheid van een bepaalde stof die in de lucht voor mag komen? grenswaarde voor beroepsmatige blootstelling | grenswaarde beroepsmatige blootstelling
 waar staat GWBB voor? grenswaarde voor beroepsmatige blootstelling
@@ -135,8 +135,8 @@ welke 4 voorwaarden gelden er voor het werken op een ladder? :: tot 5m | 5m :: k
 vanaf hoeveel sporen dient een ladder aan de bovenkant vast gemaakt te worden? 26
 hoe worden steigers in België genoemd? stellingen
 wat voor soorten steigers zijn er? :: staande stijgers | staande | staand :: hangsteigers | hang :: rolsteigers | rol ::
-welke 5 risico's zijn er in besloten ruimtes? :: zuurstoftekort | verstikken | verstikking :: brandgevaar | explosiegevaar | brand | explosie :: vergiftigingsgevaar | vergiftiging | gif :: elektrocutie :: knellen, vallen en uitglijden | knellen | vallen ::
-welke 5 taken heeft een veiligheidswacht? :: toezicht houden | toezicht :: controle ventilatie | ventilatie :: communicatie met personen in besloten ruimte | communicatie | communiceren :: hulpdiensten waarschuwen bij gevaar | hulpdiensten waarschuwen | hulpdiensten :: hulp bieden aan persoon in besloten ruimte | hulp bieden | hulp ::
+welke 5 risico's zijn er in besloten ruimtes? :: zuurstoftekort | verstikken | verstikking | stikken :: brandgevaar | explosiegevaar | brand | explosie :: vergiftigingsgevaar | vergiftiging | gif :: elektrocutie :: knellen, vallen en uitglijden | knellen | vallen ::
+welke 5 taken heeft een veiligheidswacht? :: toezicht houden | toezicht :: controle ventilatie | ventilatie | ventileren :: communicatie met personen in besloten ruimte | communicatie | communiceren :: hulpdiensten waarschuwen bij gevaar | hulpdiensten waarschuwen | hulpdiensten :: hulp bieden aan persoon in besloten ruimte | hulp bieden | hulp ::
 welke 5 veiligheidsmaatregelen nemen we bij het werken met elektriciteit? :: fysieke afscherming | afscherming | afschermen :: isolatie | isoleren :: aarding :: aardlekschakelaar | aardlekbeveiliging | aardlek :: lage spanning | laagspanning ::
 wat is een differentieelschakelaar? een aardlekschakelaar | aardlekschakelaar
 welke bescherming geven de (max) 3 cijfers van een IP-classificatie weerop volgorde? stof water mechanisch
@@ -165,10 +165,10 @@ welke 3 dingen markeren we met zwart-gele linten? :: smalle of lage doorgangen |
 [g_bijtend.png]                            wat geeft dit pictogram aan? bijtend
 [g_doelorgaanschade.png]                   wat geeft dit pictogram aan? doelorgaanschade
 [g_explosief.png]                          wat geeft dit pictogram aan? explosief | explosiegevaar
-[g_giftig.png]                             wat geeft dit pictogram aan? giftig
+[g_giftig.png]                             wat geeft dit pictogram aan? giftig | gif
 [g_houder-onder-druk.png]                  wat geeft dit pictogram aan? houder onder druk | cylinder onder druk
 [g_licht-ontvlambaar.png]                  wat geeft dit pictogram aan? licht ontvlambaar
-[g_milieugevaarlijk.png]                   wat geeft dit pictogram aan? milieugevaarlijk | milieugevaar
+[g_milieugevaarlijk.png]                   wat geeft dit pictogram aan? schadelijk voor het milieu | milieugevaarlijk | milieugevaar
 [g_oxiderend.png]                          wat geeft dit pictogram aan? oxiderend
 [g_schadelijk.png]                         wat geeft dit pictogram aan? schadelijk
 [m_gehoorbescherming.png]                  wat geeft dit pictogram aan? gehoorbescherming
@@ -183,11 +183,11 @@ welke 3 dingen markeren we met zwart-gele linten? :: smalle of lage doorgangen |
 [s_ehbo.png]                               wat geeft dit pictogram aan? ehbo
 [s_noodtelefoon.png]                       wat geeft dit pictogram aan? noodtelefoon | hulptelefoon
 [s_oogdouche.png]                          wat geeft dit pictogram aan? oogdouche
-[s_veiligheidsdouche.png]                  wat geeft dit pictogram aan? veiligheidsdouche
+[s_veiligheidsdouche.png]                  wat geeft dit pictogram aan? veiligheidsdouche | douche
 [s_verzamelplaats.png]                     wat geeft dit pictogram aan? verzamelplaats | verzamelpunt
 [v_aanraken.png]                           wat geeft dit pictogram aan? niet aanraken | afblijven
 [v_geen-drinkwater.png]                    wat geeft dit pictogram aan? geen drinkwater
-[v_onbevoegden.png]                        wat geeft dit pictogram aan? verboden voor onbevoegden
+[v_onbevoegden.png]                        wat geeft dit pictogram aan? verboden toegang voor onbevoegden | verboden voor onbevoegden
 [v_roken.png]                              wat geeft dit pictogram aan? verboden te roken | rookverbod
 [v_voetgangers.png]                        wat geeft dit pictogram aan? verboden voor voetgangers | voetgangers
 [v_vuur-en-roken.png]                      wat geeft dit pictogram aan? vuur en roken | vuur | roken | vuurverbod | rookverbod | verboden te roken
@@ -198,7 +198,7 @@ welke 3 dingen markeren we met zwart-gele linten? :: smalle of lage doorgangen |
 [w_elektrische-spanning.png]               wat geeft dit pictogram aan? elektrische spanning | gevaarlijke spanning
 [w_explosieve-omgeving.png]                wat geeft dit pictogram aan? explosieve omgeving | explosief | explosiegevaar
 [w_explosieve-stoffen.png]                 wat geeft dit pictogram aan? explosieve stoffen | explosief | explosiegevaar
-[w_giftige-stoffen.png]                    wat geeft dit pictogram aan? giftige stoffen | giftig
+[w_giftige-stoffen.png]                    wat geeft dit pictogram aan? giftige stoffen | giftig | gif
 [w_hangende-lasten.png]                    wat geeft dit pictogram aan? hangende lasten
 [w_hete-oppervlakken.png]                  wat geeft dit pictogram aan? hete oppervlakken | heet oppervlak
 [w_lage-temperaturen.png]                  wat geeft dit pictogram aan? lage temperaturen | kou

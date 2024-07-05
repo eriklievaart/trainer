@@ -12,15 +12,15 @@ public class Progress {
 	public void correct() {
 		lastRight = System.currentTimeMillis();
 		if (lastWrong == 0) {
-			lastWrong = lastRight - 5 * TimestampTool.ONE_MINUTE;
+			lastWrong = lastRight - TimestampTool.ONE_HOUR;
 		}
 		long timePassed = lastRight - lastWrong;
 		validUntil = lastRight + randomize(timePassed);
 	}
 
-	public void incorrect() {
+	public void incorrect(int delay) {
 		lastWrong = System.currentTimeMillis();
-		validUntil = lastWrong + randomize(TimestampTool.ONE_MINUTE);
+		validUntil = lastWrong + randomize(delay * 1000);
 	}
 
 	private long randomize(long fixed) {

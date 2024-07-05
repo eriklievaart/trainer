@@ -35,6 +35,7 @@ public class SelectQuestioneerController extends AbstractTemplateController {
 			List<String> selection = parameters.getStrings("q");
 			State state = new State(loader, selection);
 			SessionAttributes.setSelectedCourses(session, state);
+			SessionAttributes.setMinimumDelay(session, parameters.getInteger("delay"));
 			io.storeSelection(selection);
 			throw new ExternalRedirectException("/web/practice");
 

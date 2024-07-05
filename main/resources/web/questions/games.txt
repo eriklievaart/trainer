@@ -1,0 +1,50 @@
+
+
+# DS2
+50 = fading soul
+200 = soul of a lost undead
+400 = large soul of a lost undead
+800 = soul of a nameless soldier
+1000 = large soul of a nameless soldier
+2000 = soul of a proud knight
+3000 = large soul of a proud knight
+5000 = soul of a brave warrior
+10000 = soul of a hero
+20000 = soul of a great hero
+20 = DS2 soft cap on endurance
+40 = DS2 soft cap on strength
+40 = DS2 soft cap on dexterity
+20 50 = DS2 soft cap on vigor
+30 50 = DS2 soft cap on vitality
+7 9 15 20 24 = DS2 adaptibility iframes
+10 13 16 20 25 30 = DS2 attunement spell slots
+
+name the soul of 50? fading soul | fading
+name the soul of 200? soul of a lost undead | lost undead | lost
+name the soul of 400? large soul of a lost undead | large lost undead | large lost
+name the soul of 800? nameless soldier | nameless
+name the soul of 1000? large soul of a nameless soldier | large nameless soldier | large nameless
+name the soul of 2000? soul of a proud knight | proud knight | knight
+name the soul of 3000? large soul of a proud knight | large proud knight | large knight
+name the soul of 5000? soul of a brave warrior | brave warrior | warrior
+name the soul of 10000? soul of a hero | hero
+name the soul of 20000? soul of a great hero | great hero
+
+# helldivers 2
+helldiver code for reinforce?            ↑ ↓ → ← ↑    | wsdaw
+helldiver code for supply?               ↓ ↓ ↑ →      | sswd
+
+@eof@
+helldiver code for airstrike?            ↑ → ↓ →      | wdsd
+helldiver code for clusterbomb?          ↑ → ↓ ↓ →    | wdssd
+helldiver code for stalwart weapon?      ↓ ← ↓ ↑ ↑ ←  | saswwa
+helldiver code for gatling sentry?       ↓ ↑ → ←      | swda
+helldiver code for machine gun sentry?   ↓ ↑ → → ↑    | swddw
+helldiver code for autocannon sentry?    ↓ ↑ → ↑ ← ↑  | swdwaw
+helldiver code for anti-materiel weapon? ↓ ← → ↑ ↓    | sadws
+helldiver code for mortar sentry?        ↓ ↑ → → ↓    | swdds
+helldiver code for rocket sentry?        ↓ ↑ → → ←    | swdda
+helldiver code for precision strike?     → → ↑        | ddw
+helldiver code for rocket pods?          ↑ → ↑ ←      | wdwa
+
+

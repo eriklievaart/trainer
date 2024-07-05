@@ -6,7 +6,7 @@
 	<img src="/web/images/${question.course}/${question.img}"></img>
 </#if>
 
-${question.query}<br/>
+${question.query?no_esc}<br/>
 
 
 <form>

@@ -1,0 +1,55 @@
+
+peta  = 10 ^ ____? 15
+tera  = 10 ^ ____? 12
+giga  = 10 ^ ____? 9
+mega  = 10 ^ ____? 6
+kilo  = 10 ^ ____? 3
+hecto = 10 ^ ____? 2
+deca  = 10 ^ ____? 1
+deci  = 10 ^ ____? -1
+centi = 10 ^ ____? -2
+milli = 10 ^ ____? -3
+micro = 10 ^ ____? -6
+nano  = 10 ^ ____? -9
+pico  = 10 ^ ____? -12
+femto = 10 ^ ____? -15
+
+SI-prefix for 10¹⁵?  peta
+SI-prefix for 10¹²?  tera
+SI-prefix for 10⁹?   giga
+SI-prefix for 10⁶?   mega
+SI-prefix for 10³?   kilo
+SI-prefix for 10²?   hecto
+SI-prefix for 10¹?   deca
+SI-prefix for 10⁻¹?  deci
+SI-prefix for 10⁻²?  centi
+SI-prefix for 10⁻³?  milli
+SI-prefix for 10⁻⁶?  micro
+SI-prefix for 10⁻⁹?  nano
+SI-prefix for 10⁻¹²? pico
+SI-prefix for 10⁻¹⁵? femto
+
+aliquote = small portion of sample being analyzed
+analyte = substance of sample being analyzed
+supernate | supernatant = clear liquid over a precipitate
+electrolyte = substance that dissociates into ions in solution
+molality = concentration expressed as moles of substance per kg of solvent
+molarity = concentration expressed as moles of substance per liter of solution
+kg solvent = molality: moles of substance per ____ of ____
+liters solution | liter solution = molarity: moles of substance per ____ of ____
+grams grams | grams x2 = ppm: ____ of solid or liquid substance per million ____ of total solution or mixture
+10⁻³ L | 1 mL = 1 g of water in liters
+liters liters | liters x2 | liter liter | liter x2 = ppm: ____ of gas per million ____ of total gas
+gravimetric analysis = chemical analysis based on weighing a final product
+
+what does molar concentration refer to? molarity
+what does the formal concentration (F) refer to? molarity
+what does the formula mass refer to? mass of one molecule | molecular mass
+what does FM refer to? formula mass | moleculer mass
+what is the advantage of molality over molarity? temperature independent
+what is the unit of molality? mol/kg
+what is the unit of molarity? mol/L
+which measure of concentration is indicated with b? molality
+how do we indicate molality? b
+
+

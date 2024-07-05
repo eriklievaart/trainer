@@ -1,0 +1,759 @@
+
+10⁻⁶ m³ | 10e-6 m3 | 1 cm³ | 1 cm3 | cm3 = 1 ml in m³
+matter = anything that occupies space and has mass
+chemical change | chemical = type of change that alters the composition of matter
+physical change | physical = type of change that alters state or appearance, but not composition
+intensive property = physical property independent of amount of substance
+extensive property = physical property dependent on amount of substance
+accuracy = type of certainty indicating how close the measured value is to the actual value
+precision = type of certainty indicating how reproducable the measured value is
+random error = type of error with equal probablity of being too high or too low
+systematic error = type of error that consistently skews in the same direction
+atomic theory = first theory to purport that each element is composed of tiny indistructable particles
+John Dalton | Dalton = founder of the atomic theory
+plum pudding model | plum pudding = model of the atom that describes the atom as a positively charged sphere holding small negetively charged particles
+J.J. Thompson | Thompson = founder of the plum pudding model
+nuclear theory of the atom | nuclear theory = model that describes the atom as mostly empty space with a small positively charged core
+Rutherford = founder of the nuclear theory of the atom
+mass spectrometry = technique that ionizes matter and measures the mass of the created ions
+covalent bonds | covalent bond = bonds formed by sharing electrons between atoms
+ionic bonds | ionic bond = bonds formed by transferring electrons between atoms
+metals non metals | non metals metals | metal non metal | non metal metal = ionic bonds are formed between ____ and ____
+non metals non metals | non metal non metal = covalent bonds are formed between ____ and ____
+lattice = regular 3D array of alternating cations and anions<br/>(the array, not the compound)
+diatomic molecule | diatomic = molecule consisting of exactly 2 atoms
+polyatomic molecule | polyatomic = molecule consisting of more than 2 atoms
+formula unit = smallest electrically neutral set of ions in an ionic compound
+polyatomic ion = ion consisting of 2 or more atoms
+oxoanion = negatively charged ion that contains oxygen
+hydrate = substance containing water molecules
+binary acid = acid containing two elements
+oxoacid = acid containing oxygen
++2 +3 +6 | +II +III +VI = possible charges for Cr in ionic compounds
++2 +3 +6 | +II +III +VI = possible charges for Fe in ionic compounds
++2 +3    | +II +III     = possible charges for Co in ionic compounds
++1 +2    | +I  +II      = possible charges for Cu in ionic compounds
++2 +4    | +II +IV      = possible charges for Sn in ionic compounds
++1 +2    | +I  +II      = possible charges for Hg in ionic compounds
++2 +4    | +II +IV      = possible charges for Pb in ionic compounds
+____ -ic acid  | [root]ic acid  = naming convention for acids of  an oxyanion ending with -ate
+____ -ous acid | [root]ous acid = naming convention for acids of  an oxyanion ending with -ite
+atomic mass = weighted average mass of atoms of a particular element
+hydrocarbons | hydrocarbon = organic compounds made up of carbon and hydrogen only
+functionalized hydrocarbons | functionalized hydrocarbon = hydrocarbons in which a characteristic atom or group of atoms is incorporated
+alcohols | alcohol = organic compound of the type R-OH
+ethers | ether = organic compound of the type R-O-R'
+carboxyl acids | carboxyl acid = organic compound of the type R-COOH
+amines | amine = organic compound of the type R-NH₂
+stock solutions | stock solution = solution stored in concentrated form
+nonelectrolytes | nonelectrolyte = compounds that do not dissociate into ions when they are dissolved in water
+soluble = property of a compound that it dissolves in water
+insoluble = property of a compound that it does not dissolve in water
+molecular equation = chemical formula containing the complete, neutral formulas for every compound
+net ionic equation = chemical formula showing only the species that actually change during a reaction
+complete ionic equation = chemical formula showing all of the species as they are actually present in a solution
+acid-base reaction | acid base reaction | neutralization reaction = proces where an acid reacts with a base and forms water
+gas evolution reaction = aqueous reaction in which gas is being formed
+acid = substance that produces H⁺ protons in aqueous solutions
+base = substance that produces OH⁻ hydroxide in aqueous solutions
+polyprotic acids | polyprotic acid = acids that release more than one proton
+diprotic acids | diprotic acid = acids that release exactly 2 protons
+equivalence point = point in a titration where the number of H₃O⁺ ions equals the number of OH⁻ ions.
+oxidation reduction reactions | redox reactions | redox reaction = reactions in which electrons transfer from one reactant to another
+oxidation = the loss of electrons
+reduction = the gain of electrons
+oxidation state | oxidation number = charge of an atom in a compound
+reducing agent = substance that causes another substance to gain electrons
+oxidizing agent = substance that causes another substance to lose electrons
+loses = a reducing agent ____ (gains/loses) electrons
+gains = an oxidizing agent ____ (gains/loses) electrons
+standard temperature and pressure | standard temperature pressure = STP is short for
+hypoxia = oxygen starvation
+thermodynamics = general study of energy and its interconversions
+internal energy = sum of kinetic and potential energies of a system
+thermal equilibrium = system has the same temperature as its surroundings
+calorimetry = measuring the thermal energy exchanged with the surroundings of a system
+H = symbol for enthalpy
+endothermic reaction | endothermic = reaction that absorbs heat from surroundings
+exothermic reaction | exothermic = reaction that gives of heat to surroundings
+1 M = the standard state for a substance in solution
+amplitude = vertical height of crests and troughs of a wave
+crest = upper half of a wave function
+trough = lower half of a wave function
+frequency = number of crests (or troughs) that pass a stationary point in a fixed time
+ν | nu = sumbol used to indicate the frequency of a wave
+interference = interactions between (electromagnetic) waves
+constructive interference = overlapping waves amplify each other
+destructive interference = waves that are out of phase cancel each other out
+diffraction = waves bend around openings comparable in size to their wavelength
+φ | phi = symbol for the binding energy of an electron
+ψ | psi = symbol for wave function in quantum mechanics
+atomic spectroscopy = study of electromagnetic radiation emitted by atoms
+emission spectrum = unique pattern of wave lengths emitted by an element
+1.67 · 10⁻²⁷ kg | 1.67e-27 kg = mass of a proton
+1.67 · 10⁻²⁷ kg | 1.67e-27 kg = mass of a neutron
+9.11 · 10⁻³¹ kg | 9.11e-31 kg = mass of an electron
+phase = the sign of the amplitude of a wave (positive or negative)
+electron configuration = spdf notation for orbital occupancy
+orbital diagrams | orbital diagram = box diagram with electrons as arrows
+pauli exclusion principle = no two electrons can have the same 4 quantum numbers
+screening | shielding = repulsion between layers of electrons in an atom
+penetration = when an electron comes close enough to the nucleus to ignore shielding
+aufbau principle | aufbau = theory for orbital filling order
+Hund's rule = all degenerate orbitals get a single electron, before any degenerate orbital gets a second electron
+core electrons | core electron = electron that is not a valence electron
+2 = electrons in sublevel s
+6 = electrons in sublevel p
+10 = electrons in sublevel d
+14 = electrons in sublevel f
+effective nuclear charge = actual nuclear charge without the charge shielded by other electrons
+paramagnetic = property of substances with unpaired electrons
+diamagnetic = property of substances with an absence of unpaired electrons
+paramagnetic = diamagnetic/paramagnetic substances are attracted to an electric field
+diamagnetic = diamagnetic/paramagnetic substances are NOT attracted to an electric field
+ionization energy = energy required to remove an electron from an atom in the gaseous state
+electron affinity = energy change associated with an atom gaining an electron in the gaseous state
+lattice energy = energy released when an ionic compound forms a crystal structure
+bonding pair | bonded pair = pair of electrons shared between atoms (name the electrons, not the bond)
+lone pair | non bonding pair = pair of electrons associated with only one atom
+double bond = two atoms are sharing two pairs of electrons
+:: shorter | short :: stronger | strong :: = 2 properties of double bonds as compared to single bonds
+polar covalent bond | polar bond | polar = covalent bond in which electrons are not equally shared
+electronegativity = the ability of an atom to attract electrons to itself in a chemical bond
+fluorine | F = the most electronegative element
+non polar bond | non polar = bond in which electrons are shared equally
+50% | 50 = an ionic bond has at least ____ % ionic character
+resonance = two or more plausible lewis structures can be written for a molecule
+resonance hybrid | hybrid structure | hybrid = intermediate structure between various resonance structures that best describes the actual molecule
+resonance structure = one of multiple plausible lewis structures
+resonance stabilization = lowering the potential energy of electrons by delocalizing them; increases molecule stability
+formal charge = charge an atom would acquire if the bonding electrons would be divided equally among involved atoms
+electronegative = when formal charge cannot be avoided, the negative formal charge should reside on the most ____ atom
+delocalized orbital | delocalization = describing the orbital of an electron as one that spans multiple atoms
+free radicals | free radical | radicals | radical = molecules and ions with an odd number of electrons
+three | 3 = first row containing elements that can form expanded octets
+:: Be :: B :: = name two elements that commonly form incomplete octets
+bonding energy | bond energy = energy required to break 1 mole of bonds in the gas phase
+0.4 = maximum ΔEN allowed for a non-polar covalent bond
+0.4 < 2.0 | 0.4 < 2 | 0.4 - 2.0 | 0.4 - 2 = ΔEN for a polar covalent bond
+2.0 | 2 = minimum ΔEN for ionic bonds
+valence shell electron pair repulsion = full name of VSEPR
+VSEPR = theory predicting molecule geometry based on the idea that electron groups repel each other
+104.5° | 104.5 = angle between bonds in H₂O
+linear combination of atomic orbitals | linear combination atomic orbitals = full name of LCAO
+valence bond theory | valence bond = theory that models atomic geometry using hybridization (e.g. sp²)
+amorphous = the property of a solid substance, where the atoms or molecules have no fixed structure
+dispersion forces | dispersion force | london forces | london force | dispersion | london = weakest type of intermolecular force
+ion-dipole force | ion dipole force | ion dipole | dipole ion = strongest type of intermolecular force
+miscibility = the degree to which to liquids can be mixed without them separating
+:: dispersion forces | london forces | dispersion force | london force | dispersion | london :: dipole-dipole force | dipole dipole force | dipole dipole :: hydrogen bonds | hydrogen bond :: ion-dipole force | ion dipole force | ion dipole | dipole ion force | dipole ion :: = list the 4 types of intermolecular forces
+:: F :: O :: N :: = the 3 elements that can form a hydrogen bond with hydrogen
+surface tension = energy required to increase the surface area of a liquid by a unit amount
+viscosity = resistance of a liquid to flow
+poise = unit of viscosity
+1 g / cm·s | 1 g / cm s | 1 g/cm/s = 1 poise in other SI units
+capillary action = the ability of a liquid to flow against gravity up a narrow tube
+adhesive forces | adhesive force | adhesion = attraction between molecules of a liquid and the surface on which it rests
+vaporization | vaporize = phase transition liquid → gas
+condensation | condensate = phase transition gas → liquid
+sublimation | sublimate = phase transition solid → gas
+deposition | deposit = phase transition gas → solid
+melting | fusion = phase transition solid → liquid
+freezing = phase transition liquid → solid
+volatile = property of a liquid that it vaporizes easily
+non-volatile | non volatile = property of a liquid that it does not vaporize easily
+40.7 kJ/mol = heat of vaporization of water at 100°C in kJ/mol
+vapor pressure = pressure of a gas in equilibrium with its liquid
+boiling point = temperature at which the vapor pressure is equal to external pressure
+normal boiling point = temperature at which the vapor pressure of a liquid equals 1 atm
+supercritical liquid | supercritical fluid | supercritical = state of a substance at a temperature at which it cannot form a liquid regardless of pressure
+critical temperature = temperature at which a substance form a supercritical fluid
+6.02 kJ/mol = heat of fusion/melting for water in kJ/mol
+vaporization curve | vapor pressure curve = line in phase diagram separating liquid and gas phase
+sublimation curve = line in phase diagram separating solid and gas phase
+fusion curve = line in phase diagram separating solid and liquid phase
+triple point = point in a phase diagram where all states are equally stable and in equilibrium
+critical point = temperature and pressure above which a supercritical fluid exists
+x-ray crystallography | xray crystallography = determining atomic and molecular structure of a crystal using high frequency waves
+crystalline lattice | crystal lattice | lattice | crystalline structure = regular arrangement of atoms
+unit cell = smallest repeating unit of atoms in a lattice
+:: simple cubic | simple :: body centered cubic | body centered :: face centered cubic | face centered :: = the 3 types of cubic unit cells
+6 = coordination number of the simple cubic
+8 = coordination number of the body centered cubic
+12 = coordination number of the face centered cubic
+1 = atoms in the simple cubic unit cell
+2 = atoms in the body centered cubic unit cell
+4 = atoms in the face centered cubic unit cell
+52% = packing efficiency of the simple cubic
+68% = packing efficiency of the body centered cubic
+74% = packing efficiency of the face centered cubic
+coordination number = the number of atoms with which each atom in a unit cell is in direct contact
+packing efficiency = percentage of volume of unit cell occupied by atoms
+closest packed structures | closest packed structure | closest packing structures | closest packing structure = the most tightly packed or space-efficient composition of crystal structures
+12 = coordination number of a closest packed structure
+74% = packing efficiency of a closest packed structure
+:: molecular solids | molecular :: ionic solids | ionic :: atomic solids | atomic :: = the three main categories of crystalline solids
+polymorphs | polymorph = the different crystalline structures into which a molecular solid can crystallize
+:: nonbonding atomic solids | nonbonding :: metallic atomic solids | metallic :: network covalent solids | network covalent :: = the 3 subtypes of atomic solids
+london forces | london force | london | dispersion forces | dispersion force | dispersion = forces holding nonbonding atomic solids together
+buckministerfullerene | buckyballs | buckyball = C₆₀ in the shape of a soccer ball
+fullerenes | fullerene = allotrope of carbon whose molecules consist of carbon atoms connected by single and double bonds so as to form a closed or partially closed mesh
+nanotubes | nanotube = interconnected rings of C₆ forming a cylinder
+graphene = substance made of a single layer of carbon atoms arranged in a flat hexagonal mesh
+:: Si :: O :: = elements of atoms in silicates
+SiO₂ | SiO2 = formula unit of quartz
+silica | quartz = specific substance with the formula SiO₂
+silica | quartz = silicon-oxygen tetrahedron structures connected through oxygen
+ceramics | ceramic = hard, brittle, heat-resistant and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay at a high temperature
+:: silicate ceramics | silicate :: oxide ceramics | oxide :: nonoxide ceramics | nonoxide :: = the three subtypes of ceramics
+:: limestone | calcium carbonate | CaCO₃ | CaCO3 :: silica | silicate | SiO₂ | SiO2 :: = the 2 primary ingredients of (Portland) cement
+calcium carbonate | CaCO₃ | CaCO3 = chemical name of limestone
+:: cement :: sand :: pebbles :: = the 3 ingredients of concrete
+:: silicon | Si :: oxygen | O :: = primary elements present in glass
+borosilicate glass | borosilicate | pyrex = type of glass that is better suitable for high temperatures and less likely to experience thermal shock
+silicate = group name of mineral compounds containing silicon and oxygen
+boric oxide | B₂O₃ | B2O3 = additive used when creating glass, to make the glass more thermal resistant
+band theory = theory that delocalizes electrons over entire crystals<br/>(instead of just over molecules as with molecular orbital theory)
+valence band | valence = band containing bonding molecular orbitals, which is filled with electrons by default
+conduction band | conduction= band containing anti-bonding molecular orbitals, which is empty by default
+band gap = energy difference between valence band and conduction band
+electron volt | eV = unit used to specify band gaps
+1.6022·10⁻¹⁰ J | 1.6022e-19 J  | 1.6022e-19 = 1 eV in joule
+conductor = substance with negligable band gap
+semiconductor = substance with a intermediate band gap
+insulator = substance with a large band gap
+doping = minute impurities added to a semiconductor that add electrons to the conduction band or create holes in the valence band
+n-type semiconductor | n type semiconductor | n-type | n type = semiconductor that has doping which adds electrons to the conduction band
+p-type semiconductor | p type semiconductor | p-type | p type = semiconductor that has doping which removes electrons from the valence band
+polymers | polymer = long, chainlike molecules composed of repeating units
+monomers | monomer = repeating unit of a polymer
+ethene | ethylene | C₂H₄ | C2H4 = monomer used to create polyethylene
+ethylene = alternate name for ethene
+ethene = alternate name for ethylene
+addition polymer = polymer in which the monomers link together without the elimination of any atoms
+high density polyethylene | HDPE = poly ethylene variant with little branching, so that the chains align closely
+low density polyethylene | LDPE = poly ethylene variant with branching that prevents the chains from interacting closely
+chloroethene | C₂H₃Cl | C2H3Cl = monomer used to create polyvinyl chloride
+copolymers | copolymer = polymer consisting of two different kinds of monomers
+dimerization = the process of joining two identical or similar molecular entities by bonds
+dimer = the product of the reaction joining two monomers
+condensation polymers | condensation polymer = polymer that eliminates an atom or a small group of atoms in its creation
+solution = homogeneous mixture of two or more substances or components
+solvent = majority component in a solution
+solute = minority component in a solution
+aqueous solution | aqueous = solution where water is the solvent
+solubility = amount of substance that dissolves in a given amount of solvent
+entropy = measure of energy randomization or energy dispersal in a system
+saturated solution | saturated = a solution in which the dissolved solute is in dynamic equilibrium with the solid (undissolved) solute
+unsaturated solution | unsaturated = a solution containing less than the equilibrium amount of solute
+supersaturated solution | supersaturated = a solution containing more than the equilibrium amount of solute
+recrystallization = dissolving a solid and letting it cool slowly to precipitate
+increases = at higher temperatures, the solubility of solids usually decreases/increases
+decreases = at higher temperatures, the solubility of gases usually decreases/increases
+dilute solution = solution containing small quantities of solute
+concentrated solution = solution containing large quantities of solute
+mol/L = unit of molarity
+mol/kg = unit of molality
+χ | chi = symbol used for the mole fraction
+colligative property | colligative = a property that depends on the number of particles dissolved in a solution, not on the type of particle
+ideal solution = solution where the partial pressure of each solution component is linear with its molfraction
+freezing point depression = the lowering of the melting point of a solvent by adding solute
+boiling point elevation = the raising of the boiling point of a solvent by adding solute
+osmosis = the process by which seawater causes dehydration
+osmosis = the flow of solvent from a solution of lower solute concentration to one of a higher solute concentration
+semipermeable membrane | semipermeable = membrane that selectively allows some substances to pass through, but not others
+osmotic pressure = the pressure required to stop osmotic flow
+van't Hoff factor = the ratio of<br/>moles of particles in a solution ⇔ moles of formula unit dissolved
+i = symbol used to indicate the ratio of<br/>moles of particles in a solution ⇔ moles of formula unit dissolved
+i = symbol used to indicate the van't Hoff factor
+hyposmotic = solutions having osmotic pressures less than those of bodily fluids
+intravenous solutions |intravenous solution | intravenous = solutions administered directly into a patien's veins
+isosmotic solutions | isosmotic solution | isosmotic | isotonic solutions | isotonic solution | isotonic = solutions that have osmotic pressures equal to bodily fluids
+colloidal dispersion | colloid = finely divided mixture with particle sizes 1 nm to 1 μm
+micelles | micelle = spherical structure that forms in water by the aggregation of molecules<br/> with their hydrophobic tails inward and hydrophilic heads outward
+Tyndall effect = the scattering of light by colloidal dispersion
+colloidal dispersion | colloid = mixtures that cause the Tyndall effect
+instantaneous rate of a reaction | instantaneous reaction rate  | instantaneous rate = the rate of a reaction at any point in time
+rate law = the relationship between the rate of the reaction and the concentration of the reactant
+k = symbol for the rate constant
+method of initial rates = determining the reaction order by measuring a reaction several times<br/>with different starting concentrations for the reactants
+overall order = sum of the orders for a rate law with more than one reactant
+Ms⁻¹ | M¹s⁻¹ | M1s-1 | Ms-1 | s-1M1 | s-1M = unit of the rate constant for a zero-order reaction
+s⁻¹ | s-1 = unit of the rate constant for a first-order reaction
+M⁻¹s⁻¹ | M-1 s-1 | s-1 M-1 = unit of the rate constant for a second-order reaction
+integrated rate law = relationship between the concentrations of the reactants and time
+activation energy = energy barrier that must be surmounted in order for the reaction to transform into products
+frequency factor = number and effectiveness of collisions in the arhenius equation<br/>(the word, not the symbol)
+activated complex | transition state = the state of a molecule when the reaction is at the point of activation energy
+activation energy = energy required to reach the activated complex
+slower = a higher activation energy means a slower/faster reaction rate
+faster = a lower activation energy means a slower/faster reaction rate
+higher = a lower/higher activation energy means a slower reaction rate
+lower = a lower/higher activation energy means a faster reaction rate
+exponential factor = fraction of molecules that have enough energy to make it past the activation barrier on approach
+arhenius plot = plot of the natural logarithm of the rate constant vs the inverse of the temperature in Kelvins
+p = symbol used for the orientation factor in collision theory
+z = symbol used for the collision frequency in collision theory
+collision frequency = number of collisions per unit of time in the collision model
+orientation factor = fraction of collisions with an orientation that allows a reaction to occur
+reaction mechanism = series of individual chemical steps by which an overall chemical reaction occurs
+elementary step = indivisible step of a reaction mechanism
+reaction intermediate | intermediate species = transient species in a multi-step reaction mechanism
+molecularity = number of reactant particles involved in a elementary step
+rate determining step = slowest elementary step in a reaction mechanism
+catalyst = substance that speeds up a reaction without being consumed
+homogeneous catalyst | homogeneous = a catalyst in the same phase as the reactants
+heterogeneous catalyst | heterogeneous = a catalyst in a different phase as the reactants
+enzymes | enzyme = proteins that act as biological catalysts
+active site = region in an enzyme where substrate molecules bind and undergo a chemical reaction
+substrate = material upon which an enzyme acts
+dynamic equilibrium = the forward rate of a reaction equals the rate of the reverse reaction
+right = when the equilibrium constant is large, the reaction lies to the left/right
+left  = when the equilibrium constant is small, the reaction lies to the left/right
+le chatelier's principle = when a chemical system at equilibrium is disturbed,<br/>the system shifts in a direction that minimizes the disturbance
+arhenius = acids are substances that produce H⁺ ions in aqueous solutions.<br/>name the scientist
+arhenius = bases are substances that produce OH⁻ ions in aqueous solutions.<br/>name the scientist
+bronsted = acids donate protons;<br/>name the scientist
+bronsted = bases accept protons;<br/>name the scientist
+amphoteric = substances that can act both as acids and as bases
+conjugate acid | conjugated acid = any base to which a proton has been added
+conjugate base | conjugated base = any acid from which a proton has been removed
+acid ionization constant = quantification of the relative strength of a weak acid
+base ionization constant = quantification of the relative strength of a weak base
+autoionization = name of the process where water acts as an acid and a base with itself
+weak = HF      is a weak/strong acid
+weak = HC₂H₃O₂ is a weak/strong acid
+weak = HCHO₂   is a weak/strong acid
+weak = H₂SO₃   is a weak/strong acid
+weak = H₂CO₃   is a weak/strong acid
+weak = H₃PO₄   is a weak/strong acid
+strong = HCl   is a weak/strong acid
+strong = HBr   is a weak/strong acid
+strong = HI    is a weak/strong acid
+strong = HClO₄ is a weak/strong acid
+strong = HNO₃  is a weak/strong acid
+strong = H₂SO₄ is a weak/strong acid
+S = symbol used for entropy
+entropy = meaning of the symbol "S" in thermo chemistry
+entropy = thermodynamic function that quantifies the number of energetically equivalent ways to arrange the components of a system
+number of possible microstates | possible microstates | microstates | microstate = meaning of the symbol "W" in thermodynamics
+8.3145 kPa L/K mol | 8.3145 | pascal | Pa = version of the gas constant used to calculate the boltzman constant
+second law of thermodynamics | second law | 2nd law = for any spontaneous process, the entropy of the universe increases
+third law of thermodynamics | third law | 3rd law = the entropy of a perfect crystal at absolute zero (0K) is zero
+reversible = meaning of "rev" in q<sub>rev</sub>
+J/K = unit of entropy (S)
+Gibbs free energy = meaning of G in thermodynamics
+Gibbs free energy = this measurement is also called chemical potential
+chemical potential = another way to refer to Gibbs free energy
+decrease = a decrease/increase in Gibbs free energy corresponds to a spontaneous process
+increase = a decrease/increase in Gibbs free energy corresponds to a nonspontaneous process
+lewis acids | lewis acid | acid = an electron pair acceptor is a lewis acid/lewis base
+lewis bases | lewis base | base = an electron pair donor is a lewis acid/lewis base
+voltiac cell | galvanic cell =  produces electrical current from a spontaneous chemical reaction
+electrolytic cell = electrochemical cell that consumes electrical current to drive a nonspontaneous chemical reaction
+electrodes | electrode = conductive surfaces through which electrons can enter or leave half cells
+amperes (A) | amperes | ampere | A = unit of electrical current
+1 C/s = 1 A in other SI units
+volts | volt | V = SI unit of potential difference (between electrodes)
+1 J/C = 1 V in other SI units
+elctromotive force | emf = other way to refer to potential difference
+half cell = structure containing an electrode that uses chemical reaction to pump electrical charges between electrode and electrolyte
+cell potential | cell emf | emf = potential difference between two electrodes in a voltiac cell
+cell potential = in a voltiac cell ____ depends on the relative tendencies of the reactants to undergo oxidation and reduction
+standard cell potential | standard emf = cell potential at 25°C
+anode = electrode where oxidation occurs
+cathode	= electrode where reduction occurs
+anode = negatively charged electrode
+cathode = positively charged electrode
+anode = electrode connected to the positive terminal of a power source in a electrolytic cell
+cathode = electrode connected to the negative terminal of a power source in a electrolytic cell
+salt bridge = u shaped tube containing a strong electrolyte connecting two half cells
+cell diagram | line notation = short notation containing the ions contained in an electrochemical cell
+left = in a cell notation oxidation is on the left/right
+right = in a cell notation reduction is on the left/right
+double vertical line | double bar = indicates the salt bridge in a cell notation
+vertical line | bar = separator for substances in different phases in a cell notation
+comma's | comma = separator for substances in the same phase
+standard electrode potential = individual potential of an electrode in a half cell
+standard hydrogen electrode | SHE = half cell electrode that is assigned the potential of zero
+negative = positive/negative potential indicates a greater potential energy than the SHE
+positive = positive/negative potential indicates less potential energy than the SHE
+negative = the half reaction with the more positive/negative electrode potential repels electrons more strongly and undergoes oxidation
+positive = the half reaction with the more positive/negative electrode potential attracts electrons more strongly and undergoes reduction
+96485 C/mol = Faraday's constant
+reductor oxidator | red ox = we calculate the cell potential by taking the oxidator/reductor and substracting the oxidator/reductor
+dry cell batteries | dry cell battery | dry cell = batteries that contain very little liquid
+alkaline batteries | alkaline battery | alkaline = batteries that employ half reactions in a basic medium
+electrolysis = using an electric current to drive an otherwise non-spontaneous chemical reaction
+overvoltage = additional voltage that must be applied to make some nonspontaneous reactions occur
+corrosion = oxidation of metals that are exposed to oxidizing agents in the environment
+oxidation = corrosion is the oxidation/reduction of metals due to environmental exposure
+disproportionation = redox reaction where one compound of an intermediate oxidation state splits into two compounds;<br/>one of a higher oxidation state and one of a lower oxidation state.
+phosphorescence = absorbing light (radiation) of a shorter wavelength and reemitting it for a much longer time at a longer wavelength
+:: alpha radiation | alpha decay | alpha :: beta radiation | beta decay | beta :: gamma ray emission | gamma ray | gamma :: positron emission | positron :: = the 4 main types of radioactivity
+electron capture = absorption of electrons by atomic nuclei, causing the nuclei to gain greater stability
+nuclide = class of atoms characterized by their number of protons, their number of neutrons and their nuclear energy state
+alpha decay = an unstable nucleus emits a particle composed of two neutrons and two protons
+He-4 = composition of an alpha radiation particle
+parent nuclide = when an atom emits radiation, the original atom is called the
+daughter nuclide = when an atom emits radiation, the resulting atom is called the
+alpha particle | alpha = largest emited radioactive particle
+decreases | -2 = effect of alpha decay on the atomic number Z of the parent nuclide
+ionizing power = the ability of radiation to ionize molecules and atoms
+penetrating power = the ability of radiation to pass through matter
+alpha decay | alpha radiation | alpha | alpha particles | alpha particle = least penetrating radioactivity
+alpha decay | alpha radiation | alpha | alpha particles | alpha particle = most ionizing radioactivity
+beta decay = an unstable nucleus emits an electron
+neutron → proton + electron | neutron -> proton + electron | n -> p + e = describe beta decay as an equation
+increases | increment | ++ = effect of beta decay on the atomic number Z of the parent nuclide
+gamma radiation | gamma decay | gamma rays | gamma ray | gamma = short wavelength photons emited by nuclides
+none = effect of gamma decay on the atomic number Z of the parent nuclide
+gamma decay | gamma radiation | gamma rays | gamma ray | gamma = most penetrating radioactivity
+gamma decay | gamma radiation | gamma rays | gamma ray | gamma = least ionizing radioactivity
+positron emission = an unstable nucleus emits the antiparticle of an electron
+positron = the antiparticle of an electron
+proton → neutron + positron | proton -> neutron + positron | p -> n + pos = describe positron emission as an equation
+decrease | decrement | -- = effect of positron emission on the atomic number Z of the parent nuclide
+electron capture = a nucleus assimilates an electron from an inner orbital
+proton + electron → neutron | proton + electron -> neutron | p + e -> n = describe electron capture as an equation
+decrease | decrement | -- = effect of electron capture on the atomic number Z of the parent nuclide
+strong force = term in particle physics to refer to the force binding particles together
+83 = largest value of the atomic number (Z) for which stable atoms exist
+high = nuclei emit beta radiation when N/Z is too low/high
+low = nuclei capture electrons when N/Z is too low/high
+low = nuclei emit positrons when N/Z is too low/high
+beta decay | beta = type of decay when N/Z is too high
+positron emission | electron capture | positron emission electron capture | electron capture positron emission = type of decay when N/Z is too low
+magic numbers | magic number = elements with certain numbers of nucleons are uniquely stable
+nucleons | nucleon = term used to refer to a particle that is either a proton or a neutron
+thermoluminescent dosimeters | thermoluminescent dosimeter = radiation detector that works through thermoluminescent crystals that absorbs radiation in a crystal lattice as heat and emits it as visible light
+geiger-müller counter | geiger muller counter | geiger counter = radiation detector that detects ionizing radiation by applying a high voltage on an inert gas and measuring conductivity
+scintillation counter = radiation detector that works through a material that absorbs radiation and emits light
+radiometric dating = technique using the presence of radioactive isotopes to determine the age of a rock or artifact
+radiocarbon dating = method for determining the age of organic material
+nuclear fission = splitting the nucleus of an atom
+nuclear fusion = merging multiple atomic nuclei into one
+nuclear chain reaction | chain reactions | chain reaction = nuclear reactions cause an average of one or more other nuclear reactions
+critical mass = smallest amount of fissile material needed for a sustained nuclear chain reaction
+nuclear binding energy = minimum energy required to disassemble the nucleus of an atom into its nucleons
+mass defect | mass deficit = the difference between the mass of an object and the sum of the masses of its constituent particles
+transmutation = the transformation of one element into another
+:: linear accelerator :: cyclotron :: = the two types of particle accelerators
+linear accelerator = a device that uses a potential difference in an evacuated tube to accellerate a charged particle such as a proton
+cyclotron = a device that uses two semicircular halves with alternating voltage to accelerate charged particles such as protons
+exposure = number of radiation decay events to which a person is exposed
+1 J/kg = 1 gray (Gy) in other SI units
+0.01 J/kg = 1 rad in other SI units
+dose = the measure for the amount of energy absorbed by body tissue from radiation
+biological effectiveness factor | RBE = the correction used to modify the radiation dose,<br/>to more accurately portray the actual damage done to the tissue
+roentgen equivalent man | rems | rem = unit for the dose of radiation absorbed multiplied by the biological effectiveness factor
+1.00783 amu | 1.00783 u | 1.00783 = weight of a proton in amu
+1.00866 amu | 1.00866 u | 1.00866 = weight of a neutron in amu
+0.00055 amu | 0.00055 u | 0.00055 = weight of an electron in amu
+9315e2 eV | 931.5 MeV = 1 amu in electron volts
+1.66054e-27 kg | 1.66054e-27 = 1 amu in kg
+
+what is the formula for density? ρ = m/V | rho = m/V | d = m/V
+affixes 1-10? mono di tri tetra penta hexa hepta octa nona deca
+what is the naming scheme for oxoacids increasing in oxidation? hypo_ite _ite _ate per_ate
+what is the naming scheme for acids of hydrogen and non-metals (e.g. HCl)? hydro_ acid
+which 3 monoatomic ions always dissolve in water? :: Li⁺ | Li+ | Li :: Na⁺ | Na+ | Na :: K⁺ | K+ | K ::
+which 3 polyatomic ions always dissolve in water? :: NH4⁺ | NH4+ | ammonium :: NO₃⁻ | NO3 - | nitrate :: C₂H₃O₂⁻ | C2H3O2 - | acetate ::
+which 3 monoatomic ions ALMOST always dissolve in water? :: Cl⁻ | Cl- | Cl :: Br⁻ | Br- | Br :: I⁻ | I- | I ::
+which polyatomic ion ALMOST always dissolves in water? sulfate | SO₄²⁻ | SO4 2-
+which 3 monoatomic ions can be used to precipitate Cl⁻ Br⁻ and I⁻? :: Ag⁺ | Ag+ | Ag :: Hg₂²⁺ | Hg2 2+ | Hg :: Pb²⁺ | Pb 2+ | Pb ::
+which 5 monoatomic ions can be used to precipitate sulfate? :: Ca²⁺ | Ca 2+ | Ca :: Sr²⁺ | Sr 2+ | Sr :: Ba²⁺ | Ba 2+ | Ba :: Pb²⁺ | Pb 2+ | Pb :: Ag⁺ | Ag + | Ag ::
+what are 4 common gases formed from aqueous solutions? :: CO₂ | CO2 :: SO₂ | SO2 :: H₂S | H2S :: NH₃ | NH3 ::
+which 2 polyatomic ions precipitate unless paired with Li⁺, Na⁺, K⁺ or NH₄⁺? :: CO₃²⁻ | CO3 2- :: PO₄³⁻ | PO4 3- ::
+1 Joule in other SI units? 1 Nm | 1 kg m²/s² | 1 kg m2/s2
+1 kcal in Joule? 4184 Joule | 4184 J | 4184
+formula for heat capacity? q = cΔT | c = q/ΔT | q = c delta T | c = q/delta T
+formula for pressure-volume work done by a system? w = -pₑₓₜΔV | w = -pext delta V
+formula for change of internal energy in a system? ΔE = q + W | delta E = q + W | delta E = W + q
+formula for enthalpy? H = E + pV
+a reaction in which strong bonds break and weak ones form is endothermic/exothermic? endothermic
+a reaction in which weak bonds break and strong ones form is endothermic/exothermic? exothermic
+what does the greek letter nu (ν) indicate in relation to wave forms? the frequency | frequency
+what does the greek letter phi (φ) indicate in relation to quantum mechanics? the binding energy of an atom | binding energy of an atom | binding energy
+what does the greek letter psi (ψ) indicate in relation to quantum mechanics? the wave function | wave function
+formula for frequency of a wave? ν = c/λ | c = νλ | nu = c / lambda | c = nu lambda | c = lambda nu
+formula for calculating the energy of a photon? E = hν | E = nu h | E = h nu | E = hc/λ | E = hc/lambda
+formula for the energy of a photon required to emit an electron? φ = hν | phi = h nu | phi = nu h
+formula for the kinetic energy of an electron emitted by a photon? E = hν - φ | E = h nu - phi | E = nu h - phi
+the electromagnetic spectrum in order of increasing wave length? gammaray xray ultraviolet visiblelight infrared microwave radio | gammaray xray ultraviolet visiblelight infrared micro radio | gammaray xray UV visiblelight infrared microwave radio | gammaray xray UV visiblelight infrared micro radio | gamma xray UV visiblelight infrared micro radio
+the electromagnetic spectrum in order of increasing frequency? radio microwave infrared visiblelight ultraviolet xray gammaray | radio micro infrared visiblelight ultraviolet xray gammaray | radio microwave infrared visiblelight UV xray gammaray | radio micro infrared visiblelight UV xray gammaray
+formula for the broglie relation (wavelength vs kinetic energy)? λ = h/mv | lambda = h/mv | lambda = h/vm | h = mv lambda | h = lambda mv
+formula for energy difference between 2 excited states of an electron for hydrogen? ΔE = R(1/n² - 1/m²) | delta E = R (1/n2 - 1/m2) | E = R (1/n2 - 1/m2)
+formula for coulomb's law (simplified)? E = k·q₁q₂/r | E = k q1q2/r
+what is the full version of the constant k in coulomb's law? 1/4πε₀ | 1 / 4 pi epsilon0 | 1 / 4 pi epsilon
+degenerate = orbitals that have the same energy level
+range of values for the principal quantum number (n)? {1,}
+range of values for the angular momentum quantum number (l)? {0, n-1}
+range of values for the magnetic quantum number (mₗ)? {-l, l}
+what are the 3 quantum numbers used to specify an orbital? :: n :: l :: mₗ | ml | m ::
+which quantum number determines the overall size and energy of an orbital? principal quantum number | n
+which quantum number determines the shape of an orbital? angular momentum quantum number | l
+which quantum number determines the orientation of an orbital? magnetic quantum number | mₗ | ml | m
+formula for calculating dipole moment? μ = qr | mu = qr
+which unit is used for reporting dipole moments? debye | D
+1 debye in other SI units? 3.34·10⁻³⁰ C·m | 3.34e-30 Cm
+geometric angles in a linear geometry?               180° | 180
+geometric angles in a trigonal planar geometry?      120° | 120
+geometric angles in a tetrahedral geometry?          109.5° | 109.5
+geometric angles in a trigonal bipyramidal geometry? 120° 90° | 120 90 | 90 120
+geometric angles in a octahedral geometry?           90° | 90
+which geometry is formed by 2 electron groups? linear geometry | linear
+which geometry is formed by 3 electron groups? trigonal planar geometry | trigonal planar
+which geometry is formed by 4 electron groups? tetrahedral geometry | tetrahedral | tetrahedron
+which geometry is formed by 5 electron groups? trigonal bipyramidal geometry | trigonal bipyramidal | trigonal bipyramid
+which geometry is formed by 6 electron groups? octahedral geometry | octahedral | octahedron
+which geometry has angles of 180°?       linear geometry | linear
+which geometry has angles of 120°?       trigonal planar geometry | trigonal planar
+which geometry has angles of 109.5°?     tetrahedral geometry | tetrahedral | tetrahedron
+which geometry has angles of 120° & 90°? trigonal bipyramidal geometry | trigonal bipyramidal | trigonal bipyramid
+which geometry has angles of 90°?        octahedral geometry | octahedral | octahedron
+which two types of geometry do we distinguish in VSEPR? :: molecular geometry | molecular :: electron geometry | electron ::
+formula for calculating bond order? bo = (bmo-abmo)/2 | bond order = (bonding MO's - anti-bonding MO's)/2
+bonds form when the bond order is ____? >0
+bonds do NOT form when the bond order is ____? <=0
+formula for vapor pressure vs temperature (Clausius-Clapeyron)? ln(p) = -ΔH/RT + ln(β) | ln(p) = -delta H / RT + ln(beta) | ln p = -delta H / RT + ln beta | ln(p) = -delta H / RT + c | ln p = -delta H / RT + c
+formula for calculating distance between atomic layers in xray diffraction (braggs law)? nλ = 2d sinθ | n lambda = 2d sin theta | n lambda = sin theta 2d | d = n lambda / 2 sin theta
+nonbonding atomic solids have low/high melting points? low
+network covalent solids have low/high melting points? high
+which 2 kinds of atomic solids form closest packed structures? :: nonbonding atomic solids | nonbonding :: metallic atomic solids | metallic ::
+which kind of atomic solids do NOT form closest packed structures? network covalent solds | network covalent solid | network covalent
+where do we find non-bonding atomic solids on the periodic table? noble gases | noble gas
+how are silicon and oxygen atoms arranged in glass? amorphous
+which 2 enthalpies are combined to form the heat of hydration? :: solvent separation | separate solvent :: mixing solute with solvent | mixing solute solvent | solute solvent | mixing ::
+how do we calculate the heat of solution,<br/>if we have combined the solvent separation and mixing into the heat of hydration? ΔH<sub>soln</sub> = ΔH<sub>solute</sub> + ΔH<sub>hydration</sub> | heat of solution = separate solute + heat of hydration | heat of solution = solute separation + heat of hydration | heat of solution = heat of hydration - lattice energy solute | heat of solution = heat of hydration + separate solute | heat of solution = heat of hydration + solute separation
+formula for solubility of gases in relation to pressure (Henry's law)? s = kp | s = pk
+which measure of concentration do we refer to with the greek letter chi (χ)? mole fraction
+formula for calculating the freezing point depression / boiling point elevation? ΔT = mK | delta T = mK | delta T = Km
+formula for calculating the osmotic pressure? Π = MRT | PI = MRT
+what is the meaning of "m" in the formula for freezing point depression / boiling point elevation<br/>(ΔT = mK)? molality
+what is the meaning of "M" in the formula calculating the osmotic pressure? molarity
+formula for the rate of a reaction in terms of reactant A? rate = 1/a Δ[A]/ΔT | rate = 1/a delta[A]/delta T
+formula for the rate law? rate = k[A]ⁿ | rate = k[A]^n | rate = k[A]n | rate = k[A]a
+what is the name of the symbol "k" in the formula rate = k[A]ⁿ? rate constant
+what is the name of the symbol "n" in the formula rate = k[A]ⁿ? reaction order
+differential rate law for zero order reactions?   -Δ[A]/Δt = k     | -delta[A]/delta t = k
+differential rate law for first order reactions?  -Δ[A]/Δt = k[A]  | -delta[A]/delta t = k[A]
+differential rate law for second order reactions? -Δ[A]/Δt = k[A]² | -delta[A]/delta t = k[A]2
+integrated rate law for zero order reactions?     [A]ₜ = -kt + [A]₀     | [A]t = -kt + [A]0     | [A]t = [A]0 - kt
+integrated rate law for first order reactions?    ln[A]ₜ = -kt + ln[A]₀ | ln[A]t = -kt + ln[A]0 | ln[A]t = ln[A]0 - kt | ln([A]t) = ln([A]0) - kt
+integrated rate law for second order reactions?   1/[A]ₜ = kt + 1/[A]₀  | 1/[A]t = kt + 1/[A]0  | 1/[A]t = 1/[A]0 + kt
+formula for the relationship between the rate constant (k) and temperature T (arhenius equation)? k = Ae<sup>(-Eₐ/RT)</sup> | k = Ae^(-Ea/RT)  | k = Ae(-Ea/RT)
+what is A in the Arhenius equation k = Ae<sup>(-Eₐ/RT)</sup>? frequency factor
+what is Eₐ in the Arhenius equation k = Ae<sup>(-Eₐ/RT)</sup>? activation energy
+what is the exponential factor in the arhenius equation? e<sup>(-Eₐ/RT)</sup> | e^(-Ea/RT)  | e(-Ea/RT)
+what is the symbol for the frequency factor in the Arhenius equation? A
+what is the symbol for the activation energy in the Arhenius equation? Eₐ | Ea
+which version of the gas constant is used in the Arhenius equation: k = Ae<sup>(-Eₐ/RT)? 8.3145 J/K mol | 8.3145 kPa L/K mol | Pascal | kPa | Pa
+which 2 factors does the exponential factor in the Arhenius equation depend on? :: temperature | T :: activation energy | Ea ::
+how do we plot a straight line of the arhenius equation? take the natural logarithm | natural logarithm | ln
+which 2 parts does the collision model use to separate the frequency factor? :: orientation factor (p) | orientation factor :: collision frequency (z) | collision frequency ::
+the equation of a line is given by y = ax + b<br>what is "a" in an Arhenius plot? -Eₐ/R | -Ea/R
+the equation of a line is given by y = ax + b<br>what is "b" in an Arhenius plot? ln(A) | ln A
+the equation of a line is given by y = ax + b<br>what is "y" in an Arhenius plot? ln(k) | ln k
+is the equilibrium constant reactants/products or products/reactants? products/reactants
+general formula for the equilibrium constant? K = [C]ᶜ[D]ᵈ/[A]ᵃ[B]ᵇ | K = [C]c[D]d/[A]a[B]b
+how do we call the relationship between the balanced equation<br/>aA + bB ⇔ cD + dD<br/><br/>and the expression of the equilibrium constant<br/>K = [C]ᶜ[D]ᵈ/[A]ᵃ[B]ᵇ? law of mass action
+formula for creating pressure based equilibrium constant from a concentration version of the constant? Kₚ = K<sub>c</sub>(RT)<sup>Δn</sup> | Kp = Kc(RT)^delta n | Kp = Kc(RT)delta n
+we can summarize equilibrium conditions in an ICE table, what does ICE stand for? initial change equilibrium
+if ax² + bx + c = 0, then x = ____? (-b ± √b²-4ac) / 2a | (-b +- sqrt(b2 - 4ac))/2a
+what does Kₐ stand for in Kₐ = [H₃O+][A⁻]/[HA]? acid ionization constant
+boltzman equation for entropy? S = k ln W
+formula for calculating the boltzman constant? k = R/Nₐ | k = R/Na | k = R/N
+formula for difference in entropy (energetic)? ΔS = q<sub>rev</sub>/T | delta S = q/T
+formula for the relationship between Kₐ (acid) and K<sub>b</sub> (base)? Kₐ * K<sub>b</sub> = K<sub>w</sub> | Ka * Kb = Kw | Kw = Ka * Kb | KaKb = Kw | Kw = KaKb | KaKb = 1e-14 | KbKa = 1e-14
+formula for the relationship between pKₐ (acid) and pK<sub>b</sub> (base)? pKₐ + pK<sub>b</sub> = 14 | pKa + pKb = 14 | pKb + pKa = 14
+formula for the definition of gibbs free energy? G = H - TS
+formula for the change of gibbs free energy? ΔG = ΔH - TΔS | delta G = delta H - T delta S
+when is a reaction spontaneous if ΔH < 0 and ΔS > 0<br/>always/low temperature/high temperature/never? always
+when is a reaction spontaneous if ΔH > 0 and ΔS < 0<br/>always/low temperature/high temperature/never? never
+when is a reaction spontaneous if ΔH < 0 and ΔS < 0<br/>always/low temperature/high temperature/never? low temperature | low | cold
+when is a reaction spontaneous if ΔH > 0 and ΔS > 0<br/>always/low temperature/high temperature/never? high temperature | high | hot
+which two factors determine the strength of a binary acid? :: bond polarity | polarity :: bond strength | strength ::
+which two factors determine the strength of a oxyacid? :: electronegativity of the tail | electronegativity :: number of oxygen atoms | oxygen ::
+formula for the standard change in Gibbs free energy for an electrochemical reaction? ΔG° = -nFE°<sub>cell</sub> | delta G = -nFE
+formula for the standard cell potential with regards to the equilibrium constant K? E = 0.0592 V/n log(K) | E = 0.0592 V/n log K | E = 0.0592 V log(K)/n | E = 0.0592 V log K / n
+formula for calculating cell potential from the two electrodes? E<sub>cell</sub> = E<sub>cathode</sub> - E<sub>anode</sub> | Ecell = Ecathode - Eanode | Ecell = Ecat- Ean | cell = cathode - anode | cell = cat - an
+
+what is the name of the equation: s = kp? Henry's law
+what is the name of the equation: k = Ae<sup>(-Eₐ/RT)</sup>? arhenius equation
+what is the name of the equation: nλ = 2d sinθ? braggs law
+what is the name of the equation: E = k·q₁q₂/r? coulombs law
+what is the name of the equation: h = λmv? the broglie relation | broglie relation
+what is the name of the equation: E<sub>cell</sub> = E°<sub>cell</sub> - 0.0592 V/n log(Q)? Nernst equation
+
+# table 3.4 (p146)
+What is the name of C₂H₃O₂⁻?   acetaat | acetate
+What is the name of CO₃²⁻?     carvonaat | carbonate
+What is the name of HCO³⁻?     waterstof carbonaat | hydrogen carbonate
+What is the name of OH⁻?       hydroxide
+What is the name of NO₂⁻?      nitriet | nitrite
+What is the name of NO₃⁻?      nitraat | nitrate
+What is the name of CrO₄²⁻?    chromaat | chromate
+What is the name of Cr₂O₇²⁻?   dichromaat | dichromate
+What is the name of PO₄³⁻?     fosfaat | phosphate
+What is the name of HPO₄²⁻?    hydrogen phosphate
+What is the name of H₂PO₄⁻?    dihydrogen phosphate | phosphoric acid
+What is the name of NH₃?       ammoniak | ammonia
+What is the name of NH₄⁺?      ammonium
+What is the name of ClO⁻?      hypochloriet | hypochlorite
+What is the name of ClO₂⁻?     chloriet | chlorite
+What is the name of ClO₃⁻?     chloraat | chlorate
+What is the name of ClO₄⁻?     perchloraat | perchlorate
+What is the name of MnO₄⁻?     permanganaat | permanganate
+What is the name of SO₃²⁻?     sulfiet | sulfite
+What is the name of HSO₃⁻?     waterstof sulfiet | hydrogen sulfite
+What is the name of SO₄²⁻?     sulfaat | sulfate
+What is the name of HSO₄⁻?     waterstof sulfaat | hydrogen sulfate
+What is the name of CN⁻?       cyanide
+What is the name of O₂²⁻?      peroxide
+What is the name of H₃O⁺?      hydronium
+What is the name of C₂O₄²⁻?    oxalaat | oxalate
+What is the name of S₂O₃²⁻?    thiosulfaat | thiosulfate
+
+What is the formula of acetate?               C₂H₃O₂⁻ | C2H3O2 -
+What is the formula of carbonate?             CO₃²⁻   | CO3 2-
+What is the formula of hydrogen carbonate?    HCO₃⁻   | HCO3 -
+What is the formula of hydroxide?             OH⁻     | OH -
+What is the formula of nitrite?               NO₂⁻    | NO2 -
+What is the formula of nitrate?               NO₃⁻    | NO3 -
+What is the formula of chromate?              CrO₄²⁻  | CrO4 2-
+What is the formula of dichromate?            Cr₂O₇²⁻ | Cr2O7 2-
+What is the formula of phosphate?             PO₄³⁻   | PO4 3-
+What is the formula of hydrogen phosphate?    HPO₄²⁻  | HPO4 2-
+What is the formula of dihydrogen phosphate?  H₂PO₄⁻  | H2PO4 -
+What is the formula of ammonia?               NH₃     | NH3
+What is the formula of ammonium?              NH₄⁺    | NH4 +
+What is the formula of hypochlorite?          ClO⁻    | ClO -
+What is the formula of chlorite?              ClO₂⁻   | ClO2 -
+What is the formula of chlorate?              ClO₃⁻   | ClO3 -
+What is the formula of perchlorate?           ClO₄⁻   | ClO4 -
+What is the formula of permanganate?          MnO₄⁻   | MnO4 -
+What is the formula of sulfite?               SO₃²⁻   | SO3 2-
+What is the formula of hydrogen sulfite?      HSO₃⁻   | HSO3 -
+What is the formula of sulfate?               SO₄²⁻   | SO4 2-
+What is the formula of hydrogen sulfate?      HSO₄⁻   | HSO4 -
+What is the formula of cyanide?               CN⁻     | CN -
+What is the formula of peroxide?              O₂²⁻    | O2 2-
+What is the formula of hydronium?             H₃O⁺    | H3O +
+What is the formula of oxalate?               C₂O₄²⁻  | C2O4 2-
+What is the formula of thiosulfate?           S₂O₃²⁻  | S2O3 2-
+
+what is the formula of hydrosulfuric acid? H2S
+what is the formula of hydroiodic acid? HI
+what is the formula of hydrochloric acid? HCl
+what is the formula of hydrobromic acid? HBr
+what is the formula of hydrofluoric acid? HF
+what is the formula of bromic acid? HBrO3
+what is the formula of nitric acid? HNO3
+what is the formula of sulfuric acid? H2SO4
+what is the formula of perchloric acid? HClO4
+what is the formula of formic acid? HCHO2 | CH2O2 | CO2H2 | HCOOH
+what is the formula of sodium hydroxide? NaOH
+what is the formula of lithium hydroxide? LiOH
+what is the formula of potassium hydroxide? KOH
+
+what is the name of HI? waterstof jodide | hydroiodic acid
+what is the name of HCl? zoutzuur | hydrochloric acid
+what is the name of HBr? waterstof bromide | hydrobromic acid
+what is the name of HF? waterstof fluoride | hydrofluoric acid
+what is the name of HNO₃? salpeterzuur | nitric acid
+what is the name of HBrO₃? broomzuur | waterstofbroomaat | bromic acid
+what is the name of HClO₃? chloorzuur | chloric acid
+what is the name of HClO₄? waterstof perchloraat | perchloorzuur | perchloric acid
+what is the name of H₂SO₄? zwavelzuur | sulfuric acid
+what is the name of HCHO₂? mierenzuur | formic acid
+what is the name of NaOH? sodium hydroxide
+what is the name of LiOH? lithium hydroxide
+what is the name of KOH? potassium hydroxide
+
+what is the CPK color for bromine?  dark red
+what is the CPK color for carbon?   black
+what is the CPK color for fluorine? light green
+what is the CPK color for chlorine? green
+what is the CPK color for hydrogen? white
+what is the CPK color for iodine?   purple
+what is the CPK color for nitrogen? blue
+what is the CPK color for oxygen?   red
+what is the CPK color for sulfur?   yellow
+
+what is the CPK element colored dark red?    bromine  | Br
+what is the CPK element colored black?       carbon   | C
+what is the CPK element colored light green? fluorine | F
+what is the CPK element colored green?       chlorine | Cl
+what is the CPK element colored white?       hydrogen | H
+what is the CPK element colored purple?      iodine   | I
+what is the CPK element colored blue?        nitrogen | N
+what is the CPK element colored red?         oxygen   | O
+what is the CPK element colored yellow?      sulfur   | S
+
+affix ½?  hemi
+affix 1?  mono
+affix 2?  di
+affix 3?  tri
+affix 4?  tetra
+affix 5?  penta
+affix 6?  hexa
+affix 7?  hepta
+affix 8?  octa
+affix 9?  nona
+affix 10? deca
+
+number of affix hemi? ½ | 1/2 | 0.5
+number of affix mono? 1
+number of affix di? 2
+number of affix tri? 3
+number of affix tetra? 4
+number of affix penta? 5
+number of affix hexa? 6
+number of affix hepta? 7
+number of affix octa? 8
+number of affix nona? 9
+number of affix deca? 10
+
+[geometry-linear.png]               which geometry is this? linear
+[geometry-octahedral.png]           which geometry is this? octahedral | octahedron
+[geometry-tetrahedral.png]          which geometry is this? tetrahedral | tetrahedron
+[geometry-trigonal-bipyramidal.png] which geometry is this? trigonal bipyramidal | trigonal bipyramid
+[geometry-trigonal-planar.png]      which geometry is this? trigonal planar
+[cubic-body-centered.png]           which unit cell is this? body centered cubic
+[cubic-face-centered.png]           which unit cell is this? face centered cubic
+[cubic-simple.png]                  which unit cell is this? simple cubic
+[packing-cubic.png]                 which packing structure is this? hexagonal closest packing |  hexagonal closest packed
+[packing-hexagonal.png]             which packing structure is this? cubic closest packing | cubic closest packed
+
+[molecular-geometry-bent.png]                what is the molecular geometry? bent
+[molecular-geometry-linear.png]              what is the molecular geometry? linear
+[molecular-geometry-seesaw.png]              what is the molecular geometry? seesaw
+[molecular-geometry-square-planar.png]       what is the molecular geometry? square planar
+[molecular-geometry-square-pyramidal.png]    what is the molecular geometry? square pyramidal
+[molecular-geometry-t.png]                   what is the molecular geometry? t-shaped | t shaped | t
+[molecular-geometry-trigonal-pyramidal.png]  what is the molecular geometry? trigonal pyramidal
+
+
+[structure-amine.png]     name of the organic family? amines         | amine
+[structure-ester.png]     name of the organic family? esters         | ester
+[structure-ether.png]     name of the organic family? ethers         | ether
+[structure-ketone.png]    name of the organic family? ketones        | ketone
+[structure-alcohol.png]   name of the organic family? alcohols       | alcohol
+[structure-aldehyde.png]  name of the organic family? aldehydes      | aldehyde
+[structure-carboxyl.png]  name of the organic family? carboxyl acids | carboxyl acid
+
+[structure-alcohol.png]   suffix for the organic family? -ol
+[structure-aldehyde.png]  suffix for the organic family? -al
+[structure-ketone.png]    suffix for the organic family? -one
+[structure-carboxyl.png]  suffix for the organic family? acid
+[structure-amine.png]     suffix for the organic family? amine
+[structure-ester.png]     suffix for the organic family? ester
+[structure-ether.png]     suffix for the organic family? ether
+
+[nuclear-equation.png]    what is shown in the picture? a nuclear equation | nuclear equation
+[nuclear-equation.png]    what is the element of the parent nuclide? Uranium | U
+[nuclear-equation.png]    what is the element of the daughter nuclide? Thorium | Th
+
+
+

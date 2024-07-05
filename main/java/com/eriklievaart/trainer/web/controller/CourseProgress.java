@@ -69,8 +69,8 @@ public class CourseProgress {
 		storeProgression();
 	}
 
-	public void incorrect(Question q) {
-		progression.get(q.getHash()).incorrect();
+	public void incorrect(Question q, int delay) {
+		progression.get(q.getHash()).incorrect(delay);
 		storeProgression();
 	}
 

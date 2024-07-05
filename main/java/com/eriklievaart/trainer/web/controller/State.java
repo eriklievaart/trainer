@@ -76,9 +76,9 @@ public class State {
 		nextQuestion();
 	}
 
-	public void incorrect() {
+	public void incorrect(int delay) {
 		Question q = current.get();
-		getProgress(q).incorrect(q);
+		getProgress(q).incorrect(q, delay);
 		nextQuestion();
 	}
 

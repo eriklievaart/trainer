@@ -19,7 +19,8 @@ hoeveel kg is 1 ton? 1000 | 1000 kg
 1 Pa in andere SI eenheden? 1N/m² | 1N/m2
 formule voor druk? p = F/A
 formule voor hydrostatische druk van een vloeistofkolom? p = ρgh | p = rho gh
-1 bar in PSI? 14.4 PSI | 14.4
+1 bar in PSI? 14.5 PSI | 14.5
+1 atm in PSI? 14.7 PSI | 14.7
 1 atm in Pa? 101325 Pa | 101325
 
 sin(0)?   ½√0 | 1/2 sqrt(0) | 1/2 w0 | 0
@@ -51,7 +52,6 @@ magnetisch veld = ruimte rond de magneet waarin de aantrekkingskracht nog voelba
 magnetisch spectrum = zichtbaar maken van magnetisch veld d.m.v. ijzervijlsel
 magnetisch flux | flux = de sterkte van het magnetisch veld
 polen | pool = hier is de magneet het krachtigst
-neutrale lijn = hier is de magneet het zwakst
 elementaire magneet | elementair magneetje = ondeelbaar kleine magneet
 permanente magneet = magneet waarin de elementaire deeltjes blijvend in dezelfde richting staan
 demagnetiseren | ontmagnetiseren = verhitten van magneet totdat de magnetische eigenschappen verdwijnen
@@ -62,19 +62,15 @@ magnetisch veld = onstaat wanneer je stroom door een geleider voert
 spoel = draad met meerdere opeenvolgende lussen
 
 Hoe meer cellen in een batterij hoe hoger/lager de elektronendruk? hoger
-Hoeveel elektronen is 1 Coulomb? 6.3 * 10¹⁸ | 6.3e18
+Hoeveel elektronen is 1 Coulomb? 6.24 * 10¹⁸ | 6.24e18
 1 V in andere eenheden? 1 J/C
-Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan trekken ze mekaar aan? ja
-Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan trekken ze mekaar aan? nee
-Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan stoten ze mekaar af? nee
-Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan stoten ze mekaar af? ja
 
 formule voor arbeid? W = Fs
 formule voor lading / wet van Faraday? Q = It
 formule voor soortelijke weerstand / wet van pouillet? R = ρl/A | R = rho * l/A | R = rho l/A | RA = lrho | RA = rho * l | RA = rho l
 formule voor spanningval? U = 2IR
 formule voor stroomdichtheid? J = I/A | JA = I
-formule voor temperatuur (invloed op weerstand)? Rₜ = R₀ + αtR₀ | Rt = R0 (1 + alpha t) | Rt = R0 + R0 alpha t
+formule voor temperatuur (invloed op weerstand)? Rₜ = R₀ + αtR₀ | Rt = R0 (1 + alpha T) | Rt = R0 + R0 alpha T | R = R0 (1 + alpha T) | R = R0 + R0 alpha T
 formule voor vermogen? P = W/t
 formule voor weerstand / wet van Ohm? R = U/I | U = IR
 formule voor vervangingsweerstand parallel? Rₜ = 1/(1/R₁ + 1/R₂) | Rt = 1/(1/R1 + 1/R2)
@@ -82,19 +78,18 @@ formule voor vervangingsweerstand serieel? Rₜ = R₁ + R₂ + ... | Rt = R1 + 
 formule voor dichtheid? ρ = m/V | rho = m/V
 
 eenheid voor doorsnede (A)? mm² | mm2
-eenheid voor arbeid (W)? joule
-eenheid voor vermogen (P)? watt
+eenheid voor arbeid (W)? joule | J
+eenheid voor vermogen (P)? watt | W
 eenheid voor stroomsterkte (I)? ampere | A
 eenheid voor lading (Q)? C | Coulomb | Ah
 eenheid voor spanning (U)? Volt | V
 eenheid voor weerstand (R)? Ohm
 
-grootheid voor A? doorsnede | oppervlakte
 grootheid voor F? kracht
 grootheid voor I? stroomsterkte
 elektriciteit: grootheid voor J? stroomdichtheid
 grootheid voor P? vermogen
-grootheid voor R? weerstand
+electriciteit: grootheid voor R? weerstand
 grootheid voor U? spanning | elektrische spanning
 grootheid voor W? arbeid
 grootheid voor ρ (electriciteit)? soortelijke weerstand
@@ -103,7 +98,7 @@ grootheid voor ρ (electriciteit)? soortelijke weerstand
 
 
 ## warmte ##
-Wat is de soortelijk warmte van water? 4.19 kJ/kg K
+Wat is de soortelijk warmte van water? 4.184 kJ/kg K | 4184 J/kg K | 4.186 kJ/kg K | 4186 J/kg K
 Wat is de formule voor soortelijke warmte? Q = cmΔT | Q = cm delta T | Q = cmT | c = Q/mT | c = Q/m delta T
 formule voor latente warmte? Q = Lm | L = Q/m
 formule voor de warmtestroom [definitie]? φ = Q/t | phi = Q/t
@@ -132,31 +127,6 @@ Waar staat η voor in de warmteleer? viscositeit
 Waar staat ρ voor in de warmteleer? soortelijke massa | dichtheid
 Waar staat D voor in de warmteleer? diameter
 
-conductoren hebben een hogere/lagere k-waarde? hogere
-isolatoren hebben een hogere/lagere k-waarde? lagere
-laminaire stromingen hebben een goede/slechte warmtewisseling? slechte
-turbulente stromingen hebben een goede/slechte warmtewisseling? goede
-welke 4 parameters spelen een rol in de aard van een stroming? :: stromingssnelheid | stroomsnelheid :: viscositeit :: dichtheid | soortelijke massa :: diameter ::
-wat zijn de 3 soorten warmtewisseling? convectie geleiding straling
-
-warmte = maat van kinetische energie van moleculen
-voelbare warmte = warmte die een temperatuursverandering tot gevolg heeft
-latente warmte = verzamelnaam voor stollings-, smeltings-, condensatie en verdampingswarmte
-verdampen = van vloeibaar naar gas vorm gaan
-condenseren = van gas naar vloeibare vorm gaan
-sublimeren = van vaste vorm naar gas vorm gaan
-rijpen = van gas vorm naar vaste vorm gaan
-smelten = van vast naar vloeibare vorm gaan
-stollen = van vloeibaar naar vaste vorm gaan
-verdampingsenthalpie = hoeveelheid warmte benodigd om 1kg vloeistof te verdampen
-warmtegeleiding | geleiding = moleculen blijven op hun plaats en geven door botsingen de inwendige energie door
-convectie = verplaatsing van warmte door het stromen van vloeistoffen of gassen
-straling | radiatie = vorm van warmte uitwisseling, die niet door moleculen gedaan wordt
-warmtestroom = hoeveelheid warmte die per tijdseenheid getransporteerd wordt
-laminaire stroming = trage stroming waarbij vloeistofdeeltjes zich evenwijdig in cilindrische schillen bewegen
-turbulente stroming = snelle stroming waarbij deeltjes onregelmatig door elkaar heen wervelen
-condenspot = warmte: afsluiter die condensaat zo snel mogelijk uit de warmtewisselaar evacueert
-
 
 
 
@@ -177,39 +147,27 @@ P₄ | P4 = formule van witte fosfor
 N₂ | N2 = formule van stikstofgas
 NH₃ | NH3 = formule van ammoniak
 NH₄⁺ | NH4+ = formule van ammonium
-enthalpie = warmte inhoud van een systeem
+enthalpie | enthalpy = warmte inhoud van een systeem
 entropie = mate van wanorde in een systeem
 activeringsenergie = energie die toegevoegd moet worden om een chemische reactie te laten verlopen
 effectieve botsing = botsing tussen twee deeltjes die een reactie veroorzaken
-zwavelzuur = benoem het zuur H₂SO₄
-zwaveligzuur = benoem het zuur H₂SO₃
-salpeterzuur = benoem het zuur HNO₃
-salpeterigzuur = benoem het zuur HNO₂
-koolzuur = benoem het zuur H₂CO₃
-fosforzuur = benoem het zuur H₃PO₄
 neutralisatie | neutraliseren = een zuur en een base elkaar op laten heffen
 0°C | 0 C | 0 graden = temperatuur onder normale condities
 25°C | 25 C | 25 graden = temperatuur onder standaard condities
 22.4 L = volume 1 mol gas onder normale condities
 24.5 L = volume 1 mol gas onder standaard condities
-mol/L = eenheid molariteit
 g/L = eenheid massaconcentratie
-substituent = atoomgroep die één of meer waterstof atomen kan vervangen aan een koolstof keten
 alkylgroep = substituent bestaande uit enkel C- en H- atomen
 functionele groep = substituent welke atomen bevat anders dan C en H
-isomeren | isomeer = stoffen met dezelfde chemische formule, maar een verschillende structuur
-optische isomeren | optische isomeer = stoffen met dezelfde chemische formule, welke mekaars spiegelbeeld zijn
-cis-trans isomeren | cis trans isomeren | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
 additie = iets toevoegen aan een organische keten
 substitutie = een deel van een organische keten vervangen
 eliminatie = een deel van een organische keten verwijderen
-cracking = een organische keten in stukken hakken
 polymerisatie = organische ketens samenvoegen tot een lange keten
 substraat = organische keten waar we we een reactie mee doen (additie, substitutie, eliminatie, etc.)
 alcoholen | alcohol = organische moleculen die zich zowel als zuur als als base kunnen gedragen; ondergaat gisting, additie, substitutie, eliminatie en oxidatie
 ethers | ether = organische moleculen die vaak als oplos- en extractie middel worden gebruikt; brandbaar
 aminen | amine = organische moleculen die basisch zijn en onaangenaam ruiken; gebruikt als kleurstoffen, in farmaceutische producten en in kunststoffen
-carbonzuren | carbonzuur = organische moleculen die zich als een zuur gedragen
+carbonzuren | carbonzuur | carboxyl acid | carboxyl = organische moleculen die zich als een zuur gedragen
 esters | ester = organische moleculen die ontstaan uit condensatie reacties tussen een carbonzuur en een alcohol; vaak gebruikt als geurstof en in de productie van kunststoffen
 amiden | amide = weinig reactieve organische moleculen die we terug vinden in vitamine B5 en in pijnstillers
 
@@ -218,17 +176,13 @@ in een heterogeen mengsel zijn deeltjes groter dan wat? 10⁻⁷ m | 10e-7 m | 1
 wat ligt tussen homogene en heterogene mengsels in? colloïdale mengsels | colloidale mengsels | colloidaal mengsel
 colloïdale mengsels hebben deeltjes groottes van ____ to ____ ? 10⁻⁹m 10⁻⁷m | 10e-9 m 10e-7 m | 1 nm 100 nm
 welke subniveaus kan een elektronen schil hebben? spdf
-hoeveel elektronen zijn er maximaal per subniveau? s2 p6 d10 f14
+hoeveel elektronen zijn er maximaal per subniveau (4x letter plus aantal)? s2 p6 d10 f14
 waaruit bestaat koningswater? :: zoutzuur | HCl :: salpeterzuur | HNO₃ | HNO3 ::
 een atoom met een hogere EN trekt sterker/zwakker elektronen aan? sterker
 een atoom met een lagere EN trekt sterker/zwakker elektronen aan? zwakker
-chemie: Wat betekent δ⁺? positieve ladingverschuiving | positieve ladingsverschuiving
-chemie: Wat betekent δ⁻? negatieve ladingverschuiving | negatieve ladingsverschuiving
-wat is ΔEN bij een ionbinding? >= 1.7
-wat is ΔEN bij een covalente binding? < 1.7
 een chemisch process verloopt volledig als de enthalpie daalt/stijgt en de entropie daalt/stijgt? daalt stijgt
 een chemisch process verloopt niet spontaan als de enthalpie daalt/stijgt en de entropie daalt/stijgt? stijgt daalt
-welke twee voorwaarden moet een botsing hebben om een chemische reactie te veroorzaken? :: krachtig | kracht :: richting ::
+welke twee voorwaarden moet een botsing hebben om een chemische reactie te veroorzaken? :: krachtig | kracht | energie :: richting ::
 wat is de formule van zwavelzuur? H₂SO₄ | H2SO4
 wat is de formule van zwaveligzuur? H₂SO₃ | H2SO3
 wat is de formule van salpeterzuur? HNO₃ | HNO3
@@ -248,263 +202,100 @@ met welke atomen kan een waterstof atoom een waterstofbrug vormen? :: F :: N :: 
 
 
 
+
+
+
+
+
+
+
+
+
+
+# meet en regeltechniek
+capillair = glazen buis van een vloeistofthermometer met lineaire schaal voor het aflezen van de temperatuur
+positieve temperatuur's coëfficiënt | PTC = als bij een metaal de weerstand toeneemt bij stijgende temperatuur
+negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand afneemt bij stijgende temperatuur
+
+# transport van stoffen
+η | eta = symbool van dynamische viscositeit
+kritische snelheid = stromingssnelheid waarbij een laminaire stroming over gaat in een turbulente stroming
+
+# scheidingstechnieken
+absorptie = oplossen van een gas in een vloeistof
+emulgatoren| emulgator = soort stof die emulsies stabiel maakt
+filtraat = heldere vloeistof die resulteert uit een filtratie
+neerslag | residu = suspensie die bij filtratie in het filter achter blijft
+azeotroop = mengsel van twee of meer componenten waarvan de dampfase dezelfde samenstelling heeft als de vloeistoffase
+reflux = condensaat uit een destilatieopstelling terug vloeien naar de opstelling
+wat is de formule van de wet van Raoult? p = pA + pB
+wat is de formule van de wet van Dalton? pA = yA p
+wat zegt de wet van Raoult? partieeldrukken optellen
+wat zegt de wet van Dalton? partieeldruk = molfractie | molfractie = partieeldruk
+
 # appendages
-treksterkte = de kracht nodig om een materiaal te laten breken
-hardheid = weerstand van een materiaal tegen indringing van andere lichamen
-stijfheid = weerstand van een materiaal tegen elastische of niet-blijvende vervorming
-stugheid = weerstand van een materiaal tegen plastische of blijvende vervorming
-brosheid = hoe makkelijk een materiaal breekt bij een kleine vervorming
-RVS304 = alternatieve naam voor RVS18/8
-RVS18/8 = alternatieve naam voor RVS304
 polyvinylchloride = volledige naam van PVC
 polyetheen = volledige naam van PE
-PVC = afkorting van polyvinylchloride
-PE = afkorting van polyetheen
-thermoplasten | thermoplast = kunststof die smelt bij opwarming
-thermoharders | thermoharder = kunststof die ontbindt bij opwarming
-elastomeren | elastomeer = synthetische rubbersoort met grote elasticiteit en stugheid
-PTFE = afkorting van poly tetra fluor etheen
-poly tetra fluor etheen = volledige naam van PTFE
-poly tetra fluor etheen | PTFE = technische naam van teflon
-corrosie = chemische oxidatiereactie tussen zuurstof en metaal
-kathodische bescherming = geleidend contact met onedeler metaal om corrosie tegen te gaan
-oppervlaktecorrosie = corrosie verspreid over het gehele metaaloppervlakte
-spanningscorrosie = corrosie die ontstaat als twee metalen van verschillende edelheid met elkaar verbonden zijn
-putvormige corrosie | pitting = corrosie die zich uit in de vorm van putjes die snel dieper en breder worden
-pitting = alternatieve naam voor putvormige corrosie
-putvormige corrosie = alternatieve naam voor pitting
 Fe₂O₃ | Fe2O3 = formule voor hematiet
 Fe₃O₄ | Fe3O4 = formule voor magnetiet
-H₂O₂ | H2O2 = formule voor waterstof peroxide
 rood = kleur van hematiet
 zwart = kleur van magnetiet
-zink | Zn = heel onedel metaal wat vaak als opofferingsmetaal gebruikt wordt
-chloor RVS O2 stoomketel | Cl- RVS, O2 stoomketel | Cl- RVS O2 stoomketel | Cl RVS O2 stoomketel = 2 voorbeelden van pitting
-DN = ISO normering voor binnendiameter van een buis
-mm = eenheid van de DN
-inch = eenheid van de NPS
-mofverbinding = verbinding tussen appendages, waarbij een buiseinde om de ander heen schuift
-flensverbinding = verbinding tussen appendages, waarbij bouten en moeren gebruikt worden
-blindplaat | blindflens = flens plaat die op een vrije flens wordt geplaatst om een leiding af te dichten
-steekflens = gesloten flens plaat met een uitstekende stang
-brilflens = flens plaat met een open kant en een dichte kant
-o-ringen | o ringen | o-ring | o ring = cirkelvormige afdichtingen vervaardigd uit een elastisch materiaal
-backup-ringen | backup ringen | backup-ring | backup ring = ringen die in een groef geplaatst worden met een o-ring om te voorkomen dat de o-ring beschadigd door extrusie
-quad-ringen | quad ringen | x ringen | x-ringen | quad-ring | quad ring | x ring | x-ring = ringen met 4 afdichtingslippen geschikt voor dynamische toepassingen
-RVS316 = corrosiebestendige variant van roestvrij staal
+RVS316 = meest gebruikte corrosiebestendige variant van roestvrij staal
 RVS304 = meest voorkomende variant van roestvrij staal
-flens = platte ring aan het uiteinde van een buis
-nippel = mannelijke fitting
-mof = vrouwelijke fitting
-gegroefde prenten | gegroefde prent = geribbelde afwerking van een flens om beter tegen hoge drukken te kunnen
-KV-factor | KV factor = hoeveel m³ water op kamertemperatuur per uur door een volledig geopende klep stroomt (bij een drukval van 1 bar)
-m³/u | m3/u = eenheid van de KV-factor
-gallons/minute | gallon/minute = eenheid van de CV-waarde
-CV-waarde | CV waarde = amerikaanse tegenhanger van de KV factor
-klepkarakteristiek = verhouding tussen de stand van de klep tegenover het debiet
-waterslag = drukgolf in vloeistof die ontstaat bij het plots sluiten van een klep
-erosie = slijtage aan kleppen als gevolg van schuring door (onder andere) water
-cavitatie = implosies ten gevolg van drukverlagingen die ontstaan door beweging
-bedieningskoppel = koppel benodigd om een afsluiter te openen of te sluiten
-Nm = eenheid van het bedieningskoppel van een kraan
-fire-safe | fire safe = kwalificatie van een klep die belooft dat de klep beperkt lekt bij hoge druk en temperatuur
-anti static = veer ingebouwd in een kogelkraan om de opbouw van statische elektriciteit te stoppen
-pig afsluiter = variant op de kogelkraan die de pijpleiding kan reinigen
-pijpstop = andere naam voor een pig
-driewegkraan = variant op de plug- of kogelafsluiter die 3 aansluitingen heeft
-vierwegkraan = variant op de plug- of kogelafsluiter die 4 aansluitingen heeft
-L-poort | L poort = een plug of kogel met doorgangen in de vorm van een L
-T-poort | T poort = een plug of kogel met doorgangen in de vorm van een T
-duplex filters = toepassings voorbeeld voor 3-wegafsluiters
-plaatafsluiter = andere naam voor mesafsluiter
-mesafsluiter = andere naam voor plaatafsluiter
-mesafsluiter | plaatafsluiter = variant op de schuifafsluiter
-NC = alternatieve afkorting voor ATO
-NO = alternatieve afkorting voor ATC
-naaldafsluiter = soort klepafsluiter geschikt om kleine debieten bij hoge drukken zeer precies te regelen
-sandwichkoppeling = een vinderklep zonder eigen flenzen rechtstreeks tussen 2 leidingflenzen monteren
-terugslagklep = klep welke de vloeistof maar in 1 richting doorlaat
-ontluchting | ontluchter = zorgt ervoor dat overdruk aan de bovenkant van een drukreduceerventiel afgevoerd wordt
-deflector = zorgt ervoor dat een reduceerventiel bij openen meer stoom doorlaat
-vacuümbreker | vacuumbreker = aanwezig in een stoomgedreven warmtewisselaar om beschadiging door onderdruk tegen te gaan
-hysteresis = verschil tussen openings- en sluitingsdruk van een drukreduceerventiel
-set pressure = ingestelde druk van een drukreduceerventiel
-bolvormig | bol = vorm van een breekplaat
-breekplaat = overdukbeveiliging die maar 1x gebruikt kan worden
-vacuüm steunplaat | vacuum steunplaat = plaat die voorkomt dat een gebogen breekplaat ombuigt door onderdruk
-breukdetectie = systeem om het barsten van een breekplaat de detecteren
-weerstandsverlies | leidingverlies = verlies van druk wanneer een vloeistof door een leiding stroomt
-inductieve naderingsschakelaar = sensor die het nabij zijn van een magneet detecteert
-revaporisatie = stoom gevormd uit gecondenseerd stoom onder invloed van drukverlaging
-stoomslag = condensaatprop die op hoge snelheden door stoom door een leiding heen gekatapulteerd wordt
-condenspot = afsluiter die condensaat doorlaten, maar stoom blokkeren
-expansiebocht = vorm van leiding die lengteverandering o.i.v. temperatuur op vangt
-compensator = kan met flenzen tussen 2 stukken leiding geplaatst worden om lengteverandering op te vangen
-vlamsper = leiding accessoire die vlammen kan uitdoven
-condensaat = gecondenseerd stoom
-waterafscheider = vangt waterdruppels af die zich in het stoom bevinden
-
 hoeveel koolstof bevat staal? <2%
 hoeveel koolstof bevat gietijzer? 2.5% - 4% | 2.5 - 4%
-welke 4 voordelen heeft gietijzer? :: dempend | demping :: gietbaar :: goedkoop :: zuurbestand | zuurbestendig ::
-welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onlasbaar | bros niet lasbaar
 Naast ijzer en koolstof bevat ongelegeerd staal maximaal hoeveel procent andere stoffen? 1.5% | 1.5 | <1.5%
 welke 2 eigenschappen geeft meer koolstof aan staal? brosheid & hardheid | brosheid hardheid | bros hard | hard bros
 welk staal is het meest gebruikt? ongelegeerd staal | ongelegeerd
 welke 2 positive eigenschappen heeft ongelegeerd staal? :: bewerkbaar | vormbaar :: goedkoop ::
 Naast ijzer en koolstof bevat laag geleerd staal hoeveel procent andere stoffen? 1.5% - 5% | 1.5 - 5% | 1.5 - 5
 welke eigenschap heeft chroom geleerd staal? corrosiebestendig
-onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur | hoge lage temperatuur
+onder welke omstandigheden heeft nikkel een gunstige invloed op staal? hoge temperaturen & lage temperaturen | hoge & lage temperaturen | hoge en lage temperaturen | hoge temperaturen lage temperaturen | hoge temperatuur lage temperatuur | hoge & lage temperatuur | hoge lage temperatuur | extreme temperaturen | extreme temperatuur
 Naast ijzer en koolstof bevat hoog gelegeerd staal minimaal hoeveel procent andere stoffen? 5% | 5
-Wat zijn de hoofdlegeringselementen in rvs? chroom & nikkel | chroom nikkel | Cr & Ni | Cr Ni
-Wat duidt 18/8 aan in RVS18/8? 18% Cr 8% Ni
-Wat is de samenstelling van RVS304? 18% Cr 8% Ni
-Wat is de samenstelling van RVS316? 16% Cr 10% Ni 2% Mo
+Wat zijn de twee hoofdlegeringselementen in rvs? :: chroom | Cr :: nikkel | Ni ::
+Wat duidt 18/8 aan in RVS18/8? :: 18% Cr | Cr 18% :: 8% Ni | Ni 8% ::
+Wat is de samenstelling van RVS304? :: 18% Cr | Cr 18% :: 8% Ni | Ni 8% ::
+Wat is de samenstelling van RVS316? :: 16% Cr | Cr 16% :: 10% Ni | Ni 10% :: 2% Mo | Mo 2% ::
 Welk element wordt toegevoegd aan RVS om staal corrosiebestendig tegen chloor te maken? Molbydeen | Mo
 Is RVS magnetisch? nee
+welke niet-metalen zijn geschikt voor het vervoeren van zuren, alkaliën en zeewater? polyvinylchloride & polyetheen | PE & PVC | PE PVC | PVC & PE | PVC PE
+welke 2 beperkingen hebben PVC en PE? :: sterkte :: temperatuurgevoelig | temperatuur ::
 Wat is de relatieve warmte-uitzettingscoëfficient van RVS t.o.v. ongelegeerd staal? 1.5
 Welk element wordt vaak aan het staal van gereedschap toegevoegd? vanadium | V
 Wat is het hoofdbestanddeel van legeringen gebruikt bij extreem hoge temperaturen? nikkel
 Welke 2 voordelen hebben staallegeringen met veel koper? :: corrosieweerstand | corrosiebestendig :: geleiding | warmtegeleidend | geleidend ::
 welke legeringen geleiden elektriciteit en warmte goed en hebben een goede weerstand tegen corrosie? koperlegeringen | koperlegering
-waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn
-Wat is het grote voordeel van aluminium? licht (gewicht) | licht
-wat zijn de 4 voordelen van een aluminiumlegering? :: corrosiebestendig :: slijtvast :: vonkloos :: vormbaar ::
-wanneer is aluminium ongeschikt? hoge temperaturen | hoge temperatuur
-wat is de belangrijkste eigenschap van titanium? corrosiebestendig
-wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten | duur
-welke niet-metalen zijn geschikt voor het vervoeren van zuren, alkaliën en zeewater? polyvinylchloride & polyetheen | PE & PVC | PE PVC | PVC & PE | PVC PE
-wat gebeurt er met PVC als je het in de zon laat? wordt bros | bros
-welke beperkingen hebben PVC en PE? sterkte & temperatuurgevoelig | sterkte temperatuurgevoelig | sterkte temperatuur
+waaruit bestaat messing? koper met 10% zink | koper & 10% zink | koper 10% zink | Cu 10% Zn | Cu Zn
 welk materiaal is zeer inert tegenover allerlei chemische media, is niet giftig en heeft een zeer lage vrijwingscoëfficient? teflon | poly tetra fluor etheen | PTFE
 welke beperking heeft teflon? temperatuurgevoelig | temperatuur
 vanaf hoeveel graden heeft teflon kwaliteitsverlies? 260 graden | 260
-Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? fluorelastomeren
 waarvoor worden fluorelastomeren vooral gebruikt? afdichtingen | afdichting
-wat zijn de 2 grote voordelen van fluorelastomeren? :: corrosiebestendig | inertie | inert :: temperatuurbestendig | temperatuursbestendig | temperatuurbestendigheid | temperatuursbestendigheid | temperatuur ::
 Materiaal gevormd door verhitting en/of druk van minimaal 2 elementen, waarvan minimaal 1 niet metaal? keramisch materiaal | keramisch
 welke 3 positieve eigenschappen hebben keramische materialen? :: hard :: hittebestendig|temperatuurbestendig|warmtebestendig :: slijtvast ::
 welk nadeel heeft keramisch materiaal? bros
 op welke 3 manieren kunnen we corrosiebescherming realiseren? beschermende laag, legering, kathodische bescherming | beschermende laag legering kathodische bescherming | laag legering kathodisch
 welke 3 soorten lagen kunnen corrosiebescherming geven? :: coating :: metaallaag|metaal :: oxidelaag|oxide ::
 noem 2 processen die een metaallaag op een ander metaal aanbrengen om corrosie tegen te gaan? verzinken & verchromen | galvaniseren & verchromen | verzinken verchromen | galvaniseren verchromen | verchromen verzinken
-welke 3 dingen zijn er benodigd voor corrosie? kathode anode elektrolyt | anode elektrolyt kathode
-wat is de formule voor het berekenen van de pH? pH = -log[H⁺] | pH = -log[H+]
-appendages: waar staat NBN voor? bureau voor normalisatie
-appendages: waar staat DIN voor? Deutsches institut fur normung
-appendages: waar staat ANSI voor? american national standards institute
-appendages: wat is de volledige naam van de instantie genaamd API? american petroleum institute
-appendages: waar staat ISO voor? international organization for standardization
-appendages: waar staat DN voor? diametre nominal
-appendages: waar staat NPS voor? nominal pipe size
-appendages: waar staat PN voor? pression nominale
-appendages: waar staat KV voor? klepvermogen | valve capacity
-appendages: waar staat pdt voor? pressure differential transmitter
-appendages: waar staat fc voor? flow controller
-appendages: waar staat ATO voor? air to open
-appendages: waar staat ATC voor? air to close
-appendages: waar staat NC voor? normally closed
-appendages: waar staat NO voor? normally open
-appendages: waar staat m.v.k. voor? meter vloeistof kolom
-appendages: wat is de eenheid van PN? bar
-appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
-wat zijn de 3 nadelen van een te grote leidingdiameter? :: duur :: onbestuurbaar :: warmteverlies | energieverlies | energie ::
-wat zijn de 4 nadelen van een te kleine leidingdiameter? :: capaciteit :: drukverliezen | drukverlies :: slijtage :: trillingen ::
-Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
-hoe heet de wanddikte van een appendage? het schedule | schedule
-wanneer gebruikt men fittings? bij lage druk | lage druk
-welke 2 voordelen heeft een mofverbinding? :: goedkoop :: kan onder een kleine hoek | hoek mogelijk | hoek ::
-welke beperkingen heeft een mofverbinding? lage druk & lage temperatuur | lage druk & temperatuur | lage druk en temperatuur | lage druk lage temperatuur | lage druk temperatuur
-hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
-wat is de meest gebruikte pijpverbindingsmethode? lassen
-wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
-wat is het grote voordeel van gegroefde prenten? drukbestendig | druk
-welke 4 belastingen moet men in acht nemen bij afdichting van appendages? :: beweging :: chemische | chemisch :: mechanische | mechanisch | druk :: thermische | thermisch | temperatuur ::
-waaruit bestaan samengestelde dichtingen? :: metalen strip | metalen ring :: vulmateriaal | vulling ::
-welke 4 zaken moet men op letten bij het monteren van plaatpakking? :: dun :: schoon :: passen :: geen hergebruik ::
-zachte dichtingen worden uit welke 3 materialen gemaakt? :: asbest :: grafiet :: PTFE|teflon ::
-bij welke 3 omstandigheden gebruiken we slangen? rare hoeken lengteveranderingen regelmatig wisselen | hoeken lengteveranderingen wisselen | hoek lengteverandering wisselen
-welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen | chemie druk temperatuur trilling
-welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? :: katoen :: nylon ::
-wat wordt er aan rubberen slangen toegevoegd om extra hoge mechanische belasting aan te kunnen? staaldraad
-wat is het grote voordeel van kunststof slangen? inertie | inert
-welke 2 soorten metalen slangen zijn er? :: gevlochten :: gewikkeld ::
-Welke 3 aspecten van een flexibel moeten gecontroleerd worden voor gebruik? binnenkant buitenkant koppeling
-Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | druk
-welke 3 doelen kunnen kleppen en kranen hebben? :: leidingen afsluiten | afsluiten :: debiet regelen | regelen :: verdelen ::
-wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
-wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
-waarvan worden de afdichtingen van een kogelkraan gemaakt? PTFE | teflon
-welke 2 risico's loopt men bij het gebruik van een kogelkraan als regelkraan? cavitatie & erosie | cavitatie erosie
-is een plugkraan geschikt als regelkraan? nee
-is de plugkraan outdated? ja
-is een kogelkraan geschikt als regelkraan? nee
-is een kogelkraan geschikt als afsluiter? ja
-is de kogelkraan outdated? nee
-is een schuifafsluiter geschikt als regelkraan? nee
-is een schuifafsluiter geschikt als afsluiter? ja
-is de schuifafsluiter outdated? nee
-een schuifafsluiter met een schuif uit 1 stuk gebruiken we tot hoeveel bar? 25 bar | 25
-een schuifafsluiter met een schuif uit 2 stukken gebruiken we tot hoeveel bar? 100 bar | 100
-welke 2 producten zijn gevaarlijk als ze in de schuif van een schuifafsluiter vast komen te zitten? :: chloorbleekloog :: waterstof peroxide | H₂O₂ | H2O2 ::
-waarvoor worden plaatafsluiters vooral gebruikt? poeders | korrels | poeder | korrel
-klep die maar in 1 richting op de vloeistofstroom gezet mag worden? klepafsluiter
-is een klepafsluiter geschikt als regelkraan? ja
-is een klepafsluiter geschikt als afsluiter? nee
-is de klepafsluiter outdated? nee
-Hoe heet een klep die bij wegvallen van de stuurdruk volledig dicht is? air to open | ATO | NC
-Hoe heet een klep die bij wegvallen van de stuurdruk volledig open is? air to close | ATC | NO
-welke 3 soorten klepvormen kan een klepafsluiter hebben? :: parabolic plug | parabolic :: guided plug | guided :: regulating plug | regulating ::
-wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichting
-is een membraanafsluiter geschikt als regelkraan? ja
-is een membraanafsluiter geschikt als afsluiter? ja
-wat zijn de 3 nadelen van de membraanafsluiter? :: lage druk | druk :: lage temperatuur | temperatuur :: slijtage | lekken ::
-welk nadeel heeft een terugslagklep met lichtende klep/kogel? drukverlies | leidingverlies
-wanneer gebruiken we een rubberen terugslagklep? onzuiver medium | onzuiver
-wat is het voordeel van een membraanterugslagklep? lage leidingweerstand | weinig drukverlies | weinig leidingverlies | leidingverlies | weinig weerstand | weerstand
-wat is het voordeel van een drukreduceerventiel met membraan? nauwkeurig | gevoelig
-wat probeert men te voorkomen door een breekplaat bolvormig te maken? metaalmoeheid
-wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | loskomen | lekken
-waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
-waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
-welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: oppervlakteruwheid :: soortelijke massa | dichtheid :: stromingssnelheid | stroomsnelheid :: viscositeit ::
-appendages: waarmee duiden we het totale leidingverlies aan? pw
-appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
-appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
-geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | condensatie | condens :: energiekosten | energie :: stollen/kristalliseren van media | kristalliseren | kristallisatie :: spanningen door uitzetting | spanningen | spanning ::
-hoe voorkomt men convectie en geleiding? droge lucht | lucht
-hoe voorkomt men straling? aluminium folie | aluminium
-welke 5 eisen hebben we aan isolatie materiaal? :: brandvast :: buigzaam :: lage warmtegeleidingscoefficient | geleiding :: lage massadichtheid | massadichtheid | soortelijke massa :: vormvast ::
-welke 3 soorten isolatiematerialen hebben we? :: dierlijk :: mineralen|mineraal :: kunststoffen|kunststof ::
-Welk temperatuur bereik heeft dierlijk en plantaardig isolatie materiaal? 0 tot 100 graden | 0-100 C | 0 100 C | 0-100 | 0 100
-welke 4 soorten minerale isolatiematerialen kennen we? :: glaswol :: kieselgoer :: slakkenwol :: steenwol ::
-welke 3 soorten kunststof isolatiematerialen kennen we? :: geexpandeerd polystyreenschuim | EPS :: polystyreenschuim | XPS :: polyurethaan geextrudeerd | PUR ::
-waar moeten we voor uitkijken bij koude isolatie? ijsvorming
-welke 2 materialen kunnen er om de isolatie gewikkeld worden om ijsvorming tegen te gaan? gipsbandages kunststofbandages | gipsbandage kunststofbandage
-appendages: hoeveel meter water kolom is 1 bar? 10 meter | 10 m | 10
-
-[symbool-blindflens.png] wat geeft het symbool weer? blindflens
-[symbool-brilflens.png] wat geeft het symbool weer? brilflens
-[symbool-slang.png] wat geeft het symbool weer? slang | flexibel
-[symbool-steekflens.png] wat geeft het symbool weer? steekflens
-[symbool-plugkraan.png] wat geeft het symbool weer? plugkraan
-[symbool-kogelkraan.png] wat geeft het symbool weer? kogelkraan
-[symbool-schuifafsluiter.png] wat geeft het symbool weer? schuifafsluiter
-[symbool-3-wegafsluiter.png] wat geeft het symbool weer? driewegkraan | driewegafsluiter
-[symbool-4-wegafsluiter.png] wat geeft het symbool weer? vierwegkraan | vierwegafsluiter
-[symbool-klepafsluiter.png] wat geeft het symbool weer? klepafsluiter
-[symbool-membraanafsluiter.png] wat geeft het symbool weer? membraanafsluiter
-[symbool-knevelafsluiter.png] wat geeft het symbool weer? knevelafsluiter
-[symbool-vlinderklep.png] wat geeft het symbool weer? vlinderklep
-[symbool-terugslagklep.png] wat geeft het symbool weer? terugslagklep
-[symbool-condenspot.png] wat geeft het symbool weer? condenspot
+wat is de formule voor het berekenen van de pH? pH = -log[H⁺] | pH = -log[H+] | pH = -log[H₃O⁺] | pH = -log[H3O+]
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+@EOF@
 # meet en regeltechniek
-positieve temperatuur's coëfficiënt | PTC = als bij een metaal de weerstand toeneemt bij stijgende temperatuur
-negatieve temperatuur's coëfficiënt | NTC = als bij een metaal de weerstand afneemt bij stijgende temperatuur
 100 Ω | 100 ohm = weerstand van platina bij 0°C
 138.5 Ω | 138.5 ohm = weerstand van platina bij 100°C
 storing | verstoring = m&r: iets wat het evenwicht in een geregeld systeem ontwricht
@@ -519,7 +310,6 @@ open regelsysteem = systeem welke niet de proceswaarde meet, maar wel de storing
 stuursysteem = systeem waar de stuurwaarde alleen op basis van de gewenste waarde wordt bepaald; er vindt geen terugkoppeling plaats
 gesloten regelkring | gesloten regelsysteem = systeem waar de stuurwaarde op basis van de gemeten waarde wordt bepaald; er vindt terugkoppeling plaats
 transmitter = dit apparaat zet de sensorwaarde om in een standaardsignaal
-omvormer = dit component zet de stuurwaarde om in een sterkere mechanische kracht
 actuator | positioner = krachtig corrigerend orgaan om een grote klep aan te sturen
 versterkingsfactor = hoe sterk een kleine bijsturing op het corrigerend orgaan effect heeft op wat de sensor meet
 tijdsconstante = hoe snel een proces reageert op bijsturing
@@ -527,7 +317,6 @@ dode tijd = hoe lang het duurt voordat een bijsturing een verandering bij de sen
 staaf thermometer = type thermometer welke de uitzetting van een stuk metaal gebruikt om de temperatuur te meten
 bimetaal thermometer = type thermometer welke het verschil in uitzetting tussen twee metalen gebruikt om de temperatuur te meten
 uizettingscoëfficiënt | uitzettingscoefficient = de mate waarin een metaal uitzet onder invloed van temperatuurswijzigingen
-capillair = glazen buis van een vloeistofthermometer met lineaire schaal voor het aflezen van de temperatuur
 Kelvin | K = SI eenheid voor temperatuur
 kleurstiften | kleurstift = apparaat waarmee kleurstof aangebracht kan worden die verkleurt bij een bepaalde temperatuur
 zero instelling | offset = instelling signaal bij de laagste meetwaarde
@@ -568,9 +357,27 @@ statische offset fout = het niet bereiken van de ingestelde waarde met een p-reg
 1 Pa·s | 1 Pa s = 1 poise in andere eenheden
 overshoot = de kracht waarmee de proceswaarde boven de gemeten waarde uitkomt als zich een storing voordoet
 settling time = de tijd die de regelaar en het proces nodig hebben om na een storing weer te herstellen
-master slave regeling = alternatieve naam voor cascadeschakeling
-cascadeschakeling = alternatieve naam voor master slave regeling
+master slave regeling | master slave schakeling = alternatieve naam voor cascadeschakeling
+cascadeschakeling | cascaderegeling = alternatieve naam voor master slave regeling
 split range schakeling = regelkring met 1 regelaar en 1 sensor, maar 2 corrigerende organen
+-100 1000 = een staafthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-40 600 = een bimetaal thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-180 700 = een glazen vloeistof thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-200 800 = een weerstandsthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+-270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
+omvormer = dit component zet de stuurwaarde om in een sterkere mechanische kracht
+wat is het voordeel van een U-buismanometer? nauwkeurigheid | nauwkeurig
+welk nadeel heeft een stuursysteem? gebrek aan controle | controle
+welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
+welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie | fouten :: de transmitter heeft stroom nodig | transmitter ::
+wat zijn de 2 nadelen van een U-buismanometer? :: breekbaar | kwetsbaar :: groot ::
+welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
+wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie ::
+wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen | fouten :: meetwaarden | meetwaarde | metingen | meting ::
+welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
+welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
+welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
+welke formule gebruiken we voor het berekenen van een debiet bij een meetschijf? Q = cΔp | Q = c delta p | Q = delta p c
 
 Is meettechniek een onderdeel van regeltechniek? ja
 Is regeltechniek een onderdeel van meettechniek? nee
@@ -700,7 +507,7 @@ M&R: welke afkorting gebruiken we voor de dode tijd? Td
 noem 3 redenen waarom een regelaar bij moet sturen? :: proces opstarten | opstarten | opstart :: fout :: wijziging gemeten waarde | wijziging | wijzigen | gemeten waarde | bijsturen ::
 wat is de formule voor een p-regelaar? y = y0 + kp(x-w)
 wat is de formule voor een i-regelaar? yt = yt-1 + ki(x-w)t
-wat is de formule voor een d-regelaar? yt = yt-1 + kd d(x-w)/dt
+wat is de formule voor een d-regelaar? yt = kd d(x-w)/dt
 welke 5 eisen hebben we aan een regelaar? :: snel ingrijpen | snel :: gewenste waarde instelbaar | instelbaar :: stabiel op gewenste waarde blijven | stabiliteit | stabiel :: keuzeknop automatisch/handmatig | automatisch handmatig | handmatig :: eenvoudige bediening | eenvoudig | eenvoud ::
 Wat zijn 3 voordelen van continue regelaars t.o.v. aan/uit regelaars? :: snelle en complexe processen stuurbaar | snel en complex | snel complex :: oneindig veel instelmogelijkheden | instelmogelijkheden | instelbaarheid | instelbaar :: nauwkeurig en stabiel | nauwkeurig | stabiel | stabiliteit ::
 Wat zijn 3 nadelen van continue regelaars t.o.v. aan/uit regelaars? :: complex :: duur :: minder robuust | robuust | betrouwbaarheid ::
@@ -708,7 +515,6 @@ welk type regelaars zijn P, I en D regelaars? continue regelaars | continue rege
 waar staat Tn voor bij PI regelaars? nasteltijd
 waar staat r voor bij PI regelaars? reset rate
 waar staat Ti voor bij PI regelaars? integratietijd
-waar staat Td voor bij PD regelaars? differentiatietijd
 
 [druk-torricelli.png] hoe heet deze drukmeter? buis van torricelli
 [druk-ubuis.png] hoe heet deze drukmeter? U-buismanometer | U buismanometer
@@ -733,195 +539,12 @@ waar staat Td voor bij PD regelaars? differentiatietijd
 [niveau-verdringer.png] hoe heet deze niveaumeter? verdringer
 [niveau-vlotter.png] hoe heet deze niveaumeter? vlotter
 
-
-
-
-# transport van stoffen
-verdringerpompen | verdringerpomp = hoofdgroep van pompen zonder verbinding tussen zuigzijde en perszijde die de vloeistof van de zuigzijde naar de perszijde duwt
-centrifugaalpompen | centrifugaalpomp = hoofdgroep van pompen welke met een draaiende rotor druk opbouwen
-m³/s | m³/u | m3/s | m3/u = eenheid van volume stroom
-m/s = eenheid van vloeistofsnelheid
-hydrostatische druk = druk ten gevolge van het eigen gewicht van een stilstaande vloeistof op een horizontaal vlak
-zuigdruk = druk in de leiding direct voor de pomp
-manometrische opvoerdruk | opvoerdruk = drukverschil tussen pers- en zuigzijde van de pomp
-opvoerhoogte = opvoerdruk uitgedrukt in meters
-opvoerdruk = opvoer hoogte uitgedrukt in bar
-veel = een vloeistof met een hoge viscositeit biedt weinig/veel weerstand tegen stroming
-weinig = een vloeistof met een lage viscositeit biedt weinig/veel weerstand tegen stroming
-η | eta = symbool van dynamische viscositeit
-Pa s = eenheid dynamische viscositeit
-kritische snelheid = stromingssnelheid waarbij een laminaire stroming over gaat in een turbulente stroming
-centrifugaalkracht = ander woord voor middelpuntvliedende kracht
-middelpuntvliedende kracht = ander woord voor centrifugaal kracht
-
-wat zijn de 3 hoofdgroepen van pompen? :: verdringerpompen | verdringerpomp | verdringer :: centrifugaalpompen | centrifugaalpomp | centrifugaal :: straalpompen | straalpomp | straal ::
-wat zijn de 2 groepen verdringerpompen? :: pulserende | pulserend :: roterende | roterend ::
-wat zijn de 3 types pulserende verdringerpompen? :: zuigerpompen | zuigerpomp ::  plunjerpompen | plunjerpomp :: membraanpompen |  membraanpomp ::
-wat zijn de 5 types roterende verdringerpompen? :: tandwielpompen | tandwielpomp :: schottenpompen | schottenpomp :: monopompen | monopomp :: wormpompen | wormpomp | schroefpompen | schroefpomp :: slangenpompen | slangenpomp ::
-transport: hoe wordt volumestroom ook wel genoemd? debiet | capaciteit | opbrengst
-transport: hoe wordt debiet ook wel genoemd? opbrengst | capaciteit | volumestroom
-transport: hoe wordt capaciteit ook wel genoemd? debiet | opbrengst | volumestroom
-transport: hoe wordt opbrengst ook wel genoemd? debiet | capaciteit | volumestroom
-transport: wat is de formule voor vloeistofsnelheid? v = Q/A
-wat gebeurt er als de druk in de zuigleiding minder is dan de dampspanning? cavitatie
-voor welke toepassing worden zuigerpompen vaak gebruikt? grote dieptes
-voor welke 2 toepassingen worden plunjerpompen vaak gebruikt? :: kleine volumestromen | kleine volumes :: hoge drukken | hoge druk ::
-welke hoofdgroep van pompen moet geheel met vloeistof gevuld zijn? centrifugaalpompen | centrifugaalpomp
-welke hoofdgroep van pompen heeft aanzuigende werking? verdringerpompen | verdringerpomp
-welke 2 soorten energie kan een vloeistof bevatten? :: potentieel | potentiele :: kinetisch | kinetische ::
-wat is de formule voor snelheid van een vloeistof uit een centrifugaalpomp? v = πDn/60 | v = pi Dn/60 | v = pi nD/60
-welke 2 factoren bepalen de opvoerhoogte van een centrifugaalpomp? :: toerental :: diameter ::
-wat zijn 5 voordelen van een centrifugaalpomp? :: gewicht :: klein | ruimte | volume :: constante vloeistofstroom | gelijkmatige vloeistofstroom :: bedrijfszekerheid | bedrijfszeker | betrouwbaar :: regelbaar ::
-wat zijn 3 nadelen van een centrifugaalpomp? :: afslaan bij lucht of gas | afslaan :: laag rendement | rendement :: niet zelfaanzuigend | geen aanzuigende werking ::
-Wat is het rendement van een kleine centrifugaalpomp? 50 tot 60% | 50-60% | 50 60%
-Wat is het rendement van een grote centrifugaalpomp? 85 tot 90% | 85-90% | 85 90%
-waarvoor gebruiken we verdringerpompen met roterende beweging? stroperige vloeistoffen | stroperige vloeistof | visceuze vloeistoffen | visceuze vloeistof
-waar worden lobbenpompen veel gebruikt? de voedingsindustrie | voedingsindustrie
-waar worden slangenpompen voornamelijk gebruikt? waterzuiveringsinstallaties | waterzuivering
-hoe wordt een wormpomp ook wel genoemd? schroefpomp | schroefspindelpomp
-hoe wordt een schroefpomp ook wel genoemd? wormpomp | schroefspindelpomp
-hoe wordt een schroefspindelpomp ook wel genoemd? wormpomp | schroefpomp
-hoe noemen we de richting van het midden naar buiten toe gericht? radiaal | radial
-hoe noemen we de richting die de as volgt? axiaal | axial
-welke 2 omstandigheden zijn typisch voor het gebruik van schroefpompen en schroefcentrifugaalpompen? :: grote volumestromen | grote volumes | groot volume | hoog debiet :: lage opvoerhoogten | lage opvoerhoogtes | lage opvoerhoogte ::
-welke 2 pompen gebruiken we vaak bij grote volumestromen en lage opvoerhoogtes? :: schroefpompen | schroefpomp :: schroefcentrifugaalpompen | schroefcentrifugaalpomp ::
-welke 3 toepassingen wordt de wervelstroompomp veel voor gebruikt? :: riool :: papier :: levensmiddelen | voeding ::
-welke 2 toepassingen wordt de straalpomp veel voor gebruikt? :: vacuüm | vacuum :: agressieve stoffen | agressieve vloeistoffen::
-waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde vloeistoffen of gassen | verontreinigde vloeistoffen | verontreinigde gassen | vervuilde vloeistoffen | vervuilde gassen
-
-[pomp-zuiger.png] welke pomp is dit? zuigerpomp
-[pomp-plunjer.png] welke pomp is dit? plunjerpomp
-[pomp-tandwiel.png] welke pomp is dit? tandwielpomp
-[pomp-lobben.png] welke pomp is dit? lobbenpomp
-[pomp-schotten.png] welke pomp is dit? schottenpomp
-[pomp-slange.png] welke pomp is dit? slangenpomp
-[pomp-worm.png] welke pomp is dit? wormpomp
-[pomp-mono.png] welke pomp is dit? monopomp
-[pomp-membraan.png] welke pomp is dit? membraanpomp
-[pomp-schroefcentrifugaal.png] welke pomp is dit? schroefcentrifugaalpomp
-[pomp-schroef.png] welke pomp is dit? schroefpomp
-[pomp-wervelstroom.png] welke pomp is dit? wervelstroompomp
-[pomp-straal.png] welke pomp is dit? straalpomp
-[pomp-vloeistofringvacuum.png] welke pomp is dit? vloeistofringvacuümpomp | vloeistofringvacuumpomp
-
-
-
-
-# scheidingstechnieken
-cohesie = algemene naam voor de aantrekkingskracht tussen deeltjes van een stof
-zeer groot | zeer hoog = cohesie van een vaste stof
-groot | hoog = cohesie van een vloeistof
-geen = cohesie van een gas
-kritisch punt = de hoogste druk waarbij nog een gas van een bepaalde stof voor kan komen
-enkelvoudige stof = stof die uit één element bestaat
-samengestelde stof = stof die uit verschillende elementen bestaat
-zuivere stoffen | zuivere stof = stof die vaste (getabelleerde) fysische constanten bezit
-:: bloed :: melk :: plantensap :: = 3 voorbeelden van colloïdale mengsels
-emulgatoren| emulgator = soort stof die emulsies stabiel maakt
-absorptie = oplossen van een gas in een vloeistof
-zeefmedium = deel van een zeef met mazen met een bepaalde maasweidte
-stroomgoot = apparaat met achter elkaar geplaatste bakken met toenemende trechtergrootte, die steeds fijnere deeltjes afvoeren
-windzifter = Apparaat dat een opwaartste luchtstroom gebruikt om fijne deeltjes af te voeren. Grove delen zakken naar de bodem.
-filtreren = vaste stof van een gas of vloeistof scheiden doormidden van een permeabel medium
-filtermedium = filterdoek of papier met zeer fijne mazen
-filterdrager = rooster ter bescherming van filterdoek
-filtraat = heldere vloeistof die resulteert uit een filtratie
-neerslag | residu = suspensie die bij filtratie in het filter achter blijft
-capaciteit = hoeveelheid filtraat die per tijdseenheid en per oppervlakte eenheid van een filter gewonnen wordt
-separator = apparaat wat vloeistof-vloeistof mengsels scheidt
-centrifuge = apparaat met ronddraaiende trommel die een centrifugaalkracht gebruikt om scheidingen uit te voeren
-cyclonen | cycloon = apparaat wat een stof rond laat draaien om het te scheiden
-kritisch toerental = bij een bepaalde snelheid zullen de imperfecties in de trommel van een centrifuge leiden tot gevaarlijke amplitudes
-onderkritisch = snelheid lager dan het kritisch toerental
-bovenkritisch = snelheid hoger dan het kritisch toerental
-vaste stof vloeistof = filtreercentrifuges gebruiken we voor het agscheiden van een vaste stof/vloeistof/gas uit een vaste stof/vloeistof/gas
-zwaartepunt-pendelcentrifuge | zwaartepunt pendelcentrifuge = verticale centrifuge waarbij de vaste stof discontinu verwijderd wordt
-verticale schroef centrifuge | schroef centrifuge = verticale centrifuge waarbij de vaste stof continu verwijderd wordt
-welke 2 type mengels kunnen we scheiden met dichte wand centrifuges? :: vloeistof mengsels | vloeistof mengsel | vloeistof vloeistof :: vloeistof vaste stof | vloeistof vast | vaste stof vloeistof | vast vloeistof ::
-overloopcentrifuges | overloopcentrifuge = centrifuges waarbij vloeistof over de rand loopt en wordt afgevoerd
-decanteercentrifuge = andere naam voor schroefcentrifuge
-schroefcentrifuge = andere naam voor decanteercentrifuge
-buiscentrifuge = continue centrifuge gebruikt voor het scheiden van vloeistof-vloeistof mengsels
-cycloonbatterij = in serie geschakelde hydrocyclonen die vaste deeltjes van een paar micrometer kunnen afscheiden
-yA = symbool voor de molfractie van A in de gasfase
-azeotroop = mengsel van twee of meer componenten waarvan de dampfase dezelfde samenstelling heeft als de vloeistoffase
-reflux = condensaat uit een destilatieopstelling terug vloeien naar de opstelling
-tx-diagram | tx diagram = grafiek met samenstelling van binair mengsel uitgezet tegen kooktemperatuur (met eventueel damplijn)
-minimale refluxverhouding = hoeveelheid reflux waarbij de gewenste samenstelling nog net bereikt wordt in een destillatiekolom
-werklijn = lijn die het verband weergeeft tussen de samenstelling van opstijgende damp en de vloeistof op de volgende schotel in een destillatietoren
-
-hoe ziet een homogeen mengsel er uit? helder
-hoe ziet een heterogeen mengsel er uit? troebel
-wat is de deeltjes grootte van suspensies en emulsies? 10⁻⁷ tot en met 10⁻⁶ m | 100 nm tot en met 1000 nm | 100 nm 1000 nm | 100 1000 nm
-wat is de deeltjes grootte van grove mensels? > 1 μm | > 1 micrometer | > 1000 nm
-welke 4 soorten homogene mengsels zijn er? :: gasmengsel :: twee vloeistoffen | vloeistofmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | opgeloste vaste stof | vaste stof vloeistof | vast in vloeistof ::
-hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopisch homogeen
-hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
-welke 2 technieken laten een zeefproces sneller verlopen? :: roteren :: pulseren ::
-welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig | corrosie :: sterkte | sterk :: geschikte constructie | constructie :: geschikte maasvorm | maasvorm | vorm ::
-welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid | volume :: klonteren | vochtgehalte | vochtigheid :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | dichtheid | gewicht | kracht :: vorm goed | vorm mazen | maasvorm | vorm ::
-wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef :: roterende zeef :: trilzeef :: zeefbocht :: cascadezeef ::
-welke 4 bezinkingsmethoden kennen we? :: indikken :: klaren :: scheiden :: floteren ::
-welke 4 zaken beinvloeden de bezinkingssnelheid? :: soortelijke massa :: fractionering | deeltjesgrootte | oppervlakte :: uitvlokkingsmiddel :: viscositeit ::
-hoe heet het aftappen van de vloeistof boven een bezinkingslaag? decanteren
-hoe heet het scheiden van vloeistoffen met verschillende dichtheden d.m.v. bezinking? separeren
-welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vast-vloeistof mengsels? :: bezinktank van Dorr :: discontinue bezinktank ::
-welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: continu separator | continue separator :: discontinue separator | discontinu separator ::
-welke 3 bezinkingsapparaten gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: lamellenfilter :: windzifter ::
-welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vaste stof gast | vast-gas | vast gas | gas vast :: vaste stof vloeistof | vast-vloeistof | vast vloeistof | vloeistof vast ::
-welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: corrosiebestendigheid | corrosiebestendig :: mechanische sterkte | sterkte :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
-welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
-welke 2 soorten centrifuges onderscheiden we? :: doorlatende trommel | zeeftrommels | zeeftrommel :: niet-doorlatende trommel | niet doorlatende trommel | overloopcentrifuges | overloopcentrifuge ::
-wat voor omtreksnelheden bereiken we bij grote centrifugaalseparatoren? 100 m/s
-welke 3 soorten centrifuges hebben een horizontale as? :: horizontale overloopcentrifuge met uitsnijmes | centrifuges met uitsnijmes | centrifuge met uitsnijmes :: schuifcentrifuges | schuifcentrifuge :: meertrap schuifcentrifuges | meertraps schuifcentrifuge | meertrap schuifcentrifuge ::
-welke stappen zitten er in de cyclus van een centrifuge met uitsnijmes? vullen centrifugeren wassen drogen uitsnijden
-welk soort centrifuge doorloopt de stappen vullen, centrifugeren, wassen, drogen, uitsnijden? horizontale overloopcentrifuge met uitsnijmes | horizontale centrifuge met uitsnijmes | centrifuge met uitsnijmes
-welk soort centrifuge gebruikt een meedraaiende trechter om de suspensie op de trommelbodem te storten? schuifcentrifuge
-welke 2 soorten dichte wand centrifuges kennen we? :: centrifuges met horizontale as | horizontale as :: centrifuges met verticale as | verticale as ::
-welke 3 soorten dichtewand centrifuges kennen we met verticale as? :: tolcentrifuge | tol :: dichtwandige filtreercentrifuge | filtereercentrifuge | filtreer :: verticale schilpijpcentrifuge | schilpijpcentrifuge | schilpijp ::
-welke 2 soorten dichtewand centrifuges kennen we met horizontale as? :: horizontale overloopcentrifuge met uitsnijmes | overloopcentrifuge met uitsnijmes :: schroefcentrifuge | decanteercentrifuge ::
-hoeveel G haalt een buiscentrifuge? 10e6 G | 10e6
-een cycloon verwijdert ____ uit een gasstroom of vloeistofstroom? vaste stofdeeltjes | een vaste stof | vaste stof | vaste stoffen
-een cycloon verwijdert vaste stofdeeltjes uit ____ en uit ____? :: gasstromen | gassen | gas :: vloeistofstromen | vloeistoffen | vloeistof ::
-welke 3 industrieën gebruiken cyclonen? :: cacao industrie | cacao :: houtverwerkende industrie | houtverwerking | hout :: zetmeelproducerende instrustrie | zetmeelproductie | zetmeel ::
-wat voor scheidingsmethode is kristallisatie? fysisch
-hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er minder zout aanwezig is dan op de verzadigingslijn? onverzadigd gebied
-hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout aanwezig is dan op de verzadigingslijn? oververzadiginggebied | oververzadigingsgebied
-wat is de formule van de wet van Raoult? p = pA + pB
-wat is de formule van de wet van Dalton? pA = yA p
-wat zegt de wet van Raoult? partieeldrukken optellen
-wat zegt de wet van Dalton? partieeldruk = molfractie | molfractie = partieeldruk
-waar staat x voor in een t-x,y grafiek? vloeistof samenstelling
-waar staat y voor in een t-x,y grafiek? dampsamenstelling
-
-[scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
-[scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank | discontinu bezinktank
-[scheiding-discontinueseparator.png]  welk apparaat is dit? discontinue separator | discontinu separator
-[scheiding-dorr.png]                  welk apparaat is dit? bezinktank van Dorr | Dorr bezinktank
-[scheiding-stroomgoot.png]            welk apparaat is dit? stroomgoot
-[scheiding-windzifter.png]            welk apparaat is dit? windzifter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@EOF@
 # appendages
+geef 4 redenen waarom we isoleren? :: condenseren van gassen | condenseren | condensatie | condens :: energiekosten | energie :: stollen/kristalliseren van media | kristalliseren | kristallisatie :: spanningen door uitzetting | spanningen | spanning ::
+spanningscorrosie = corrosie die ontstaat als twee metalen van verschillende edelheid met elkaar verbonden zijn
+vacuüm steunplaat | vacuum steunplaat = plaat die voorkomt dat een gebogen breekplaat ombuigt door onderdruk
+welke 5 eisen hebben we aan isolatie materiaal? :: brandvast :: buigzaam :: lage warmtegeleidingscoefficient | geleiding :: lage massadichtheid | massadichtheid | soortelijke massa :: vormvast ::
+welke 4 factoren spelen er mee in het selecteren van een flexibel? chemie druk temperatuur trillingen | chemie druk temperatuur trilling
 Welke 4 zaken moet men op letten bij aansluiten van een flexibel? :: aarding :: drukschokken :: PBM :: torsie ::
 wat is het voordeel van een drukbelaste breekplaat? metaalmoeheid trager | metaalmoeheid | minder metaalmoeheid
 corrosie als gevolg van trekspanning = scheurvormende corrosie die onstaat onder inwerking van zowel trekspanning als corrosief medium
@@ -975,7 +598,23 @@ welke 3 voorwaarden heeft de stroom van een plugkraan? :: lage druk | druk :: la
 [drukreduceerventiel-membraan.png] wat voor soort klep is dit? drukreduceerventiel met membraan | drukreduceerventiel membraan
 [drukreduceerventiel-veer.png] wat voor soort klep is dit? veergestuurd drukreduceerventiel
 [breekplaat.png] wat voor soort klep is dit? breekplaat
+
 # chemie
+chemie: Wat betekent δ⁺? positieve ladingverschuiving | positieve ladingsverschuiving
+chemie: Wat betekent δ⁻? negatieve ladingverschuiving | negatieve ladingsverschuiving
+substituent = atoomgroep die één of meer waterstof atomen kan vervangen aan een koolstof keten
+isomeren | isomeer = stoffen met dezelfde chemische formule, maar een verschillende structuur
+optische isomeren | optische isomeer = stoffen met dezelfde chemische formule, welke mekaars spiegelbeeld zijn
+cis-trans isomeren | cis trans isomeren | cis-trans isomeer | cis trans isomeer = stoffen met dezelfde chemische formule, waarbij de functionele groepen aan dezelfde atomen hangen op een andere plek
+wat is ΔEN bij een ionbinding? >= 1.7
+wat is ΔEN bij een covalente binding? < 1.7
+zwavelzuur = benoem het zuur H₂SO₄
+zwaveligzuur = benoem het zuur H₂SO₃
+salpeterzuur = benoem het zuur HNO₃
+salpeterigzuur = benoem het zuur HNO₂
+koolzuur = benoem het zuur H₂CO₃
+fosforzuur = benoem het zuur H₃PO₄
+cracking = een organische keten in stukken hakken
 ketenisomeren | ketenisomeer = stoffen met dezelfde chemische formule, maar andere vertakkingen
 plaatsisomeren | plaatsisomeer = stoffen met dezelfde chemische formule, maar met de functionele groep op een andere plaats
 reactieve plaatsen | reactieve plaats = deel van een organische molecule waar een reactie plaats vindt
@@ -986,47 +625,492 @@ oxidatie | oxideren = een organische keten verbranden
 % = eenheid massaprocent
 % = eenheid volumeprocent
 ml/L = eenheid volumeconcentratie
+
 # elektriciteit
+grootheid voor A? doorsnede | oppervlakte
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan trekken ze mekaar aan? ja
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan trekken ze mekaar aan? nee
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in dezelfde richting laat vloeien dan stoten ze mekaar af? nee
+Als je twee stroomvoerende geleiders evenwijdig plaatst en stroom in omgekeerde richting laat vloeien dan stoten ze mekaar af? ja
 formule voor de stroomwet van Kirchhoff? ΣI = 0 | sigma I = 0
 formule voor de spanningswet van Kirchhoff? U[bron] = U₁ + U₂ + ... | Ub = U1+U2 | ΣU = 0 | sigma U = 0
 Als een materiaal na aanraking met een magneet snel zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? zwak
 Als een materiaal na aanraking met een magneet langzaam zijn magnetische eigenschappen verliest dan is het zwak/sterk magnetisch? sterk
 Hoe noemen we de lading van een elektron? eenheidslading
+formule voor elektrische spanning? U = P/I | P = UI | U = W/Q | U = E/q
 welke 2 factoren bepalen de sterkte van het magnetisch veld in een spoel? aantal windingen, stroomsterkte | aantal windingen stroomsterkte | aantal lussen, stroomsterkte | aantal lussen stroomsterkte
-formule voor elektrische spanning? U = P/I | U = W/Q | U = E/q
-# M&R
--100 1000 = een staafthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--40 600 = een bimetaal thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--180 700 = een glazen vloeistof thermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--200 800 = een weerstandsthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
--270 550 = een gasthermometer kunnen we gebruiken van ____ °C tot en met ____ °C
-wat is het voordeel van een U-buismanometer? nauwkeurigheid | nauwkeurig
-welk nadeel heeft een stuursysteem? gebrek aan controle | controle
-welke 2 economische redenen zijn er om automatisch te regelen? :: kwaliteitseisen | kwaliteit :: goedkoper | goedkoop ::
-welke 2 redenen hebben we om 4 mA te gebruiken als minimum stuursignaal i.p.v. 0 mA? :: foutdetectie | fouten :: de transmitter heeft stroom nodig | transmitter ::
-wat zijn de 2 nadelen van een U-buismanometer? :: breekbaar | kwetsbaar :: groot ::
-welke 5 soorten redenen zijn er om automatisch te regelen? :: technisch :: economisch :: sociaal :: veiligheid :: milieu ::
-wat zijn de 3 soorten rekstrookjes? :: draadrekstrookjes | draadrekstrookje | draad :: halfgeleiderrekstrookjes | halfgeleider rekstrookje | halfgeleider :: metaalfolie rekstrookjes | metaalfolie rekstrookje | metaalfolie ::
-wat voor soort data sturen we door in een HART signaal? :: serienummers | serienummer :: ijking :: problemen | fouten :: meetwaarden | meetwaarde | metingen | meting ::
-welke 3 technische redenen zijn er om automatisch te regelen? :: storingen wegwerken | storingen :: gevaarlijke situaties vermijden | gevaar :: meerdere ingestelde waarden na elkaar behalen | sequentie | serie ::
-welke 2 sociale redenen zijn er om automatisch te regelen? :: eentonig | geestdodend :: bedieningscomfort | comfort ::
-welke 4 veiligheidsredenen zijn er om automatisch te regelen? :: gevaarlijk om met de hand te regelen | gevaarlijk | gevaar :: meer factoren in het oog houden | factoren :: machines maken minder fouten | minder fouten | foutloos :: automatisch alarm | alarm ::
-welke formule gebruiken we voor het berekenen van een debiet bij een meetschijf? Q = cΔp | Q = c delta p | Q = delta p c
+neutrale lijn = hier is de magneet het zwakst
+# scheidingstechnieken
+welke stappen zitten er in de cyclus van een centrifuge met uitsnijmes? vullen centrifugeren wassen drogen uitsnijden
+welke 3 eisen hebben we aan een medium wat voor filtreren gebruikt wordt? :: corrosiebestendigheid | corrosiebestendig :: mechanische sterkte | sterkte :: weinig stromingsweerstand | stromingsweerstand | weerstand ::
+
 # transport van stoffen
+Pa s = eenheid dynamische viscositeit
+verdringerpompen | verdringerpomp = hoofdgroep van pompen zonder verbinding tussen zuigzijde en perszijde die de vloeistof van de zuigzijde naar de perszijde duwt
+centrifugaalpompen | centrifugaalpomp = hoofdgroep van pompen welke met een draaiende rotor druk opbouwen
+m³/s | m³/u | m3/s | m3/u = eenheid van volume stroom
+m/s = eenheid van vloeistofsnelheid
+hydrostatische druk = druk ten gevolge van het eigen gewicht van een stilstaande vloeistof op een horizontaal vlak
+zuigdruk = druk in de leiding direct voor de pomp
+manometrische opvoerdruk | opvoerdruk = drukverschil tussen pers- en zuigzijde van de pomp
+opvoerhoogte = opvoerdruk uitgedrukt in meters
+opvoerdruk = opvoer hoogte uitgedrukt in bar
+veel = een vloeistof met een hoge viscositeit biedt weinig/veel weerstand tegen stroming
+weinig = een vloeistof met een lage viscositeit biedt weinig/veel weerstand tegen stroming
+η | eta = symbool van dynamische viscositeit
+Pa s = eenheid dynamische viscositeit
+kritische snelheid = stromingssnelheid waarbij een laminaire stroming over gaat in een turbulente stroming
+centrifugaalkracht = ander woord voor middelpuntvliedende kracht
+middelpuntvliedende kracht = ander woord voor centrifugaal kracht
+scheefstelling = de as buigt door onder belasting
+QH kromme | QH grafiek | pomp curve = opvoerdruk van een pomp uitgezet tegen de volumestroom in een grafiek
+pomp curve = alternatieve naam voor QH-kromme
+QH kromme = alternatieve naam voor pomp curve
+stabiele kromme = in deze Q-H kromme neemt de opvoerhoogte altijd af bij toenemende volumestroom
+labiele kromme = in deze Q-H kromme neemt is de opvoerhoogte niet maximaal bij volumestroom 0
+NPSH = afkorting voor net positive suction head
+net positive suction head = NPSH voluit geschreven
+NPSH | net positive suction head = de statische hoogte, bij een bepaald debiet, waarbij cavitatie voorkomen wordt
+
+wat zijn de 3 hoofdgroepen van pompen? :: verdringerpompen | verdringerpomp | verdringer :: centrifugaalpompen | centrifugaalpomp | centrifugaal :: straalpompen | straalpomp | straal ::
+wat zijn de 2 groepen verdringerpompen? :: pulserende | pulserend :: roterende | roterend ::
+wat zijn de 3 types pulserende verdringerpompen? :: zuigerpompen | zuigerpomp ::  plunjerpompen | plunjerpomp :: membraanpompen |  membraanpomp ::
+wat zijn de 5 types roterende verdringerpompen? :: tandwielpompen | tandwielpomp :: schottenpompen | schottenpomp :: monopompen | monopomp :: wormpompen | wormpomp | schroefpompen | schroefpomp :: slangenpompen | slangenpomp ::
+transport: hoe wordt volumestroom ook wel genoemd? debiet | capaciteit | opbrengst
+transport: hoe wordt debiet ook wel genoemd? opbrengst | capaciteit | volumestroom
+transport: hoe wordt capaciteit ook wel genoemd? debiet | opbrengst | volumestroom
+transport: hoe wordt opbrengst ook wel genoemd? debiet | capaciteit | volumestroom
+transport: wat is de formule voor vloeistofsnelheid? v = Q/A
+wat gebeurt er als de druk in de zuigleiding minder is dan de dampspanning? cavitatie
+voor welke toepassing worden zuigerpompen vaak gebruikt? grote dieptes
+voor welke 2 toepassingen worden plunjerpompen vaak gebruikt? :: kleine volumestromen | kleine volumes :: hoge drukken | hoge druk ::
+welke hoofdgroep van pompen moet geheel met vloeistof gevuld zijn? centrifugaalpompen | centrifugaalpomp
+welke hoofdgroep van pompen heeft aanzuigende werking? verdringerpompen | verdringerpomp
+welke 2 soorten energie kan een vloeistof bevatten? :: potentieel | potentiele :: kinetisch | kinetische ::
+wat is de formule voor snelheid van een vloeistof uit een centrifugaalpomp? v = πDn/60 | v = pi Dn/60 | v = pi nD/60
+welke 2 factoren bepalen de opvoerhoogte van een centrifugaalpomp? :: toerental :: diameter ::
+wat zijn 5 voordelen van een centrifugaalpomp? :: gewicht :: klein | ruimte | volume :: constante vloeistofstroom | gelijkmatige vloeistofstroom :: bedrijfszekerheid | bedrijfszeker | betrouwbaar :: regelbaar ::
+wat zijn 3 nadelen van een centrifugaalpomp? :: afslaan bij lucht of gas | afslaan :: laag rendement | rendement :: niet zelfaanzuigend | geen aanzuigende werking ::
+Wat is het rendement van een kleine centrifugaalpomp? 50 tot 60% | 50-60% | 50 60%
+Wat is het rendement van een grote centrifugaalpomp? 85 tot 90% | 85-90% | 85 90%
+waarvoor gebruiken we verdringerpompen met roterende beweging? stroperige vloeistoffen | stroperige vloeistof | visceuze vloeistoffen | visceuze vloeistof
+waar worden lobbenpompen veel gebruikt? de voedingsindustrie | voedingsindustrie
+waar worden slangenpompen voornamelijk gebruikt? waterzuiveringsinstallaties | waterzuivering
+hoe wordt een wormpomp ook wel genoemd? schroefpomp | schroefspindelpomp
+hoe wordt een schroefpomp ook wel genoemd? wormpomp | schroefspindelpomp
+hoe wordt een schroefspindelpomp ook wel genoemd? wormpomp | schroefpomp
+hoe noemen we de richting van het midden naar buiten toe gericht? radiaal | radial
+hoe noemen we de richting die de as volgt? axiaal | axial
+welke 2 omstandigheden zijn typisch voor het gebruik van schroefpompen en schroefcentrifugaalpompen? :: grote volumestromen | grote volumes | groot volume | hoog debiet :: lage opvoerhoogten | lage opvoerhoogtes | lage opvoerhoogte ::
+welke 2 pompen gebruiken we vaak bij grote volumestromen en lage opvoerhoogtes? :: schroefpompen | schroefpomp :: schroefcentrifugaalpompen | schroefcentrifugaalpomp ::
+welke 3 toepassingen wordt de wervelstroompomp veel voor gebruikt? :: riool :: papier :: levensmiddelen | voeding ::
+welke 2 toepassingen wordt de straalpomp veel voor gebruikt? :: vacuüm | vacuum :: agressieve stoffen | agressieve vloeistoffen::
+waarvoor kan een vloeistofringvacuümpomp niet gebruikt worden? verontreinigde vloeistoffen of gassen | verontreinigde vloeistoffen | verontreinigde gassen | vervuilde vloeistoffen | vervuilde gassen
+welk voordeel heeft een pomp met een meer gesloten waaier? hoger rendement | hoog rendement | rendement
+welk nadeel heeft een pomp met een meer gesloten waaier? kan slecht tegen verontreiniging | verontreiniging | vervuiling
+waarvoor gebruiken we magneetgekoppelde pompen? giftige vloeistoffen, brandbare vloeistoffen, bijtende vloeistoffen | speciale vloeistoffen
+welke 2 categorieën wentellagers zijn er? :: axiaal :: radiaal ::
+mits de andere pompgegevens gelijk blijven, zorgt een grotere opvoerdruk voor een ____? kleinere volumestroom | lagere volumestroom | lager debiet
+mits de andere pompgegevens gelijk blijven, zorgt een grotere volumestroom voor een ____? kleinere opvoerdruk | lagere opvoerdruk | kleinere opvoerhoogte | lagere opvoerhoogte
+welke 4 curves documenteren pompfabrikanten in functie van het debiet? :: opvoerhoogte | H :: vermogenscurve | vermogen | P :: rendementscurve | rendement :: net positive suction head | NPSH ::
+hoe schakelen we pompen voor debietsverhoging? in parallel | parallel
+hoe schakelen we pompen voor drukverhoging? in serie | serieel | serie
+
+[pomp-zuiger.png] welke pomp is dit? zuigerpomp
+[pomp-plunjer.png] welke pomp is dit? plunjerpomp
+[pomp-tandwiel.png] welke pomp is dit? tandwielpomp
+[pomp-lobben.png] welke pomp is dit? lobbenpomp
+[pomp-schotten.png] welke pomp is dit? schottenpomp
+[pomp-slange.png] welke pomp is dit? slangenpomp
+[pomp-worm.png] welke pomp is dit? wormpomp
+[pomp-mono.png] welke pomp is dit? monopomp
+[pomp-membraan.png] welke pomp is dit? membraanpomp
+[pomp-schroefcentrifugaal.png] welke pomp is dit? schroefcentrifugaalpomp
+[pomp-schroef.png] welke pomp is dit? schroefpomp
+[pomp-wervelstroom.png] welke pomp is dit? wervelstroompomp
+[pomp-straal.png] welke pomp is dit? straalpomp
+[pomp-vloeistofringvacuum.png] welke pomp is dit? vloeistofringvacuümpomp | vloeistofringvacuumpomp
 [pomp-centrifugaal.png] welke pomp is dit? centrifugaalpomp
 
+# scheidingstechnieken
+welke 4 eisen hebben we aan een zeefmedium? :: corrosiebestendig | corrosie :: sterkte | sterk :: geschikte constructie | constructie :: geschikte maasvorm | maasvorm | vorm ::
+wat zijn de 5 belangrijkste zeefapparaten? :: schudzeef | schud :: roterende zeef | roterend :: trilzeef | tril :: zeefbocht :: cascadezeef | cascade ::
+cohesie = algemene naam voor de aantrekkingskracht tussen deeltjes van een stof
+zeer groot | zeer hoog = cohesie van een vaste stof
+groot | hoog = cohesie van een vloeistof
+geen = cohesie van een gas
+enkelvoudige stof = stof die uit één element bestaat
+samengestelde stof = stof die uit verschillende elementen bestaat
+kritisch punt = de hoogste druk waarbij nog een gas van een bepaalde stof voor kan komen
+zuivere stoffen | zuivere stof = stof die vaste (getabelleerde) fysische constanten bezit
+:: bloed :: melk :: plantensap :: = 3 voorbeelden van colloïdale mengsels
+zeefmedium = deel van een zeef met mazen met een bepaalde maasweidte
+stroomgoot = apparaat met achter elkaar geplaatste bakken met toenemende trechtergrootte, die steeds fijnere deeltjes afvoeren
+windzifter = Apparaat dat een opwaartste luchtstroom gebruikt om fijne deeltjes af te voeren. Grove delen zakken naar de bodem.
+filtratie | filtreren = vaste stof van een gas of vloeistof scheiden doormiddel van een permeabel medium
+filtermedium = filterdoek of papier met zeer fijne mazen
+filterdrager = rooster ter bescherming van filterdoek
+capaciteit = hoeveelheid filtraat die per tijdseenheid en per oppervlakte eenheid van een filter gewonnen wordt
+separator = apparaat wat vloeistof-vloeistof mengsels scheidt
+centrifuge = apparaat met ronddraaiende trommel die een centrifugaalkracht gebruikt om scheidingen uit te voeren
+cyclonen | cycloon = apparaat wat een stof rond laat draaien om het te scheiden
+kritisch toerental = bij een bepaalde snelheid zullen de imperfecties in de trommel van een centrifuge leiden tot gevaarlijke amplitudes
+onderkritisch = snelheid lager dan het kritisch toerental
+bovenkritisch = snelheid hoger dan het kritisch toerental
+vaste stof vloeistof = filtreercentrifuges gebruiken we voor het agscheiden van een vaste stof/vloeistof/gas uit een vaste stof/vloeistof/gas
+zwaartepunt-pendelcentrifuge | zwaartepunt pendelcentrifuge = verticale centrifuge waarbij de vaste stof discontinu verwijderd wordt
+verticale schroef centrifuge | schroef centrifuge = verticale centrifuge waarbij de vaste stof continu verwijderd wordt
+overloopcentrifuges | overloopcentrifuge = centrifuges waarbij vloeistof over de rand loopt en wordt afgevoerd
+decanteercentrifuge = andere naam voor schroefcentrifuge
+schroefcentrifuge = andere naam voor decanteercentrifuge
+buiscentrifuge = continue centrifuge gebruikt voor het scheiden van vloeistof-vloeistof mengsels
+cycloonbatterij = in serie geschakelde hydrocyclonen die vaste deeltjes van een paar micrometer kunnen afscheiden
+yA = symbool voor de molfractie van A in de gasfase
+tx-diagram | tx diagram = grafiek met samenstelling van binair mengsel uitgezet tegen kooktemperatuur (met eventueel damplijn)
+minimale refluxverhouding = relatieve hoeveelheid reflux waarbij de gewenste samenstelling nog net bereikt wordt in een destillatiekolom
+werklijn = lijn die het verband weergeeft tussen de samenstelling van opstijgende damp en de vloeistof op de volgende schotel in een destillatietoren
+platenkolom = dikke platen met veel ruimte er tussen als onderdeel van een destillatietoren
+holdup = opgehouden vloeistof in een platenkolom
+rectificeer gedeelte | rectificeer deel = bovenste deel van de destillatie kolom
+stripping gedeelte | stripping deel = onderste deel van de destillatie kolom
 
+welke 2 type mengels kunnen we scheiden met dichte wand centrifuges? :: vloeistof mengsels | vloeistof mengsel | vloeistof vloeistof :: vloeistof vaste stof | vloeistof vast | vaste stof vloeistof | vast vloeistof ::
+hoe ziet een homogeen mengsel er uit? helder
+hoe ziet een heterogeen mengsel er uit? troebel
+wat is de deeltjes grootte van suspensies en emulsies? 10⁻⁷ tot en met 10⁻⁶ m | 100 nm tot en met 1000 nm | 100 nm 1000 nm | 100 1000 nm
+wat is de deeltjes grootte van grove mensels? > 1 μm | > 1 micrometer | > 1000 nm
+welke 4 soorten homogene mengsels zijn er (fases)? :: gasmengsel :: twee vloeistoffen | vloeistofmengsel :: gas opgelost in vloeistof | gas in vloeistof | gas vloeistof :: vaste stof opgelost in vloeistof | vaste stof in vloeistof | vaste stof opgelost | opgeloste vaste stof | vaste stof vloeistof | vast in vloeistof ::
+hoe noemen we het als grove monsters dezelfde samenstellingen hebben? macroscopisch homogeen
+hoe noemen we het als elementair kleine monsters dezelfde samenstellingen hebben? microscopisch homogeen
+welke 2 technieken laten een zeefproces sneller verlopen? :: roteren :: pulseren ::
+welke 5 procesfactoren zijn relevant voor mechanische zeven? :: de hellingshoek met optimale capaciteit en rendement | hellingshoek | hoek :: de hoeveelheid zeefgoed met optimale capaciteit en rendement | hoeveelheid zeefgoed | hoeveelheid | volume :: klonteren | vochtgehalte | vochtigheid :: deeltjesgrootte van het zeefgoed | deeltjesgrootte | fractionering :: hardheid zeefgoed | resistentie zeef tegen zeefgoed | hardheid | sterkte zeef | sterkte :: dichtheid zeefgoed | dichtheid | gewicht | kracht :: vorm goed | vorm mazen | maasvorm | vorm ::
+welke 4 bezinkingsmethoden kennen we? :: indikken :: klaren :: scheiden :: floteren ::
+welke 4 zaken beinvloeden de bezinkingssnelheid? :: soortelijke massa | dichtheid :: fractionering | deeltjesgrootte | oppervlakte :: uitvlokkingsmiddel :: viscositeit ::
+hoe heet het aftappen van de vloeistof boven een bezinkingslaag? decanteren
+hoe heet het scheiden van vloeistoffen met verschillende dichtheden d.m.v. bezinking? separeren
+welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vast-vloeistof mengsels? :: bezinktank van Dorr :: discontinue bezinktank ::
+welke 2 bezinkingsapparaten gebruiken we voor het scheiden van vloeistof-vloeistof mengsels? :: continu separator | continue separator :: discontinue separator | discontinu separator ::
+welke 3 bezinkingsapparaten gebruiken we voor het scheiden van vast-vast mengsels? :: stroomgoot :: lamellenfilter :: windzifter ::
+welke 2 stofcombinaties kunnen we scheiden door filtreren? :: vaste stof gast | vast-gas | vast gas | gas vast :: vaste stof vloeistof | vast-vloeistof | vast vloeistof | vloeistof vast ::
+welke 3 factoren beinvloeden een filtratieproces? :: capaciteit :: drijvende kracht :: filterweerstand | weerstand ::
+welke 2 soorten centrifuges onderscheiden we? :: doorlatende trommel | zeeftrommels | zeeftrommel :: niet-doorlatende trommel | niet doorlatende trommel | overloopcentrifuges | overloopcentrifuge ::
+wat voor omtreksnelheden bereiken we bij grote centrifugaalseparatoren? 100 m/s
+welk soort centrifuge doorloopt de stappen vullen, centrifugeren, wassen, drogen, uitsnijden? horizontale overloopcentrifuge met uitsnijmes | horizontale centrifuge met uitsnijmes | centrifuge met uitsnijmes
+welk soort centrifuge gebruikt een meedraaiende trechter om de suspensie op de trommelbodem te storten? schuifcentrifuge
+welke 2 soorten dichte wand centrifuges kennen we? :: centrifuges met horizontale as | horizontale as :: centrifuges met verticale as | verticale as ::
+welke 3 soorten dichtewand centrifuges kennen we met verticale as? :: tolcentrifuge | tol :: dichtwandige filtreercentrifuge | filtereercentrifuge | filtreer :: verticale schilpijpcentrifuge | schilpijpcentrifuge | schilpijp ::
+welke 2 soorten dichtewand centrifuges kennen we met horizontale as? :: horizontale overloopcentrifuge met uitsnijmes | overloopcentrifuge met uitsnijmes :: schroefcentrifuge | decanteercentrifuge ::
+hoeveel G haalt een buiscentrifuge? 10e6 G | 10e6
+een cycloon verwijdert ____ uit een gasstroom of vloeistofstroom? vaste stofdeeltjes | een vaste stof | vaste stof | vaste stoffen
+een cycloon verwijdert vaste stofdeeltjes uit ____ en uit ____? :: gasstromen | gassen | gas :: vloeistofstromen | vloeistoffen | vloeistof ::
+welke 3 industrieën gebruiken cyclonen? :: cacao industrie | cacao :: houtverwerkende industrie | houtverwerking | hout :: zetmeelproducerende instrustrie | zetmeelproductie | zetmeel ::
+wat voor scheidingsmethode is kristallisatie? fysisch
+hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er minder zout aanwezig is dan op de verzadigingslijn? onverzadigd gebied
+hoe noemen we de regio in de oplosbaarheidscurve van een zout waar er meer zout aanwezig is dan op de verzadigingslijn? oververzadiginggebied | oververzadigingsgebied
+waar staat x voor in een t-x,y grafiek? vloeistof samenstelling
+waar staat y voor in een t-x,y grafiek? dampsamenstelling
+waar staat xf voor bij destilleren? feed | voeding
+waar staat xd voor bij destilleren? desired concentration | gewenste concentratie
+waar staat r voor bij destilleren? procent terugvloei | reflux getal
+waar staat b voor bij destilleren? reboiling
+waar staat D voor bij destilleren? destillaat
+waar staat L voor bij destilleren? neerkomende vloeistof | neergaande vloeistofstroom
+waar staat V voor bij destilleren? opstijgende damp | opgaande damp | opgaande dampstroom
+waar staat R voor bij destilleren? reflux debiet
+waar staat B voor bij destilleren? bodem reflux
+wat is de formule voor het reflux getal? r = R/D
+destillatie: wat is de formule voor b (reboiling)? b = V/B
+destillatie: hoe bereken je de hellingshoek van de bovenste werklijn? R/(R+D) | R/(D+R) | r/(r+1) | r/(1+r) | L/V
+een kleinere refluxverhouding zorgt voor een plattere/steilere werklijn? platter | plattere
+een grotere refluxverhouding zorgt voor een plattere/steilere werklijn? steiler | steilere
+wat is de q-lijn? voedingslijn | feed
+wat is het voordeel van meer reflux? minder platen nodig | minder platen | platen
+wat is het nadeel van meer reflux? hoger energie verbruik | energie verbruik | energie | efficientie | rendement | lager rendement
+wat zijn de 5 vergelijkingscriteria voor inbouwelementen in platenkolommen? :: rendement | efficientie :: capaciteit :: flexibiliteit | belastingsgebied :: drukval | drukverlies :: holdup | verblijftijd ::
+wat zijn de 3 storende eigenschappen in een destillatie voeding? :: schuimvorming | schuim :: corrosie :: vervuiling ::
+wat zijn destillatie vullingen? gestorte pakkingen | gestorte pakking
+hoe noemen we een destillatie kolom die gevuld is met vullichaampjes i.p.v. platen? gestorte pakkingen | gestorte pakking
+hoe noemen we een destillatie kolom die gevuld grote blokken vulmateriaal i.p.v. platen? gestructureerde pakkingen | gestructureerde pakking
 
+[scheiding-continuseparator.png]      welk apparaat is dit? continue separator | continu separator
+[scheiding-discontinuebezinktank.png] welk apparaat is dit? discontinue bezinktank | discontinu bezinktank
+[scheiding-discontinueseparator.png]  welk apparaat is dit? discontinue separator | discontinu separator
+[scheiding-dorr.png]                  welk apparaat is dit? bezinktank van Dorr | Dorr bezinktank
+[scheiding-stroomgoot.png]            welk apparaat is dit? stroomgoot
+[scheiding-windzifter.png]            welk apparaat is dit? windzifter
+[vulling-berl-sattel.png]             welk vullichaam is dit? berl sattel
+[vulling-hacketten.png]               welk vullichaam is dit? hacketten
+[vulling-pall-ring.png]               welk vullichaam is dit? pall ring
+[vulling-rashig-ring.png]             welk vullichaam is dit? rashig ring
+[vulling-sattel.png]                  welk vullichaam is dit? sattel
+[vulling-top-pack.png]                welk vullichaam is dit? top pack
 
+# appendages
+treksterkte = de kracht nodig om een materiaal te laten breken
+hardheid = weerstand van een materiaal tegen indringing van andere lichamen
+stijfheid = weerstand van een materiaal tegen elastische of niet-blijvende vervorming
+stugheid = weerstand van een materiaal tegen plastische of blijvende vervorming
+brosheid = hoe makkelijk een materiaal breekt bij een kleine vervorming
+RVS304 = alternatieve naam voor RVS18/8
+RVS18/8 = alternatieve naam voor RVS304
+PVC = afkorting van polyvinylchloride
+PE = afkorting van polyetheen
+thermoplasten | thermoplast = kunststof die smelt bij opwarming
+thermoharders | thermoharder = kunststof die ontbindt bij opwarming
+elastomeren | elastomeer = synthetische rubbersoort met grote elasticiteit en stugheid
+PTFE = afkorting van poly tetra fluor etheen
+poly tetra fluor etheen = volledige naam van PTFE
+poly tetra fluor etheen | PTFE = technische naam van teflon
+corrosie = chemische oxidatiereactie tussen zuurstof en metaal
+kathodische bescherming = geleidend contact met onedeler metaal om corrosie tegen te gaan
+oppervlaktecorrosie = corrosie verspreid over het gehele metaaloppervlakte
+putvormige corrosie | pitting = corrosie die zich uit in de vorm van putjes die snel dieper en breder worden
+pitting = alternatieve naam voor putvormige corrosie
+putvormige corrosie = alternatieve naam voor pitting
+H₂O₂ | H2O2 = formule voor waterstof peroxide
+zink | Zn = heel onedel metaal wat vaak als opofferingsmetaal gebruikt wordt
+chloor RVS O2 stoomketel | Cl- RVS, O2 stoomketel | Cl- RVS O2 stoomketel | Cl RVS O2 stoomketel = 2 voorbeelden van pitting
+DN = ISO normering voor binnendiameter van een buis
+mm = eenheid van de DN
+inch = eenheid van de NPS
+mofverbinding = verbinding tussen appendages, waarbij een buiseinde om de ander heen schuift
+flensverbinding = verbinding tussen appendages, waarbij bouten en moeren gebruikt worden
+blindplaat | blindflens = flens plaat die op een vrije flens wordt geplaatst om een leiding af te dichten
+steekflens = gesloten flens plaat met een uitstekende stang
+brilflens = flens plaat met een open kant en een dichte kant
+o-ringen | o ringen | o-ring | o ring = cirkelvormige afdichtingen vervaardigd uit een elastisch materiaal
+backup-ringen | backup ringen | backup-ring | backup ring = ringen die in een groef geplaatst worden met een o-ring om te voorkomen dat de o-ring beschadigd door extrusie
+quad-ringen | quad ringen | x ringen | x-ringen | quad-ring | quad ring | x ring | x-ring = ringen met 4 afdichtingslippen geschikt voor dynamische toepassingen
+flens = platte ring aan het uiteinde van een buis
+nippel = mannelijke fitting
+mof = vrouwelijke fitting
+gegroefde prenten | gegroefde prent = geribbelde afwerking van een flens om beter tegen hoge drukken te kunnen
+KV-factor | KV factor = hoeveel m³ water op kamertemperatuur per uur door een volledig geopende klep stroomt (bij een drukval van 1 bar)
+m³/u | m3/u = eenheid van de KV-factor
+gallons/minute | gallon/minute = eenheid van de CV-waarde
+CV-waarde | CV waarde = amerikaanse tegenhanger van de KV factor
+klepkarakteristiek = verhouding tussen de stand van de klep tegenover het debiet
+waterslag = drukgolf in vloeistof die ontstaat bij het plots sluiten van een klep
+erosie = slijtage aan kleppen als gevolg van schuring door (onder andere) water
+cavitatie = implosies ten gevolg van drukverlagingen die ontstaan door beweging
+bedieningskoppel = koppel benodigd om een afsluiter te openen of te sluiten
+Nm = eenheid van het bedieningskoppel van een kraan
+fire-safe | fire safe = kwalificatie van een klep die belooft dat de klep beperkt lekt bij hoge druk en temperatuur
+anti static = veer ingebouwd in een kogelkraan om de opbouw van statische elektriciteit te stoppen
+pig afsluiter = variant op de kogelkraan die de pijpleiding kan reinigen
+pijpstop = andere naam voor een pig
+driewegkraan = variant op de plug- of kogelafsluiter die 3 aansluitingen heeft
+vierwegkraan = variant op de plug- of kogelafsluiter die 4 aansluitingen heeft
+L-poort | L poort = een plug of kogel met doorgangen in de vorm van een L
+T-poort | T poort = een plug of kogel met doorgangen in de vorm van een T
+duplex filters = toepassings voorbeeld voor 3-wegafsluiters
+plaatafsluiter = andere naam voor mesafsluiter
+mesafsluiter = andere naam voor plaatafsluiter
+mesafsluiter | plaatafsluiter = variant op de schuifafsluiter
+NC = alternatieve afkorting voor ATO
+NO = alternatieve afkorting voor ATC
+naaldafsluiter = soort klepafsluiter geschikt om kleine debieten bij hoge drukken zeer precies te regelen
+sandwichkoppeling = een vinderklep zonder eigen flenzen rechtstreeks tussen 2 leidingflenzen monteren
+terugslagklep = klep welke de vloeistof maar in 1 richting doorlaat
+ontluchting | ontluchter = zorgt ervoor dat overdruk aan de bovenkant van een drukreduceerventiel afgevoerd wordt
+deflector = zorgt ervoor dat een reduceerventiel bij openen meer stoom doorlaat
+vacuümbreker | vacuumbreker = aanwezig in een stoomgedreven warmtewisselaar om beschadiging door onderdruk tegen te gaan
+hysteresis = verschil tussen openings- en sluitingsdruk van een drukreduceerventiel
+set pressure = ingestelde druk van een drukreduceerventiel
+bolvormig | bol = vorm van een breekplaat
+breekplaat = overdukbeveiliging die maar 1x gebruikt kan worden
+breukdetectie = systeem om het barsten van een breekplaat de detecteren
+weerstandsverlies | leidingverlies = verlies van druk wanneer een vloeistof door een leiding stroomt
+inductieve naderingsschakelaar = sensor die het nabij zijn van een magneet detecteert
+revaporisatie = stoom gevormd uit gecondenseerd stoom onder invloed van drukverlaging
+stoomslag = condensaatprop die op hoge snelheden door stoom door een leiding heen gekatapulteerd wordt
+condenspot = afsluiter die condensaat doorlaten, maar stoom blokkeren
+expansiebocht = vorm van leiding die lengteverandering o.i.v. temperatuur op vangt
+compensator = kan met flenzen tussen 2 stukken leiding geplaatst worden om lengteverandering op te vangen
+vlamsper = leiding accessoire die vlammen kan uitdoven
+condensaat = gecondenseerd stoom
+waterafscheider = vangt waterdruppels af die zich in het stoom bevinden
 
+welke 4 voordelen heeft gietijzer? :: dempend | demping :: gietbaar :: goedkoop :: zuurbestand | zuurbestendig ::
+welke 2 nadelen heeft gietijzer? bros, onlasbaar | bros, niet lasbaar | bros onlasbaar | bros niet lasbaar
+Wat is het grote voordeel van aluminium? licht (gewicht) | licht
+wat zijn de 4 voordelen van een aluminiumlegering? :: corrosiebestendig :: slijtvast :: vonkloos :: vormbaar ::
+wanneer is aluminium ongeschikt? hoge temperaturen | hoge temperatuur
+wat is de belangrijkste eigenschap van titanium? corrosiebestendig
+wat is het nadeel van titanium? hoge verwerkingskosten | verwerkingskosten | duur
+wat gebeurt er met PVC als je het in de zon laat? wordt bros | bros
+Welke synthetische rubbersoorten worden onder de naam Viton gecommercialiseerd? fluorelastomeren
+wat zijn de 2 grote voordelen van fluorelastomeren? :: corrosiebestendig | inertie | inert :: temperatuurbestendig | temperatuursbestendig | temperatuurbestendigheid | temperatuursbestendigheid | temperatuur ::
+welke 3 dingen zijn er benodigd voor corrosie? kathode anode elektrolyt | anode elektrolyt kathode
+appendages: waar staat NBN voor? bureau voor normalisatie
+appendages: waar staat DIN voor? Deutsches institut fur normung
+appendages: waar staat ANSI voor? american national standards institute
+appendages: wat is de volledige naam van de instantie genaamd API? american petroleum institute
+appendages: waar staat ISO voor? international organization for standardization
+appendages: waar staat DN voor? diametre nominal
+appendages: waar staat NPS voor? nominal pipe size
+appendages: waar staat PN voor? pression nominale
+appendages: waar staat KV voor? klepvermogen | valve capacity
+appendages: waar staat pdt voor? pressure differential transmitter
+appendages: waar staat fc voor? flow controller
+appendages: waar staat ATO voor bij kleppen? air to open
+appendages: waar staat ATC voor bij kleppen? air to close
+appendages: waar staat NC voor? normally closed
+appendages: waar staat NO voor? normally open
+appendages: waar staat m.v.k. voor? meter vloeistof kolom
+appendages: wat is de eenheid van PN? bar
+appendages: wat is de eenheid van de ANSI standaard voor druk? PSI
+wat zijn de 3 nadelen van een te grote leidingdiameter? :: duur :: onbestuurbaar :: warmteverlies | energieverlies | energie ::
+wat zijn de 4 nadelen van een te kleine leidingdiameter? :: capaciteit :: drukverliezen | drukverlies | drukval :: slijtage :: trillingen ::
+Wat zijn de twee type drukklassen van appendages? ANSI DIN/ISO
+hoe heet de wanddikte van een appendage? het schedule | schedule
+wanneer gebruikt men fittings? bij lage druk | lage druk
+welke 2 voordelen heeft een mofverbinding? :: goedkoop :: kan onder een kleine hoek | hoek mogelijk | hoek ::
+welke beperkingen heeft een mofverbinding? lage druk & lage temperatuur | lage druk & temperatuur | lage druk en temperatuur | lage druk lage temperatuur | lage druk temperatuur
+hoeveel bar mag een mofverbinding maximaal hebben? 7 bar | 7
+wat is de meest gebruikte pijpverbindingsmethode? lassen
+wat is de op een na meest gebruikte pijpverbindingsmethode? flensverbinding
+wat is het grote voordeel van gegroefde prenten? drukbestendig | druk
+welke 4 belastingen moet men in acht nemen bij afdichting van appendages? :: beweging :: chemische | chemisch :: mechanische | mechanisch | druk :: thermische | thermisch | temperatuur ::
+waaruit bestaan samengestelde dichtingen? :: metalen strip | metalen ring :: vulmateriaal | vulling ::
+welke 4 zaken moet men op letten bij het monteren van plaatpakking? :: dun :: schoon :: passen :: geen hergebruik ::
+zachte dichtingen worden uit welke 3 materialen gemaakt? :: asbest :: grafiet :: PTFE|teflon ::
+bij welke 3 omstandigheden gebruiken we slangen? :: rare hoeken | hoeken | hoek :: lengteveranderingen | lengteverandering :: regelmatig wisselen | wisselen ::
+welke 2 weefsels worden gebruikt om rubberen slangen mechanisch te versterken? :: katoen :: nylon ::
+wat wordt er aan rubberen slangen toegevoegd om extra hoge mechanische belasting aan te kunnen? staaldraad
+wat is het grote voordeel van kunststof slangen? inertie | inert
+welke 2 soorten metalen slangen zijn er? :: gevlochten :: gewikkeld ::
+Welke 3 aspecten van een flexibel moeten gecontroleerd worden voor gebruik? binnenkant buitenkant koppeling
+Waar moet men vooral op letten bij het ontkoppelen van een flexibel? de druk | druk
+welke 3 doelen kunnen kleppen en kranen hebben? :: leidingen afsluiten | afsluiten :: debiet regelen | regelen :: verdelen ::
+wanneer is een klep het sterkts onderhevig aan corrosie? in gedeeltelijk gesloten toestand | gedeeltelijk gesloten | half gesloten | gedeeltelijk geopend | half geopend
+wat probeer je te voorkomen door een klep geleidelijk te sluiten? waterslag
+waarvan worden de afdichtingen van een kogelkraan gemaakt? PTFE | teflon
+welke 2 risico's loopt men bij het gebruik van een kogelkraan als regelkraan? cavitatie & erosie | cavitatie erosie
+is een plugkraan geschikt als regelkraan? nee
+is de plugkraan outdated? ja
+is een kogelkraan geschikt als regelkraan? nee
+is een kogelkraan geschikt als afsluiter? ja
+is de kogelkraan outdated? nee
+is een schuifafsluiter geschikt als regelkraan? nee
+is een schuifafsluiter geschikt als afsluiter? ja
+is de schuifafsluiter outdated? nee
+een schuifafsluiter met een schuif uit 1 stuk gebruiken we tot hoeveel bar? 25 bar | 25
+een schuifafsluiter met een schuif uit 2 stukken gebruiken we tot hoeveel bar? 100 bar | 100
+welke 2 producten zijn gevaarlijk als ze in de schuif van een schuifafsluiter vast komen te zitten? :: chloorbleekloog :: waterstof peroxide | H₂O₂ | H2O2 ::
+waarvoor worden plaatafsluiters vooral gebruikt? poeders | korrels | poeder | korrel
+klep die maar in 1 richting op de vloeistofstroom gezet mag worden? klepafsluiter
+is een klepafsluiter geschikt als regelkraan? ja
+is een klepafsluiter geschikt als afsluiter? nee
+is de klepafsluiter outdated? nee
+Hoe heet een klep die bij wegvallen van de stuurdruk volledig dicht is? air to open | ATO | NC
+Hoe heet een klep die bij wegvallen van de stuurdruk volledig open is? air to close | ATC | NO
+welke 3 soorten klepvormen kan een klepafsluiter hebben? :: parabolic plug | parabolic :: guided plug | guided :: regulating plug | regulating ::
+wat is het grote voordeel van balgmembraanafsluiters? 100% afdichting | afdichting | afscherming | afscheiding
+is een membraanafsluiter geschikt als regelkraan? ja
+is een membraanafsluiter geschikt als afsluiter? ja
+wat zijn de 3 nadelen van de membraanafsluiter? :: lage druk | druk :: lage temperatuur | temperatuur :: slijtage | lekken ::
+welk nadeel heeft een terugslagklep met lichtende klep/kogel? drukverlies | leidingverlies
+wanneer gebruiken we een rubberen terugslagklep? onzuiver medium | onzuiver
+wat is het voordeel van een membraanterugslagklep? lage leidingweerstand | weinig drukverlies | weinig leidingverlies | leidingverlies | weinig weerstand | weerstand
+wat is het voordeel van een drukreduceerventiel met membraan? nauwkeurig | gevoelig
+wat probeert men te voorkomen door een breekplaat bolvormig te maken? metaalmoeheid
+wat voorkomt de gootvormige groef aan de rand van een breekplaat? loskomen van de breekplaat | loskomen | lekken
+waarom plaatst men een breekplaat in parallel met een drukbeveiligingsventiel? extra afvoer | overdruk beveiliging | overdruk
+waarom plaatst men een breekplaat in serie met een drukbeveiligingsventiel? bescherming drukbeveiligingsventiel | bescherming
+welke 5 zaken beinvloeden het weerstandsverlies in een leiding? :: diameter :: oppervlakteruwheid :: soortelijke massa | dichtheid :: stromingssnelheid | stroomsnelheid :: viscositeit ::
+appendages: waarmee duiden we het totale leidingverlies aan? pw
+appendages: waarmee duiden we het leidingverlies in de zuigleiding aan? pwz
+appendages: waarmee duiden we het leidingverlies in de persleiding aan? pwp
+hoe voorkomt men convectie en geleiding? droge lucht | lucht
+hoe voorkomt men straling? aluminium folie | aluminium
+welke 3 soorten isolatiematerialen hebben we? :: dierlijk :: mineralen|mineraal :: kunststoffen|kunststof ::
+Welk temperatuur bereik heeft dierlijk en plantaardig isolatie materiaal? 0 tot 100 graden | 0-100 C | 0 100 C | 0-100 | 0 100
+welke 4 soorten minerale isolatiematerialen kennen we? :: glaswol :: kieselgoer :: slakkenwol :: steenwol ::
+welke 3 soorten kunststof isolatiematerialen kennen we? :: geexpandeerd polystyreenschuim | EPS :: polystyreenschuim | XPS :: polyurethaan geextrudeerd | PUR ::
+waar moeten we voor uitkijken bij koude isolatie? ijsvorming
+welke 2 materialen kunnen er om de isolatie gewikkeld worden om ijsvorming tegen te gaan? gipsbandages kunststofbandages | gipsbandage kunststofbandage
+appendages: hoeveel meter water kolom is 1 bar? 10 meter | 10 m | 10
 
+[symbool-blindflens.png] wat geeft het symbool weer? blindflens
+[symbool-brilflens.png] wat geeft het symbool weer? brilflens
+[symbool-slang.png] wat geeft het symbool weer? slang | flexibel
+[symbool-steekflens.png] wat geeft het symbool weer? steekflens
+[symbool-plugkraan.png] wat geeft het symbool weer? plugkraan
+[symbool-kogelkraan.png] wat geeft het symbool weer? kogelkraan
+[symbool-schuifafsluiter.png] wat geeft het symbool weer? schuifafsluiter
+[symbool-3-wegafsluiter.png] wat geeft het symbool weer? driewegkraan | driewegafsluiter
+[symbool-4-wegafsluiter.png] wat geeft het symbool weer? vierwegkraan | vierwegafsluiter
+[symbool-klepafsluiter.png] wat geeft het symbool weer? klepafsluiter
+[symbool-membraanafsluiter.png] wat geeft het symbool weer? membraanafsluiter
+[symbool-knevelafsluiter.png] wat geeft het symbool weer? knevelafsluiter
+[symbool-vlinderklep.png] wat geeft het symbool weer? vlinderklep
+[symbool-terugslagklep.png] wat geeft het symbool weer? terugslagklep
+[symbool-condenspot.png] wat geeft het symbool weer? condenspot
 
+# warmte
+warmte = maat van kinetische energie van moleculen
+voelbare warmte = warmte die een temperatuursverandering tot gevolg heeft
+latente warmte = verzamelnaam voor stollings-, smeltings-, condensatie en verdampingswarmte
+verdampen = van vloeibaar naar gas vorm gaan
+condenseren = van gas naar vloeibare vorm gaan
+sublimeren = van vaste vorm naar gas vorm gaan
+rijpen = van gas vorm naar vaste vorm gaan
+smelten = van vast naar vloeibare vorm gaan
+stollen = van vloeibaar naar vaste vorm gaan
+verdampingsenthalpie = hoeveelheid warmte benodigd om 1kg vloeistof te verdampen
+warmtegeleiding | geleiding = moleculen blijven op hun plaats en geven door botsingen de inwendige energie door
+convectie = verplaatsing van warmte door het stromen van vloeistoffen of gassen
+straling | radiatie = vorm van warmte uitwisseling, die niet door moleculen gedaan wordt
+warmtestroom = hoeveelheid warmte die per tijdseenheid getransporteerd wordt
+laminaire stroming = trage stroming waarbij vloeistofdeeltjes zich evenwijdig in cilindrische schillen bewegen
+turbulente stroming = snelle stroming waarbij deeltjes onregelmatig door elkaar heen wervelen
+condenspot = warmte: afsluiter die condensaat zo snel mogelijk uit de warmtewisselaar evacueert
+pijpjes | pijpen = bij een pijpwisselaar vloeit de meest vervuilende vloeistof door de ____
+kamer = bij een pijpwisselaar vloeit de minst vervuilende vloeistof door de ____
+bakkoeler = warmtewisselaar met een bak gekoeld met koelvloeistof en een spiraalvormige buis
+spiraalwamtewisselaar | spiraalwisselaar = warmtewisselaar met twee lange platen om elkaar heen gerold
+ovenruimte | vuurhaard = ruimte in oven waarin hete verbrandingsgassen vloeistoffen en gassen verhitten
+vuurhaard = ander woord voor ovenruimte
+economizer = warmtewisselaar waarin restwarmte van verbrandingsgassen gebruikt worden om verbrandingslucht voor te verwarmen of het product verder te verhitten
+warmte generator = apparaat wat warmte ontwikkelt
+warmtehulpstoffen | warmtehulpstof | warmtetransportmiddelen | warmtetransportmiddel = hulpstoffen die warmte aan of afvoeren
+water = meest gebruikte warmtehulpstof voor warmte afvoer
 
+conductoren hebben een hogere/lagere k-waarde? hogere
+isolatoren hebben een hogere/lagere k-waarde? lagere
+laminaire stromingen hebben een goede/slechte warmtewisseling? slechte
+turbulente stromingen hebben een goede/slechte warmtewisseling? goede
+welke 4 parameters spelen een rol in de aard van een stroming? :: stromingssnelheid | stroomsnelheid :: viscositeit :: dichtheid | soortelijke massa :: diameter ::
+wat zijn de 3 soorten warmtewisseling? :: convectie :: geleiding :: straling ::
+wat is het voordeel van dunne pijpjes in een pijpwarmtewisselaar? effectiviteit | effectief | warmteoverdracht
+wat is het nadeel van dunne pijpjes in een pijpwarmtewisselaar? kan slecht tegen vervuiling | vervuiling
+welke 4 voordelen hebben plaat warmtewisselaars t.o.v. pijp warmtewisselaars? :: ruimte | volume :: reinigen | onderhoud :: warmte overdracht | overdracht | effectiviteit :: variabele oppervlakte | variabel oppervlak ::
+welke 4 nadelen hebben plaat warmtewisselaars t.o.v. pijp warmtewisselaars? :: duur :: vervuiling :: lekkage | lekken :: drukverschillen ::
+welke 2 voordelen hebben bakkoelers? :: goedkoop :: onderhoudbaar ::
+welk nadeel heeft een bakkoeler? warmte overdracht | effectiviteit
+welk voordeel hebben luchtkoelers? onderhoudsvriendelijk | onderhoudbaar | onderhoud
+welke 2 nadelen hebben luchtkoelers? :: lawaai :: corrosie ::
+wat zorgt voor warmteoverdracht in een koeltoren? verdamping
+welke 3 soorten warmtewisselaars zijn er voor koeling? :: luchtkoeler :: koeltoren :: bakkoeler ::
+welke 2 redenen zijn er om water als warmtetransportstof te gebruiken? :: goedkoop :: groote soortelijke warmte | soortelijke warmte ::
+welke 2 redenen zijn er om een gesloten koelcircuit te gebruiken? :: oppervlakte water niet verontreinigd | verontreiniging | vervuiling :: kwaliteitsbeheersing koelsysteem | kwaliteitsbeheersing | kwaliteit | controle ::
+hoeveel procent van het water verdampt in een koeltoren? 10% - 15% | 10% 15% | 10 15
+vanaf welke temperatuur is luchtkoeling erg interessant? 150°C | 150 C | 150
+welke 5 laagkokende vloeistoffen worden vaak gebruikt voor koeling? :: freon :: zwaveldioxide | SO₂ | SO2 :: etheen :: chloormethaan :: ammoniak | NH₃ | NH3 ::
+wat zijn de 3 meest gebruikte circulerende hulpvloeistoffen? :: NaCl :: CaCl₂ | CaCl2 :: glycol en spiritus oplossing | glycol spiritus | spiritus glycol ::
+vanaf welke temperatuur gebruiken we geen stoom meer voor verwarming? 200°C | 200 C | 200
+vanaf welke temperatuur stappen we over op rookgassen voor verwarming? 500°C | 500 C | 500
 
-
-
-
-
+[koeler-bak.png]              welke warmtewisselaar is dit? bakkoeler
+[koeler-lucht.png]            welke warmtewisselaar is dit? luchtkoeler
+[koeler-toren.png]            welke warmtewisselaar is dit? koeltoren
+[warmtewisselaar-mantel.png]  welke warmtewisselaar is dit? mantel warmtewisselaar
+[warmtewisselaar-pijpjes.png] welke warmtewisselaar is dit? pijpen warmtewisselaar
+[warmtewisselaar-platen.png]  welke warmtewisselaar is dit? platen warmtewisselaar
+[warmtewisselaar-spiraal.png] welke warmtewisselaar is dit? spiraal warmtewisselaar
+[pijpjes-chineseruit.png]     hoe zijn deze pijpjes georganiseerd? chinese ruit
+[pijpjes-inline.png]          hoe zijn deze pijpjes georganiseerd? inline
 
 
 

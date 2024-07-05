@@ -12,7 +12,8 @@
 	table{margin:0px;}
 	td{padding:5px;}
 	input { background-color: #888; margin: 5px 0px; }
-	img { display:block; }
+	img { display:block; margin: 10px 0px; }
+	sub { font-size: 0.6em; }
 
 	*{font-size: 32px;}
 

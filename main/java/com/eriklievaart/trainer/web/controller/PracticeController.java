@@ -36,7 +36,7 @@ public class PracticeController extends AbstractTemplateController {
 			} else if (query.isValidAnswer(answer)) {
 				state.correct();
 			} else {
-				state.incorrect();
+				state.incorrect(SessionAttributes.getMinimumDelay(session));
 				model.put("previous", query);
 				model.put("answer", answer);
 			}

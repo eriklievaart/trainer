@@ -8,6 +8,8 @@ jl-freemarker @local @snapshot
 osgi-appender @local @snapshot
 osgi-status @local @snapshot
 osgi-toolkit @local @snapshot
+tiqqer-agent @local @snapshot
+tiqqer-web @local @snapshot
 toolkit-ant @local @snapshot
 toolkit-bean @local @snapshot
 toolkit-convert @local @snapshot
